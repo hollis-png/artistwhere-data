@@ -1,0 +1,18 @@
+{
+  "id": "artist_383dec9b-b173-4406-a992-29cf41e7a309",
+  "name": "愛の枷",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/inokase",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "artist_fa7ba596-e6ba-410c-bcb5-eb35490224e3",
+  "name": "左岸喵喵館",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Arva_1500",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/share/15MzsgDaLr/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/27299567",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

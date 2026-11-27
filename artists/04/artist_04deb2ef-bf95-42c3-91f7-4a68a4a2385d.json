@@ -1,0 +1,15 @@
+{
+  "id": "artist_04deb2ef-bf95-42c3-91f7-4a68a4a2385d",
+  "name": "白色木馬號工作室",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/whitebasetw/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

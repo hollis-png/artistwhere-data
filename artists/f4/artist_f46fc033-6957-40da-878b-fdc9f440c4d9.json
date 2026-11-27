@@ -1,0 +1,30 @@
+{
+  "id": "artist_f46fc033-6957-40da-878b-fdc9f440c4d9",
+  "name": "憂瀰*yuumi",
+  "types": [],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100085679139644",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yuumi_nekone",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/70878627",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yuumi_nekone",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "artist_b50d136c-b26c-43f1-83e9-87ea90fd3902",
+  "name": "綾瀨水音",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/AyaseMio",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/39660790",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ayasemio",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "artist_5bc0ff96-0016-4e98-aba6-52fc0519f80f",
+  "name": "米茲米茲",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Phoenix1237",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/mizumizu2014/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1730300",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/phoenix0",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

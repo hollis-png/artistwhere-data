@@ -1,0 +1,22 @@
+{
+  "id": "artist_5f8cb8e5-7db5-4ac8-be81-9d4eaee71b80",
+  "name": "奇幻魔法米露底",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/_magic_mero_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mero_mero_codi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

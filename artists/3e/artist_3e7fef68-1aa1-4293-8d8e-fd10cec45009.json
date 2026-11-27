@@ -1,0 +1,23 @@
+{
+  "id": "artist_3e7fef68-1aa1-4293-8d8e-fd10cec45009",
+  "name": "杏福委員會",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/NyanyaMaru2021",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/VT45241171",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

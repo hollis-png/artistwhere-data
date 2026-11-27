@@ -1,0 +1,32 @@
+{
+  "id": "artist_6c8514d2-4820-4bc2-bb18-7b5608bea27c",
+  "name": "霧月社",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/kiri-kiri.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61573821365566",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/112044531",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kirikiri890111",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

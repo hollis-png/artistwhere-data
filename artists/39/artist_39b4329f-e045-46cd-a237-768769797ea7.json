@@ -1,0 +1,17 @@
+{
+  "id": "artist_39b4329f-e045-46cd-a237-768769797ea7",
+  "name": "盒子裡的猫咪",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://store.steampowered.com/app/1257410/Cat_in_the_Box/?l=tchinese&curator_clanid=31716674",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

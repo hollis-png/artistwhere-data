@@ -1,0 +1,18 @@
+{
+  "id": "artist_1320962c-e431-463d-9f9c-e5078ddfbc7e",
+  "name": "LMLive",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/LMLive_TW",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "artist_fc721e08-4207-4155-a24d-9326e0776fed",
+  "name": "Azure鳥紙狂想",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/azureartofbirds",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/azure_rhapsody_of_birds/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/AzureFlame",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

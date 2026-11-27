@@ -1,0 +1,32 @@
+{
+  "id": "artist_0015631a-0f83-4e13-b6de-342d8e67d6ee",
+  "name": "in起FAFA",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.threads.com/@rui_neu",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/rui_neu",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@Rui_neu",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rui_neu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

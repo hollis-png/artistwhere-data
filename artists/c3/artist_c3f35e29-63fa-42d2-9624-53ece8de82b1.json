@@ -1,0 +1,31 @@
+{
+  "id": "artist_c3f35e29-63fa-42d2-9624-53ece8de82b1",
+  "name": "6U☆",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/6u_s",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/94883",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/eland_6U",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

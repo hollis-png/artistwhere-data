@@ -1,0 +1,22 @@
+{
+  "id": "artist_ee9fc5b0-7daf-413b-b6a5-ae0d4f6cde9e",
+  "name": "原爆點計畫",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://space.bilibili.com/3546577964632519/",
+      "platform": "Bilibili",
+      "status": "alive"
+    },
+    {
+      "url": "https://weibo.com/u/6139776919",
+      "platform": "Weibo",
+      "status": "alive"
+    }
+  ]
+}

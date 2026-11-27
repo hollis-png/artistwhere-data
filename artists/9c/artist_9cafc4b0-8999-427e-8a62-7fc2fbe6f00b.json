@@ -1,0 +1,17 @@
+{
+  "id": "artist_9cafc4b0-8999-427e-8a62-7fc2fbe6f00b",
+  "name": "モ誰",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/itsrealhaneame",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

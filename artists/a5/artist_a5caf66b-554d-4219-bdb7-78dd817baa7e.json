@@ -1,0 +1,35 @@
+{
+  "id": "artist_a5caf66b-554d-4219-bdb7-78dd817baa7e",
+  "name": "加護 人生靈基三",
+  "types": [],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=htpxr0337",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://htpxr0337.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Kago_lll",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/26391633",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/KAGOSAKAYA",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

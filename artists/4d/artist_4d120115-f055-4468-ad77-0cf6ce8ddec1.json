@@ -1,0 +1,25 @@
+{
+  "id": "artist_4d120115-f055-4468-ad77-0cf6ce8ddec1",
+  "name": "轉子少女",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/tkgksouma",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/19562638",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/takagaki88",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

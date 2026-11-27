@@ -1,0 +1,39 @@
+{
+  "id": "artist_871a9d1c-139f-4b91-82b3-25037be8fa09",
+  "name": "SAEU",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ebimon00",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/saeu.haha/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/15467960",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@saeu.haha",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/saeuhaha",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "artist_e81542a2-e7c0-4136-b74b-6adb21a9ded1",
+  "name": "Rosuuri",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/rosuuri.com",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/TfJx62WYZ3",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Rosuuri",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rosuuri/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/en/users/2993192",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.rosuuri.com/info",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rosuuri",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

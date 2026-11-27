@@ -1,0 +1,28 @@
+{
+  "id": "artist_a7e6f097-cf27-4677-8263-ab7742d161ad",
+  "name": "慢慢鳥",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/slowlybirdie",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://shopee.tw/weli96",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/slowlybirdie/",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "慢慢鳥"
+    }
+  ]
+}

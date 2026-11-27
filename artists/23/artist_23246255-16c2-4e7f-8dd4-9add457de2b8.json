@@ -1,0 +1,31 @@
+{
+  "id": "artist_23246255-16c2-4e7f-8dd4-9add457de2b8",
+  "name": "俺企鵝",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Ayaa2lu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3749",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Ayaa2lu",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

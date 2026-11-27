@@ -1,0 +1,27 @@
+{
+  "id": "artist_0d813ce2-b725-45fa-9d52-938563f878a5",
+  "name": "銀河菓子店",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/tooruruuu",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/tooruruuu",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tooruruuu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

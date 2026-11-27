@@ -1,0 +1,37 @@
+{
+  "id": "artist_8a0cd11f-d6c9-4d35-95b7-af323942b511",
+  "name": "禿子老二",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=ga2006473651",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/huhuweiche2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100070306231300",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1637494",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/THK_Hong",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

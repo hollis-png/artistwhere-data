@@ -1,0 +1,24 @@
+{
+  "id": "artist_14905de2-911c-4b18-9efc-aee6dc454ecb",
+  "name": "芋泥啵啵鮮奶綠",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/xiao.yue.satsuki/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/_.satuski._/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

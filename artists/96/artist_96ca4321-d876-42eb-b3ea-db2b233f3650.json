@@ -1,0 +1,35 @@
+{
+  "id": "artist_96ca4321-d876-42eb-b3ea-db2b233f3650",
+  "name": "葛西的腐敗西瓜園",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/arth58862186",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.pixiv.net/users/834211",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/arth58862186",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/HungKasai",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

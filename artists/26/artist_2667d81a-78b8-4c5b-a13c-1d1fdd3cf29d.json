@@ -1,0 +1,17 @@
+{
+  "id": "artist_2667d81a-78b8-4c5b-a13c-1d1fdd3cf29d",
+  "name": "東京事変",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100000481060411",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

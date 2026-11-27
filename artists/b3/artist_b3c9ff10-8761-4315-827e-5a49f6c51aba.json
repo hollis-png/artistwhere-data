@@ -1,0 +1,38 @@
+{
+  "id": "artist_b3c9ff10-8761-4315-827e-5a49f6c51aba",
+  "name": "Vivi林芝衣",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/vivi0z1/?ref=_xav_ig_profile_page_web",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/vivi0z1/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/vivi0z1",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@vivi0z1",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/vivi0z1",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "artist_6127156f-d899-498f-9963-a4b64d687eb7",
+  "name": "悠栽, 雞塊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100012215584214",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/u00u11u22",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/wwemndyyyy",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

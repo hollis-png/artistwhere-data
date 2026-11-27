@@ -1,0 +1,68 @@
+{
+  "id": "artist_11a17041-6913-4934-a177-4c96db4d962e",
+  "name": "長切",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/nagadrawdraw.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://buymeacoffee.com/nagadrawdraw",
+      "platform": "Buy Me a Coffee",
+      "status": "alive"
+    },
+    {
+      "url": "https://cxc.today/zh/@nagaaaaa12/work",
+      "platform": "CXC",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/521055",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/nagadrawdraw",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/nagadrawdraw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nagadrawdraw/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.nagadrawdraw.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/117352552",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/nagaaaaa12",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@nagadrawdraw",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

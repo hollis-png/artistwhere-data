@@ -1,0 +1,23 @@
+{
+  "id": "artist_f6a7b75a-84ee-4732-be7a-27167a7cb040",
+  "name": "Kabedoru(代理)",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/27527728",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kabedoru",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

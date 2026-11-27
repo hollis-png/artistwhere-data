@@ -1,0 +1,22 @@
+{
+  "id": "artist_ef833aa4-e0e9-4917-aa01-35f52e94404e",
+  "name": "Meikoです",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/meikoHuang0722/?locale=ja_JP",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

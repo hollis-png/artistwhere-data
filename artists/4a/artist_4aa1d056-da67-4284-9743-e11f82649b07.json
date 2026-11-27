@@ -1,0 +1,35 @@
+{
+  "id": "artist_4aa1d056-da67-4284-9743-e11f82649b07",
+  "name": "巨龍棲息地",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/ponpontw.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/tw_ponpon",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ponponnnnn",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/18zTTLeqRM/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

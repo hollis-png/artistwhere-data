@@ -1,0 +1,23 @@
+{
+  "id": "artist_5507ebcd-e602-4962-a1ef-d223cd84afb7",
+  "name": "MILK牛奶至上",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/milksanachen",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/milkpudding",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

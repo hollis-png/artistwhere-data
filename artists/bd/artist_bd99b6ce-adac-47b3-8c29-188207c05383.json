@@ -1,0 +1,17 @@
+{
+  "id": "artist_bd99b6ce-adac-47b3-8c29-188207c05383",
+  "name": "豆花大王",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/Elichi",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

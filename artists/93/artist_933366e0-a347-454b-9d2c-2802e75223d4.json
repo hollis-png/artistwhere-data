@@ -1,0 +1,61 @@
+{
+  "id": "artist_933366e0-a347-454b-9d2c-2802e75223d4",
+  "name": "星夢亭",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/vFgpJuZbWJ",
+      "platform": "Discord",
+      "status": "dead"
+    },
+    {
+      "url": "https://instagram.com/staryume",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://staryu.me/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://staryume.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/staryume",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/staryume/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/36396",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/staryume",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCb8q-BFwsQspVj4z1vEUL1Q",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

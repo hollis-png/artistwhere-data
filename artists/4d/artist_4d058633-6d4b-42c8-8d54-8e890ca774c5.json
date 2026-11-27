@@ -1,0 +1,47 @@
+{
+  "id": "artist_4d058633-6d4b-42c8-8d54-8e890ca774c5",
+  "name": "Id_Han",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/59F9AA9E-A27B-4A87-AADD-A60E7D2163CB/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61557215132637",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/1AZNPFZcHE/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/idhanpaint",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/27736106",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/IdHanPaint",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "artist_67c3c92d-1096-45d5-ab74-0ae40f5c74f0",
+  "name": "OBAN KOBAN",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/obankoban",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61564122094792",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/obankoban_art/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/obankoban_art",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

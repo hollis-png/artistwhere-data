@@ -1,0 +1,47 @@
+{
+  "id": "artist_5898d306-db03-40b7-957a-bc9c3e956c14",
+  "name": "大概是…夭謬?",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/mumu1122",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://mumu1122.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/MU1122MU",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.doujin.com.tw/authors/info/ilove446",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/454245",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/mulove446",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

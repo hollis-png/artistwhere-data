@@ -1,0 +1,40 @@
+{
+  "id": "artist_3cb1fb96-60bd-44b9-a7a6-97a3883dff91",
+  "name": "呱心惡魔",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/sakasakura_",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/sakasakura_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sakasakura.cos",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/18e7im82pB/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sakasakura_/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

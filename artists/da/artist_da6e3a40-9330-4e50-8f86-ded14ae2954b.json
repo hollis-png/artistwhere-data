@@ -1,0 +1,24 @@
+{
+  "id": "artist_da6e3a40-9330-4e50-8f86-ded14ae2954b",
+  "name": "色彩不耐症",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61553600106870",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/12540373",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

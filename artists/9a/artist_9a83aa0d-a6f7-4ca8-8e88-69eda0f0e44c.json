@@ -1,0 +1,30 @@
+{
+  "id": "artist_9a83aa0d-a6f7-4ca8-8e88-69eda0f0e44c",
+  "name": "丹下拳闘倶楽部",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/shikishi-staff",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.fanbox.cc/@yokota-mamoru/posts/3386176",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/667394?_gl=1*c3eykf*_ga*NTk4NTk0MzczLjE3NjA2MTk5Njg.*_ga_D9TLP3EFER*czE3NjQ3Njc0MjAkbzYkZzAkdDE3NjQ3Njc0MjAkajYwJGwwJGgw",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yokotamamoru",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

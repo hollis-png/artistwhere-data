@@ -1,0 +1,17 @@
+{
+  "id": "artist_9ae79e13-cce6-43ad-bf78-4fc18e7efb6b",
+  "name": "獸獸的玩具？ fur.shop",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E7%8D%B8%E7%8D%B8%E7%9A%84%E7%8E%A9%E5%85%B7-furshop-100090486218038/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

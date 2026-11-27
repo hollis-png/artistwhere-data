@@ -1,0 +1,42 @@
+{
+  "id": "artist_9ca2af32-f4c8-44d5-8c9d-f8e9444f4e85",
+  "name": "U235核燃動力",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/miomiao",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://space.bilibili.com/14424458",
+      "platform": "Bilibili",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/217707",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kieta_c7",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/miomio1568315",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

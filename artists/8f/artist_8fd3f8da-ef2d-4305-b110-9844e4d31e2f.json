@@ -1,0 +1,43 @@
+{
+  "id": "artist_8fd3f8da-ef2d-4305-b110-9844e4d31e2f",
+  "name": "塞耶KsanaSeiei",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=smith3a",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Setsu4f",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/53463739",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Ksanaseiei",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@setsu4f",
+      "platform": "YouTube",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/Setsu4f",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

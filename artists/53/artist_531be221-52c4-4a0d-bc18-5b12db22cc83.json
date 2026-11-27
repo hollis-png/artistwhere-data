@@ -1,0 +1,24 @@
+{
+  "id": "artist_531be221-52c4-4a0d-bc18-5b12db22cc83",
+  "name": "Birdink",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/koriyangart/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/birdink.koriyangart/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

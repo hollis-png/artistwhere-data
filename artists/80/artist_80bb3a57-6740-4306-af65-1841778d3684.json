@@ -1,0 +1,75 @@
+{
+  "id": "artist_80bb3a57-6740-4306-af65-1841778d3684",
+  "name": "狛荷屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/zimin183.bsky.social",
+      "platform": "Bluesky",
+      "status": "dead"
+    },
+    {
+      "url": "https://discord.com/invite/caFnhAszXF",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/creation.php?owner=school913102",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/zimin183",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/zimin.183/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/zimin.zheng.5/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.patreon.com/zimin183",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8078030",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/zmzimin",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/zimin183610",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ziminmika183",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://zimin.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    }
+  ]
+}

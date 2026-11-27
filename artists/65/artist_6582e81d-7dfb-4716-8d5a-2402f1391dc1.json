@@ -1,0 +1,47 @@
+{
+  "id": "artist_6582e81d-7dfb-4716-8d5a-2402f1391dc1",
+  "name": "惰性液態",
+  "types": [
+    "artist",
+    "coser",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/InertLiquid",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/InertLiquid/posts/1592052339590380/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1974280",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Hi_ye",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/hiye814334",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Hi_ye",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

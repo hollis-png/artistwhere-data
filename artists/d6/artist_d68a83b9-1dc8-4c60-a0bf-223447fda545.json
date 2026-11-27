@@ -1,0 +1,28 @@
+{
+  "id": "artist_d68a83b9-1dc8-4c60-a0bf-223447fda545",
+  "name": "Arrow Workshop",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E4%BA%9E%E7%BE%85%E8%90%AC%E8%B1%A1-Arrow-Workshop-61582790835698/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/lookcatwo/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/cw/aasaku7571",
+      "platform": "Patreon",
+      "status": "alive"
+    }
+  ]
+}

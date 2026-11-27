@@ -1,0 +1,23 @@
+{
+  "id": "artist_c3b4c626-1a2b-45b9-bcf9-97929c3240cd",
+  "name": "丫鴨",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/Master_ya1122",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/whale30504",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

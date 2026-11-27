@@ -1,0 +1,60 @@
+{
+  "id": "artist_51aa6547-267b-4d1f-9f8b-16ea521dee8f",
+  "name": "風林火山 Naturefour",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/naturefour",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=naturefour",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://naturefour.booth.pm",
+      "platform": "Booth",
+      "status": "alive"
+    },
+    {
+      "url": "https://naturefourstore.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/naturefour",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/naturefour",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/naturefour.hk/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/523251",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/sakiland",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

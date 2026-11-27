@@ -1,0 +1,17 @@
+{
+  "id": "artist_ebd8d83d-4eb3-4774-a6f2-13fa36b186ec",
+  "name": "莫名其妙",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/mio.mio.647739",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

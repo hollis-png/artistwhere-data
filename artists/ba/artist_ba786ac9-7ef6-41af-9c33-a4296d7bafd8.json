@@ -1,0 +1,22 @@
+{
+  "id": "artist_ba786ac9-7ef6-41af-9c33-a4296d7bafd8",
+  "name": "頸椎骨折實驗記錄報告",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/natsukijia",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/g0987655",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "artist_f6e51d09-0625-487a-9328-0987b93ebb1c",
+  "name": "兔兔蟲cosplay",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E5%85%94%E5%85%94%E8%9F%B2-Bunny-Bug-cosplay-100075914348998/?paipv=0&eav=AfZlacHA5ULLre4nouQutgaMddJyveGdvYfPML0qRxyoMyYKL3oHo9OMmxm0878tKvk&_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rabbit0319_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Bunnycos_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

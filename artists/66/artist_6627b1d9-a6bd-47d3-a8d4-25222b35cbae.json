@@ -1,0 +1,23 @@
+{
+  "id": "artist_6627b1d9-a6bd-47d3-a8d4-25222b35cbae",
+  "name": "北科大ACGM研究社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ntutacgm/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ntut_acgm/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

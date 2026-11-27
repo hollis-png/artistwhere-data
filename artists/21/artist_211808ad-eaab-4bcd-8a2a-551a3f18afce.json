@@ -1,0 +1,23 @@
+{
+  "id": "artist_211808ad-eaab-4bcd-8a2a-551a3f18afce",
+  "name": "亞織Aori",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/aori0729/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/aori_0729/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

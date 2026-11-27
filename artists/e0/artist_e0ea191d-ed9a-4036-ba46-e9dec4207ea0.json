@@ -1,0 +1,25 @@
+{
+  "id": "artist_e0ea191d-ed9a-4036-ba46-e9dec4207ea0",
+  "name": "Ani スレミオ結婚啦吧嗯",
+  "types": [],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/5114648",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/digiubb",
+      "platform": "Plurk",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/AniLu199077",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

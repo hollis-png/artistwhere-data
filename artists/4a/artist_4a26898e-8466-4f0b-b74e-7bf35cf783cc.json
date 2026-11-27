@@ -1,0 +1,27 @@
+{
+  "id": "artist_4a26898e-8466-4f0b-b74e-7bf35cf783cc",
+  "name": "ㄒㄒ不是TT",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/tt1219_",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/tt1219",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tt1219__",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

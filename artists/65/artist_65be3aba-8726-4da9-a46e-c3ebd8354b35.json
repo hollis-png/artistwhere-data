@@ -1,0 +1,39 @@
+{
+  "id": "artist_65be3aba-8726-4da9-a46e-c3ebd8354b35",
+  "name": "ANGEL X ANGEL",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://movw2000.gumroad.com/?sort=page_layout",
+      "platform": "Gumroad",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/angelseries2017/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/movw3488",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/847863",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/movw2000",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

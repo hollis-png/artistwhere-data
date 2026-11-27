@@ -1,0 +1,35 @@
+{
+  "id": "artist_6729285a-a8b2-4937-96d4-711caf2e0bad",
+  "name": "離海的繆可",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/r8xwdGx7yk",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/meowxia",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/meowxia_002",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/darkness.chiya/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/meowxia_002/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

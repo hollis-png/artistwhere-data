@@ -1,0 +1,28 @@
+{
+  "id": "artist_caf8e6cb-a9d8-4673-879b-95314f4021a0",
+  "name": "MR.J.W",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/MRJW-100063588196913/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mr.jason.wong/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4168140",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

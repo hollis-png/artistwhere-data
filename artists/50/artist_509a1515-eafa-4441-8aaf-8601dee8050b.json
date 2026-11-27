@@ -1,0 +1,23 @@
+{
+  "id": "artist_509a1515-eafa-4441-8aaf-8601dee8050b",
+  "name": "月月子不在家",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/christin1007",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ayueartwork",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

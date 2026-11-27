@@ -1,0 +1,27 @@
+{
+  "id": "artist_04072298-2ecc-41fc-ad11-6d744a25c60a",
+  "name": "上上下下左左右右ABAB",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/fishouo",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/fish.maouou_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/fishbk121700",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

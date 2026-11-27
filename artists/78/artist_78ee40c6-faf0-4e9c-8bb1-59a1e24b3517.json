@@ -1,0 +1,27 @@
+{
+  "id": "artist_78ee40c6-faf0-4e9c-8bb1-59a1e24b3517",
+  "name": "=+惰性氣體+Liya璃犽+",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/TCtrmx3mdt",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.twitch.tv/caio_zcm/about",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/caio.only/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

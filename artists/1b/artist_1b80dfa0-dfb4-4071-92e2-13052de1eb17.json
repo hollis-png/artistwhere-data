@@ -1,0 +1,55 @@
+{
+  "id": "artist_1b80dfa0-dfb4-4071-92e2-13052de1eb17",
+  "name": "女巫之骰",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=coasta97929",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://line.me/R/ti/p/@768cqfdo",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/witchroll",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://witch-roll.gogoshopapp.com/closed",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/WitchRoll/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/witch_roll/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/witchroll",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Witch_Roll",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

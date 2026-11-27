@@ -1,0 +1,48 @@
+{
+  "id": "artist_43bf622b-f3c9-44d9-b110-e6d5e1ab0032",
+  "name": "アメアカリ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/gorou0907.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://gorou0907.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://misskey.io/@gorou_0907",
+      "platform": "Mastodon",
+      "status": "alive"
+    },
+    {
+      "url": "https://potofu.me/gorou0907",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/gorou_0907",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCnCrQHAKVK7E0IbP0H6_HfA",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/gorou_0907",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

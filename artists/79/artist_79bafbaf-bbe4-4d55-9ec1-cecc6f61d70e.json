@@ -1,0 +1,44 @@
+{
+  "id": "artist_79bafbaf-bbe4-4d55-9ec1-cecc6f61d70e",
+  "name": "小波啦",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/polawork",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/polaart1021",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/eason.hor/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/polahooo",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/polaart1021/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/26489227",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

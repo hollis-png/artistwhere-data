@@ -1,0 +1,40 @@
+{
+  "id": "artist_f7ff13c8-5799-4722-8899-9c7a7e8bd78e",
+  "name": "企鵝w",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/Penguin_w",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/jasminum.sambac_0905",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Penguin.w.1205",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/24182395",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/penguin_w1205",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Penguin_w1205",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "artist_4dae7ba7-a8b5-4a01-8d73-1be65988ea9e",
+  "name": "小貓_Neko",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/nekoqq_meow",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

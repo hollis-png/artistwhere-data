@@ -1,0 +1,67 @@
+{
+  "id": "artist_48999899-d7b8-4883-b13f-7e15457bc8d6",
+  "name": "Hong, Reina",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/hongbsws.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/creation.php?owner=bswsreina",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://hongbsws.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/hongbsws",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/HongBsWs",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Reina.BsWs/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/bsws.ig",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/HongBsWs",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/306422",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Reina_BsWs",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

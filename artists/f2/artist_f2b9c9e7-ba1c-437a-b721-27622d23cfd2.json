@@ -1,0 +1,62 @@
+{
+  "id": "artist_f2b9c9e7-ba1c-437a-b721-27622d23cfd2",
+  "name": "Kakela＊Hane",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://anna1206.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=x20285129463",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/kakelahane",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.doujin.com.tw/groups/info/301",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.doujin.com.tw/groups/info/301/books",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/crescentrpg",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/130351",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/hane_anna",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x20285.web.fc2.com/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

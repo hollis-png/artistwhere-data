@@ -1,0 +1,35 @@
+{
+  "id": "artist_3beb3b10-2928-497c-ace2-c8f625dc57f4",
+  "name": "DiceBomb",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/CasinoEP",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/CasinoEP",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/468133",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/fgimt123321",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

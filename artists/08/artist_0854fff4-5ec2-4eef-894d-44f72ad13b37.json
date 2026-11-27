@@ -1,0 +1,24 @@
+{
+  "id": "artist_0854fff4-5ec2-4eef-894d-44f72ad13b37",
+  "name": "白い狐の住む社",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/112713516",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shirorokitsune/highlights",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

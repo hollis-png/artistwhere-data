@@ -1,0 +1,17 @@
+{
+  "id": "artist_8b9e1e2e-0629-42ed-9465-a6f63b247202",
+  "name": "小倉電子",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/channel/UCPSGUbOwmfU2EJp9YW2IMFQ",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

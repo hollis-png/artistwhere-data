@@ -1,0 +1,22 @@
+{
+  "id": "artist_5bd8d509-3d52-4d57-bbc3-7abc0b41e853",
+  "name": "恐龍園",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/cecilia20230707/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kesumi_art_21/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

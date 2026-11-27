@@ -1,0 +1,32 @@
+{
+  "id": "artist_5647c7e3-f93e-4149-9e63-f910e6ea4795",
+  "name": "有百合人生就不是灰的",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/people/Gray-Gray/pfbid033cpGyJyUyYqv6mKTNRP9E1UNJHy13b73Cu7htQMVsh6VCLo16rJdWYngoWWpPhtpl/?rdid=wywbyzt4wY0B2g5m&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19QDMkcbnD%2F%3Fmibextid%3DwwXIfr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/16536677",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/gray021217",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/gray170220",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

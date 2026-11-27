@@ -1,0 +1,17 @@
+{
+  "id": "artist_7598aa98-1a70-461e-bb10-6b554bde7daf",
+  "name": "蘿蔔燉羊肉",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/people/%E8%98%BF%E8%94%94%E7%87%89%E7%BE%8A%E8%82%89/61574794595078/#",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

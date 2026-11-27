@@ -1,0 +1,33 @@
+{
+  "id": "artist_f3ca293f-fb1b-459b-85c5-3841960266bb",
+  "name": "果糖工坊",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=sacredness",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://indie-guider.games/team/id/jyenyllu/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ANCIENT.GRACE/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/iightningdance",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

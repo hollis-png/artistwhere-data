@@ -1,0 +1,37 @@
+{
+  "id": "artist_8bca97bb-90fc-4006-81f8-0aa3877df398",
+  "name": "160 is my name",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/k5KvbXzAW6",
+      "platform": "Discord",
+      "status": "dead"
+    },
+    {
+      "url": "https://linktr.ee/160ismyname?ltsid=6ddcb603-f5a1-4d6c-9279-29c5f7396a38",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/160ismyname",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/160_is_my_name",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC_FYdxOW0CQULIJWB17n6lA",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

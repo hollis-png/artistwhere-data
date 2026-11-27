@@ -1,0 +1,33 @@
+{
+  "id": "artist_b9ce0d10-db92-468a-a40e-8167637c0af5",
+  "name": "RIN",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61556136043456",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/51399868",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Rin0214tw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

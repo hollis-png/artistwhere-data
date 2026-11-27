@@ -1,0 +1,20 @@
+{
+  "id": "artist_f028d8b9-6bce-4ed7-82f1-5c257f78c1b3",
+  "name": "OPERATION・BOX",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://shidumi.wixsite.com/tsurugi",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tsurugishidumi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "artist_e7b10b49-23b1-4172-86ba-c76e7f113f0b",
+  "name": "あやみ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://ayamy.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ayamy_garubinu/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/14112962",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@ayamy0610",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ayamy_garubinu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ayamy_pure",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

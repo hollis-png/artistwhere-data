@@ -1,0 +1,28 @@
+{
+  "id": "artist_0c0b74de-0310-4dd1-a8a4-a3e9ed0aef1d",
+  "name": "saumonière栗子鮭魚屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100070828673396",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/78882575",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ririge_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

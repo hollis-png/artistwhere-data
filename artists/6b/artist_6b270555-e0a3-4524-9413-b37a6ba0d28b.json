@@ -1,0 +1,17 @@
+{
+  "id": "artist_6b270555-e0a3-4524-9413-b37a6ba0d28b",
+  "name": "星之八刻",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61569278166502",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "artist_0141650d-8de9-4795-a225-de802f6d75d9",
+  "name": "karory",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://karory.net/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18095070",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/karory",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

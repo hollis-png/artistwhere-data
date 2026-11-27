@@ -1,0 +1,29 @@
+{
+  "id": "artist_15d94715-6c7a-44e0-91fa-9a059a47ff85",
+  "name": "Cigar Cat",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/481486",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Cigar_cat",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Cigar_cat_art",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

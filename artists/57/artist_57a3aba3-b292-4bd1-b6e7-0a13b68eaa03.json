@@ -1,0 +1,25 @@
+{
+  "id": "artist_57a3aba3-b292-4bd1-b6e7-0a13b68eaa03",
+  "name": "Naki",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/naki.cosplayer/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/nak_iii",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Nak_iii",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

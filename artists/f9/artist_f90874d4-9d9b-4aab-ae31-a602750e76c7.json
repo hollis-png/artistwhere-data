@@ -1,0 +1,30 @@
+{
+  "id": "artist_f90874d4-9d9b-4aab-ae31-a602750e76c7",
+  "name": "白色花園",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Rain76418135",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100070178769269",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/23572385",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

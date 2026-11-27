@@ -1,0 +1,30 @@
+{
+  "id": "artist_6b5908c6-e526-45be-bbea-f14a50d547ca",
+  "name": "小撿存檔點",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/xiao.jen.3304",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3109265",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yeeeeeeejen",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

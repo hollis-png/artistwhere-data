@@ -1,0 +1,46 @@
+{
+  "id": "artist_cfd8dd48-e046-4442-9213-f8f7dec51f1a",
+  "name": "なつめえり、えれっと",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://natsumeeri.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twpf.jp/erisize",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/276310",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/natsumeeri",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCwUNuXd6rN08SQFzlIH4Ozg",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/erisize",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

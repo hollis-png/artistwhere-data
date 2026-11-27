@@ -1,0 +1,17 @@
+{
+  "id": "artist_f3710f94-8f01-42ae-9579-4e32fbe08d15",
+  "name": "豚Pig Gnu",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100007980431381",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

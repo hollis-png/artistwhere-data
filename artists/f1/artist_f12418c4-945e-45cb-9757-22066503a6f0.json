@@ -1,0 +1,39 @@
+{
+  "id": "artist_f12418c4-945e-45cb-9757-22066503a6f0",
+  "name": "春の屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=ztex0123",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/NyaHaruru",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7030656",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ztex0123",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Nya_Haruru",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "artist_d2050d14-6932-4898-9982-1dab7e9e3c6c",
+  "name": "火火KaKa",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/ka______f/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kaka_pig_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

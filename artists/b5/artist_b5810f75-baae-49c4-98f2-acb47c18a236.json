@@ -1,0 +1,37 @@
+{
+  "id": "artist_b5810f75-baae-49c4-98f2-acb47c18a236",
+  "name": "幻影方舟",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "http://twitter.com/illustratorKou",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "http://www.youtube.com/@phantomark",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://akehi.weebly.com",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://kouen.fanbox.cc",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/17836838",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

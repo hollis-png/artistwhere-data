@@ -1,0 +1,28 @@
+{
+  "id": "artist_97ce408e-765a-4aef-956b-f8ddbefc95ab",
+  "name": "LemonQOQ畫不完 想睡覺",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61556534483800",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/54945872",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/lemonqoq",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

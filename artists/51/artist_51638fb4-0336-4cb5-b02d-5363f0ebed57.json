@@ -1,0 +1,45 @@
+{
+  "id": "artist_51638fb4-0336-4cb5-b02d-5363f0ebed57",
+  "name": "Ekoru(代理)",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/ek0ru.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/ek0ru",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://plurk.com/ek0ru",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://poipiku.com/7712713/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/62988244",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ek0ru",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

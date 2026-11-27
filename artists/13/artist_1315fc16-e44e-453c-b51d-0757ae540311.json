@@ -1,0 +1,30 @@
+{
+  "id": "artist_1315fc16-e44e-453c-b51d-0757ae540311",
+  "name": "闇光社",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/e.kanochi",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/15433523",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/e_kanochi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

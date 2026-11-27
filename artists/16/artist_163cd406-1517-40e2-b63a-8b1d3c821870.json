@@ -1,0 +1,25 @@
+{
+  "id": "artist_163cd406-1517-40e2-b63a-8b1d3c821870",
+  "name": "阿熊是一隻熊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/rrrrxiong",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yan_xiong0722",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

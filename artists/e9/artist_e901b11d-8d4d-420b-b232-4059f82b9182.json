@@ -1,0 +1,45 @@
+{
+  "id": "artist_e901b11d-8d4d-420b-b232-4059f82b9182",
+  "name": "伊登登得冷登",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/CGcm6yt2P6",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?&owner=edenfox1225",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/edenfox",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/itsedenfox/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/eden871225",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/itsedenfox",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/@itsedenfox",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

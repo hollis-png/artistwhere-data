@@ -1,0 +1,15 @@
+{
+  "id": "artist_86e78102-7985-4202-b7a6-4a25e5921280",
+  "name": "花遊工作室",
+  "types": [],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/huayuworkshop/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

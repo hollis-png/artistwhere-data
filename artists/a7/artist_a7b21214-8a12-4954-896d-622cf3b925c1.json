@@ -1,0 +1,102 @@
+{
+  "id": "artist_a7b21214-8a12-4954-896d-622cf3b925c1",
+  "name": "Ikusen",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/ikusen.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://clusters.tw/profile/CC8A25CA-27C3-4D53-9B0A-CDB194AFF968",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/BXayrB5",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://open.spotify.com/artist/4VPnpyXAvHEjqWU1agp1DN",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://piku.page/@Ikusen_",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/Ikusen",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://vgen.co/Ikusen_",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/IkusenVtuber",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ikusen.vtuber.52",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.hivebee.com.tw/userffea1762215309/Donate",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ikusen_vtuber/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7735789",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Ikusen_vtuber",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.tiktok.com/@ikusen_",
+      "platform": "TikTok",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/ikusen_",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@IkusenRaid",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCKazkVudNQs8ZhwfXj_RNPw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Ikusen_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

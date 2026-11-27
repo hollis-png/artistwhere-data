@@ -1,0 +1,50 @@
+{
+  "id": "artist_99351a23-c8da-42fd-94a7-5bdbdd314449",
+  "name": "千仞蘭庭",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/475376",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://loopingwing.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/shenyan",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/983572",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/loopingwing",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/loopingwing",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shenyan69",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

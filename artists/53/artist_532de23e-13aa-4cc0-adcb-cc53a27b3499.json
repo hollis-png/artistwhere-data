@@ -1,0 +1,22 @@
+{
+  "id": "artist_532de23e-13aa-4cc0-adcb-cc53a27b3499",
+  "name": "Aki cosplay",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/akicoser/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/akicos",
+      "platform": "Patreon",
+      "status": "alive"
+    }
+  ]
+}

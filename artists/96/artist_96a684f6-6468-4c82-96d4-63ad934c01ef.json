@@ -1,0 +1,33 @@
+{
+  "id": "artist_96a684f6-6468-4c82-96d4-63ad934c01ef",
+  "name": "ゆうな ❥❥阿奈 Yuuna.",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/yuuna_9034",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/yuuna9034",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yuuna_9034",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.kamikawa-tw.com/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "artist_8abfc59b-7867-42e5-97f3-35379c57895e",
+  "name": "頭上有犄角",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/mWFR9KmbF3",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://ganknow.com/jihjiao",
+      "platform": "Ganknow",
+      "status": "alive"
+    },
+    {
+      "url": "https://ko-fi.com/jiaojiao75",
+      "platform": "Ko-fi",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.twitch.tv/jihjiao/about",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/jihjiaojiao",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/Jihjiaojiao",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "Jiao Jih"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC-qj4qkRwAo3pE95eNiaiHg",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

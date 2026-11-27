@@ -1,0 +1,55 @@
+{
+  "id": "artist_6958d6bf-adf5-458c-9d31-1e0f895a8332",
+  "name": "兔子老大",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://usagibosu.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/52664",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/henrybird99",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/usagibosu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hannri.chuang.5/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/usagibosu/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/10886057",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/henrybird9",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

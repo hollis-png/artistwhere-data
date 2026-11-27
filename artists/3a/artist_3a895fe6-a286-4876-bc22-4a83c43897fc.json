@@ -1,0 +1,57 @@
+{
+  "id": "artist_3a895fe6-a286-4876-bc22-4a83c43897fc",
+  "name": "尼艾NiiE",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/549938",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://linkbio.co/NiiEru",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/niiepaint/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/people/%E5%B0%BC%E8%89%BE/100024782169279/?paipv=0&eav=AfaxlEXRUSmUnBLkP6o9sz47EFv2YoW6tm6v7hDhnO1tdAamzUTrO1-ArbRH4c3NaxM&_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.furuke.com/niiecosplay",
+      "platform": "Furuke",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/niie_cosplay",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/NiiEru",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/niie_pen",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

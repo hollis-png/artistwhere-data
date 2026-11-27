@@ -1,0 +1,29 @@
+{
+  "id": "artist_0631dca6-05c1-41e7-813f-a64c7bcdbae0",
+  "name": "=+Poke 箱+",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/PokeBox/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/479315",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/cokujyo",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_61e3dc0c-629d-4c32-be67-4d69c9f61c6a",
+  "name": "こめかみ堂",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Komekami72/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/butakusa_chan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "artist_3f4fc617-cf99-482c-9ac0-440b75a6c89b",
+  "name": "西窗夜雨",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/aekun.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/aekun",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/cben.ae.9",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/aekun_cben/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/52527725",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/aekun_cben",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/aekun_cben/highlights",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

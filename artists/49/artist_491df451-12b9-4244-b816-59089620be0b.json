@@ -1,0 +1,22 @@
+{
+  "id": "artist_491df451-12b9-4244-b816-59089620be0b",
+  "name": "ISKM伊聲懸命舖",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://cxc.today/zh/@kurihara_risako/work",
+      "platform": "CXC",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kurihara_mikan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

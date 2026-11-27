@@ -1,0 +1,28 @@
+{
+  "id": "artist_43b72c36-5aff-4007-b7cd-5a0e9f9d76bc",
+  "name": "眾惡堂工坊",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/TWJRT",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/TWJRT",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/tetsu_tw_jrt/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

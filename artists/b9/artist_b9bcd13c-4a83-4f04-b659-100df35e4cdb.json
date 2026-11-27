@@ -1,0 +1,56 @@
+{
+  "id": "artist_b9bcd13c-4a83-4f04-b659-100df35e4cdb",
+  "name": "風船貓插畫神社",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=maomaofan",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://piapro.jp/maomaofan",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://store.line.me/stickershop/author/68797/zh-Hant",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/nekonekohan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/lai.liang.yan.2025",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/maomaoe/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/317171",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/nazo001",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

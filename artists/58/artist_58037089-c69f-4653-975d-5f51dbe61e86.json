@@ -1,0 +1,32 @@
+{
+  "id": "artist_58037089-c69f-4653-975d-5f51dbe61e86",
+  "name": "開水ㄏ水",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/m32897344",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/m32897344/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11394759",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/r152244",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

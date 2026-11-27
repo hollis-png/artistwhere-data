@@ -1,0 +1,17 @@
+{
+  "id": "artist_4bdb8f7c-c8cd-4925-8389-e50c96330a3d",
+  "name": "布啾的工作室",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/BUJONOSTUDIO/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "artist_263c0836-ae03-4af9-af19-911e14ff510c",
+  "name": "妮豪讚",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/s6450181",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

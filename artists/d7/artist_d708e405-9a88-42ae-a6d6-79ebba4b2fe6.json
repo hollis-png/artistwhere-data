@@ -1,0 +1,28 @@
+{
+  "id": "artist_d708e405-9a88-42ae-a6d6-79ebba4b2fe6",
+  "name": "K.F.D",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://pieroppai.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/pieroppai",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/926532/artworks?p=2",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

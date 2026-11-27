@@ -1,0 +1,24 @@
+{
+  "id": "artist_9fb243be-e22e-45fc-b2c1-f8e1a9a7bf6a",
+  "name": "Blaze Wu",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/blazewu",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/blazewu/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

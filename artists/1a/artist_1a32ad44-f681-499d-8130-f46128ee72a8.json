@@ -1,0 +1,25 @@
+{
+  "id": "artist_1a32ad44-f681-499d-8130-f46128ee72a8",
+  "name": "可奈肉蛋屋",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/q3V3WB2Ayn",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lin.ee/zrDPPUa",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.dragoonyuki.com/collections/%E8%82%89%E8%9B%8B%E5%B7%A5%E4%BD%9C%E5%AE%A4",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

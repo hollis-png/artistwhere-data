@@ -1,0 +1,20 @@
+{
+  "id": "artist_bfd038db-8415-4406-83cd-38309cdce236",
+  "name": "R匠研究工坊",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61558218490336",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ryu0801131/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "artist_87b66c18-4ed2-4291-ba80-6bc2bfb11f34",
+  "name": "猛少女之拳",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/FuStvfu/",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100057120894904",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/stvfu",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC6RP9C9QywTi-9WFk0H8PFg",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

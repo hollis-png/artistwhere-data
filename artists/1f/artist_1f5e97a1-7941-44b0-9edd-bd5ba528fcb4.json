@@ -1,0 +1,17 @@
+{
+  "id": "artist_1f5e97a1-7941-44b0-9edd-bd5ba528fcb4",
+  "name": "秀棒秀棒秀",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/bobshowshow",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

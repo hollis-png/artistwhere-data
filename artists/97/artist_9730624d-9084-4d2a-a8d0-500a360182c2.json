@@ -1,0 +1,22 @@
+{
+  "id": "artist_9730624d-9084-4d2a-a8d0-500a360182c2",
+  "name": "森野葉子iCos",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/senyeyezi",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/senyeyezi",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

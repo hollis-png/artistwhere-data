@@ -1,0 +1,50 @@
+{
+  "id": "artist_fc7cf018-66f2-4d0d-8c60-ec8403430e42",
+  "name": "綠蓋奶不加奶",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://garylinfbox.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/g11408tw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/g11408tw_n",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/GaryLinArtWorld",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/user?u=24036694",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7152477",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/GaryLin_type2",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

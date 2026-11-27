@@ -1,0 +1,22 @@
+{
+  "id": "artist_5a29d333-f0b5-4eb6-b9a1-bfc4cf5d7da1",
+  "name": "果凍仔專區",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.twitch.tv/yuenn1022",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/YueNN_1022",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

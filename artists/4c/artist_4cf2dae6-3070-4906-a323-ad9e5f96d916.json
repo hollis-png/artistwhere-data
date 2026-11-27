@@ -1,0 +1,25 @@
+{
+  "id": "artist_4cf2dae6-3070-4906-a323-ad9e5f96d916",
+  "name": "鳥語花箱",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.patreon.com/bird09",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/bird09_art",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

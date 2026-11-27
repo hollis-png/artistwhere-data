@@ -1,0 +1,22 @@
+{
+  "id": "artist_cb0b1b97-5fb7-4e1a-b06a-a2cd39bb18ea",
+  "name": "小琪 Aki Cosplayer",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/aki.coser/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ringoaki/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "artist_1d591ff3-8339-4c50-904c-e7b6236c5860",
+  "name": "MOMO大戰爭",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "http://paypal.me/arrmorz",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://instagram.com/arrm_draw",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/ArrmoV",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/arrmdraw/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.flowcode.com/page/arrm_draw",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/10199221/artworks",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/arrmo",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@arrmorz",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ZayinXD",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

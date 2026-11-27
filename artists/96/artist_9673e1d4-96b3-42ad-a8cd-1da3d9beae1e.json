@@ -1,0 +1,25 @@
+{
+  "id": "artist_9673e1d4-96b3-42ad-a8cd-1da3d9beae1e",
+  "name": "夜繪飯",
+  "types": [],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/huo.qi.sheng.754487",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/88579006",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hss0306tw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

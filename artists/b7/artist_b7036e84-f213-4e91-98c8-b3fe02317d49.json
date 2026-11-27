@@ -1,0 +1,57 @@
+{
+  "id": "artist_b7036e84-f213-4e91-98c8-b3fe02317d49",
+  "name": "Kakureme 躲龜龜 x Owl貓頭鷹交通書",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bert1037.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://kakureme.webnode.tw/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/Kakureme",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/KakuremeBert2",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/owlfuko",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kakureme_bert/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCdVbTc2ncyLAEswqm8p-xVA",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kakureme_bert",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

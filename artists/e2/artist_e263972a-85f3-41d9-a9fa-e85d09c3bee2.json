@@ -1,0 +1,17 @@
+{
+  "id": "artist_e263972a-85f3-41d9-a9fa-e85d09c3bee2",
+  "name": "溜咕研究室",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/rogu_notes",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "artist_e2f52639-9357-4d24-9476-49b4877d1c75",
+  "name": "DREAM.Project➤Momo",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/52892?locale=zh-tw",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/lovemomosweet?ltsid=db415409-4786-4a29-a547-9cfc4302406b",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://reurl.cc/gmjMER",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/lovemomosweet",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/lovemolove",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/momo180_cos/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/loveMOMOsweet",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/lovemomosweet",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

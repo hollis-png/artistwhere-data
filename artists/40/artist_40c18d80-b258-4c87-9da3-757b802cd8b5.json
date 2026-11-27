@@ -1,0 +1,35 @@
+{
+  "id": "artist_40c18d80-b258-4c87-9da3-757b802cd8b5",
+  "name": "芭嘎nono阿芭芭♕",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/c7d635e8-8ed2-45c9-b481-4a8a80344eea",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://p.ecpay.com.tw/1FB730B",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/latiye_ababa/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@latiye_ababa",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/latiye_ababa",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

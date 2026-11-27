@@ -1,0 +1,32 @@
+{
+  "id": "artist_7a0ddc01-40a7-4fd5-ab81-99e8d67fc694",
+  "name": "漆尾草",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=qcezssxx159",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/qiweigrass/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5935558",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/qiweigrass",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

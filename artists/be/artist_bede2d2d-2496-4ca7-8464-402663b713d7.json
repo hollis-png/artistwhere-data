@@ -1,0 +1,49 @@
+{
+  "id": "artist_bede2d2d-2496-4ca7-8464-402663b713d7",
+  "name": "栖和菓子",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/seikaruru.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/yUbwSkRusg",
+      "platform": "Discord",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61554111257950",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/seikaruru",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/54204231/artworks?p=1",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/saikaruru",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/saikarurux2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

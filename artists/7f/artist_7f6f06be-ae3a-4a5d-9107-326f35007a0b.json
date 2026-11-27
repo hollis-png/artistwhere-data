@@ -1,0 +1,18 @@
+{
+  "id": "artist_7f6f06be-ae3a-4a5d-9107-326f35007a0b",
+  "name": "米克斯MIX",
+  "types": [
+    "other",
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/MixMimimix",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

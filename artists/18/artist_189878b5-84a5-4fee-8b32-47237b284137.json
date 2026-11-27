@@ -1,0 +1,40 @@
+{
+  "id": "artist_189878b5-84a5-4fee-8b32-47237b284137",
+  "name": "KAMIMi湘",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/kamimisama",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/ChiyanKamimi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kamimicosplayparadise/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kamichiyan/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/kamimimisama/",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

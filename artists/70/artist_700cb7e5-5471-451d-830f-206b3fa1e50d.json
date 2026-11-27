@@ -1,0 +1,32 @@
+{
+  "id": "artist_700cb7e5-5471-451d-830f-206b3fa1e50d",
+  "name": "哈捏Hane",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/hane_0225",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hanecosplay/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hane_0225",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hane_mickey",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

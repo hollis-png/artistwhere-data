@@ -1,0 +1,25 @@
+{
+  "id": "artist_9969dd84-7e4b-4b4d-995f-bce7bd429d3b",
+  "name": "楓糖蛋塔",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/TERZO_MS06S",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/247104",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

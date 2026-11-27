@@ -1,0 +1,42 @@
+{
+  "id": "artist_21471f7f-eb8a-4ebb-9846-9926b993f346",
+  "name": "ソーダ水",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://kotahekaki.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/kotahekaki",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://skeb.jp/@kotahekaki",
+      "platform": "Skeb",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kotahekaki/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/56875124",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kotahekaki",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

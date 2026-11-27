@@ -1,0 +1,22 @@
+{
+  "id": "artist_cadb5e9a-beef-46e3-b779-e4d11faad890",
+  "name": "茨城的繪圖小窩",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://cxc.today/zh/@ibaraki/intro",
+      "platform": "CXC",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/chen.zhi.ting.254719/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

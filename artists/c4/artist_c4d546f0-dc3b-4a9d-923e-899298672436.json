@@ -1,0 +1,25 @@
+{
+  "id": "artist_c4d546f0-dc3b-4a9d-923e-899298672436",
+  "name": "Nisemori",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/nisemori",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/nisemori_04",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Nisemori/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

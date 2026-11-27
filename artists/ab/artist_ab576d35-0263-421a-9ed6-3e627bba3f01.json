@@ -1,0 +1,26 @@
+{
+  "id": "artist_ab576d35-0263-421a-9ed6-3e627bba3f01",
+  "name": "雪豆先生",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/3423339",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/the29657036",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

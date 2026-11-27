@@ -1,0 +1,20 @@
+{
+  "id": "artist_adacea48-a042-4a45-81ef-f76335187de5",
+  "name": "瀬之本",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www7a.biglobe.ne.jp/~million-bank/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/senomotomb",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

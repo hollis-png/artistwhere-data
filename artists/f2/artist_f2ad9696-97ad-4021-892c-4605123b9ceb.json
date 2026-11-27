@@ -1,0 +1,75 @@
+{
+  "id": "artist_f2ad9696-97ad-4021-892c-4605123b9ceb",
+  "name": "Tsuru鶴葵",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/rMsbpUSsZD",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/zkg8nyadqd",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/Tsuru__",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Tsurucos/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/_tsuruaoi/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/tsuru_cos_aoi",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/TsuruAoi",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.tiktok.com/@tsuruaoi",
+      "platform": "TikTok",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/tsuru",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCLRtoeLBg6zNGfRQ7GeExlQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tsuru_Cosplay",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https:/x.com/tsuru_Cosplay",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

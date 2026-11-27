@@ -1,0 +1,32 @@
+{
+  "id": "artist_90330409-f002-4a26-8a0f-5d413788b78e",
+  "name": "薛頭的塞",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/ShadowDesign112",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/shadowdesign1102/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@ShadowDesign1102",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

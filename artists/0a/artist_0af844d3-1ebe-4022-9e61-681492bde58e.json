@@ -1,0 +1,32 @@
+{
+  "id": "artist_0af844d3-1ebe-4022-9e61-681492bde58e",
+  "name": "宇宙波神山崎本社",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://popodaimyuujin.mystrikingly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/tsuhomikoto",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/topgoustking",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

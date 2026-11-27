@@ -1,0 +1,27 @@
+{
+  "id": "artist_e638026b-b7de-4293-a387-0c5a52134c35",
+  "name": "醫院也瘋狂",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Crazyospital/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.laya.url.tw/hospital/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@crazyhospitallaya",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "artist_e425ea07-d49e-4b04-b1bd-740b3d88fb9c",
+  "name": "狐狸樹屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://aith0616.wixsite.com/axitreehouse",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/axitreehouse",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/axi.treehouse",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/axitreehouse/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "artist_32f4198e-1df8-4aa7-9c61-ddbb1a0abd25",
+  "name": "快樂炸蝦",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/5190707",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Sipu_98",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

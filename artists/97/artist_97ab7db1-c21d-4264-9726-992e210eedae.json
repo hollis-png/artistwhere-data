@@ -1,0 +1,23 @@
+{
+  "id": "artist_97ab7db1-c21d-4264-9726-992e210eedae",
+  "name": "Hardes",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/@hardesofficial",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hardes96218925",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

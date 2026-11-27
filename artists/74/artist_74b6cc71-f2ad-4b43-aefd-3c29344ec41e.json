@@ -1,0 +1,57 @@
+{
+  "id": "artist_74b6cc71-f2ad-4b43-aefd-3c29344ec41e",
+  "name": "正港奇片漫畫工作室",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/hguuy",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/kipen",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://sites.google.com/view/kipenebook",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://store.line.me/stickershop/author/95206/zh-Hant",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hguuy/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61579871784428",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hguuy123",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@kipen_chen",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@kipen5707",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

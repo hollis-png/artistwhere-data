@@ -1,0 +1,32 @@
+{
+  "id": "artist_f947ee78-7f90-4b98-8489-56b51018e5ce",
+  "name": "梁柯夢",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/he01022446.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kemengliang/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/12483753",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/he01022446",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

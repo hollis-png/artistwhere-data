@@ -1,0 +1,43 @@
+{
+  "id": "artist_79c1e4f8-ac10-4cc5-89ef-6b89f81f7f91",
+  "name": "妹斗屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/maidyamoe",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/maidya",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/maidyamoe/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/maidyamoe/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/465259",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/maidya",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "artist_9872f5e0-8011-45e5-a0c1-efb04cc0f954",
+  "name": "古比",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/zxcv318061.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/gubiTW",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://reurl.cc/gGL3ab",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/li.jia.yu.733626/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100000797014323&locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/13961146",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/zxcv318061",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/zxcv1234442",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

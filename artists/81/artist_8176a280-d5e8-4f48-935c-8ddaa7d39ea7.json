@@ -1,0 +1,31 @@
+{
+  "id": "artist_8176a280-d5e8-4f48-935c-8ddaa7d39ea7",
+  "name": "間宮ゆき/シマウマの頭",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/jiangongyouji1",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/CopolymerWizard/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/a29573359",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

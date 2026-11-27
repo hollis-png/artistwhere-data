@@ -1,0 +1,17 @@
+{
+  "id": "artist_b5352f07-7afc-4ff0-a83b-f977fa31c8c2",
+  "name": "高電壓LAB",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/0F5F553B-F44C-4010-AB41-EA8A1766EF54/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "artist_abd37f33-bf0a-4ffa-bbfb-67b9fe2e3d5d",
+  "name": "櫻貓特小號",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/sakuracatcatcat",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sakuracatpage/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/pigcatso/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

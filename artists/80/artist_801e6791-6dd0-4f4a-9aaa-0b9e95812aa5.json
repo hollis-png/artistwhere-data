@@ -1,0 +1,27 @@
+{
+  "id": "artist_801e6791-6dd0-4f4a-9aaa-0b9e95812aa5",
+  "name": "新生ロリショタ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/shinseiflontier",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6447934",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/s/u/shinsei_lolishota",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

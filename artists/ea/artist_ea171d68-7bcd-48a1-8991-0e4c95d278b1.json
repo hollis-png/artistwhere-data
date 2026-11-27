@@ -1,0 +1,54 @@
+{
+  "id": "artist_ea171d68-7bcd-48a1-8991-0e4c95d278b1",
+  "name": "小喵喵不講舞德",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/maimeow",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.twitch.tv/maiqqcatbb/home",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/maiqqcatbb",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/maiqqcatbb",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/16WCrUvAao/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mai_qqcatbb/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/maimeow0",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/@maiqqcatbb",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

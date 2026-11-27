@@ -1,0 +1,39 @@
+{
+  "id": "artist_cb139739-9040-4c75-8563-eb8d4fa8bc07",
+  "name": "初夢蛙町",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/Hatsukyo",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/people/Hatsukyo-Ro/61558015029574/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hatsukyo_art/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/69488018",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/HatsukyoRo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

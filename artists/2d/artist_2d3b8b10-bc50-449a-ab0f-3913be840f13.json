@@ -1,0 +1,27 @@
+{
+  "id": "artist_2d3b8b10-bc50-449a-ab0f-3913be840f13",
+  "name": "春ばる繪屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/kurokami0516",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/harubaruya",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8269861",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

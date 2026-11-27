@@ -1,0 +1,17 @@
+{
+  "id": "artist_fd7647c4-a685-402e-9e35-f9ccce666204",
+  "name": "雄中漫研",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/KmacXiongZhongManYan/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

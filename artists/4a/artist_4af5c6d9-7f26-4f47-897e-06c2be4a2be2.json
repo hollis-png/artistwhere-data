@@ -1,0 +1,57 @@
+{
+  "id": "artist_4af5c6d9-7f26-4f47-897e-06c2be4a2be2",
+  "name": "ㄚ田です(´ . .̫ . `)",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/ia_inori",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/iainori",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61550947753298",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.furuke.com/ia_inori",
+      "platform": "Furuke",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ia_inori",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/iainori",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@ia_inori327",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ia_inori",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

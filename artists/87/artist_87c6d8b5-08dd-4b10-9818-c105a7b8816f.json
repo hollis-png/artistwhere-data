@@ -1,0 +1,58 @@
+{
+  "id": "artist_87c6d8b5-08dd-4b10-9818-c105a7b8816f",
+  "name": "冷凝",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/jvpbT47GgZ",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index_creation.php?owner=klsd93060811",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/luminousart",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/LuminousArtwork",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/LuminousArt",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/20497976",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@LumiNingArt",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/LumiNing_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/klsd93060811",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

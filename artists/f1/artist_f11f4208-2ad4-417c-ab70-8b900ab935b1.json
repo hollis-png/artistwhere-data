@@ -1,0 +1,34 @@
+{
+  "id": "artist_f11f4208-2ad4-417c-ab70-8b900ab935b1",
+  "name": "ズイカク・フィクスター（瑞鶴彩畫）",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://twitter.com/zuikakujp",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "http://www.zuikaku.jp/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/phixtar",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/20411",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "artist_97a01b11-1738-49d3-b448-12ac1154d1e6",
+  "name": "ねこねこ(ゝω◕)",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100090106869902",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

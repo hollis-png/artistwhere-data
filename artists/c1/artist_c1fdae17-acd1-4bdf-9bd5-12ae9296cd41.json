@@ -1,0 +1,40 @@
+{
+  "id": "artist_c1fdae17-acd1-4bdf-9bd5-12ae9296cd41",
+  "name": "迷你爆竹",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/Xp685jBnBd",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Esther50411078",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/s103200/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/bakuchiku_1214/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/esther_mini",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

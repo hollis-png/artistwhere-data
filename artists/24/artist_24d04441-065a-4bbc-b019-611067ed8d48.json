@@ -1,0 +1,25 @@
+{
+  "id": "artist_24d04441-065a-4bbc-b019-611067ed8d48",
+  "name": "路邊騎士團",
+  "types": [],
+  "events": [
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/YiHiun/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/13183385",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/YiHiun",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_303fe6b1-e212-4e85-942b-bf5c982574ae",
+  "name": "貓卵亭",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/3395549",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/KuroBeira",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

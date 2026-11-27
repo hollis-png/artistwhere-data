@@ -1,0 +1,17 @@
+{
+  "id": "artist_c0af807a-c8d4-40c8-a915-ca1c62c948ec",
+  "name": "同桌不同推",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/amuuuuu_3721/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

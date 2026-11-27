@@ -1,0 +1,29 @@
+{
+  "id": "artist_d39c567f-39a6-4fde-8c28-516d833f4eb8",
+  "name": "メルヘンBOX",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/punipoyo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/16584138",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.puniket.com/merubo/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

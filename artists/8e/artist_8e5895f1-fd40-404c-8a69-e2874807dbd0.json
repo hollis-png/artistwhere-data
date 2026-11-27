@@ -1,0 +1,32 @@
+{
+  "id": "artist_8e5895f1-fd40-404c-8a69-e2874807dbd0",
+  "name": "莫爾多多",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/wannatchear/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/wannatchears/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/58655094",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/wannatchears",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

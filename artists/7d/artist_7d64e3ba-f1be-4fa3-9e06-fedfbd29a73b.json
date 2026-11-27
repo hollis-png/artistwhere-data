@@ -1,0 +1,17 @@
+{
+  "id": "artist_7d64e3ba-f1be-4fa3-9e06-fedfbd29a73b",
+  "name": "梧白小舖",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/wubai._.store/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

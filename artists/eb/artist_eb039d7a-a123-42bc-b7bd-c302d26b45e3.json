@@ -1,0 +1,44 @@
+{
+  "id": "artist_eb039d7a-a123-42bc-b7bd-c302d26b45e3",
+  "name": "UNKNOWN",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://aoin-riku.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/people/Aoin-Hatsu/100003209545299/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/537853",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Aoin",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@aoinhatsu",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/AoinHatsu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

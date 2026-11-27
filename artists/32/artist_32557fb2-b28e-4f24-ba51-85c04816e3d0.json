@@ -1,0 +1,16 @@
+{
+  "id": "artist_32557fb2-b28e-4f24-ba51-85c04816e3d0",
+  "name": "醇酔子",
+  "types": [],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/junyouko.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    }
+  ]
+}

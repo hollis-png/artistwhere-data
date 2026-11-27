@@ -1,0 +1,22 @@
+{
+  "id": "artist_85e1c737-0bf4-436f-bb0c-f152389edde4",
+  "name": "肉排Niku cos",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://weibo.com/u/3963054457",
+      "platform": "Weibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/NikuNikuCosplay-community-100066930193582/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

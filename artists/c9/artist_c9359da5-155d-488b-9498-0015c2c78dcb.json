@@ -1,0 +1,43 @@
+{
+  "id": "artist_c9359da5-155d-488b-9498-0015c2c78dcb",
+  "name": "全麥mai",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/MaimaiUxU_",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/saen5340/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.instagram.com/maimaiuxu_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/37767420",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/saen5340",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/MaimaiUxU_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

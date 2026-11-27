@@ -1,0 +1,17 @@
+{
+  "id": "artist_ac884c18-cc51-470b-9194-666e9166aec6",
+  "name": "赫綵",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.appedu.com.tw/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

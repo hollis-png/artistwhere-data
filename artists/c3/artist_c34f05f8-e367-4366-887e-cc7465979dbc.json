@@ -1,0 +1,40 @@
+{
+  "id": "artist_c34f05f8-e367-4366-887e-cc7465979dbc",
+  "name": "雪倫來睏",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/share/QB4XK482nQceWaCF/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/shenxuelun",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/39658229",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/sheran0115",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Sheren0115",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

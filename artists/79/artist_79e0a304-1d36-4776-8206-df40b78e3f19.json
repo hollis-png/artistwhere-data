@@ -1,0 +1,32 @@
+{
+  "id": "artist_79e0a304-1d36-4776-8206-df40b78e3f19",
+  "name": "ミミトハウス1号",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/mimito_6",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mimito_6/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@mimito_6",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mimito_66",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

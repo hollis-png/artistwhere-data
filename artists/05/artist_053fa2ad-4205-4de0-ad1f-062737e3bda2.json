@@ -1,0 +1,23 @@
+{
+  "id": "artist_053fa2ad-4205-4de0-ad1f-062737e3bda2",
+  "name": "寒武紀化石",
+  "types": [],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=magicatmkii",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/magicatmkii",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

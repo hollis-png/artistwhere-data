@@ -1,0 +1,35 @@
+{
+  "id": "artist_1d97aa0d-5a8e-4dcd-aab8-77e752ed0b8b",
+  "name": "MYAOWL喵喔",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/ycDeqd2TQn",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/myaowl",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MYAOWL/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/myaowl/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/mokameow",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

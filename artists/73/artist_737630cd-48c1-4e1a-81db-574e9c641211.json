@@ -1,0 +1,29 @@
+{
+  "id": "artist_737630cd-48c1-4e1a-81db-574e9c641211",
+  "name": "桃京武戯夜",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/takapiyo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/9122/artworks",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/akutokuP",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

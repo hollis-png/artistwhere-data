@@ -1,0 +1,20 @@
+{
+  "id": "artist_f8fae698-dcba-4303-9028-9e8f4c8035bb",
+  "name": "霸氣貓掙罐罐",
+  "types": [
+    "coser",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Hakicatcosplay",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

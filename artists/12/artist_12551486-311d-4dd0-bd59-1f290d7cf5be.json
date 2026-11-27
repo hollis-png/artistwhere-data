@@ -1,0 +1,17 @@
+{
+  "id": "artist_12551486-311d-4dd0-bd59-1f290d7cf5be",
+  "name": "曙光女僕咖啡",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Aurore.maidcafe/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

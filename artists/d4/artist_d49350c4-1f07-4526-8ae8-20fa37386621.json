@@ -1,0 +1,28 @@
+{
+  "id": "artist_d49350c4-1f07-4526-8ae8-20fa37386621",
+  "name": "Youmi Cosplay",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/youmicosplay",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/Youmi-Cosplay-100063838624715/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/youmiwang/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

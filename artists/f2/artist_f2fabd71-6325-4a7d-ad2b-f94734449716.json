@@ -1,0 +1,29 @@
+{
+  "id": "artist_f2fabd71-6325-4a7d-ad2b-f94734449716",
+  "name": "音符ONPU",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/onpucosplay/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/onpucosplay/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/CosOnpu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

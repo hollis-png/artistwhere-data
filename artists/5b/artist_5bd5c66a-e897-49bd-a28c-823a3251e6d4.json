@@ -1,0 +1,25 @@
+{
+  "id": "artist_5bd5c66a-e897-49bd-a28c-823a3251e6d4",
+  "name": "Team Cosis",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/cosis.official",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@Cosiscos",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/CosisOfficial",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

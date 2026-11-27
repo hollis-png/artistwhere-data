@@ -1,0 +1,27 @@
+{
+  "id": "artist_c1775c17-57c5-492b-9831-7f82c2018882",
+  "name": "邪惡明太子",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61586894452311",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/38871826",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Mintaizhn",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

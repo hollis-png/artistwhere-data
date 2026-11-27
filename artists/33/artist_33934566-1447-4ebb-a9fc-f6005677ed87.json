@@ -1,0 +1,27 @@
+{
+  "id": "artist_33934566-1447-4ebb-a9fc-f6005677ed87",
+  "name": "ゆとゆと湯",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/12752",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/creamcandy123/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/milkis_drop",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

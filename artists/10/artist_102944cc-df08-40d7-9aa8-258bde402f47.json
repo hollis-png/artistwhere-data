@@ -1,0 +1,29 @@
+{
+  "id": "artist_102944cc-df08-40d7-9aa8-258bde402f47",
+  "name": "NEGIBOSE",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/negibosekondoproject/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/teinou74",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/_momo_rina_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

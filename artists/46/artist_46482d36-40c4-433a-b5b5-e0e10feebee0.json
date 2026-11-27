@@ -1,0 +1,17 @@
+{
+  "id": "artist_46482d36-40c4-433a-b5b5-e0e10feebee0",
+  "name": "微楓繪鋪",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/WeiFengPaintShop/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

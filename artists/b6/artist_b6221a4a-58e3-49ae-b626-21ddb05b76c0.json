@@ -1,0 +1,25 @@
+{
+  "id": "artist_b6221a4a-58e3-49ae-b626-21ddb05b76c0",
+  "name": "鶄木工作室",
+  "types": [],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/seiki.studio/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/seiki.studio/#",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/SeikiStudio",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

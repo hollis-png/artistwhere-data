@@ -1,0 +1,25 @@
+{
+  "id": "artist_ceea29a6-558d-4c20-9e18-d52d0eefeede",
+  "name": "遠冬集團",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Donyakiiii",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/15520657",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/magaqq123",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

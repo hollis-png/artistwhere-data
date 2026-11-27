@@ -1,0 +1,92 @@
+{
+  "id": "artist_3581a27f-6c80-4dbf-8dda-f909b6645ba3",
+  "name": "青雨アメ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://ame-aou.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/5M6rfwX2D",
+      "platform": "Discord",
+      "status": "dead"
+    },
+    {
+      "url": "https://discord.gg/5mJS9WRAVp",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/ame_aou",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/ame_5000",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/ame_aou",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Ame.5000",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/ame.aou",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ame_5000_77",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/cian_tattoo",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/70474424",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Cal7fa",
+      "platform": "Plurk",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.threads.com/@ame_aou",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ame_5000",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ame_aou",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

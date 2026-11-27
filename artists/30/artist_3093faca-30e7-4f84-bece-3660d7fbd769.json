@@ -1,0 +1,21 @@
+{
+  "id": "artist_3093faca-30e7-4f84-bece-3660d7fbd769",
+  "name": "營養口糧兵工廠",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/IKworkshop",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

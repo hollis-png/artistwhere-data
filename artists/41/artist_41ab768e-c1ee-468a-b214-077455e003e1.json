@@ -1,0 +1,65 @@
+{
+  "id": "artist_41ab768e-c1ee-468a-b214-077455e003e1",
+  "name": "麻肉",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/marow3120",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ma.row.847591",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/marow3120",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/marow312000/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/mashowmarow",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/marow3120",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/negitail31",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7942361",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/painekon",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/marow3120",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "artist_c83629aa-4bc1-4930-b221-61b8c5c286d5",
+  "name": "波羅麵包三號坊",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://m.gamer.com.tw/home/home.php?owner=NacoNeko",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/catmeow405",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "artist_699b2841-9193-434b-a6c3-bd3150ff7b30",
+  "name": "肉まん研究会",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/chisakitera",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/yamohachiko",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/yamohachiko/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/chisakitera/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yamohachiko/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chisakitera22",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yamo8cos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

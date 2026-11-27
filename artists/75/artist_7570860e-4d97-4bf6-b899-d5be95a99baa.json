@@ -1,0 +1,30 @@
+{
+  "id": "artist_7570860e-4d97-4bf6-b899-d5be95a99baa",
+  "name": "OOPARTZ",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Oopartzy",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/oopartz/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/63715",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ted08191",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

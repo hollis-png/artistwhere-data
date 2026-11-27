@@ -1,0 +1,45 @@
+{
+  "id": "artist_36ac33d2-ee7b-4a25-aeac-c87671c12cf8",
+  "name": "EWA STUDIO / 東西像工作室",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://ewarchetype.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://line.me/R/ti/p/@947oesxo",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/EWA_S",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/EWarchetype/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ewarchetype/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@EWarchetype",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/EWArchetype",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

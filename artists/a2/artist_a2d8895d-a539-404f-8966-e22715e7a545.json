@@ -1,0 +1,37 @@
+{
+  "id": "artist_a2d8895d-a539-404f-8966-e22715e7a545",
+  "name": "Lycoris Garden",
+  "types": [
+    "artist",
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lycorisgarden.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/mimeowho",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/LycorisGarden/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/58378074",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

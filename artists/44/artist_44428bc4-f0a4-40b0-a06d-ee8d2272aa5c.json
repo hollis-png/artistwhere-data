@@ -1,0 +1,17 @@
+{
+  "id": "artist_44428bc4-f0a4-40b0-a06d-ee8d2272aa5c",
+  "name": "命由工作室",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61563966591427",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "artist_4514b119-33c2-426b-b4df-4dc2c12a32b5",
+  "name": "樹蛙孤逃",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/chulouilo2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/TREEFROG2020/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/chulouilo",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

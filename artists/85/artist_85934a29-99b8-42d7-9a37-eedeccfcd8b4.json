@@ -1,0 +1,25 @@
+{
+  "id": "artist_85934a29-99b8-42d7-9a37-eedeccfcd8b4",
+  "name": "衛斯曼紙雕社",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/weismann00",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/weismann000",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@weismann000/featured",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

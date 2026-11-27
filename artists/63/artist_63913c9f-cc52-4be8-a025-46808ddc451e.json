@@ -1,0 +1,48 @@
+{
+  "id": "artist_63913c9f-cc52-4be8-a025-46808ddc451e",
+  "name": "飛行熊咪貓商會",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://clibo.tw/users/yishigoto",
+      "platform": "Clibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/YiSHi0111",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61551985430535",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/yishi89",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/yishi_0111",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/YiSHi235",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/inoki523",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

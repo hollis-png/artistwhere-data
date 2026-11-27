@@ -1,0 +1,25 @@
+{
+  "id": "artist_4674ae39-e8ae-4f8e-8a31-915d9bbd8f66",
+  "name": "A-icu 龍の巣",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=116978&srsltid=AfmBOoq2auIp4O14G_zRT1uBtROL7JLNZ7RHOQF5wxZp1wpKCJK2UQ7W",
+      "platform": "Melonbooks",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Aicu_ryunosu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

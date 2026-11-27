@@ -1,0 +1,20 @@
+{
+  "id": "artist_76fdfa7e-c5a4-4c7c-9cd7-235729fa5aef",
+  "name": "九五二漆",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.9527color.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/9527model/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

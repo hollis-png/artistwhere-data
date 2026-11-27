@@ -1,0 +1,23 @@
+{
+  "id": "artist_8a4973ee-b4bf-4eff-a1db-18db3034591e",
+  "name": "白喵是ㄇㄧㄠ不是貓",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/li.pei.ru.286114",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Shironeko_030",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

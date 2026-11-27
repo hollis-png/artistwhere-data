@@ -1,0 +1,17 @@
+{
+  "id": "artist_3f466a46-8500-4c24-9c36-b3b7000885ce",
+  "name": "博麗神社社務所",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/3DF8753D-10C5-463B-8375-20EA4313E1A0/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    }
+  ]
+}

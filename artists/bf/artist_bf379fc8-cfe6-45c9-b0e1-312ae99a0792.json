@@ -1,0 +1,56 @@
+{
+  "id": "artist_bf379fc8-cfe6-45c9-b0e1-312ae99a0792",
+  "name": "Aya/アヤ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://aya-lezon.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/Aya0907",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Aya.artist/?locale=ja_JP",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Aya674",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/Aya_Lezon",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3728486",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/lezon_re",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/lezon_re_R18",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "artist_c7b281a3-9e80-410d-8e13-9f26c3000933",
+  "name": "旅月",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/travelmoon85.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/FqJy5XVdeT",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/tabitsukimimiko",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/travelmoon85/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18989590",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/mimiko110",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/travelmoon85",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

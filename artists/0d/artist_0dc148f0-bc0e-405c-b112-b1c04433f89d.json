@@ -1,0 +1,32 @@
+{
+  "id": "artist_0dc148f0-bc0e-405c-b112-b1c04433f89d",
+  "name": "Vanessa Nachivon IDN",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/vanessa.nachivon",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://trakteer.id/vanessa.nachivon",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/nachivon/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/vanessa.nachivon/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

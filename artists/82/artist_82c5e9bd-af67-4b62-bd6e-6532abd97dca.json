@@ -1,0 +1,40 @@
+{
+  "id": "artist_82c5e9bd-af67-4b62-bd6e-6532abd97dca",
+  "name": "白菜滷",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47",
+    "FFK19",
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/Cabbage-%E7%99%BD%E8%8F%9C%E6%BB%B7-61564547952000/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61556261174205",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/braisedcabbagex",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/10267593",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/cabbage_ex",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

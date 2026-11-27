@@ -1,0 +1,23 @@
+{
+  "id": "artist_0344e90e-49d7-440d-bde2-37880bf0504f",
+  "name": "湯黑俱樂部",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/c/PaitanOfficial",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/paitan6111",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

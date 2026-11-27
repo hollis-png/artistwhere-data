@@ -1,0 +1,30 @@
+{
+  "id": "artist_f28b73cb-6b7d-42a1-8957-481544c766c0",
+  "name": "原.F717",
+  "types": [],
+  "events": [
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61564680281342",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11633796",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/12441486",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6444177",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

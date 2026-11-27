@@ -1,0 +1,17 @@
+{
+  "id": "artist_b2e15763-fcd5-4660-9ce1-7a3b96ee2601",
+  "name": "迷你小啾的手創窩",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/blueworkhouse/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

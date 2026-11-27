@@ -1,0 +1,22 @@
+{
+  "id": "artist_c18f0182-3e0f-4cf8-8425-05c69c6b15f7",
+  "name": "Casket",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://ceolnerezh.net/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/ceolnerezh",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

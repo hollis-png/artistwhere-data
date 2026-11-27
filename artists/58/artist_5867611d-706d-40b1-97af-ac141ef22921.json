@@ -1,0 +1,27 @@
+{
+  "id": "artist_5867611d-706d-40b1-97af-ac141ef22921",
+  "name": "極樂淨土",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ma.qi.qi.996848/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/26635212",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mochichi2025",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

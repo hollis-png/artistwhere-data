@@ -1,0 +1,15 @@
+{
+  "id": "artist_5659fc2b-0c7b-4317-b2a9-700b65c4015c",
+  "name": "Jasonz Artwork",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/JasonzArtwork/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

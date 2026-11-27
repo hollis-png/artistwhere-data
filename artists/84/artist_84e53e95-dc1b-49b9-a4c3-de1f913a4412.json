@@ -1,0 +1,25 @@
+{
+  "id": "artist_84e53e95-dc1b-49b9-a4c3-de1f913a4412",
+  "name": "𝐑𝐢𝐧𝐠𝐨𝐑𝐢𝐧",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Ringorin.art/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ringorin.art/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

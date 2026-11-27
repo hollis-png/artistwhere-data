@@ -1,0 +1,31 @@
+{
+  "id": "artist_e76f24e0-0ed7-4a4b-baee-f68d7cb9a728",
+  "name": "Helene海琳",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/helene_tw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/helenehoney.tw/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/helene.tw/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

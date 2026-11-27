@@ -1,0 +1,82 @@
+{
+  "id": "artist_4da408dd-4a97-4455-90dc-3f17aaefe32f",
+  "name": "御芊",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/aRks3S2nz6",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/487086",
+      "platform": "Fantia",
+      "status": "dead"
+    },
+    {
+      "url": "https://lit.link/yuchienwork",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.ecpay.com.tw/Broadcaster/Donate/8B15DD07C21691EECDA200EBA7D4644B",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/yuchien_work",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/YUChienwork/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100002261689230",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yuchien4221/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/YUChien",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/zxc4221cxz",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/yuchien4221",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCvFfs-pUy86GG32-pE0FrTw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yuchien_R18",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

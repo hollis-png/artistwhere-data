@@ -1,0 +1,24 @@
+{
+  "id": "artist_9bad2c4a-ca44-4214-a14b-9737e3204f36",
+  "name": "Pure Reverie",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61553216692742",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Coria_tu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

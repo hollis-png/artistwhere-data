@@ -1,0 +1,28 @@
+{
+  "id": "artist_0c00cef1-7ccc-4cd5-ab03-f4d9b7375e26",
+  "name": "Olivie",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/oliviecos/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/missolivie/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/missolivie",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

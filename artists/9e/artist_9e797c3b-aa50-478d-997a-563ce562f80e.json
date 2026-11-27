@@ -1,0 +1,20 @@
+{
+  "id": "artist_9e797c3b-aa50-478d-997a-563ce562f80e",
+  "name": "茶の魔王",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/senchabashira",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

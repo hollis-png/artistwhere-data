@@ -1,0 +1,59 @@
+{
+  "id": "artist_910909bd-9cdd-4f4c-bf18-2a4350d78361",
+  "name": "AKANE Cosplay",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/akaneee615",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/akaneee615",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.opay.tw/Broadcaster/Donate/9E30AF969A1BEA544AEF758BF0FAA4C7",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/akaneee615",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.furuke.com/Enakaaa615",
+      "platform": "Furuke",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@akaneee615",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/akaneee615",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCRiW97i4BQxgFsfDkhHPBrQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/akaneee615",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

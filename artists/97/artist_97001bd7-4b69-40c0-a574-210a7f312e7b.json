@@ -1,0 +1,22 @@
+{
+  "id": "artist_97001bd7-4b69-40c0-a574-210a7f312e7b",
+  "name": "暮想出版",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://readmoo.com/publisher/5063?srsltid=AfmBOopF796B6XXk2Pi1KWRmva_uK2_B3EixOnoGEb7WlV1vj20TkKTZ",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Ecchiya",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

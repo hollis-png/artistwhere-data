@@ -1,0 +1,17 @@
+{
+  "id": "artist_6c5bb4f3-379c-4262-90cf-b9a6575be2ac",
+  "name": "佐藤飛工作室",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/SatoFeyStudio/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

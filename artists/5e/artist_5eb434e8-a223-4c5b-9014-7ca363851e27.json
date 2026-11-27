@@ -1,0 +1,31 @@
+{
+  "id": "artist_5eb434e8-a223-4c5b-9014-7ca363851e27",
+  "name": "しぐにゃん",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://shigunyan.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/415059",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shigunyan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

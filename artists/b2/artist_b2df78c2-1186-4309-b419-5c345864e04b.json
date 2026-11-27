@@ -1,0 +1,27 @@
+{
+  "id": "artist_b2df78c2-1186-4309-b419-5c345864e04b",
+  "name": "小北百貨",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/bei_minn",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100006200561157",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/58241644",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

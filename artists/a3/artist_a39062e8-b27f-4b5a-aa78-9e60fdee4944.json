@@ -1,0 +1,32 @@
+{
+  "id": "artist_a39062e8-b27f-4b5a-aa78-9e60fdee4944",
+  "name": "高橋わな美と日本・福島・台灣拉麵組っ！",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/share/1CAxiU8bHB/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/u/wa_nami",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.ramengumi.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/wa_nami",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

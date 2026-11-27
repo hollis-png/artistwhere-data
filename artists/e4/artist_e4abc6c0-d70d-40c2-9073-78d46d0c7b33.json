@@ -1,0 +1,86 @@
+{
+  "id": "artist_e4abc6c0-d70d-40c2-9073-78d46d0c7b33",
+  "name": "代碼Hmw",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/demahmw.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://demahmw.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/HVh3fdmjDb",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/demahmw",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?&owner=ttgghh555666",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/demahmw",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/demahmwmoon",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Dema.hmw0",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100002692831584",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/dema_hmw/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7054584",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/moonhmw",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/portal/",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/demahmw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

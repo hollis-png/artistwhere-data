@@ -1,0 +1,67 @@
+{
+  "id": "artist_307da19d-9b60-4817-a310-2f610c46ae59",
+  "name": "坊橋夜泊@c108 二日目　東ウ59b",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/abtB6BVEPq",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://facebook.com/bouhashiyahaku",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=f410693029",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://instagram.com/fang410693029",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/jyoeshi",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://patreon.com/fang410693029",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://pixiv.net/users/12160421",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/fangqiao410693029/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.youtube.com/@ch.jyoeshi8053/videos",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/fang410693029",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

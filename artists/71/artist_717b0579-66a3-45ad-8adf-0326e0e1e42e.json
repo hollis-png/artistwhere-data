@@ -1,0 +1,27 @@
+{
+  "id": "artist_717b0579-66a3-45ad-8adf-0326e0e1e42e",
+  "name": "エビデタイヲツル",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/skr017ebi",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/9039230",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/skr017",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

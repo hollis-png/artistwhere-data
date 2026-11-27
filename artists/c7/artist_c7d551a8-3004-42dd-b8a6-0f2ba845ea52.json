@@ -1,0 +1,48 @@
+{
+  "id": "artist_c7d551a8-3004-42dd-b8a6-0f2ba845ea52",
+  "name": "弾KAIOU",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=vc",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/damkaiou",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/id339939",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/339939poi",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/339939",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/DKO66",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

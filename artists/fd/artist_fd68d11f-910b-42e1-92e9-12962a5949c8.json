@@ -1,0 +1,42 @@
+{
+  "id": "artist_fd68d11f-910b-42e1-92e9-12962a5949c8",
+  "name": "Munoko & Roroki",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/munoko",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/munoko5",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MunokoCoser/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/rorokimeow/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rorokimeow/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rorokimeow",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

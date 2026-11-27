@@ -1,0 +1,52 @@
+{
+  "id": "artist_b4a07a2b-910a-460f-8567-7bf79b6f4d3c",
+  "name": "やまぐちぷりんと",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/7f01215e61",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://lj16kzkv.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://skeb.jp/@tamakiyayoi",
+      "platform": "Skeb",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/tamakiyayoi",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/112170",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/tamakiyayoi",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tamakiyayoi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

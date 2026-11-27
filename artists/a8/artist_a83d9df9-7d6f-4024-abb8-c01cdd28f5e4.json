@@ -1,0 +1,55 @@
+{
+  "id": "artist_a83d9df9-7d6f-4024-abb8-c01cdd28f5e4",
+  "name": "人見巫拉拉",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/DejaRabA3p",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/hitomiohlala",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://p.ecpay.com.tw/3A8B1AC",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hitomiohlala/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/hitomiohlala",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@hitomiohlala",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCs87srcklMznQSoADJIFIDw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/HitomiOhlala",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

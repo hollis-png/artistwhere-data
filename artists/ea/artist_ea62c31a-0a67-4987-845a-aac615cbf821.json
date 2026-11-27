@@ -1,0 +1,108 @@
+{
+  "id": "artist_ea62c31a-0a67-4987-845a-aac615cbf821",
+  "name": "艾登",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/edan0207.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://bsky.app/profile/koiyuki1201.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://clusters.tw/profile/18404CB3-4058-4A0E-80DC-1F01F7927B7C/plans",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://clusters.tw/profile/AEF9E2DE-6E37-43B0-9138-0ADD11D87A30/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/dmkcRdMqmT",
+      "platform": "Discord",
+      "status": "dead"
+    },
+    {
+      "url": "https://edan.fanbox.cc/posts",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?&owner=shanamoe",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://koiyuki.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/Edan54238",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/koiyuki1201",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ESHIKOIYUKI/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/SosetsuNoAkari",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/edan.521745",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/12169003",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5911744",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/eshikoiyuki",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/SosetsuNoAkari",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/zero54238",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/zero54238_2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

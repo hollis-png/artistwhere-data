@@ -1,0 +1,64 @@
+{
+  "id": "artist_c041a40c-5397-4c96-a505-76b18cf894fb",
+  "name": "心桃魅夢",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://deerdonate.herokuapp.com/donation/%E5%BF%83%E6%A1%83%E9%AD%85%E5%A4%A2",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/mionkokomo",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/mionkokomo",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/people/Mion%E5%BF%83%E6%A1%83%E9%AD%85%E5%A4%A2/100089590207923",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100089590207923",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mionkokomo/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/mionkokomo",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@mionkokomo",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/MionKokomo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/vtubermion",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

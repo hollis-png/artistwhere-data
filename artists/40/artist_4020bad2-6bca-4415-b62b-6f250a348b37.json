@@ -1,0 +1,25 @@
+{
+  "id": "artist_4020bad2-6bca-4415-b62b-6f250a348b37",
+  "name": "金孫工作室",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/share/19itFPhpVp/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/32473138",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/jinsun522676",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "artist_0ec3bd21-e295-449f-9377-1c715d5bbded",
+  "name": "KyoTo",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/kyoto1421",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kyo.to.905734",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100085145193564",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/40273704",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/TKyo1421",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

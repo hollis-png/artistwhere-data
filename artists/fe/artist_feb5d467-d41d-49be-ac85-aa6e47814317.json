@@ -1,0 +1,44 @@
+{
+  "id": "artist_feb5d467-d41d-49be-ac85-aa6e47814317",
+  "name": "牢師聚集所",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/phantomsa.bsky.social",
+      "platform": "Bluesky",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/share/1CkVCujCxd/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/jinketu_0101/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCi4rbyjwSM7SXfXPL4ahTJA",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Niketsu_0101",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/jinketu_0101",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

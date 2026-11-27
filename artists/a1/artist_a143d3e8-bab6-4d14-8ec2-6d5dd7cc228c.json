@@ -1,0 +1,22 @@
+{
+  "id": "artist_a143d3e8-bab6-4d14-8ec2-6d5dd7cc228c",
+  "name": "八百萬堂",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/authors/info/ca89416505",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/groups/6989549651156939",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

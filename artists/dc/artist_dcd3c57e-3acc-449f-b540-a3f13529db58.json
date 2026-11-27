@@ -1,0 +1,15 @@
+{
+  "id": "artist_dcd3c57e-3acc-449f-b540-a3f13529db58",
+  "name": "Prediction",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/koyasu",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

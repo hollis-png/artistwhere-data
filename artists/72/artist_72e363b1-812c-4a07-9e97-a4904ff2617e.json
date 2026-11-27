@@ -1,0 +1,44 @@
+{
+  "id": "artist_72e363b1-812c-4a07-9e97-a4904ff2617e",
+  "name": "一心三惑",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/misconception",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/toritaro",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/tori_mcct",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/misconception2014/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/taorihk",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/14368479",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

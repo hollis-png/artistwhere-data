@@ -1,0 +1,19 @@
+{
+  "id": "artist_a45f59d5-71d1-4d70-8824-09dc3b40bcca",
+  "name": "漸進式TAN線",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/tanpsyLu",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

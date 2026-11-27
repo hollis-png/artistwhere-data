@@ -1,0 +1,25 @@
+{
+  "id": "artist_0496887b-44aa-4dc5-964d-4811380d977b",
+  "name": "莉米糖",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.twitch.tv/kokutou8920",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@kokutou0920",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kokutou8920",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

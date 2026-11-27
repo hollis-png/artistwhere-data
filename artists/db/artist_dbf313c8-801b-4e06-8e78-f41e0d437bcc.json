@@ -1,0 +1,37 @@
+{
+  "id": "artist_dbf313c8-801b-4e06-8e78-f41e0d437bcc",
+  "name": "EWAI",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://ewai.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/EwaiObeiwei",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/12178272",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/EwaiObeiwei",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

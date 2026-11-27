@@ -1,0 +1,27 @@
+{
+  "id": "artist_b4b3557f-85aa-4b4f-9f1c-91c2f6286c2a",
+  "name": "咪咪協會",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/mimi_mimi",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/1DNhwZBWUk/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mimi_mimi_mi1023",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

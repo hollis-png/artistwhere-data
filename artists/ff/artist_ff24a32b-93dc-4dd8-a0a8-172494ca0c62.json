@@ -1,0 +1,33 @@
+{
+  "id": "artist_ff24a32b-93dc-4dd8-a0a8-172494ca0c62",
+  "name": "ФᴥФ黒ギャル GAL RITA",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/gal_rita_",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/gal_rita",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/GALRita3",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/galrita.tw/?locale=ja_JP",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

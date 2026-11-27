@@ -1,0 +1,30 @@
+{
+  "id": "artist_33528117-749d-4bba-af64-3d09d7db9eaa",
+  "name": "嫣苒フェレット",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/qQpYhtTQmM",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/yanran_feretto?lang=ja",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@Twitch_yanran",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yali52156879/with_replies",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "artist_99756025-df58-4df0-9c50-4b473e2eca0c",
+  "name": "ぅゅちゃん寝る",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/uyuchanofficial",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCJEnmPUoVVMX0_n6YrIeRvg",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Uyuchanofficial",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

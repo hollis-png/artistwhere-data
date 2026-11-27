@@ -1,0 +1,43 @@
+{
+  "id": "artist_62f0b0ec-cdf7-47b8-976e-bc9eda5446a5",
+  "name": "好緊先生",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/MrOhMyTIGHT",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/TIGHT.OHMYGOD",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/dashboard/works",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/12682841",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/sa12552105",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

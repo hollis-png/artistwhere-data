@@ -1,0 +1,25 @@
+{
+  "id": "artist_cb652020-dcf6-40cc-9c19-4915b48ed103",
+  "name": "好社",
+  "types": [
+    "artist",
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://line.me/R/ti/p/@316qdvix?oat_content=url",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/goodclub1216/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "artist_f8ffc3b4-d4e9-4e9a-b822-12bd8479f22b",
+  "name": "緋紅工房",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/k1380426",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1380426",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kurenaizzzz",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

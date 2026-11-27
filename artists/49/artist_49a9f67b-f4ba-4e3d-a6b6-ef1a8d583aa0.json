@@ -1,0 +1,18 @@
+{
+  "id": "artist_49a9f67b-f4ba-4e3d-a6b6-ef1a8d583aa0",
+  "name": "柚子社",
+  "types": [],
+  "events": [],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yuzusoft2006",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.toypla.com/event_info/yuzu-soft_shop/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

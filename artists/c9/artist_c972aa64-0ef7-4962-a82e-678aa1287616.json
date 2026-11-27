@@ -1,0 +1,17 @@
+{
+  "id": "artist_c972aa64-0ef7-4962-a82e-678aa1287616",
+  "name": "3R2music",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/mu3r2",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

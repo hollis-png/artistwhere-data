@@ -1,0 +1,37 @@
+{
+  "id": "artist_a2da8cf9-8ba9-4635-90a3-09cf0bfc58db",
+  "name": "吾貓魔法工坊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://nekonekodesuuu.wixsite.com/nekonekodesuuuu",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100053947447344",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/nekoneko_desu",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCQAd5IdTwB2myy5EwmVKjVQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nekonekodesuuu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

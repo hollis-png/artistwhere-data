@@ -1,0 +1,44 @@
+{
+  "id": "artist_6c39e277-8b19-4074-b890-e40319da94b6",
+  "name": "万象森羅",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://banshou-shinra.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/V9x4fPCvDR",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://opensea.io/collection/banshou-shinra",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18728178",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ANETAROU",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/anetarouNFT",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

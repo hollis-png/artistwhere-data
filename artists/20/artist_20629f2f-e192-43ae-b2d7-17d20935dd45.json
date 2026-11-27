@@ -1,0 +1,32 @@
+{
+  "id": "artist_20629f2f-e192-43ae-b2d7-17d20935dd45",
+  "name": "LA69",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E8%8F%88%E8%8F%88la69-61576985875334/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6934141",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/lala_6699",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/LA521069",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

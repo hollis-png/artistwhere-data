@@ -1,0 +1,25 @@
+{
+  "id": "artist_74ff0016-76a7-4b4b-b0fc-cbe419795b80",
+  "name": "緋い笑撃",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/miko_master",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/24209987",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

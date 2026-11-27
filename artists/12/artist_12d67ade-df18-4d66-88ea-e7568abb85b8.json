@@ -1,0 +1,20 @@
+{
+  "id": "artist_12d67ade-df18-4d66-88ea-e7568abb85b8",
+  "name": "克特小舖",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100077996301807",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

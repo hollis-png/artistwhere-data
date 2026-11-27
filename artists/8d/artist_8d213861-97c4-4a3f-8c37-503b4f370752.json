@@ -1,0 +1,27 @@
+{
+  "id": "artist_8d213861-97c4-4a3f-8c37-503b4f370752",
+  "name": "Dekamimi",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/deka.mimi.2025",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/dekamimi_1917",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/dekamimi_1917",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

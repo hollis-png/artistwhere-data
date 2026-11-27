@@ -1,0 +1,64 @@
+{
+  "id": "artist_6b37d87f-412f-4323-a47a-b04d9dd079aa",
+  "name": "阿農Anon",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://anon114c.github.io/holbein-mixer/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://anon114c.wixsite.com/anon-114c",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://clibo.tw/users/V2WxKw",
+      "platform": "Clibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/anon_114c",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/anon_114c",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://vgen.co/anon_114c",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/anon_114c/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8155067",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/anon_114c",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@anon_114c",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

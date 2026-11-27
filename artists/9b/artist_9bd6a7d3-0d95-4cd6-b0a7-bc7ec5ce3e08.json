@@ -1,0 +1,18 @@
+{
+  "id": "artist_9bd6a7d3-0d95-4cd6-b0a7-bc7ec5ce3e08",
+  "name": "獸耳邏輯",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100000211452578",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

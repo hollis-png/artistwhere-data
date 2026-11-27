@@ -1,0 +1,32 @@
+{
+  "id": "artist_5680b9ef-630f-45bc-a2d1-4d34caada8d1",
+  "name": "小廢廢培養皿",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/uselessgarden2020",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/UselessGarden",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/UselessGarden2020",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/uselessgarden2020/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

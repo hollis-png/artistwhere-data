@@ -1,0 +1,106 @@
+{
+  "id": "artist_bc641ee9-ba8f-409b-a062-407edef7c6c5",
+  "name": "加帕利天藍怪預警中心",
+  "types": [
+    "other"
+  ],
+  "events": [],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/970A3C8F-EC70-451D-87E8-D5A86E8A8065/works",
+      "platform": "可洛斯",
+      "status": "alive",
+      "displayName": "所有創作"
+    },
+    {
+      "url": "https://clusters.tw/thumbnail/E3539FA6",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/nFTsSR9HAf",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://facebook.com/JapariWeatherBureau/subscribe",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://instagram.com/doujininfo_jwb",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/Seanminecraft",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.me/m.me/475346199507530",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://pixiv.net/users/18206795",
+      "platform": "Pixiv",
+      "status": "alive",
+      "displayName": "Seanminecraft18"
+    },
+    {
+      "url": "https://plurk.com/JWB_DoujinInfo",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/JapariWeatherBureau",
+      "platform": "Portaly",
+      "status": "alive",
+      "displayName": "加帕利天藍怪預警中心 動漫展、同人展 資訊整理"
+    },
+    {
+      "url": "https://t.me/JapariWeatherBureau",
+      "platform": "Link",
+      "status": "alive",
+      "displayName": "加帕利天藍怪預警中心"
+    },
+    {
+      "url": "https://tw-doujin.info/",
+      "platform": "Link",
+      "status": "alive",
+      "displayName": "台灣同人展攤位查詢系統"
+    },
+    {
+      "url": "https://tw-doujin.info/event/ffk19",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitch.tv/jwb_doujininfo",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/JapariWeatherBureau",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/JWB_Doujinshi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/seanminecraft2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/@JWB_DoujinInfo",
+      "platform": "YouTube",
+      "status": "alive",
+      "displayName": "加帕利天藍怪預警中心"
+    }
+  ]
+}

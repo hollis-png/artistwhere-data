@@ -1,0 +1,17 @@
+{
+  "id": "artist_d598bd35-9a26-4c7b-a7a4-8c3449327f4b",
+  "name": "飛行熊咪貓商會分部",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/rafealla0908",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

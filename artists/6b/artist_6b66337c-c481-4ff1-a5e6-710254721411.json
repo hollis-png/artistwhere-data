@@ -1,0 +1,47 @@
+{
+  "id": "artist_6b66337c-c481-4ff1-a5e6-710254721411",
+  "name": "烟花蹦蹦蹦",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/hCJnNkxFJB",
+      "platform": "Discord",
+      "status": "dead"
+    },
+    {
+      "url": "https://lit.link/YanHua",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/YH_03_30",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/spark0330",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yanhuavtuber/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/hennie2001",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCx_1ffdoE_L06OExQGhz6nw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

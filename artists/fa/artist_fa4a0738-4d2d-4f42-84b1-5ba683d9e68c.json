@@ -1,0 +1,17 @@
+{
+  "id": "artist_fa4a0738-4d2d-4f42-84b1-5ba683d9e68c",
+  "name": "白污麻糬王（天窗部）",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/KitsuSagi/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

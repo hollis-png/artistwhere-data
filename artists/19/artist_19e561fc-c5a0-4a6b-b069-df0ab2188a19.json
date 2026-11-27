@@ -1,0 +1,39 @@
+{
+  "id": "artist_19e561fc-c5a0-4a6b-b069-df0ab2188a19",
+  "name": "夜大大工作室",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/zephyryryr",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/people/%E6%B4%A9%E7%9F%A2%E7%B1%B3%E7%B1%B3%E7%B1%B3/61555937236894/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/zephyryr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2336843/artworks",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/zephyryr",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

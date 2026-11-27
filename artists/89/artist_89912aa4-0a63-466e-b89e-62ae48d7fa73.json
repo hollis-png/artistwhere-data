@@ -1,0 +1,32 @@
+{
+  "id": "artist_89912aa4-0a63-466e-b89e-62ae48d7fa73",
+  "name": "麒麟燒肉屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/kirin_things/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yaki._niku_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/YakiNiku__1221",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/smonkeyki13",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

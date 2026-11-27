@@ -1,0 +1,17 @@
+{
+  "id": "artist_50816ca0-5775-49ef-9652-3e03fedfdf02",
+  "name": "RayP",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61562447696899",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

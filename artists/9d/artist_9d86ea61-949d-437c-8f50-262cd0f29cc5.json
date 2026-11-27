@@ -1,0 +1,23 @@
+{
+  "id": "artist_9d86ea61-949d-437c-8f50-262cd0f29cc5",
+  "name": "南蠻工作室",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://nanban4sheep.wordpress.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/holo_circle_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

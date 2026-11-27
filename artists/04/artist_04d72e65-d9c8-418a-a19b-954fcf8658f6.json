@@ -1,0 +1,28 @@
+{
+  "id": "artist_04d72e65-d9c8-418a-a19b-954fcf8658f6",
+  "name": "四巫日Momihi cos",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E5%9B%9B%E5%B7%AB%E6%97%A5Momihi-cos-61555612422046/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/momihi__444",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/momihi__44",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

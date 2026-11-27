@@ -1,0 +1,32 @@
+{
+  "id": "artist_303b8284-cb05-4263-8024-958674365962",
+  "name": "アトリエ宮本",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://momonoki16.wixsite.com/-site",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mayutaro2015/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5258672",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ahogani",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

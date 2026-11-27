@@ -1,0 +1,23 @@
+{
+  "id": "artist_f631d7d2-9122-4605-aa03-23393f6e27bb",
+  "name": "捲筒衛生紙的人生",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/tpcat.net",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/tpcat",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artist_1f34fb76-5037-47e2-88b4-a4fa444e6d6a",
+  "name": "迷你翠",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Midori.prpr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/1000midori",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

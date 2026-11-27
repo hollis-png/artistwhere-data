@@ -1,0 +1,15 @@
+{
+  "id": "artist_dd66df72-37ac-49d1-9da7-44c8f3ac21b2",
+  "name": "模型DNA",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100057594753160",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "artist_cbce4a86-e8b3-4d2c-b8b1-4f5e0ae71e20",
+  "name": "國家通訊傳播委員會",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.ncc.gov.tw/chinese/index.aspx",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_64970a7a-8994-4ba3-8e75-3a4e354b90b5",
+  "name": "彩魚七海",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/@%E4%B8%83%E6%B5%B7%E5%BD%A9%E9%AD%9A",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nanami_ayao",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "artist_a4f0e489-fed9-48df-8e0c-37555a6d072c",
+  "name": "米媽媽狗園",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/MoegenkiStudio",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

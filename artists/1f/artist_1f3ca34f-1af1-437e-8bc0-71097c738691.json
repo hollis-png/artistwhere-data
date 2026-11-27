@@ -1,0 +1,22 @@
+{
+  "id": "artist_1f3ca34f-1af1-437e-8bc0-71097c738691",
+  "name": "一隅微生工作室",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=ji3g4moon2",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/monster19821110/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

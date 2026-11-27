@@ -1,0 +1,42 @@
+{
+  "id": "artist_d22e1fc6-ef7f-450f-97fd-ddc2ed5ce385",
+  "name": "神奇回收站",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://ko-fi.com/T3V0238CPB",
+      "platform": "Ko-fi",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/un.db.31",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/gamaart_109037/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/65093902",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Dbun7",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Dibun7",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

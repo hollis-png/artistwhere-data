@@ -1,0 +1,41 @@
+{
+  "id": "artist_40e240f8-0eff-4506-a571-99a48a706c76",
+  "name": "米克的倉庫",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://cxc.today/zh/store/MICKCOMIC/work",
+      "platform": "CXC",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MICKCOMIC",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/33712368",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/MICKCOMIC",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mickcomic",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

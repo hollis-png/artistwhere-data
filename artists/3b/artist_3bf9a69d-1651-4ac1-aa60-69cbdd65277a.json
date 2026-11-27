@@ -1,0 +1,23 @@
+{
+  "id": "artist_3bf9a69d-1651-4ac1-aa60-69cbdd65277a",
+  "name": "狗狗集會",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.twitch.tv/onthe_6",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Onthe_666",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

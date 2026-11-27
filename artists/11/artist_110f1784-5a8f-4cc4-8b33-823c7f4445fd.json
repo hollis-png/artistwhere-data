@@ -1,0 +1,22 @@
+{
+  "id": "artist_110f1784-5a8f-4cc4-8b33-823c7f4445fd",
+  "name": "宸語 コーギー",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/corgi_0522",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@corgi_0522",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

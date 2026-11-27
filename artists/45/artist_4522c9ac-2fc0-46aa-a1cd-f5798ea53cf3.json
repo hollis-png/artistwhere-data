@@ -1,0 +1,20 @@
+{
+  "id": "artist_4522c9ac-2fc0-46aa-a1cd-f5798ea53cf3",
+  "name": "艾宅團",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E8%89%BE%E5%AE%85%E6%89%8B%E4%BD%9C%E9%A4%A8-100064501458071/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

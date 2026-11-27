@@ -1,0 +1,44 @@
+{
+  "id": "artist_cbb216a2-e6d7-4e2a-9b00-3d8956cbd962",
+  "name": "wendydydydy",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/wendydydydy",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://venmo.com/u/Wendydydydy",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/WENDYDYDYDY",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/_wendydydydy/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/wendydydydy_",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/_wendydydydy",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "artist_b5f6e1db-5b95-4870-806d-622b95a0aff2",
+  "name": "小島伊織",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://kojimaiori.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/kojimaiori",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/44212162",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kojimaiori",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

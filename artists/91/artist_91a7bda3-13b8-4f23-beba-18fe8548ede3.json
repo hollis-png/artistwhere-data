@@ -1,0 +1,32 @@
+{
+  "id": "artist_91a7bda3-13b8-4f23-beba-18fe8548ede3",
+  "name": "烏鴉窩",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=h8l8mail01",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/crowsbox",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/crowsbox/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC-YrhetSNq4kUGzhmC7trXw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

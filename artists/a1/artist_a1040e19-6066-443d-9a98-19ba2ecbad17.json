@@ -1,0 +1,20 @@
+{
+  "id": "artist_a1040e19-6066-443d-9a98-19ba2ecbad17",
+  "name": "釉釉園",
+  "types": [],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/sakumiyaminato",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sakumiyaminato",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

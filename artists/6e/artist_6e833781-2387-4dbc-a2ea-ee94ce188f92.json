@@ -1,0 +1,17 @@
+{
+  "id": "artist_6e833781-2387-4dbc-a2ea-ee94ce188f92",
+  "name": "黑鲸梦画",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/TheartofDarknessDreams",
+      "platform": "Lit.link",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "artist_48337ffa-4494-4968-8242-79745109eaae",
+  "name": "桑尼微笑狗舖",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/DachshundSunnySmile/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "artist_a98e60f4-ca91-4372-9379-fb5191c09919",
+  "name": "踏雪嗚哇",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/sunohamster.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/cFj3eWV5vk",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/sunohamster",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.ecpay.com.tw/Broadcaster/Donate/C007FB7886C15FAA601EC645D854011A",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://sunohamsterlive2d.carrd.co/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sunohamstervt/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@sunohamstervt",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/sunohamster",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@sunohamster/featured",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/SunoHamster",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

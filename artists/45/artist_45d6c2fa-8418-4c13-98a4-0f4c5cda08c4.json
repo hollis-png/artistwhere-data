@@ -1,0 +1,52 @@
+{
+  "id": "artist_45d6c2fa-8418-4c13-98a4-0f4c5cda08c4",
+  "name": "＋そおの",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/soono.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://soono.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://soono2023.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/soono_artist",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/540668",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCJ4lUmPIs4RhEihsSZ7Jl1Q",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shinjinruiC",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/soOno2020",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

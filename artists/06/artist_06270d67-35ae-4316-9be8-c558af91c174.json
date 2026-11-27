@@ -1,0 +1,20 @@
+{
+  "id": "artist_06270d67-35ae-4316-9be8-c558af91c174",
+  "name": "施展毛茸茸的魔法",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61580939380671",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/3729ppcat",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

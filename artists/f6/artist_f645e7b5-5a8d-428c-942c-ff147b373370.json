@@ -1,0 +1,23 @@
+{
+  "id": "artist_f645e7b5-5a8d-428c-942c-ff147b373370",
+  "name": "黎黎寧寧",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ningli0912/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/_ning_li",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

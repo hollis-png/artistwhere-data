@@ -1,0 +1,17 @@
+{
+  "id": "artist_35e0d90e-7727-4e32-8d24-7da6604f8b75",
+  "name": "加加減減",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/pierrot444",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

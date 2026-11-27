@@ -1,0 +1,61 @@
+{
+  "id": "artist_480a24a5-0789-4a6e-91b8-1a21f3c57263",
+  "name": "黑毛圈圈",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/normaootw.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/jVsbcaheJc",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/normaootw",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.ecpay.com.tw/Broadcaster/Donate/078A751929C837FA59A5F0B5F5E2C7B9",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.opay.tw/Broadcaster/Donate/EF9BDED08303B42EB94BF05F9F6F9545",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/normaoo_tw/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/brilio",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@normaootw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/normaoo_tw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "artist_6e8ff469-19fb-4318-9b57-ee63187fbb52",
+  "name": "茶花室 ❙ 營業中",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/g49EB3C46G",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/Mitsuki3i.art",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mitsuki3i_",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/111137066",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@MiTsuki3i",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

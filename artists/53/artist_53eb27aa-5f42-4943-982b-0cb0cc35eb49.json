@@ -1,0 +1,18 @@
+{
+  "id": "artist_53eb27aa-5f42-4943-982b-0cb0cc35eb49",
+  "name": "書櫃裡的謎之物",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/groups/info/6044",
+      "platform": "同人誌通販",
+      "status": "alive"
+    }
+  ]
+}

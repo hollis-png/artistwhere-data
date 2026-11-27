@@ -1,0 +1,30 @@
+{
+  "id": "artist_6d6e6e11-0981-4567-a1eb-03e73ee9a2ee",
+  "name": "檸檬酸循環",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/TakaKuan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1339827",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/takahisaT",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

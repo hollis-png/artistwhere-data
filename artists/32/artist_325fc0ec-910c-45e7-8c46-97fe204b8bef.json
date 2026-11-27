@@ -1,0 +1,17 @@
+{
+  "id": "artist_325fc0ec-910c-45e7-8c46-97fe204b8bef",
+  "name": "Fe3C",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/886BE0D3-EF86-483D-B1F4-A7CD66E99AAB/works?creatorFields=all",
+      "platform": "可洛斯",
+      "status": "alive"
+    }
+  ]
+}

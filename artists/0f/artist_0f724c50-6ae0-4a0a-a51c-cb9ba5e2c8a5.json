@@ -1,0 +1,22 @@
+{
+  "id": "artist_0f724c50-6ae0-4a0a-a51c-cb9ba5e2c8a5",
+  "name": "真香警告",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=sam30497",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/waymay555",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

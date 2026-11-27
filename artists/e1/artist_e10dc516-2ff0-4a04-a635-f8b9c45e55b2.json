@@ -1,0 +1,39 @@
+{
+  "id": "artist_e10dc516-2ff0-4a04-a635-f8b9c45e55b2",
+  "name": "七兒777",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/GzCbWMestp",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Chii0827/",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "Ki La"
+    },
+    {
+      "url": "https://www.instagram.com/najaichii",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chiar_7",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/najaichii",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

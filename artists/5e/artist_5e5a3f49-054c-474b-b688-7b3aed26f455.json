@@ -1,0 +1,24 @@
+{
+  "id": "artist_5e5a3f49-054c-474b-b688-7b3aed26f455",
+  "name": "愛做夢的人",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Dream.Chaser.BY.VA/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/flower1226",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

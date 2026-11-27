@@ -1,0 +1,23 @@
+{
+  "id": "artist_83393594-c00c-421d-88eb-335f3a823ad6",
+  "name": "freng",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/frengchiano2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3975343",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

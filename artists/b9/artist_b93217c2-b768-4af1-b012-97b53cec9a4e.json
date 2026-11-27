@@ -1,0 +1,22 @@
+{
+  "id": "artist_b93217c2-b768-4af1-b012-97b53cec9a4e",
+  "name": "有生之年文創局",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://wall.gamer.com.tw/user.php?userId=e10150101",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/LFTCCB/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

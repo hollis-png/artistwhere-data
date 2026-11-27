@@ -1,0 +1,17 @@
+{
+  "id": "artist_1d2932a5-67cf-4207-9ad1-0e98f669d00a",
+  "name": "komuu",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/komuu.art",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

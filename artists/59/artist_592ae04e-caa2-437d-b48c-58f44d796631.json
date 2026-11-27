@@ -1,0 +1,46 @@
+{
+  "id": "artist_592ae04e-caa2-437d-b48c-58f44d796631",
+  "name": "Tiffany小豬舍",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/t.tiffany.y",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100035665731489",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/1DTE4bG2pQ/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/t.tiffany.y/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCqzsoo93dZLXar0l9imQGIQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/t_tiffany_y",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

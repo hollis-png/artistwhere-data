@@ -1,0 +1,43 @@
+{
+  "id": "artist_3af99668-18c9-4212-bfe1-d32f3b78b190",
+  "name": "山羊怕怕沒有股份還沒成立公司",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ppy117v/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ppy117v/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ppy117v",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.ppy117v.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@ppy117v",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ppy117v",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

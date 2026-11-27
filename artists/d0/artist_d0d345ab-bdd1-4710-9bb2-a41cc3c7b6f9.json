@@ -1,0 +1,48 @@
+{
+  "id": "artist_d0d345ab-bdd1-4710-9bb2-a41cc3c7b6f9",
+  "name": "蛞蝓闆娘",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://maya-1114.my.canva.site/hairmine-coal",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sophia.chu.chu.2025",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hairmine_coal/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/maya_11_14_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/104395341",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/MayaBaby_ouo_",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/hairmine_coal",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

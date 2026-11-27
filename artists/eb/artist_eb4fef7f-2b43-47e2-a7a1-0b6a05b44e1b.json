@@ -1,0 +1,17 @@
+{
+  "id": "artist_eb4fef7f-2b43-47e2-a7a1-0b6a05b44e1b",
+  "name": "永遠的日子",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/mk21jk90",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

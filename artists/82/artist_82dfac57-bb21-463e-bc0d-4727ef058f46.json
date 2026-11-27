@@ -1,0 +1,17 @@
+{
+  "id": "artist_82dfac57-bb21-463e-bc0d-4727ef058f46",
+  "name": "鼠鼠盒子micebox",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/micebox.studio/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

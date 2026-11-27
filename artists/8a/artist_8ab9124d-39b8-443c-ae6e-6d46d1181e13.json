@@ -1,0 +1,32 @@
+{
+  "id": "artist_8ab9124d-39b8-443c-ae6e-6d46d1181e13",
+  "name": "Ya喵子的貓窩",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yanekomeow/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/9290587",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/nekomeow216",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

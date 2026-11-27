@@ -1,0 +1,25 @@
+{
+  "id": "artist_15a60b87-54bd-4f22-b9c8-6b0eb849095c",
+  "name": "Kise Sensei",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/goh.mushiboyhann",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mushiboyhann",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/501069",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

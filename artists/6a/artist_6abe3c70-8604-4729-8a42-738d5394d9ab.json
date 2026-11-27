@@ -1,0 +1,23 @@
+{
+  "id": "artist_6abe3c70-8604-4729-8a42-738d5394d9ab",
+  "name": "NABI0 蝶呤",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/l_nabi0/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/NABI0studio",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

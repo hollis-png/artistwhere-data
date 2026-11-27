@@ -1,0 +1,24 @@
+{
+  "id": "artist_d87d5b01-799d-4763-a731-1fb489703e73",
+  "name": "FC社",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/FurryCutie",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/furry_cutie",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "artist_dbcb52f9-a1c6-4f4e-9bb1-eb2b16bc1f5b",
+  "name": "虛位以待",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/Nanashi.TheVoid?ltsid=92fe7621-c39f-454e-811b-6d977f5d1e77",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/CHT48621",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/john.cheng.509742",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/4862_cht",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18098009",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

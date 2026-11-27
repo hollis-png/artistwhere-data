@@ -1,0 +1,22 @@
+{
+  "id": "artist_21f725f7-0837-42ee-82f0-5ece4f59e113",
+  "name": "舞舞神拳",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/hai.ye.tako",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/maimaigodpunch/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

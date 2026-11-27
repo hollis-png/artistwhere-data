@@ -1,0 +1,44 @@
+{
+  "id": "artist_87ea0eee-e552-47c9-9a74-2a3402fbfa0f",
+  "name": "犬神Inugami",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/7WeW9nCCZB",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://heylink.me/ago1023/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitch.tv/inugami1023",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/19Va1xGT79/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ago_inugami/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ago1023",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

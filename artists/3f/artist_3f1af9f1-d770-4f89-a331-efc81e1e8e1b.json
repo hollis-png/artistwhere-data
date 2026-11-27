@@ -1,0 +1,28 @@
+{
+  "id": "artist_3f1af9f1-d770-4f89-a331-efc81e1e8e1b",
+  "name": "骨頭Man",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/GutouMan",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCqavsxle0XUiPxScKytIsUw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/HappyGutouMan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

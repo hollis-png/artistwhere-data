@@ -1,0 +1,35 @@
+{
+  "id": "artist_9651d4de-837f-44a9-a7af-e91d4d13b97b",
+  "name": "Takiki Palette",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://blog.naver.com/kkskkskim",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/60386498",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Takiki2828",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Takiki2828kr",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

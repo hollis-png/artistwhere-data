@@ -1,0 +1,29 @@
+{
+  "id": "artist_663245c9-9f4a-432f-93a8-18f5d8c72eb3",
+  "name": "wan wan shop",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://pont.co/u/harunoinu",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@%E3%81%AF%E3%82%8B%E3%81%95%E3%82%93%E5%AE%B6%E3%81%AE%E7%8A%AC",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/haru_no_inu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

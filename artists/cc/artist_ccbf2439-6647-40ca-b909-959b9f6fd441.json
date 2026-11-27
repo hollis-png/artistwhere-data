@@ -1,0 +1,27 @@
+{
+  "id": "artist_ccbf2439-6647-40ca-b909-959b9f6fd441",
+  "name": "Mo子宅屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/tpss93054",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/BLUE1OR2/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5628753",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "artist_e93610ec-b0cf-49f8-912b-1640e171d92e",
+  "name": "夏雪喵是隻Tako！",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/meow-natsuyuki.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/xia.xue.839977",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/nekoalis",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCMATEDVf2xE4h_-jFUAfYyg",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/meow_natsuyuki",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

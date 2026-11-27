@@ -1,0 +1,55 @@
+{
+  "id": "artist_320bb681-c61a-45f9-acf1-3f5b5b038e5c",
+  "name": "帕淇",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/Qr4m8p5rp7",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://p.ecpay.com.tw/7C6CC2A",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/pachi",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/pachi_art_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/pachiart31",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/pachi_art/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/pachi_art",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://zx890531.wixsite.com/pachiart31",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

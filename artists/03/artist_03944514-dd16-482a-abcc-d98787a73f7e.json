@@ -1,0 +1,20 @@
+{
+  "id": "artist_03944514-dd16-482a-abcc-d98787a73f7e",
+  "name": "無何有",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ailanto.joy#",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Ailanto_2001",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

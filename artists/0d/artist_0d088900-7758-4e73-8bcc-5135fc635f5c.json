@@ -1,0 +1,32 @@
+{
+  "id": "artist_0d088900-7758-4e73-8bcc-5135fc635f5c",
+  "name": "言夏森 Dreambox",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E8%A8%80%E5%A4%8F%E6%A3%AE-Dreambox-61568925285144/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/vtuber_dreambox",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@dreamboxvtuber",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Dreambox_2024",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

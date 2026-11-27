@@ -1,0 +1,45 @@
+{
+  "id": "artist_599854d9-385c-4355-b9b4-0be02e5ca259",
+  "name": "心重力動漫工作室",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/spadesgx",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://page2010.pixnet.net/blog",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.doujin.com.tw/groups/info/1806",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063989410989",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2545057",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Spades_GX",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

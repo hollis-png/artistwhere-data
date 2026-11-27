@@ -1,0 +1,39 @@
+{
+  "id": "artist_2d73eb29-1642-47d6-945a-b9f7d3eebaf4",
+  "name": "LOST CAT",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/lostcatszone",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/shimoyuki.wong",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/shimoyuki_shimo_yuki",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5241703",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shimoyuki10",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

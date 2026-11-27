@@ -1,0 +1,27 @@
+{
+  "id": "artist_e7e7417b-2494-4d07-b0da-ea5d7dc33e23",
+  "name": "雨野小房間",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E9%9B%A8%E9%87%8E%E5%B0%8F%E6%88%BF%E9%96%93-100064075721749/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/yu.ye.ameri",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/amanoikemen",
+      "platform": "Plurk",
+      "status": "dead"
+    }
+  ]
+}

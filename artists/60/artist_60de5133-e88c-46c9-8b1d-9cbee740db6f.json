@@ -1,0 +1,44 @@
+{
+  "id": "artist_60de5133-e88c-46c9-8b1d-9cbee740db6f",
+  "name": "千雪Chiyuki",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/3VGmqV76zH",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/Chiyuki2002",
+      "platform": "Lit.link",
+      "status": "dead"
+    },
+    {
+      "url": "https://twitter.com/Chiyuki_91",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/chiyuki.hojo.7",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/chiyuki_91/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8709838",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "artist_50e4d9b6-18bb-4971-a147-30d43d2181a1",
+  "name": "本土英雄-寶島轟雷",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/titw.thunder/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/wjwd.thunder/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "artist_8d2027c5-9580-4f44-97e8-5effd599e496",
+  "name": "寂靜不安靜",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.furuke.com/chiching",
+      "platform": "Furuke",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/chiching_cos/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/0322chiching",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

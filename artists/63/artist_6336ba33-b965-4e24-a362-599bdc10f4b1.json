@@ -1,0 +1,35 @@
+{
+  "id": "artist_6336ba33-b965-4e24-a362-599bdc10f4b1",
+  "name": "哈魯醬",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/harucyannnn",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/harucyannnn",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/harucyannnn",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/harucyannnn/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

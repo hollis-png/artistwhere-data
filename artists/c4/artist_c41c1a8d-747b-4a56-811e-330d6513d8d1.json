@@ -1,0 +1,45 @@
+{
+  "id": "artist_c41c1a8d-747b-4a56-811e-330d6513d8d1",
+  "name": "調布市民ふれあい文化サークル",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/choufushimin.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/chorfsimin",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://misskey.io/@chorfsimin",
+      "platform": "Mastodon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/choufu_shimin/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/655116",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ChoufuShimin",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chorfsimin",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

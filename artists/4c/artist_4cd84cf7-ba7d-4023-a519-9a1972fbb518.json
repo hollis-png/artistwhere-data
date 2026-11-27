@@ -1,0 +1,15 @@
+{
+  "id": "artist_4cd84cf7-ba7d-4023-a519-9a1972fbb518",
+  "name": "Noah’s Crate Studio",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/noahscrate/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

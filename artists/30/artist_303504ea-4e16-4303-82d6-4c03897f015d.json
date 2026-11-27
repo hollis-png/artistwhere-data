@@ -1,0 +1,44 @@
+{
+  "id": "artist_303504ea-4e16-4303-82d6-4c03897f015d",
+  "name": "高電壓LAB",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/481427",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://lod.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://pixiv.me/lod_rin",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://pixiv.me/rod_lin",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://rod.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Rod_Lin",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

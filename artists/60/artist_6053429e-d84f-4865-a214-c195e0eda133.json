@@ -1,0 +1,20 @@
+{
+  "id": "artist_6053429e-d84f-4865-a214-c195e0eda133",
+  "name": "沖田太太是凜花",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61560057430651",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Anniemeow01",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

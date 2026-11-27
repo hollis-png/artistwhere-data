@@ -1,0 +1,38 @@
+{
+  "id": "artist_6462b632-17b5-423d-8c4c-6ced3ca862fb",
+  "name": "Titania魚魚",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/Titania%E9%AD%9A%E9%AD%9A-100064874466511/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.furuke.com/Titania1008",
+      "platform": "Furuke",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/titania.158",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/titania158",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/titania_158",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

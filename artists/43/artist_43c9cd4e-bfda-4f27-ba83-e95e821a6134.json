@@ -1,0 +1,37 @@
+{
+  "id": "artist_43c9cd4e-bfda-4f27-ba83-e95e821a6134",
+  "name": "兔王",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/BunnyK",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/bunny.king.5015983/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/k_the_bunny",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/10103233",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/_Bunny_King_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

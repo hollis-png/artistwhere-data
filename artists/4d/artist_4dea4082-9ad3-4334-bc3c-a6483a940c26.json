@@ -1,0 +1,29 @@
+{
+  "id": "artist_4dea4082-9ad3-4334-bc3c-a6483a940c26",
+  "name": "Kamiya神夜",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/kamiya19930330",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ye.jun.ting.716704",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.pixiv.net/users/13654932/illustrations",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

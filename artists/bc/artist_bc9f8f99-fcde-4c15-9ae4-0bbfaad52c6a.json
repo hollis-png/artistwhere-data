@@ -1,0 +1,28 @@
+{
+  "id": "artist_bc9f8f99-fcde-4c15-9ae4-0bbfaad52c6a",
+  "name": "隨性兔",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/mf._.rabbit_",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/kirakunausagisan",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kirakunausagi/",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "隨性兔 kirakunausagi"
+    }
+  ]
+}

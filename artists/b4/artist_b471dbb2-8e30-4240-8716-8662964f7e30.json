@@ -1,0 +1,20 @@
+{
+  "id": "artist_b471dbb2-8e30-4240-8716-8662964f7e30",
+  "name": "雪花兔usagi-cosplay",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/xue.hua.tu/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sakayume_saki",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

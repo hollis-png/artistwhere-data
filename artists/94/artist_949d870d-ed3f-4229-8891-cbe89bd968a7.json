@@ -1,0 +1,43 @@
+{
+  "id": "artist_949d870d-ed3f-4229-8891-cbe89bd968a7",
+  "name": "克蘿",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/koro410177.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/koro410177",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61556467349710&locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/koro_410177/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/22328716",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/koro410177",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

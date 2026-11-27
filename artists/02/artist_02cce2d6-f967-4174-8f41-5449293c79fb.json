@@ -1,0 +1,35 @@
+{
+  "id": "artist_02cce2d6-f967-4174-8f41-5449293c79fb",
+  "name": "優糖不能吃ㄚ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/gHFE2MABbe",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/winexc_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ne.wi.58",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/107669364",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

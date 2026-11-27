@@ -1,0 +1,32 @@
+{
+  "id": "artist_eb69e91a-5f0f-49f2-ab37-1dbdfb88ee6e",
+  "name": "咖啡歐蕾",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/_CoffeeOle",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://weibo.com/u/7357833100",
+      "platform": "Weibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100079962587939",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/33751500",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

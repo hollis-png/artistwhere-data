@@ -1,0 +1,25 @@
+{
+  "id": "artist_7b8b65c4-0506-4320-ae9d-7094d1088abc",
+  "name": "10-satellites",
+  "types": [],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/sogou",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sogou0111/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Sogou0111",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

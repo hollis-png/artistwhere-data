@@ -1,0 +1,22 @@
+{
+  "id": "artist_548bb03f-09b5-4c13-a345-33863043c9b0",
+  "name": "瓦屋工房",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/kawaraya_EDO",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/14074088",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

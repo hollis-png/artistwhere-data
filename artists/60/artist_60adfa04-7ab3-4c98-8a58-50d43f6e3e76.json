@@ -1,0 +1,90 @@
+{
+  "id": "artist_60adfa04-7ab3-4c98-8a58-50d43f6e3e76",
+  "name": "你也是舞台少女？",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/irene309.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive",
+      "displayName": "九夏 (@irene309.bsky.social)"
+    },
+    {
+      "url": "https://discord.gg/Fp68GKfFYa",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://irene309.booth.pm",
+      "platform": "Booth",
+      "status": "alive"
+    },
+    {
+      "url": "https://irene30921.wixsite.com/shiroikawa",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/Irene309",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://shirakawa309.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "dead"
+    },
+    {
+      "url": "https://twitter.com/shiroikawa_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.doujin.com.tw/authors/info/Shiroikawa",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.doujin.com.tw/groups/info/8281",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Irene309w",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/irene_words",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/63974202",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Irene309",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@irene_words",
+      "platform": "Threads",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/Irene309_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

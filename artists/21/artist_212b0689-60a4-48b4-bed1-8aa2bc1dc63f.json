@@ -1,0 +1,33 @@
+{
+  "id": "artist_212b0689-60a4-48b4-bed1-8aa2bc1dc63f",
+  "name": "都都幾都幾",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100007673231505",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/dooge1212/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/15042391",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Dooge1984123",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

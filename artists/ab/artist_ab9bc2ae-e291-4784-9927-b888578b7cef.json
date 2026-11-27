@@ -1,0 +1,42 @@
+{
+  "id": "artist_ab9bc2ae-e291-4784-9927-b888578b7cef",
+  "name": "蠢羊NISIN",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/nisinsheep",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Nisinsheep/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/stupidsheep003",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3608556/novels",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/NISIN",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/NISINsambora",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

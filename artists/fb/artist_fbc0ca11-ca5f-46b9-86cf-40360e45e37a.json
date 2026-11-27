@@ -1,0 +1,30 @@
+{
+  "id": "artist_fbc0ca11-ca5f-46b9-86cf-40360e45e37a",
+  "name": "HIGH RISK REVOLUTION",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.highriskrevolution.com/wp/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/29090",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://hrr.booth.pm",
+      "platform": "Booth",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/aizawahiroshi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

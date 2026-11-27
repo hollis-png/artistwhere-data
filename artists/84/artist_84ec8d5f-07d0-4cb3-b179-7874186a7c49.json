@@ -1,0 +1,22 @@
+{
+  "id": "artist_84ec8d5f-07d0-4cb3-b179-7874186a7c49",
+  "name": "阿伏特_AFT",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/8122661",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tonesword",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

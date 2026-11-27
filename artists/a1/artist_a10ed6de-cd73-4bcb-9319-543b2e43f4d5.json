@@ -1,0 +1,28 @@
+{
+  "id": "artist_a10ed6de-cd73-4bcb-9319-543b2e43f4d5",
+  "name": "LunaBerry",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/nannanananaunau",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://nanananaaannaa.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nanananaaannaa",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

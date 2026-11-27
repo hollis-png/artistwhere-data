@@ -1,0 +1,18 @@
+{
+  "id": "artist_3bb9b5f4-16bc-4a1f-a62f-7f62a49ec961",
+  "name": "規尬的地下競馬場",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/xinqilou",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

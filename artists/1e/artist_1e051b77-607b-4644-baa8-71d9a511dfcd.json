@@ -1,0 +1,42 @@
+{
+  "id": "artist_1e051b77-607b-4644-baa8-71d9a511dfcd",
+  "name": "秋荻少女",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "http://chudyshoujo.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/AkiogiShoujo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ChudyShoujo",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6350540",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/chudyshoujo",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

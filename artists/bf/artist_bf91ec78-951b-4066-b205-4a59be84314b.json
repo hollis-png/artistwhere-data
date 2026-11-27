@@ -1,0 +1,25 @@
+{
+  "id": "artist_bf91ec78-951b-4066-b205-4a59be84314b",
+  "name": "WaiFubuki✰",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/fubuki0618",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/wai.fubuki/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/31678818",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

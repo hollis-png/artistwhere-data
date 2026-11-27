@@ -1,0 +1,18 @@
+{
+  "id": "artist_a6db800f-fa90-47c4-90b0-59caa893ab01",
+  "name": "小龍貓不是小籠包",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://space.bilibili.com/347863685/",
+      "platform": "Bilibili",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "artist_1a67982d-6e18-4e23-a729-a31912f2ad37",
+  "name": "Silver * Here",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/silverxhere",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/silverxhere/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/silverxhere",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/sxholic",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/silverxhere",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

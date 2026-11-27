@@ -1,0 +1,20 @@
+{
+  "id": "artist_a0c6dae1-34dc-43f2-88cb-47137d5c10fe",
+  "name": "命由工作室",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/FreelLve",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4972747",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

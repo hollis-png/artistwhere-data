@@ -1,0 +1,25 @@
+{
+  "id": "artist_9e3aaa01-862d-447f-8f53-0c07dd794d2f",
+  "name": "二色幽紫蝶",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://space.bilibili.com/86865890",
+      "platform": "Bilibili",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/youziKK",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

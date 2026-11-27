@@ -1,0 +1,32 @@
+{
+  "id": "artist_b0a52626-ce62-451f-af0e-f69fe0ccdc09",
+  "name": "金華火腿",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/Felis0423",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/felis0423",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCwkd1cKagtUtodzhQUhMuxg",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Felis0423",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

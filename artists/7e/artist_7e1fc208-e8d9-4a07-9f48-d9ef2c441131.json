@@ -1,0 +1,29 @@
+{
+  "id": "artist_7e1fc208-e8d9-4a07-9f48-d9ef2c441131",
+  "name": "廢人生活",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/narukamax",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1580223",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/LAIMEW00",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

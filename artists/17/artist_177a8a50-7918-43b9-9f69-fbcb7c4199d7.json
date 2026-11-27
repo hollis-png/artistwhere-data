@@ -1,0 +1,27 @@
+{
+  "id": "artist_177a8a50-7918-43b9-9f69-fbcb7c4199d7",
+  "name": "falenini's",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/hanamori59ya",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/HanaMoriart/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/9205975",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

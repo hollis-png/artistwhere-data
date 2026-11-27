@@ -1,0 +1,29 @@
+{
+  "id": "artist_3b066edf-ee57-4a22-9971-212de704636d",
+  "name": "coneco.Y. (洋食小貓)",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/twUT3X3XDR",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/groups/257386581111808/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/YConeco",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

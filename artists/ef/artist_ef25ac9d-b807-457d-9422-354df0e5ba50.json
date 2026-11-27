@@ -1,0 +1,28 @@
+{
+  "id": "artist_ef25ac9d-b807-457d-9422-354df0e5ba50",
+  "name": "EMyo",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://emyo.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5596229",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/emyo27",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "artist_813519b4-c692-4351-a49c-479ea8d29490",
+  "name": "My Garden 我的庭園（羊毛氈手作坊）",
+  "types": [
+    "artist",
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "http://linktr.ee/mygardenmylife",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/puddingdog520",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MyGardenMyLife/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/my_gardenmylife/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

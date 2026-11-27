@@ -1,0 +1,41 @@
+{
+  "id": "artist_125c2f0d-fb2f-41ae-ba8b-0b26e8137c24",
+  "name": "晨光乳品製作所",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/kousinmyu.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/acucs",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/1Xw27eUQ2R/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sinkoumyu/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1256185/artworks",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

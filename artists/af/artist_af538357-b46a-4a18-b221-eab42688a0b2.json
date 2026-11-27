@@ -1,0 +1,27 @@
+{
+  "id": "artist_af538357-b46a-4a18-b221-eab42688a0b2",
+  "name": "色彩畫廊 (Iro-iro Gallery)色々・ギャラリー",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/iro_iro_gallery/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/91033977",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/japanirogallery",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

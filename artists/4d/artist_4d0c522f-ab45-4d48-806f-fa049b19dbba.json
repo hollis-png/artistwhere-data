@@ -1,0 +1,25 @@
+{
+  "id": "artist_4d0c522f-ab45-4d48-806f-fa049b19dbba",
+  "name": "荷月晴",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/NitsukiHare",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/19378083",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Nitsuki_Hare",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

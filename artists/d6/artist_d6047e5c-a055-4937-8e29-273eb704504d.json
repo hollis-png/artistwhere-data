@@ -1,0 +1,28 @@
+{
+  "id": "artist_d6047e5c-a055-4937-8e29-273eb704504d",
+  "name": "玩機人",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/playrobot1/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/playrobot1012",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC-J1B6zHUrqWv5V7CMci1qQ",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

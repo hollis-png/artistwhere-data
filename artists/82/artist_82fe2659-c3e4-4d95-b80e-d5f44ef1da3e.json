@@ -1,0 +1,22 @@
+{
+  "id": "artist_82fe2659-c3e4-4d95-b80e-d5f44ef1da3e",
+  "name": "仙狐神社",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/@Osenko_nadeko",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Osenko_nadeko",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

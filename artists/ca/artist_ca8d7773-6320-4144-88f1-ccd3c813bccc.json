@@ -1,0 +1,27 @@
+{
+  "id": "artist_ca8d7773-6320-4144-88f1-ccd3c813bccc",
+  "name": "Bicolor",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/285051",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/neko_kuroshiro",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/neko1234567",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "artist_4678b6d8-0ff1-49f4-8423-4dce1c268ebf",
+  "name": "MechaJin",
+  "types": [
+    "artist",
+    "craft"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://artstation.com/mechajin",
+      "platform": "ArtStation",
+      "status": "alive"
+    },
+    {
+      "url": "https://facebook.com/MechaJin1117",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/mechajin",
+      "platform": "Lit.link",
+      "status": "alive",
+      "displayName": "仿機誌 MechaJin lit.link"
+    },
+    {
+      "url": "https://myacg.com.tw/seller_market.php?seller=704007",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/MechaJin1117",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/mechamakerjin",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "仿機誌MechaJin"
+    },
+    {
+      "url": "https://www.instagram.com/mechajin1117/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@MechaMakerJin",
+      "platform": "YouTube",
+      "status": "alive",
+      "displayName": "仿機誌MechaJin"
+    }
+  ]
+}

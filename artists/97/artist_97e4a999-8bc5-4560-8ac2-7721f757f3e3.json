@@ -1,0 +1,28 @@
+{
+  "id": "artist_97e4a999-8bc5-4560-8ac2-7721f757f3e3",
+  "name": "青葉工房",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/hiko.pi.39",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/42250882",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hikopi0423",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

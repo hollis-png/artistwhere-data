@@ -1,0 +1,21 @@
+{
+  "id": "artist_5aded959-da14-4db7-bb8c-021ad89715b3",
+  "name": "毛毛創森坊",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/lins.joinery.creation/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

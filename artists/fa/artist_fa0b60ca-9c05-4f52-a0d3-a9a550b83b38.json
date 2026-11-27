@@ -1,0 +1,24 @@
+{
+  "id": "artist_fa0b60ca-9c05-4f52-a0d3-a9a550b83b38",
+  "name": "超大玉米力",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/CORNLEE.YUMILEE/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5560839",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

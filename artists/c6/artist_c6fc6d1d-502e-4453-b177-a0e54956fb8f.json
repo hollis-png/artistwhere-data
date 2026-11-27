@@ -1,0 +1,23 @@
+{
+  "id": "artist_c6fc6d1d-502e-4453-b177-a0e54956fb8f",
+  "name": "電諾丘工坊",
+  "types": [
+    "craft",
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61583873330635",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/black78046",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

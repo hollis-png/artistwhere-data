@@ -1,0 +1,49 @@
+{
+  "id": "artist_9fa885b5-4510-4c39-8ba8-6fa8d23510ce",
+  "name": "小白熊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/creation.php?owner=galvestxy",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/WhiteRiceBear",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/whitericebear",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/whitericebear/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/308870",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/WRB",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/TilliLing0130",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

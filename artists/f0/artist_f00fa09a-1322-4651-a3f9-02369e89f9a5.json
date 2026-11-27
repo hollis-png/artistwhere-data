@@ -1,0 +1,55 @@
+{
+  "id": "artist_f00fa09a-1322-4651-a3f9-02369e89f9a5",
+  "name": "B.c.N.y.",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/creation.php?owner=bcny",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/BcnyArt/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/bcnyart/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/286678",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/bcny",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@bcnyart",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@bcnyart/",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/BcNyART",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

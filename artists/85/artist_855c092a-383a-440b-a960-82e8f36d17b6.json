@@ -1,0 +1,20 @@
+{
+  "id": "artist_855c092a-383a-440b-a960-82e8f36d17b6",
+  "name": "Koronsui Clinic",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/koronsuiclinic/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/koronsui",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

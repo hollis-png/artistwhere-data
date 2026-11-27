@@ -1,0 +1,38 @@
+{
+  "id": "artist_fae6b47d-b2e9-496d-bd9e-4365f588625f",
+  "name": "NC731",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/dXrSpKCt29",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=a8407310731",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/NC731_R18",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100088389972378",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3372346",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

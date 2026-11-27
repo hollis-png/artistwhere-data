@@ -1,0 +1,43 @@
+{
+  "id": "artist_6764b6a2-15dc-4c8e-a8dc-327b285e352b",
+  "name": "Lotai愛莉塔",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/lotai0301.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100059107663622",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/lotai_uwu/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/37214219",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@lotai_uwu",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/lotai_paint",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

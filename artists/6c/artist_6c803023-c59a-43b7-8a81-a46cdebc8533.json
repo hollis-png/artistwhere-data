@@ -1,0 +1,39 @@
+{
+  "id": "artist_6c803023-c59a-43b7-8a81-a46cdebc8533",
+  "name": "來世想當水母",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/gu.ru.188061",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2120271",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/SharkBiteTail",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/SharkBiteTail/media",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/spaded0314",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

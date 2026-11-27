@@ -1,0 +1,23 @@
+{
+  "id": "artist_8a9918c4-2323-48c2-8f4b-b54c27d44ff1",
+  "name": "鳴路宮",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/narumiku/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/943522",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

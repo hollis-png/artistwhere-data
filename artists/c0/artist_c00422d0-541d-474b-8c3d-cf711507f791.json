@@ -1,0 +1,32 @@
+{
+  "id": "artist_c00422d0-541d-474b-8c3d-cf711507f791",
+  "name": "跌入深坑",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/cloudhsu1112.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/cloudtzu",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/cloud_Hsu1112",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2930128",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

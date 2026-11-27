@@ -1,0 +1,32 @@
+{
+  "id": "artist_6dc13d5e-8054-4c99-905c-fe9ec1261dac",
+  "name": "瑄貓Tsugumi",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/HsuanMeowCos/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/tsugumilin/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/linloya2902a",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/LinTsugumi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

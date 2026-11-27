@@ -1,0 +1,38 @@
+{
+  "id": "artist_87294baf-9ce9-4c5b-90eb-510e97923048",
+  "name": "貓專用牛乳",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/mikan888",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/37461",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/nasuhana",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/vvohana",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

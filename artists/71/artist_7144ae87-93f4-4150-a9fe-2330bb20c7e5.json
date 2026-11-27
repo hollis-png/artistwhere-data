@@ -1,0 +1,17 @@
+{
+  "id": "artist_7144ae87-93f4-4150-a9fe-2330bb20c7e5",
+  "name": "閒魚 LAZYFISH",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/nocoli_jo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "artist_a4cd8d70-0319-4a87-ad08-f43ca59d540a",
+  "name": "帕豹PABO",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/PaboVtb",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@pabovtb",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/PaboVtb",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

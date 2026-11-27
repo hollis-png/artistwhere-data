@@ -1,0 +1,72 @@
+{
+  "id": "artist_c31dd600-739e-4d3e-82e6-4d06234b5697",
+  "name": "天之火",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=nnnnoooo007",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/nnoo007",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://nnnnoooo007.tumblr.com/",
+      "platform": "Tumblr",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.opay.tw/Broadcaster/Donate/003A063048EC08B28309DAAA35D06063",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://streamlabs.com/nnnnoooo007/tip",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/nnnnoooo007/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nnnnoooo007/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.nnoo007.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/295806",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/nnnnoooo007",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nnnnoooo007",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

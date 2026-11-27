@@ -1,0 +1,27 @@
+{
+  "id": "artist_50aedd1b-c69c-4996-8e37-452d84f18846",
+  "name": "雪魚子ch",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/miro_0zero",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@ch.7944",
+      "platform": "YouTube",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/snowfish2580",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

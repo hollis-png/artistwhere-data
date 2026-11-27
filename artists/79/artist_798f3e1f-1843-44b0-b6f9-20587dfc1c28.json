@@ -1,0 +1,17 @@
+{
+  "id": "artist_798f3e1f-1843-44b0-b6f9-20587dfc1c28",
+  "name": "咩咩研究所",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/geniusmehmeh",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

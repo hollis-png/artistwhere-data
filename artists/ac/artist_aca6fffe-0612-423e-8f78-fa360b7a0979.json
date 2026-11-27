@@ -1,0 +1,48 @@
+{
+  "id": "artist_aca6fffe-0612-423e-8f78-fa360b7a0979",
+  "name": "ye_jji",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/yejji",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/y_e_j_j_i/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/12131266",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@y_e_j_j_i_",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/y_e_j_j_i_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://yejji.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://yejji.net/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

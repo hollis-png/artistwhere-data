@@ -1,0 +1,18 @@
+{
+  "id": "artist_4e98eff3-602c-4dbc-be11-b6dfe09f6cdb",
+  "name": "ふわふわにく屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/bbb577x",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

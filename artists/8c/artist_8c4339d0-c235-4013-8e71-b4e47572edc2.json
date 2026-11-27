@@ -1,0 +1,62 @@
+{
+  "id": "artist_8c4339d0-c235-4013-8e71-b4e47572edc2",
+  "name": "TY楓",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/typhoon01010106.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index_creation.php?owner=a4636230a",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/typhoon",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/TyPhoon01010106",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://ty26.webnode.tw/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/TY%E6%A5%93-2242807515798258/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/TyPhoon0309/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/fatteroil/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18965045",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

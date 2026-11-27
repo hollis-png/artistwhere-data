@@ -1,0 +1,33 @@
+{
+  "id": "artist_990f73a2-5ff4-416f-bb35-14be9f1cd6de",
+  "name": "Seventh Heaven",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100091665745431",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rion3l20/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/rion3l20",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Rion_Liu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

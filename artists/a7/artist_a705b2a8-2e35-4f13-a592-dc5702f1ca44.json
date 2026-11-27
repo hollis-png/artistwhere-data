@@ -1,0 +1,42 @@
+{
+  "id": "artist_a705b2a8-2e35-4f13-a592-dc5702f1ca44",
+  "name": "紅線帝制",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://akai-ito.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://bsky.app/profile/akankoito.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100088079427281",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/69989397",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/AkankoIto",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/AkankoIto",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

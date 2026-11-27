@@ -1,0 +1,33 @@
+{
+  "id": "artist_166db252-b9a1-4dec-af47-829869c8a181",
+  "name": "貓咪粗乃丸",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/groups/info/5338",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mikoartdrawing/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/689745",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/mikoartdrawing",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

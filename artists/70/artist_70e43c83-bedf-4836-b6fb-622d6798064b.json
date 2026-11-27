@@ -1,0 +1,17 @@
+{
+  "id": "artist_70e43c83-bedf-4836-b6fb-622d6798064b",
+  "name": "SSRB 军团 446大隊所屬",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100004837872961",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

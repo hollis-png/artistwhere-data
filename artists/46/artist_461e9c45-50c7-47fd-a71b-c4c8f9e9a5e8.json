@@ -1,0 +1,31 @@
+{
+  "id": "artist_461e9c45-50c7-47fd-a71b-c4c8f9e9a5e8",
+  "name": "不要碰我的狗",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100064811495948",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18325314",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/AmakuraHaruka",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

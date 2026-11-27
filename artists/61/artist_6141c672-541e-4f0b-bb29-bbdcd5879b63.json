@@ -1,0 +1,23 @@
+{
+  "id": "artist_6141c672-541e-4f0b-bb29-bbdcd5879b63",
+  "name": "七兔不好吃",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.twitch.tv/nayomi0204",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Nayomi0204",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

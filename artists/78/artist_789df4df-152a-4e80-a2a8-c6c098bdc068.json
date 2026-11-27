@@ -1,0 +1,15 @@
+{
+  "id": "artist_789df4df-152a-4e80-a2a8-c6c098bdc068",
+  "name": "製紙工場",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/netaroulife",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

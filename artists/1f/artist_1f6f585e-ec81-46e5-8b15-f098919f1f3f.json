@@ -1,0 +1,53 @@
+{
+  "id": "artist_1f6f585e-ec81-46e5-8b15-f098919f1f3f",
+  "name": "珈琲紳士の部屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/lalalalack",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100006238264452",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/lack_illustrator/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/83739",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/lalalalalack",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@lackism",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCQY514VtpAastF9qI1mVr9w/join",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/lalalalack",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "artist_ba299502-a97c-4982-b2e4-a27c4fb2fbaa",
+  "name": "蓬萊竹繪屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/can.zhu.278517/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

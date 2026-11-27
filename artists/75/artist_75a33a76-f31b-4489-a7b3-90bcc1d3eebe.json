@@ -1,0 +1,63 @@
+{
+  "id": "artist_75a33a76-f31b-4489-a7b3-90bcc1d3eebe",
+  "name": "KAYASE STUDIO",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=jyuan587",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://liff.line.me/1645278921-kWRPP32q/?accountId=kayase&_gl=1*5as3i5*_gcl_au*ODQ1Njc5MDExLjE3NDUyMzg0Nzk.*_ga*NzE2NzMwODcwLjE3MzczNDE5MjI.*_ga_0PV16Y9CZG*czE3NDkwNDA3MjQkbzMxJGcxJHQxNzQ5MDQyNDcyJGo1OSRsMCRoMA..",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://lin.ee/9Y869cJ",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/kayase",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/kayase_02",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/KayaseArt/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kayase_artist/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7450670",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@kayase_artist",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@KAYASESTUDIO",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

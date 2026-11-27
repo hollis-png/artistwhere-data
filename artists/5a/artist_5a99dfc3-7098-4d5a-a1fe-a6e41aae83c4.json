@@ -1,0 +1,33 @@
+{
+  "id": "artist_5a99dfc3-7098-4d5a-a1fe-a6e41aae83c4",
+  "name": "桂優 Katsurayu",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Katsurayu/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.furuke.com/katsurayu",
+      "platform": "Furuke",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/katsurayuyu",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Katsurayuyu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

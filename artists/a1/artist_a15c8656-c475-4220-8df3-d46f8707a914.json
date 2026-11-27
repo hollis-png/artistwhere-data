@@ -1,0 +1,18 @@
+{
+  "id": "artist_a15c8656-c475-4220-8df3-d46f8707a914",
+  "name": "阿魚的家",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/the.fishh.2025",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

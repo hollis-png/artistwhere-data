@@ -1,0 +1,17 @@
+{
+  "id": "artist_599bf6f2-fbcb-4d15-86ca-58590cc6d8e5",
+  "name": "逸玟繪室",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/rubby7769.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "artist_5e2548c5-be82-40f8-83b0-affbfae92320",
+  "name": "觀象草圖＆魔法布丁罐",
+  "types": [
+    "artist",
+    "other",
+    "vtuber"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/hitsukirei",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hitsukirei/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/385045",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/pudiko",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@mahoupurinkan",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

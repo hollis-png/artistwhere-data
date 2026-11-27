@@ -1,0 +1,43 @@
+{
+  "id": "artist_2b2d67a3-b87c-48c1-9f62-8a68bad9d086",
+  "name": "Reverse Noise",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/72AD1D07-168F-44DC-BC2F-0396E692BDD3/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://skeb.jp/@yamu_RN",
+      "platform": "Skeb",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/yamu_RN",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/23621",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/yamu_RN",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://yamu-rn.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    }
+  ]
+}

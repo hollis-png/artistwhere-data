@@ -1,0 +1,35 @@
+{
+  "id": "artist_4fa883dc-2c12-41f9-8756-97c52a260c6c",
+  "name": "好朋友互助販賣舖",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "http://twitch.tv/baifuyin",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/6Uj9WVmvKa",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/BaiFuYin",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCxWvotQmxO3Br9NpZyjg-_w",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/BaiFuYin_ebi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

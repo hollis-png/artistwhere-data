@@ -1,0 +1,28 @@
+{
+  "id": "artist_662974e8-5e48-4982-ad24-5fea3bc5b6d2",
+  "name": "創意漫畫大亂鬥",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.weicomic.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/weicomicep/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/weicomic",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

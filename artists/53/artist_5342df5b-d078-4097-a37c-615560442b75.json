@@ -1,0 +1,17 @@
+{
+  "id": "artist_5342df5b-d078-4097-a37c-615560442b75",
+  "name": "快樂貨櫃屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/HappyContainerHouse/?locale=lv_LV",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

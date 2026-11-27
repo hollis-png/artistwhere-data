@@ -1,0 +1,70 @@
+{
+  "id": "artist_46714453-4180-4921-b0e0-269f69ef77ec",
+  "name": "魚鵝不足",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://clibo.tw/users/PqDBVR",
+      "platform": "Clibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://clibo.tw/users/hanbok625",
+      "platform": "Clibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://hanbok625.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/creation.php?owner=hanbok625",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/potfish",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/meowmeow_yuu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/PotandFish",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/meowmeowfish716/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/15534680",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/hanbok625",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/potfish716",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "artist_a8ede8fc-7e6a-49d2-b444-412a97f91ed5",
+  "name": "樂殽的殽唸做ㄧㄠˊ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/araiame.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/Arai.YueYao",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/YueYao0106",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5273891",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/YueYao__",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

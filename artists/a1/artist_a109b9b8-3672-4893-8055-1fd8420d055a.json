@@ -1,0 +1,24 @@
+{
+  "id": "artist_a109b9b8-3672-4893-8055-1fd8420d055a",
+  "name": "GODNASK",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://godnask-digi.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/godnaskdigi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

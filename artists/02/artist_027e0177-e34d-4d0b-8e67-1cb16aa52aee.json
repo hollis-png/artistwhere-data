@@ -1,0 +1,28 @@
+{
+  "id": "artist_027e0177-e34d-4d0b-8e67-1cb16aa52aee",
+  "name": "三色貓咖啡店",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/CALICACATCAFE/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/calicocat_cafe_",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/umiki_THK",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

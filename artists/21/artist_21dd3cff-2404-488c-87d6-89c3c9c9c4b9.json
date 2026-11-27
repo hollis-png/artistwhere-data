@@ -1,0 +1,31 @@
+{
+  "id": "artist_21dd3cff-2404-488c-87d6-89c3c9c9c4b9",
+  "name": "RoyBoy羅蔔",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/RoyBoyillu",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/17877175",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/RoyBoy_illu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

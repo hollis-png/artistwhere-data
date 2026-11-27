@@ -1,0 +1,31 @@
+{
+  "id": "artist_6f52f6d8-92bd-473f-a2d6-92d46d30bb68",
+  "name": "MIYANA咪呀",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/sherry40723tw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/onlymiya/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sherry40723yw/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

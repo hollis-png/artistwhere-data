@@ -1,0 +1,17 @@
+{
+  "id": "artist_e088bbab-6752-4350-b557-de037f15c17a",
+  "name": "狐狸沒有耳朵",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/share/1DKMLoUzdY/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

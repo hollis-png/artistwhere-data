@@ -1,0 +1,33 @@
+{
+  "id": "artist_4f6ab6b3-6fff-411c-971a-6a1b6783dead",
+  "name": "小白鹿 WHITE DEER",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/naigua.liu.3#",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/umiru___/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/114628589",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/umiru___",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

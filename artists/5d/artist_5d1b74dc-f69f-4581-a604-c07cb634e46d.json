@@ -1,0 +1,32 @@
+{
+  "id": "artist_5d1b74dc-f69f-4581-a604-c07cb634e46d",
+  "name": "玥玥阿玥°AYue",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/mizumoon_cos",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Mizumoon0809",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/mizumoon",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mizumoon_cos/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

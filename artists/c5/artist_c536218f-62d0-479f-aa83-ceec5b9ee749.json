@@ -1,0 +1,23 @@
+{
+  "id": "artist_c536218f-62d0-479f-aa83-ceec5b9ee749",
+  "name": "菇菇Kinoko",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100089188352295",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kinoko_gu",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

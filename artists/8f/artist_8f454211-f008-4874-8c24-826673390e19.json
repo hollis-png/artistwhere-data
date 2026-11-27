@@ -1,0 +1,30 @@
+{
+  "id": "artist_8f454211-f008-4874-8c24-826673390e19",
+  "name": "めろんの星々",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/melonstars.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/melonstars",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3088582",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mmminttt",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

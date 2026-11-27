@@ -1,0 +1,76 @@
+{
+  "id": "artist_7ae1063f-70b4-4410-b049-f574eda7a933",
+  "name": "角角吉診室",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/gigigi0423.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/5nzXa9xdYp",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://gigigi0423.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://instagram.com/gigigi0423",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/gigigi0423",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitch.tv/sumikichiwawa",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100019302211679",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61558139163772",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/26566842",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/gigigi0423",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/gigigi0423",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/jiouaji18",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

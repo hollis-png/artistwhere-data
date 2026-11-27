@@ -1,0 +1,31 @@
+{
+  "id": "artist_5922e065-71ec-4088-8c39-f619d118e86c",
+  "name": "要不要升級成大滷麵",
+  "types": [],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/jellyfish3257",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/jellyfish.3257089/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@y_u_b_e_bad0917",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/jellyfish3257",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

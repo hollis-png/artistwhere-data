@@ -1,0 +1,16 @@
+{
+  "id": "artist_5b0fc1af-f880-40ec-8d8a-a6c5c1f75dee",
+  "name": "畜生道",
+  "types": [],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/triple_h_3h",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

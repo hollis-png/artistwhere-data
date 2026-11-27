@@ -1,0 +1,18 @@
+{
+  "id": "artist_26562c09-affb-43a7-ac15-6b90801b715e",
+  "name": "うつらうららか",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/erettochannel",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

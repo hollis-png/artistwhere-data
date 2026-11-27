@@ -1,0 +1,15 @@
+{
+  "id": "artist_a463618e-afa5-47ad-bf31-01bff2fc3664",
+  "name": "Monster Build",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61579276361526",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

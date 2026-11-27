@@ -1,0 +1,54 @@
+{
+  "id": "artist_6e154e6d-4880-4a0c-8792-0aca4469a91a",
+  "name": "Rinきの兎魂",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/rinkiusagisoul.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://pawoo.net/@RINKI_USAGI",
+      "platform": "Mastodon",
+      "status": "alive"
+    },
+    {
+      "url": "https://rinki.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/rinki0579",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/rinki.usagisoul/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/toraminglo",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.patreon.com/profile/creators?u=15471594",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5617506",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

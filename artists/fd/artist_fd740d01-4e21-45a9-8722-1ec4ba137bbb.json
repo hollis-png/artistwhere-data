@@ -1,0 +1,17 @@
+{
+  "id": "artist_fd740d01-4e21-45a9-8722-1ec4ba137bbb",
+  "name": "蔥香佐蒜泥",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/20FF2EDF-C52B-490A-9B60-E3A5FCF4B3B1/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "artist_87b2c357-f6de-487e-a28d-5986a2c0b1f9",
+  "name": "萬事起頭雞",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/litchi2525",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/litchi_2525123",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/litchi2525/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/litchi_2525/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/litchi_2525",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/litchi_2525",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@litchi2525-tw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCvq7fgs27TcOEP1yK1hT5HA",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Maple_1206V",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

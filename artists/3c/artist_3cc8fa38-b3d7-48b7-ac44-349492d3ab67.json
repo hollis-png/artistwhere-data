@@ -1,0 +1,39 @@
+{
+  "id": "artist_3cc8fa38-b3d7-48b7-ac44-349492d3ab67",
+  "name": "杜桑萬事屋 {幸運屋}",
+  "types": [
+    "artist",
+    "other",
+    "vtuber"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/XKxJpRzN4a",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/doson0606",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/doson.studio/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/doson0606",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC6ecDHM9ykjyo1skAmtVV7g",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

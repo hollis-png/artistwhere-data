@@ -1,0 +1,17 @@
+{
+  "id": "artist_0a633071-beb4-4384-87d7-aab3a4eb7e9b",
+  "name": "百禽Universe",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61563856556565",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

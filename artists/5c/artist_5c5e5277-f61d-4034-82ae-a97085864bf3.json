@@ -1,0 +1,45 @@
+{
+  "id": "artist_5c5e5277-f61d-4034-82ae-a97085864bf3",
+  "name": "Chamomile",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/chamomile-chami.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/chamomile0725",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ChamomileCosplay",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/chamomile_chami/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/chamomile_chami",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@ChamomileCHcosplay",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chamomile_chami",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

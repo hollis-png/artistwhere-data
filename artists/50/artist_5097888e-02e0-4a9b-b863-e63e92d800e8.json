@@ -1,0 +1,28 @@
+{
+  "id": "artist_5097888e-02e0-4a9b-b863-e63e92d800e8",
+  "name": "ahnitol",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://ahnitol.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ahnitol/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ahnitol",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

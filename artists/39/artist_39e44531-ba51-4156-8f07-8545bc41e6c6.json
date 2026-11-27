@@ -1,0 +1,20 @@
+{
+  "id": "artist_39e44531-ba51-4156-8f07-8545bc41e6c6",
+  "name": "泡沫禮居 Nulle",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Etiquette.o.F/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/sylphondyne",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

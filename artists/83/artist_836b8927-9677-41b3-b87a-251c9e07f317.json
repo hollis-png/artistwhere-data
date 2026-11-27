@@ -1,0 +1,27 @@
+{
+  "id": "artist_836b8927-9677-41b3-b87a-251c9e07f317",
+  "name": "達p塗鴉牆",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Dada_pig",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61556669050659",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3199434",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

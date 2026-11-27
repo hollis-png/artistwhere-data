@@ -1,0 +1,22 @@
+{
+  "id": "artist_36404d6a-42f7-4397-9922-d473349e29a2",
+  "name": "Chip薯片沒朋友",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yu.jie.934599",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ChipRoger_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

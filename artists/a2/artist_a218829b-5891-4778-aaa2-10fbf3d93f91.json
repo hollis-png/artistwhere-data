@@ -1,0 +1,34 @@
+{
+  "id": "artist_a218829b-5891-4778-aaa2-10fbf3d93f91",
+  "name": "魔法松鼠嘟嘟",
+  "types": [
+    "artist",
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://taplink.cc/magicalsquirreldudu",
+      "platform": "Taplink",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/SquirrelDudu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MagicalSquirrelDudu/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/magicalsquirreldudu/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

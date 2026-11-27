@@ -1,0 +1,60 @@
+{
+  "id": "artist_08e2761e-822c-4fab-a46a-34ccf6bea4d3",
+  "name": "阡狐Huni",
+  "types": [
+    "coser",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/senkitsune",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/senkitsune",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Senkitsune0219",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sen_kitsune",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/kitsune0219",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/senkitsune_huni",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@SenHuni",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Senhuni_Vtype",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/senkitsune_huni",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

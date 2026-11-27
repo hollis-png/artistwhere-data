@@ -1,0 +1,30 @@
+{
+  "id": "artist_d40f555d-7185-48b3-9406-0d460f3ba232",
+  "name": "SLOW START",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/sloth.xu.9",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4871291",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/SLOTH6666666",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

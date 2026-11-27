@@ -1,0 +1,22 @@
+{
+  "id": "artist_5c115164-1cf1-48e0-bf58-f4c3483ac028",
+  "name": "藍色星期一",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/mon.day_blue/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@mon.day_blue",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

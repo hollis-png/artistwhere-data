@@ -1,0 +1,39 @@
+{
+  "id": "artist_5ef3e861-2322-403f-a866-9148e1c14d4c",
+  "name": "雪花熊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/qyS3WCcJHM",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100014118094180",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/xue.hua.xiong.2025",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/32875438",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sumika_sumeragi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

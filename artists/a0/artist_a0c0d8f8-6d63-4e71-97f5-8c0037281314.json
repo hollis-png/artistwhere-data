@@ -1,0 +1,27 @@
+{
+  "id": "artist_a0c0d8f8-6d63-4e71-97f5-8c0037281314",
+  "name": "九季KUKI",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/kuki4654",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ue.ue.7921",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/19105965",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

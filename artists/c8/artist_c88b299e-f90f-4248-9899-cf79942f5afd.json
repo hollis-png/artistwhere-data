@@ -1,0 +1,30 @@
+{
+  "id": "artist_c88b299e-f90f-4248-9899-cf79942f5afd",
+  "name": "Night Think",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/nightthink.tw/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.night-think.net/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Night_Think",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/NIGHT_THINK",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

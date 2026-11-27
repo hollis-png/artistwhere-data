@@ -1,0 +1,33 @@
+{
+  "id": "artist_a52c8e87-2df8-4788-8c5e-b5047ef268c1",
+  "name": "子猫丸&Meow's Create",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/meowscreate/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/1DoZg7wn8D/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/_meow.maruw0._/profilecard/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/meows.create_/profilecard/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

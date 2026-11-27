@@ -1,0 +1,25 @@
+{
+  "id": "artist_29349731-fea2-45e0-89ea-05d7ca1918f9",
+  "name": "土方商社",
+  "types": [],
+  "events": [
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/QvFC92xThW",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/BackyardFurnace/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/BF_Defence",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

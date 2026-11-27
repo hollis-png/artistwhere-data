@@ -1,0 +1,30 @@
+{
+  "id": "artist_bea2c6c6-98c4-490b-9735-6a77e397ccdb",
+  "name": "とよのおさむらい",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/toyosama",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/1BJ2XVUe4C/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/toyosama0/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/toyosama0",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

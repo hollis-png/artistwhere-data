@@ -1,0 +1,22 @@
+{
+  "id": "artist_8f4b833b-8bab-4061-9bb5-c76f9f691666",
+  "name": "霜月書斎",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/creation.php?owner=s9051035404",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/10028566",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

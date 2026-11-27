@@ -1,0 +1,23 @@
+{
+  "id": "artist_4599ce77-65e5-4d7d-aaf6-38e64b65a05f",
+  "name": "痞子佑佑與快樂夥伴們",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063915781470",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rcgxmod",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

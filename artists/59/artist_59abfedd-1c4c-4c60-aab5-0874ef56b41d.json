@@ -1,0 +1,41 @@
+{
+  "id": "artist_59abfedd-1c4c-4c60-aab5-0874ef56b41d",
+  "name": "akaoni 赤鬼伯伯",
+  "types": [
+    "coser",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.akaonikoubook.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/akaonikou",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/akaonikou",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/akaonikou1207",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/c/KouAkaoni",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

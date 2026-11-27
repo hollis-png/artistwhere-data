@@ -1,0 +1,32 @@
+{
+  "id": "artist_2d61e8f6-afce-4dd2-b67b-97cf295e7ead",
+  "name": "魚貓部屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/gayakoge",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/people/%E9%AD%9A%E8%B2%93%E9%83%A8%E5%B1%8B/100063716619727/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/285755",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/gayaneko",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_f0ab3890-5f16-434e-baa8-119ffb2946c5",
+  "name": "ZOAL",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/len7",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/LENA_Anana",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

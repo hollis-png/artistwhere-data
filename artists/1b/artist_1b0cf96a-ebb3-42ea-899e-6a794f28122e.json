@@ -1,0 +1,93 @@
+{
+  "id": "artist_1b0cf96a-ebb3-42ea-899e-6a794f28122e",
+  "name": "さかな公園",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/someba22.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=sosteam",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://line.me/ti/g2/PyKDGirX8ixCr3t0-jX-Zw",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/Someba",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/ranyu222",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://ranyuartowork.booth.pm",
+      "platform": "Booth",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Obsidian_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Ranyu221",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/RanyuArt",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kaicheng.liu1",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.instagram.com/ranyu_ku/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=65234",
+      "platform": "Melonbooks",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.myacg.com.tw/goods_list.php?keyword=%E6%91%B8%E9%AD%9A%E7%9A%84%E5%BD%A2%E7%8B%80",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1522108",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@ranyu_ku",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

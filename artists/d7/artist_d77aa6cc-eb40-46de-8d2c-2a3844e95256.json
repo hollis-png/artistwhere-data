@@ -1,0 +1,27 @@
+{
+  "id": "artist_d77aa6cc-eb40-46de-8d2c-2a3844e95256",
+  "name": "纳斯乐馬",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/eSoul.3801",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8535839",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/eSoulu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "artist_00378a2e-8e0f-43de-989f-c444559715d0",
+  "name": "Rikoring",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://rik0ring.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/40317874",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rik0ring",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

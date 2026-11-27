@@ -1,0 +1,37 @@
+{
+  "id": "artist_d1a982c9-c1a2-4b2c-b48c-9a5f2ea4f97a",
+  "name": "PopoMan泡泡麵",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://popoman.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/noodle2017/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/popoman",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2150152",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/r6o1x417",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

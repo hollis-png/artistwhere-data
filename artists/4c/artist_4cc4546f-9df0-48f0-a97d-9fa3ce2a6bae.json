@@ -1,0 +1,17 @@
+{
+  "id": "artist_4cc4546f-9df0-48f0-a97d-9fa3ce2a6bae",
+  "name": "鉤個毛手作",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/gogowoolen/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

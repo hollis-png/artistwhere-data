@@ -1,0 +1,17 @@
+{
+  "id": "artist_2f68d939-f089-442e-8448-b56e15a6a5de",
+  "name": "風雨陰晴故事販賣鋪",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/tennki.club/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

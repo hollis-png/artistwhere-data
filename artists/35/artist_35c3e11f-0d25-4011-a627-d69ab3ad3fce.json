@@ -1,0 +1,15 @@
+{
+  "id": "artist_35c3e11f-0d25-4011-a627-d69ab3ad3fce",
+  "name": "David’s Studio",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/david1130520/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

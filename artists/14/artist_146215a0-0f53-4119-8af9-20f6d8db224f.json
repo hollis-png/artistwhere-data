@@ -1,0 +1,22 @@
+{
+  "id": "artist_146215a0-0f53-4119-8af9-20f6d8db224f",
+  "name": "Girlfriendend",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/JILL_mw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/37431004",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "artist_0228e1ca-c588-4911-b378-e988a1af498f",
+  "name": "F.P-sr",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Marugamesukida",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/10052843",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/mekachihaya",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

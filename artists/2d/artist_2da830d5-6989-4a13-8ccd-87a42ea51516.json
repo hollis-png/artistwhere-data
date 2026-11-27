@@ -1,0 +1,48 @@
+{
+  "id": "artist_2da830d5-6989-4a13-8ccd-87a42ea51516",
+  "name": "Varlyn",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45",
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/8UxWu7u7qu",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/Varlyn.art",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://varlyn.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/chen.varlyn/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7270024",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/varlyn_art",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

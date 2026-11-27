@@ -1,0 +1,44 @@
+{
+  "id": "artist_0c975737-94e2-4bc2-b8f0-8c50ab3e3c2f",
+  "name": "歡迎回來，小烈大人",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/kaen_00.22",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/BlazeChan4",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kaen0022/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kaen_00.22/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/kaen0022",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kaen_0022",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

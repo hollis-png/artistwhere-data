@@ -1,0 +1,30 @@
+{
+  "id": "artist_ec18ea2a-5505-4382-9263-6175c54f3770",
+  "name": "5年目の放課後",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://5-y.2-d.jp/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/kantoku_5th",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1565632",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

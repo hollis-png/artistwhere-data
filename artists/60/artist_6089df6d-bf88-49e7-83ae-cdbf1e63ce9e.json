@@ -1,0 +1,54 @@
+{
+  "id": "artist_6089df6d-bf88-49e7-83ae-cdbf1e63ce9e",
+  "name": "Atelier Sizutsuki",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/creation.php?owner=sizutsuki",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/sizutsuki_12",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sizutsuki/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/627767",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kirito31301",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/sizutsuki12",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/sizutsuki",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCpdVxFFNEsgOLhwKjAU7UVw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "artist_a6a95ca3-eba2-46f8-97ae-3c54547e099c",
+  "name": "冰鮪不是一種巨獸",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/bingwei1018/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/bingwei.huang/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/32268297",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/bingwei_huang",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

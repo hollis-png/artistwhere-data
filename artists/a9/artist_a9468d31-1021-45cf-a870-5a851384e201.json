@@ -1,0 +1,51 @@
+{
+  "id": "artist_a9468d31-1021-45cf-a870-5a851384e201",
+  "name": "七七小姐_Miss Seven",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "http://patreon.com/sevencosplay",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "http://reurl.cc/g0kdd7",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/sevencosplay",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Miss.double.seven/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/miss.seven.77/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@seven5277",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/coser_seven_tw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

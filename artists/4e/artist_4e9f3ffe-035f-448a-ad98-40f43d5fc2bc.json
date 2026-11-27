@@ -1,0 +1,22 @@
+{
+  "id": "artist_4e9f3ffe-035f-448a-ad98-40f43d5fc2bc",
+  "name": "Zerotabi",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/zerotabi",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/zerotabi1210",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

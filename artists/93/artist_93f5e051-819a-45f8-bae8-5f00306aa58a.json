@@ -1,0 +1,20 @@
+{
+  "id": "artist_93f5e051-819a-45f8-bae8-5f00306aa58a",
+  "name": "SI",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "http://sdrl.info/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sdrl_sidereal",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "artist_e2193783-e10e-4526-b277-8aa79fb2fb3e",
+  "name": "燒焦平底鍋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/keepout00j.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/keepout00j/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/shanjiao_pan/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/keepout00j",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/keepout00j",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/keepout00j",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

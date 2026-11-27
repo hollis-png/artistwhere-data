@@ -1,0 +1,18 @@
+{
+  "id": "artist_9f427f4c-a142-4274-813a-a1f8908b172b",
+  "name": "Atelier Kyrie",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/shuliy",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

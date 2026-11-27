@@ -1,0 +1,53 @@
+{
+  "id": "artist_158a9518-2304-4cf6-9acf-d85a2d0e14e2",
+  "name": "超斬開",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/artwork.php?sn=5650006",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/creation.php?owner=otokoter",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://otokoter.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/otokoter",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/otokoter/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.pixiv.net/users/206708",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/toku0408",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

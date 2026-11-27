@@ -1,0 +1,22 @@
+{
+  "id": "artist_8c54d3c4-526a-48ea-9dc9-102888e88927",
+  "name": "イブ、プシケそしてチェラ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/44811365/artworks",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/CheLA_777",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

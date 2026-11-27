@@ -1,0 +1,34 @@
+{
+  "id": "artist_5b90aba8-dfeb-4b43-a68a-b4fc25dc15c5",
+  "name": "太空通訊暨黑洞觀察總署RCOSEA",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/rcosea",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/rcosea",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@RCOSEA%E5%AE%98%E6%96%B9%E9%A0%BB%E9%81%93",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/RCOSEA0809",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

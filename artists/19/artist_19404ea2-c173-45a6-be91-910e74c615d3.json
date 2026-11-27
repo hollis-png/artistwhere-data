@@ -1,0 +1,34 @@
+{
+  "id": "artist_19404ea2-c173-45a6-be91-910e74c615d3",
+  "name": "赤白ユリス",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Yulice_Lia",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/akashiroyurisu/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7133187",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Lista01",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

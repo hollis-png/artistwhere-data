@@ -1,0 +1,19 @@
+{
+  "id": "artist_fe35b59f-f7ec-47a4-bd3b-3e4977cb5faa",
+  "name": "烏龍拿鐵",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61564358181267",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

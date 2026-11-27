@@ -1,0 +1,23 @@
+{
+  "id": "artist_83034970-1f99-491e-be71-fa060fbe20aa",
+  "name": "雨波HaneAme",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/haneamecos",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

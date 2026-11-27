@@ -1,0 +1,38 @@
+{
+  "id": "artist_47b5aaee-a423-4015-b9a2-e3066743d424",
+  "name": "ざしきねこ＆ポニー牧場",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://skeb.jp/@circleponiponi",
+      "platform": "Skeb",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/circleponiponi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/dammanga",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/852699",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/poniponipony",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

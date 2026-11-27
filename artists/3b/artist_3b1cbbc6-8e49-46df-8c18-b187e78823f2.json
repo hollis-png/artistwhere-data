@@ -1,0 +1,97 @@
+{
+  "id": "artist_3b1cbbc6-8e49-46df-8c18-b187e78823f2",
+  "name": "水鈴鈴",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/waterring.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/waterring",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/waterring",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://waterring.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://waterring.tw/Fanbox",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://waterring.tw/Patreon",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://waterring.tw/productions",
+      "platform": "Link",
+      "status": "alive",
+      "displayName": "WaterRing水鈴鈴"
+    },
+    {
+      "url": "https://www.facebook.com/ooartclub?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/waterring2/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/waterringen",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/waterringhololive",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/waterring1004",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2174931?_gl=1*57nuep*_ga*NTk4NTk0MzczLjE3NjA2MTk5Njg.*_ga_D9TLP3EFER*czE3NjQ2NTA1ODMkbzQkZzAkdDE3NjQ2NTA1ODMkajYwJGwwJGgw",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@waterring1004",
+      "platform": "Threads",
+      "status": "alive",
+      "displayName": "WaterRing（@waterring1004） • Threads，暢所欲言"
+    },
+    {
+      "url": "https://x.com/WaterRing2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/WaterRingArt",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

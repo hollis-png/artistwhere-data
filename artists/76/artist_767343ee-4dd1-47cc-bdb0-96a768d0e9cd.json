@@ -1,0 +1,30 @@
+{
+  "id": "artist_767343ee-4dd1-47cc-bdb0-96a768d0e9cd",
+  "name": "麗茲大酒店",
+  "types": [],
+  "events": [
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/MiniPekoe",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61572454107536",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3385440",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mini_pekoe",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_6bf1b331-c93c-4b85-b899-ad974a49adfc",
+  "name": "懶懶LanLan",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/lanlancosplay/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/milili77",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

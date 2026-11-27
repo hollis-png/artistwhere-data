@@ -1,0 +1,31 @@
+{
+  "id": "artist_63698e62-b491-4d34-958d-8271458f4cb7",
+  "name": "XiYun Studio",
+  "types": [
+    "craft",
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/xiustudio_0323/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/xiustudio_0323",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Xiustudio0323",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

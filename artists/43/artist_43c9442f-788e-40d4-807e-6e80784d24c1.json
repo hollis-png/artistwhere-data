@@ -1,0 +1,43 @@
+{
+  "id": "artist_43c9442f-788e-40d4-807e-6e80784d24c1",
+  "name": "StarryNight",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://misskey.io/@KateW",
+      "platform": "Mastodon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kate.wong.1804",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/katew_draw_and_die/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1074168",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Katewong",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/KateW021",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

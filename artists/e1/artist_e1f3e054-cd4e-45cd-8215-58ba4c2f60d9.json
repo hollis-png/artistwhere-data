@@ -1,0 +1,33 @@
+{
+  "id": "artist_e1f3e054-cd4e-45cd-8215-58ba4c2f60d9",
+  "name": "田中水草",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/almn.sk.page/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/almn_sk",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/stalkerseki",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/almn_sk",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

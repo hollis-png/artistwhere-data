@@ -1,0 +1,45 @@
+{
+  "id": "artist_e7ff1ae4-8378-4a25-b14a-e2f648fa9a49",
+  "name": "Yui喵喵喵喵",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/yuimeooow",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/yuimeooow",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/neko.neko.34504",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yuimeooow",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/55251258",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/yuimeooow",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@yuimeooow",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

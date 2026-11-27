@@ -1,0 +1,27 @@
+{
+  "id": "artist_3c23f0ce-aba1-47c3-9a3f-9eb91def06f8",
+  "name": "食べてもいい",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://ofwhite96.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7691338",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ofwhitecg96",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

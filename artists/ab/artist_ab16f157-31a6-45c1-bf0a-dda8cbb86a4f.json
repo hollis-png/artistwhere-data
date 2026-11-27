@@ -1,0 +1,57 @@
+{
+  "id": "artist_ab16f157-31a6-45c1-bf0a-dda8cbb86a4f",
+  "name": "Esther",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://potofu.me/hqyft5vi",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://store.line.me/stickershop/author/131183/zh-Hant",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.doujin.com.tw/groups/info/8721",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/bobo0418/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/esther_0418/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/10998422",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Esther0148",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@Esther-yg2hh",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/LeanEsther",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

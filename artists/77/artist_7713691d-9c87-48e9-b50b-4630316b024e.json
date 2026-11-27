@@ -1,0 +1,27 @@
+{
+  "id": "artist_7713691d-9c87-48e9-b50b-4630316b024e",
+  "name": "GOMA",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/gogo_gowa",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61557120712308",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/12001135",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

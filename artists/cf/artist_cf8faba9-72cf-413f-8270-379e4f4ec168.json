@@ -1,0 +1,25 @@
+{
+  "id": "artist_cf8faba9-72cf-413f-8270-379e4f4ec168",
+  "name": "Boing☆Aoi",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61562119383652&ref=_ig_profile_ac",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/aoi._.9z/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/aoi_9z",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

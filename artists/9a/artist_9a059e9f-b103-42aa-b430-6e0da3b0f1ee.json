@@ -1,0 +1,27 @@
+{
+  "id": "artist_9a059e9f-b103-42aa-b430-6e0da3b0f1ee",
+  "name": "Nekoatlantis",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://misskey.io/@onibi_cat6016",
+      "platform": "Mastodon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/74228753",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/onibi_cat6016",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

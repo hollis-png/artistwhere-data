@@ -1,0 +1,39 @@
+{
+  "id": "artist_c4ecc3de-830a-49a6-90eb-778804fcb6c5",
+  "name": "芙耶拉Feuera",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://payment.ecpay.com.tw/Broadcaster/Donate/74618364414293BC4667FFA2ED4D9BC7",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61554703239356",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/feuera1225",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCqMcBaq09JgxMj29J7EQJkQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Feuera1225",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

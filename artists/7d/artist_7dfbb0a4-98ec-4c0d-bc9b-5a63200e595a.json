@@ -1,0 +1,27 @@
+{
+  "id": "artist_7dfbb0a4-98ec-4c0d-bc9b-5a63200e595a",
+  "name": "DLG大拜拜",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/DLG0087",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/dlg0087/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@DLGch",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

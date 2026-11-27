@@ -1,0 +1,21 @@
+{
+  "id": "artist_3c0c6a07-5d1c-4df9-aba9-0145bf42015e",
+  "name": "企鵝工坊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/wupenguin/?locale=en_GB",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

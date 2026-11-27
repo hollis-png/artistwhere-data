@@ -1,0 +1,35 @@
+{
+  "id": "artist_4e931f41-834f-4f88-a564-77ee4ca271d3",
+  "name": "つぐつぐ",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/37569",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/tugu_ms/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/charapa_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tugu_kanden",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

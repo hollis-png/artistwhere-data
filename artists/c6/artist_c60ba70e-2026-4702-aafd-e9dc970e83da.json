@@ -1,0 +1,17 @@
+{
+  "id": "artist_c60ba70e-2026-4702-aafd-e9dc970e83da",
+  "name": "柔らか青豆の温サラダ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/kinosaki_jack",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

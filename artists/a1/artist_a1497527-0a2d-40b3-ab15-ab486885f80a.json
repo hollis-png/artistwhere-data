@@ -1,0 +1,44 @@
+{
+  "id": "artist_a1497527-0a2d-40b3-ab15-ab486885f80a",
+  "name": "無口遮攔",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/351B5219-00A9-4E4F-BEE4-5AE2DDD1C9E2/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/chiyamiiblis",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/chiyamiFB",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/chiyamiiblis/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/540349",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/chiyamiiblis",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "artist_77329cb5-296c-4ce4-a39f-e0a0c0bc174c",
+  "name": "嫩嫩小豬窩",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://p.ecpay.com.tw/D4B808B",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://ren33081965.wixsite.com/renrenpig/home",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/renrenpig.renrenpig.3",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/pig__ren/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/68755942",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/renrenpig",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCu5aOfnL71JThgVvSqwaygQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/renrenpig",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

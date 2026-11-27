@@ -1,0 +1,32 @@
+{
+  "id": "artist_2cc79632-c6a2-42b0-a0c1-a523e9898fc7",
+  "name": "桃井マシロ",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/mashirolhy",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/mashirolhy",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mashirolhy",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/mashirolhy",
+      "platform": "Patreon",
+      "status": "alive"
+    }
+  ]
+}

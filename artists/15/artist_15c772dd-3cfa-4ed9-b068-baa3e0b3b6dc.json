@@ -1,0 +1,23 @@
+{
+  "id": "artist_15c772dd-3cfa-4ed9-b068-baa3e0b3b6dc",
+  "name": "一隻小小",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/XiaoXiaoYukishiro/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/cosplayers_s",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

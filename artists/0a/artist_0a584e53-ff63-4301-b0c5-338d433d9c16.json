@@ -1,0 +1,32 @@
+{
+  "id": "artist_0a584e53-ff63-4301-b0c5-338d433d9c16",
+  "name": "咪歐歐宇宙",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/2.0Miio/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/miio_312",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/14220984",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Miio__312",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

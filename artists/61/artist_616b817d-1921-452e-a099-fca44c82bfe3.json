@@ -1,0 +1,38 @@
+{
+  "id": "artist_616b817d-1921-452e-a099-fca44c82bfe3",
+  "name": "雲貓",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/cloudcat501",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.ecpay.com.tw/Broadcaster/Donate/D04CACCF8E1822DE27B71E206917C02D",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/cloudcat501",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@cloudcat501",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/cloudcat501",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

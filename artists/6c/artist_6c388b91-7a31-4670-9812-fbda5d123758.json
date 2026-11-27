@@ -1,0 +1,27 @@
+{
+  "id": "artist_6c388b91-7a31-4670-9812-fbda5d123758",
+  "name": "キノコの森",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/morikinoko8888",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2493100",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/morikinoko8888",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

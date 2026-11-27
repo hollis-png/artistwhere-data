@@ -1,0 +1,17 @@
+{
+  "id": "artist_75471555-d781-42f9-9671-8a2c87892707",
+  "name": "喵田",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/i_like_luca_/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

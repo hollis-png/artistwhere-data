@@ -1,0 +1,23 @@
+{
+  "id": "artist_2422d235-937d-4023-b177-70f297c0204e",
+  "name": "大江戶外萌",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E5%A4%A7%E6%B1%9F%E6%88%B6%E5%A4%96%E8%90%8C-100063894948544/?paipv=0&eav=AfZPECPFmKMUbi0PFVullQ6fwZ2PfphJLzCSlW0B74H2KVR_bYTuPdTG9uunGcYu-F0&_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

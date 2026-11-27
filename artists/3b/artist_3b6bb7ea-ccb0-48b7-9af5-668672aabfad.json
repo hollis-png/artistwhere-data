@@ -1,0 +1,29 @@
+{
+  "id": "artist_3b6bb7ea-ccb0-48b7-9af5-668672aabfad",
+  "name": "淡江大學鐵道社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://sites.google.com/view/tkuclubsfresh/%E6%88%91%E8%A6%81%E6%89%BE%E7%A4%BE%E5%9C%98/%E5%AD%B8%E8%97%9D%E6%80%A7%E7%A4%BE%E5%9C%98/%E9%90%B5%E9%81%93%E7%A4%BE",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/tkurailwayclub/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/tkurwc",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

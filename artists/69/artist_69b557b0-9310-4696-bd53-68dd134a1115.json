@@ -1,0 +1,40 @@
+{
+  "id": "artist_69b557b0-9310-4696-bd53-68dd134a1115",
+  "name": "畫圖怠惰症候群",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=zaku2s1024",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Merufena",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Merufena/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/357034",
+      "platform": "Pixiv",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.plurk.com/Merufena",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

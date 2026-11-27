@@ -1,0 +1,27 @@
+{
+  "id": "artist_ad3fa782-f1a7-47cd-ab0d-0799b64204d2",
+  "name": "放課後、櫻Cafe",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/share/192EhjEP8i/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/after_sakura_cafe",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/0913sakura_cafe",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

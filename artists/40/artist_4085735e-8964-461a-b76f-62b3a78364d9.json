@@ -1,0 +1,28 @@
+{
+  "id": "artist_4085735e-8964-461a-b76f-62b3a78364d9",
+  "name": "茶茶ナコ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://kizuna113.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/16034374?_gl=1*8thqi2*_ga*MTY2ODYwNTc3MS4xNzIyMzM0MTI0*_ga_D9TLP3EFER*MTcyNDA2NTAyNi42LjAuMTcyNDA2NTAyNi42MC4wLjA.",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Kizuna_0113",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

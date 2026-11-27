@@ -1,0 +1,67 @@
+{
+  "id": "artist_796a063a-7f7f-4310-8963-74df6bf61d6d",
+  "name": "星喵Aastaneko",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/aastaneko0820.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/SrEqXXEvkJ",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/AastaNeko",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/Aastaneko",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Aasta_Neko0820",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/aastaneko0820/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/aasta_neko0820/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/AastaNeko",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.tiktok.com/@aastaneko",
+      "platform": "TikTok",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/aastaneko_0820",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

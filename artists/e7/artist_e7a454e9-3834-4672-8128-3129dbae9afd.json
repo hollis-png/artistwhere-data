@@ -1,0 +1,22 @@
+{
+  "id": "artist_e7a454e9-3834-4672-8128-3129dbae9afd",
+  "name": "MaruMaru",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/marumaru.cosplay/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/marumaru.tw/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

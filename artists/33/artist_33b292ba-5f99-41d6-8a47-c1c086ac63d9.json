@@ -1,0 +1,19 @@
+{
+  "id": "artist_33b292ba-5f99-41d6-8a47-c1c086ac63d9",
+  "name": "紡星社",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61573677164059",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

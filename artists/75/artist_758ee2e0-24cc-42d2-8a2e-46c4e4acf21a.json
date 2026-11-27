@@ -1,0 +1,50 @@
+{
+  "id": "artist_758ee2e0-24cc-42d2-8a2e-46c4e4acf21a",
+  "name": "RiverBit川比特",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/riverbit.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=slarry0307",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61565947402966#",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/riverbit0/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4860206",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@riverbit0",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/wrr168bx",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

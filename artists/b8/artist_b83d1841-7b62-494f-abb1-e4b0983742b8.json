@@ -1,0 +1,32 @@
+{
+  "id": "artist_b83d1841-7b62-494f-abb1-e4b0983742b8",
+  "name": "梅",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/mayie48.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/mayie",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8914188",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Mayie48",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

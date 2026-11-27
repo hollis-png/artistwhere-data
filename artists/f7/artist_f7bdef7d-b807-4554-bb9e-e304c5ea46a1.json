@@ -1,0 +1,27 @@
+{
+  "id": "artist_f7bdef7d-b807-4554-bb9e-e304c5ea46a1",
+  "name": "深冥的追憶館",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/LeviaMirasia",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCRJMRiVK2aTp68NgTaabpqQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/LeviaMirasia",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "artist_f219ade4-e98f-4bbf-9566-da01e738eec9",
+  "name": "已讀亂回俱樂部",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/xiri0117",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

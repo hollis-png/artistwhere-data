@@ -1,0 +1,28 @@
+{
+  "id": "artist_7138b0b1-0fa1-4868-bce2-025bfa677f3a",
+  "name": "yee想天地",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/YeeeeChiu",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1054128",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ak8531848",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

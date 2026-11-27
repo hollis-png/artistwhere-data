@@ -1,0 +1,17 @@
+{
+  "id": "artist_dc7a12a2-b3f9-401b-8d2d-e97ecce55eea",
+  "name": "多多",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/DODOOBU",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

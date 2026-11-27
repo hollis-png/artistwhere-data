@@ -1,0 +1,33 @@
+{
+  "id": "artist_59d62460-be94-4281-932f-3673499f88ce",
+  "name": "無病習齋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/mubyosokusai.artist",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mubyosokusai_tw%2F",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11042864",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/MUBYOSOKUSAI1",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

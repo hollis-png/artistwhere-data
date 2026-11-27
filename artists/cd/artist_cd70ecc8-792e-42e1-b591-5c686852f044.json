@@ -1,0 +1,42 @@
+{
+  "id": "artist_cd70ecc8-792e-42e1-b591-5c686852f044",
+  "name": "Harurunoe",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/harurunoe",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/harurunoe/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/harurunoe/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/34494743",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/harurunoe",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Harururu0526",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

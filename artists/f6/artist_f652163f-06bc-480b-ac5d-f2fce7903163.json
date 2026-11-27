@@ -1,0 +1,17 @@
+{
+  "id": "artist_f652163f-06bc-480b-ac5d-f2fce7903163",
+  "name": "亞雀秘製",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/asa4332",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

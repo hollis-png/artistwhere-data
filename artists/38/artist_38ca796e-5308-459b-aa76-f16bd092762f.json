@@ -1,0 +1,35 @@
+{
+  "id": "artist_38ca796e-5308-459b-aa76-f16bd092762f",
+  "name": "壞菇社",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/ChickeIII",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MARK4why/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/9752301",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/fg3517",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

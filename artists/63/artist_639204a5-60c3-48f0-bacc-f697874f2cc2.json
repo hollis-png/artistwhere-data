@@ -1,0 +1,19 @@
+{
+  "id": "artist_639204a5-60c3-48f0-bacc-f697874f2cc2",
+  "name": "暖心咖啡廳",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/MIKADOcoffeebar/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

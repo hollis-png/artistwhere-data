@@ -1,0 +1,40 @@
+{
+  "id": "artist_8ea8bb1f-c8f0-4fdb-919e-5268516174c8",
+  "name": "Yuzuki柚姬",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/yuzukiyzk030",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100006375671797",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yuzuki_yzk030/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/yuzukicos",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yuzuki11037",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

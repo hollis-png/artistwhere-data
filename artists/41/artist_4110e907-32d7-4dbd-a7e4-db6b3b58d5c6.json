@@ -1,0 +1,41 @@
+{
+  "id": "artist_4110e907-32d7-4dbd-a7e4-db6b3b58d5c6",
+  "name": "蛋捲",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/omeletcream",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/flytwoknives/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100001475946372",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6069023",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/g3223509",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

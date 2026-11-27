@@ -1,0 +1,17 @@
+{
+  "id": "artist_7c50a560-dcf3-45d4-8be0-5e00298dbc4c",
+  "name": "Tibona",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/tibona_owo",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "artist_35577eff-87b1-480f-95db-613b1f75650e",
+  "name": "迪亞雜藝舖",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://diago.myportfolio.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/NmH4PTGQ2g",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/diagostudio",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.ecpay.com.tw/Broadcaster/Donate/96F4BE74FAC010810000C16FAF1A1D95",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/diagostudio",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/diagostudio/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/diago303",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@diagostudio",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/diagostudio",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

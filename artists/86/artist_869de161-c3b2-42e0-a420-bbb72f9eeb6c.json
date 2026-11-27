@@ -1,0 +1,41 @@
+{
+  "id": "artist_869de161-c3b2-42e0-a420-bbb72f9eeb6c",
+  "name": "蒼之翼",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/C0DEE252-3A60-475F-A566-93E1D2FC1858/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/chuckni1",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/shougunni",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/823302",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/a96040021",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "artist_91935de6-305b-4859-baa5-998155da8545",
+  "name": "驕傲香蕉、樹蛙孤逃、LuMo",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://conbana.fanbox.cc/plans",
+      "platform": "Fanbox",
+      "status": "alive",
+      "displayName": "驕傲香蕉"
+    },
+    {
+      "url": "https://linktr.ee/Proud_Banana?ltsid=6a0886f6-c6c5-4896-b812-c27ae8c92ccb",
+      "platform": "Linktree",
+      "status": "alive",
+      "displayName": "Proud_Banana Official: Facebook, Twitter"
+    },
+    {
+      "url": "https://melonbooks.co.jp/circle/index.php?circle_id=135219",
+      "platform": "Melonbooks",
+      "status": "alive",
+      "displayName": "BANANA☆COMICの同人誌/同人グッズの通販は品揃え国内最大級の総合書店"
+    },
+    {
+      "url": "https://myacg.com.tw/seller_market.php?seller=555355&sort=2&order=DESC&show=image&market_id=&no_market=&pageID=1&gourl_point=ZQUBN_155906&keyword=%E9%A9%95%E5%82%B2%E9%A6%99%E8%95%89&low_price=&high_price=&start_date=&end_date=",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/confidentbana",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61550052955941",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sanbornbanana",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "喬香驕"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5233382",
+      "platform": "Pixiv",
+      "status": "alive",
+      "displayName": "驕傲香蕉"
+    },
+    {
+      "url": "https://x.com/%40ProudBanana_1",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ProudBanana_1",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

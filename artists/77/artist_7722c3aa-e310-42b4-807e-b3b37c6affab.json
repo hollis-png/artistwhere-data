@@ -1,0 +1,34 @@
+{
+  "id": "artist_7722c3aa-e310-42b4-807e-b3b37c6affab",
+  "name": "Crest",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://crest-music.net/crest-biography",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/jeetsingh.jp",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/crest_music_production",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/jeet_crest",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

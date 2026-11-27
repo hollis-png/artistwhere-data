@@ -1,0 +1,23 @@
+{
+  "id": "artist_5609965c-8218-4d9a-996f-eae4a11661af",
+  "name": "波比Pixelart",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://ko-fi.com/haopanyo_pixel",
+      "platform": "Ko-fi",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/haopanyo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

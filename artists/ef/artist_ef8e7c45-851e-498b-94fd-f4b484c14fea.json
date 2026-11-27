@@ -1,0 +1,17 @@
+{
+  "id": "artist_ef8e7c45-851e-498b-94fd-f4b484c14fea",
+  "name": "環繞著土星的光環",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/tama48849/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "artist_456de531-4b5b-47dc-ae8c-3b412933b61f",
+  "name": "アクアドロップ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "http://aquadrop.chu.jp/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/mikami",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://mikami.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/854356",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mika_mikami",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

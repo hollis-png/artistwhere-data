@@ -1,0 +1,42 @@
+{
+  "id": "artist_e3bc6525-5624-4152-8301-a86499f658e2",
+  "name": "蚊子Wenzi",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/JBhqQn3qEP",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/wenzi2024",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/wenzi2024/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/Wenzi2024",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCqfIk9wSTVk0g0JJiMduV7g",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/wenzi2024",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

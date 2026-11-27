@@ -1,0 +1,28 @@
+{
+  "id": "artist_b01a8933-c750-4d6e-a92a-97ae513a4492",
+  "name": "deer62",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/deerchann",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/deerbb",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@62deer",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

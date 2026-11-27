@@ -1,0 +1,21 @@
+{
+  "id": "artist_6f76e286-4ffa-4b56-9c79-742a6fc51ba3",
+  "name": "FAUNAS",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/FAUNAS_ASMR",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

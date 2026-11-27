@@ -1,0 +1,23 @@
+{
+  "id": "artist_88bdda47-a008-4902-991c-e0cecac2bd10",
+  "name": "野菇軍艦",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://kinokoship.github.io/kinokoship/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61583036337568",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

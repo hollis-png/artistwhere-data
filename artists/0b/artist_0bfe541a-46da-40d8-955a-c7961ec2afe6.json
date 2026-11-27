@@ -1,0 +1,27 @@
+{
+  "id": "artist_0bfe541a-46da-40d8-955a-c7961ec2afe6",
+  "name": "Pure Studio",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/AuYeungChunHay/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/pure_studio_official/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.purestudio.hk/awards",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

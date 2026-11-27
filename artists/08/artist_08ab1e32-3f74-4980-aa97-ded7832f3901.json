@@ -1,0 +1,30 @@
+{
+  "id": "artist_08ab1e32-3f74-4980-aa97-ded7832f3901",
+  "name": "T.A.K.O.水族館",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/Tako%E6%B0%B4%E6%97%8F%E9%A4%A8-61553864348427/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/takoaquarium",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Spartanii121",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

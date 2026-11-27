@@ -1,0 +1,20 @@
+{
+  "id": "artist_90c2f3e0-212b-4482-a46f-9cf077a2a365",
+  "name": "鋼鐵莫斯昕",
+  "types": [],
+  "events": [
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/11908046",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kuageo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

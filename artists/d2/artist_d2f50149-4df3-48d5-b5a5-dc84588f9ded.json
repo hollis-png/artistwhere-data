@@ -1,0 +1,27 @@
+{
+  "id": "artist_d2f50149-4df3-48d5-b5a5-dc84588f9ded",
+  "name": "數秘術同好會",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?&owner=room1301",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ling.446734",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Evenicle",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

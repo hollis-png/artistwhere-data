@@ -1,0 +1,37 @@
+{
+  "id": "artist_3a98f9da-1484-42fc-8cc1-3646b74963e1",
+  "name": "CIRKUSSSSS",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/8C02AE7D-F3DF-4B0B-8966-7E28FE4ED350/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Cirkus90123",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/CirkusHo",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/cirkus_ho/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/19834896",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

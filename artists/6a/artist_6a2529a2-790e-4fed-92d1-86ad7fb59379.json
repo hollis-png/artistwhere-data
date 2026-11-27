@@ -1,0 +1,84 @@
+{
+  "id": "artist_6a2529a2-790e-4fed-92d1-86ad7fb59379",
+  "name": "キッカニッキ",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://fanme.link/@kikka_cos",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/kikka_cos",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://kikkacos.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://kikkanikki.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://mbneppuri.com/7413/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://onlyfans.com/u256339983",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/Kikka-Cosplay-100092580521528/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kikka_cos/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/cw/kikka_cos",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.tiktok.com/@kikka_cos",
+      "platform": "TikTok",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/kikka_cos",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@kikka_nikki",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kikka_cos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kikka_staff",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

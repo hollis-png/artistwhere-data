@@ -1,0 +1,27 @@
+{
+  "id": "artist_8ee9db5b-22cd-443e-a02c-0de1ba1a2a93",
+  "name": "貓草Cosplay",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/eevoncosplayer/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/eevon.von",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/eevon_cosplayer",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

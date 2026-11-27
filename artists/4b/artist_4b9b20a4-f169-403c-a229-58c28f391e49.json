@@ -1,0 +1,22 @@
+{
+  "id": "artist_4b9b20a4-f169-403c-a229-58c28f391e49",
+  "name": "Have a Nai’s day",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/cacinatw/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/cacinatw",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

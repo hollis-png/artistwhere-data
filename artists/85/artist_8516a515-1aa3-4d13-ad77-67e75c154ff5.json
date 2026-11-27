@@ -1,0 +1,27 @@
+{
+  "id": "artist_8516a515-1aa3-4d13-ad77-67e75c154ff5",
+  "name": "麥芽糖 Malt candy",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://tangdou0402.wixsite.com/my-site",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/maltcandy0228/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tangdou0402",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

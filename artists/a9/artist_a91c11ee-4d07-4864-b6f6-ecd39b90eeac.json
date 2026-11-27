@@ -1,0 +1,37 @@
+{
+  "id": "artist_a91c11ee-4d07-4864-b6f6-ecd39b90eeac",
+  "name": "8七兔",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/8nana_usa",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100094134949022",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/illustration_aku007/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/13614957",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

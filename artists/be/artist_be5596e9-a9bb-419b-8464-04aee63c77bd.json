@@ -1,0 +1,17 @@
+{
+  "id": "artist_be5596e9-a9bb-419b-8464-04aee63c77bd",
+  "name": "司康餅發射器",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/crispy_scone",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

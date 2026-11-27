@@ -1,0 +1,35 @@
+{
+  "id": "artist_ca4a77fa-f59a-4692-951a-4f37bdfc7763",
+  "name": "瑞宅",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/ray83222",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/zuitaku/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/860908",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ray83222",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

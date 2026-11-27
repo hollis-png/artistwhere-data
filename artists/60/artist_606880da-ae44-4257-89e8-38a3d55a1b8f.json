@@ -1,0 +1,41 @@
+{
+  "id": "artist_606880da-ae44-4257-89e8-38a3d55a1b8f",
+  "name": "干物A太",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=fcfd123",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/azcp333",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/azcp33/?ref=bookmarks",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4570006",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/fcfd123",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

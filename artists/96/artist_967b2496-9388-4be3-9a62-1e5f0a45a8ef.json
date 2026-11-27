@@ -1,0 +1,41 @@
+{
+  "id": "artist_967b2496-9388-4be3-9a62-1e5f0a45a8ef",
+  "name": "小虫",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/AAFD218C-3738-444B-AC11-351447C7B819/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Mushi024",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Mugenjirai2",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/492107",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Mushi024",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

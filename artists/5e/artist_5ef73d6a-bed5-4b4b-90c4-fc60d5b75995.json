@@ -1,0 +1,20 @@
+{
+  "id": "artist_5ef73d6a-bed5-4b4b-90c4-fc60d5b75995",
+  "name": "羽毛滿天飛",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/lucylusstories/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/dingling100",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

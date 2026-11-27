@@ -1,0 +1,22 @@
+{
+  "id": "artist_2ecaf756-5eec-4df5-ba72-fc795ef0c7c3",
+  "name": "夢月之境",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://dreams-of-moon.webnode.page/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/dreamsof_moon",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

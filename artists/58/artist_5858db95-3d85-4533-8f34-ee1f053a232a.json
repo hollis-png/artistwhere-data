@@ -1,0 +1,22 @@
+{
+  "id": "artist_5858db95-3d85-4533-8f34-ee1f053a232a",
+  "name": "荻珥",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.twitch.tv/mtow9140?lang=zh-tw",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCWvIsaoo_ty2hiS_e9MtC4Q",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

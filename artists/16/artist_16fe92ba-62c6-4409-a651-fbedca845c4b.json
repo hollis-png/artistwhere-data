@@ -1,0 +1,24 @@
+{
+  "id": "artist_16fe92ba-62c6-4409-a651-fbedca845c4b",
+  "name": "Ｄｅｌａｙｄｅｒ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/16857",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5192/artworks",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

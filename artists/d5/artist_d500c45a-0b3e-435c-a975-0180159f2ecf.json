@@ -1,0 +1,60 @@
+{
+  "id": "artist_d500c45a-0b3e-435c-a975-0180159f2ecf",
+  "name": "Tobey·又·",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/tobey7777.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://clibo.tw/users/pJeG46",
+      "platform": "Clibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://ko-fi.com/tobey",
+      "platform": "Ko-fi",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.gamer.com.tw/home/home.php?owner=tobey7777",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://potofu.me/tobey",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/tobey7777/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/tobey4131/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/tobey1214",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Tobey____",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

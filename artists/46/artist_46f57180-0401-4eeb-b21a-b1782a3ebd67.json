@@ -1,0 +1,32 @@
+{
+  "id": "artist_46f57180-0401-4eeb-b21a-b1782a3ebd67",
+  "name": "嗨!我是孟達",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=tkstks123",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/jacjoraaaa",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/jacjoraaaa",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3872398",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

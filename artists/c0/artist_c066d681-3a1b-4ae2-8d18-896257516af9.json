@@ -1,0 +1,22 @@
+{
+  "id": "artist_c066d681-3a1b-4ae2-8d18-896257516af9",
+  "name": "黒ベタ同好会",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/61748675",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/takurada1001",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

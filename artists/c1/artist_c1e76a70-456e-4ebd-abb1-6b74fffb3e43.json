@@ -1,0 +1,17 @@
+{
+  "id": "artist_c1e76a70-456e-4ebd-abb1-6b74fffb3e43",
+  "name": "Orange柳丁喵",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/orangeninetailcat/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

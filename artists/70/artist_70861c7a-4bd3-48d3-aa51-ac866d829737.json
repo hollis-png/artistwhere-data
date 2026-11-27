@@ -1,0 +1,41 @@
+{
+  "id": "artist_70861c7a-4bd3-48d3-aa51-ac866d829737",
+  "name": "繪宅米行",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/RicKe-Kao-100063766683561/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ricke.kao",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ricke._.2002",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/75603323",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/RicKe_1102",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

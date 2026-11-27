@@ -1,0 +1,46 @@
+{
+  "id": "artist_8877bc3e-bc26-40a6-9527-6441499b6b92",
+  "name": "月貓創意",
+  "types": [
+    "artist",
+    "craft",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/nokomakawa",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/nokomakawa",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nokomakawa/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1278083",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/nokomakawa",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

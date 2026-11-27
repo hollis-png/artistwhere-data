@@ -1,0 +1,28 @@
+{
+  "id": "artist_b0f68252-57ec-46e5-bf5f-faac1df38bfc",
+  "name": "太空通訊暨黑洞觀察總署RCOSEA",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/matsuyoi",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Psychasthenia",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kusa_Matsuyoi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

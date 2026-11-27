@@ -1,0 +1,49 @@
+{
+  "id": "artist_a444e256-18f4-4067-b52a-c11a228d2927",
+  "name": "雲際線工作室",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/UbyeCloud",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Zhoumo_twvtuber",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/cloudhorizonst",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/CloudHorizonStudio/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Ubyecloud/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@Ubye",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@zhoumo_cloudhorizon/featured",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

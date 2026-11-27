@@ -1,0 +1,32 @@
+{
+  "id": "artist_7efb3981-7bb5-416e-a1c8-996d6df55c3c",
+  "name": "44c_isaac",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index_feed.php?owner=lowkey0820",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://weibo.com/isaacyeh",
+      "platform": "Weibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/19063155",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/44c_isaac",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "artist_4d047b7b-2d57-4ddd-9631-8f0779770f77",
+  "name": "茉沫*MoMo",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/_momo__c",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/momohkcosplayer/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

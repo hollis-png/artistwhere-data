@@ -1,0 +1,18 @@
+{
+  "id": "artist_f7115c85-1dfa-4a97-9e66-cec0b8eb46a1",
+  "name": "屬於尼的士議院",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/council_of_runi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

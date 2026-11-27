@@ -1,0 +1,37 @@
+{
+  "id": "artist_450bde92-4c52-490b-8e97-5b2bafaa34c7",
+  "name": "賽路伊斯-七曜個人",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/chiyau777",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/chiyau777",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/16386581",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/chiyau0829",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

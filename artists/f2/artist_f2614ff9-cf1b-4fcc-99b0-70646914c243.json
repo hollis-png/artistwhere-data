@@ -1,0 +1,35 @@
+{
+  "id": "artist_f2614ff9-cf1b-4fcc-99b0-70646914c243",
+  "name": "盧米亞島平衡難民營",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/%E9%9C%B2%E7%92%90%E9%88%B4-Lulurin-109174601686069",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rin_lulurin/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/rin_lulurin",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCn_s8pSEc1n88AzItRUpX1g",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Rin_LuluRin",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

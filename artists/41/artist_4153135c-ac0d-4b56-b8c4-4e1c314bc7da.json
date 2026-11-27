@@ -1,0 +1,38 @@
+{
+  "id": "artist_4153135c-ac0d-4b56-b8c4-4e1c314bc7da",
+  "name": "Millet@半米紀行",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://50cm.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/millet",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/millet030",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/millet.illust",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7304906",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

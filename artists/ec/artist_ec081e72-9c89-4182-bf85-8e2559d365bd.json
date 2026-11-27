@@ -1,0 +1,17 @@
+{
+  "id": "artist_ec081e72-9c89-4182-bf85-8e2559d365bd",
+  "name": "毛毛雜貨店？ fur.shop",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E6%AF%9B%E6%AF%9B%E9%9B%9C%E8%B2%A8%E5%BA%97-furshop-61570614861394/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

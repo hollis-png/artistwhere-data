@@ -1,0 +1,23 @@
+{
+  "id": "artist_b95f9997-b9b2-472b-919c-68446336c50a",
+  "name": "洛氏宗親會",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/@tora5446",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/jinjinsun217",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

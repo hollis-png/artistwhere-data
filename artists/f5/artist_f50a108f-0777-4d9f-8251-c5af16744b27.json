@@ -1,0 +1,30 @@
+{
+  "id": "artist_f50a108f-0777-4d9f-8251-c5af16744b27",
+  "name": "HAGI_art",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/hagi63",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61550049819898",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/65057053",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hagi_0603",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

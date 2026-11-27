@@ -1,0 +1,32 @@
+{
+  "id": "artist_90c88139-9aed-456a-b494-c5f5dc403847",
+  "name": "特異點",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linkgoods.com/singularity",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61565099445578",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC_CyVK7610vdwOipWQ2378g",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Singularit31671",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

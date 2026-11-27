@@ -1,0 +1,34 @@
+{
+  "id": "artist_d8907f8f-7426-4a6d-88ff-d57b897e2554",
+  "name": "瓜子工坊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/share/1ERYCfNkbT/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/_dray1209/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ray951209",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kkiyun277627",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

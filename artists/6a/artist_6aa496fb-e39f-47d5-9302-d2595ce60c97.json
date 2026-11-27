@@ -1,0 +1,22 @@
+{
+  "id": "artist_6aa496fb-e39f-47d5-9302-d2595ce60c97",
+  "name": "尿酸値下げ隊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/1880414",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kametarou",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

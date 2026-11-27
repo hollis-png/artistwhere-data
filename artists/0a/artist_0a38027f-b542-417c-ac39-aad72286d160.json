@@ -1,0 +1,17 @@
+{
+  "id": "artist_0a38027f-b542-417c-ac39-aad72286d160",
+  "name": "KRAKEN GANG",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/zhanshi.daofeng",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

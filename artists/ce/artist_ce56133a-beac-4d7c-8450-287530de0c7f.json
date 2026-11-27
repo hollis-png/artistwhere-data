@@ -1,0 +1,24 @@
+{
+  "id": "artist_ce56133a-beac-4d7c-8450-287530de0c7f",
+  "name": "小熊貓工作室",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://foxtogetherwithrabbit.mystrikingly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/fox_together_with_rabbit/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

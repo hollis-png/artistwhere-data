@@ -1,0 +1,22 @@
+{
+  "id": "artist_1815bd72-ea8f-4f7a-a862-6e388c52fcf7",
+  "name": "骨",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/diaphonized_bone_japan/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/DiaphonizedBone",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

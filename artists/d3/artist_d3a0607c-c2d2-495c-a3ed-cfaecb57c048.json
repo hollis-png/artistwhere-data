@@ -1,0 +1,27 @@
+{
+  "id": "artist_d3a0607c-c2d2-495c-a3ed-cfaecb57c048",
+  "name": "こんにゃろめ！",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/74592084",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/konnyarome",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nyaromeART",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

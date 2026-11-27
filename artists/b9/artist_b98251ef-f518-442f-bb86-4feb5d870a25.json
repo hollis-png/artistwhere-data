@@ -1,0 +1,24 @@
+{
+  "id": "artist_b98251ef-f518-442f-bb86-4feb5d870a25",
+  "name": "台藝大極風漫研",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/NTUAblastmongastudyclub",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ntuamanyan",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "artist_5eac2934-2e6e-4643-8ae9-6a2122f95285",
+  "name": "osakana.factory",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://ofo.jp/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/@mishiki",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/nakagawa.yuzuru",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/27514",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

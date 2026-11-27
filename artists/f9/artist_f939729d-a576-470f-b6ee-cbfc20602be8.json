@@ -1,0 +1,53 @@
+{
+  "id": "artist_f939729d-a576-470f-b6ee-cbfc20602be8",
+  "name": "白屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/BT",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.twitch.tv/byton1213",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://shirobt1213.wixsite.com/shirobt1213",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/bt_1213_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8910758",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/t55770055",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCQyuxkjzTh1lDB7fDsaPuKQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/BT871213",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

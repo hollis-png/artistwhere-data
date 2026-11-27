@@ -1,0 +1,22 @@
+{
+  "id": "artist_eb2ffaf0-e4c3-4d54-9353-f8bd1f4c739c",
+  "name": "阿璇Xuan",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/AXUANcosplayer",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/a_xuan715",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "artist_0b03ef17-2bd2-4100-9502-86c74d2544ab",
+  "name": "八爪魚雕塑",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://octohands.com/about/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://pin.it/1NwfryXp4",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/octohands_sculpture/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "artist_5486d6ef-ad48-4ae6-9a3d-587a4b327b95",
+  "name": "御柴手藝工作室",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/onshibaproject",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

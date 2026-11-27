@@ -1,0 +1,43 @@
+{
+  "id": "artist_32961555-d0c9-404e-a749-5602c923e331",
+  "name": "Nekoda",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ivan.wang.9699",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ivan624",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/10121582",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.tumblr.com/explore/trending",
+      "platform": "Tumblr",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Ivanwang624",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "artist_b0c6530e-98fc-4b45-857c-c422c1d30e88",
+  "name": "33号部屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://facebook.com/yu.yan.ting.974906/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://twitter.com/Yen_Ting_Yu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/people/Owen-Yu/61583891031404/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100005494205987",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61583891031404",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3433634",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/rifrif686",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

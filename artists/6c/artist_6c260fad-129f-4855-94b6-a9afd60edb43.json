@@ -1,0 +1,20 @@
+{
+  "id": "artist_6c260fad-129f-4855-94b6-a9afd60edb43",
+  "name": "貓咪豆腐店",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/authors/info/wawa123?srsltid=AfmBOorzPw_a-u551maWn_XOqt41vdQuAZDa8Ec0GZL7cyGanzlRdFI_",
+      "platform": "同人誌通販",
+      "status": "alive"
+    }
+  ]
+}

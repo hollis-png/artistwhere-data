@@ -1,0 +1,32 @@
+{
+  "id": "artist_3d40112f-de8b-48f2-a833-3ac496a802b5",
+  "name": "Hitakami",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/hitakami",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Hita_gami",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6099468",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/hitakami",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

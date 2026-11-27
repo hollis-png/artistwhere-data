@@ -1,0 +1,57 @@
+{
+  "id": "artist_83417ee3-15d7-4b8b-983d-dc5866196bc1",
+  "name": "千層蝶豆花鮮奶茶鋪",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/tVweBXWdKH",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://kr8flhrv.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/chan100577",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/zhang.xiao.qian.350134",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/chan100577/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/21100343",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/chan100577",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chan100577_02",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chan100577nsfw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

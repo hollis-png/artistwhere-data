@@ -1,0 +1,27 @@
+{
+  "id": "artist_e4d65b56-f7fa-4e4f-843b-90a9d5b2f8e9",
+  "name": "鳴上なごね",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/483155",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/narug0d_",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/narug0d",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

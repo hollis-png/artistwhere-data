@@ -1,0 +1,39 @@
+{
+  "id": "artist_f03562eb-ca8d-4fda-a84b-de57dc488d0b",
+  "name": "Okita Kung",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/okitakung65.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/okitakung65?ltsid=be843f33-34eb-4457-9767-4d208a9fbffc",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/okitakung65/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1267809",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/okitakung65",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

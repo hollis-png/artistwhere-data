@@ -1,0 +1,41 @@
+{
+  "id": "artist_152204a8-0fdd-41db-8f50-843b5ab1c464",
+  "name": "蘿瑪ロマ",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Luma0130/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100012263404876",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/luma_draw0130/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/34831706",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@lumadraw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

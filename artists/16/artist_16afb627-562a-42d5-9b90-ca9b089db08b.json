@@ -1,0 +1,15 @@
+{
+  "id": "artist_16afb627-562a-42d5-9b90-ca9b089db08b",
+  "name": "杉貓",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/cedar.cats/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "artist_7e64607c-ed3f-4f66-8757-db958e5db057",
+  "name": "Fried Squid",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/rayu040618.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/530291",
+      "platform": "Fantia",
+      "status": "dead"
+    },
+    {
+      "url": "https://linktr.ee/rayu040618",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/rayu040618",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rayu040618",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/81738389",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rayu040618",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

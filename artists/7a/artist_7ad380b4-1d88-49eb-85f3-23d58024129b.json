@@ -1,0 +1,40 @@
+{
+  "id": "artist_7ad380b4-1d88-49eb-85f3-23d58024129b",
+  "name": "步羽羽魔法部",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.twitch.tv/huwaduck/about",
+      "platform": "Twitch",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.youtube.com/@HuwaCh",
+      "platform": "YouTube",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.youtube.com/@huwalive2d",
+      "platform": "YouTube",
+      "status": "alive",
+      "displayName": "Huwa ო Live2D"
+    },
+    {
+      "url": "https://x.com/HuwaAtelier",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/HuwaDuck",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

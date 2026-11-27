@@ -1,0 +1,29 @@
+{
+  "id": "artist_6448e0d1-3a7c-4003-b160-8d2a9bdd2f4d",
+  "name": "被爐裡的翻車魚",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/tea19990208",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MOLAMOLAComics/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/13629236",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

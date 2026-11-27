@@ -1,0 +1,49 @@
+{
+  "id": "artist_0b97aca6-160e-440a-817b-001f1114f797",
+  "name": "由庫里muA",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://reurl.cc/Go17RD",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/kahaneyuri",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.facebook.com/kahaneyuri",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.twitch.tv/summeryuri",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://reurl.cc/g20v9V",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kahaneyuri",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/@summerYuriCh",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

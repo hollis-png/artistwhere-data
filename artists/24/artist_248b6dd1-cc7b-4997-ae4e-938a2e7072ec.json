@@ -1,0 +1,22 @@
+{
+  "id": "artist_248b6dd1-cc7b-4997-ae4e-938a2e7072ec",
+  "name": "天狐城",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://inariray01.wixsite.com/inariray?lang=zh",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100083312618419",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "artist_af5d7540-bf47-4b6e-b00b-428176cb9039",
+  "name": "JAGOO",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/JAGOO93140229",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100081971317037",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.pixiv.net/users/12878933",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

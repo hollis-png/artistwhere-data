@@ -1,0 +1,25 @@
+{
+  "id": "artist_51554941-1609-4238-a875-064e3de9dc8e",
+  "name": "台灣模型嗜好發展協會",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/twnhobby",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/twnhobby/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twnhobby.com/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

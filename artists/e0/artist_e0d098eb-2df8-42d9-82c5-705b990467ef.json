@@ -1,0 +1,17 @@
+{
+  "id": "artist_e0d098eb-2df8-42d9-82c5-705b990467ef",
+  "name": "塗鴉時空間",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Kcnny/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

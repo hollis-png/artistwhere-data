@@ -1,0 +1,20 @@
+{
+  "id": "artist_b0a66a62-3595-45b4-960e-de19564c39c0",
+  "name": "夏艾有擺攤",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/cii0119nacchan/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@cii0119nacchan",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "artist_c84330dd-d43e-4a24-90a5-cf83fb75ba34",
+  "name": "夢光創意",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.dreamlight.site/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC8BJYWumtMFmlYz1qzAChNQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/DreamLight2024",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "artist_614be1d8-f73e-47c1-a129-2103ef576c56",
+  "name": "柊の手帳",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/derrygreevild.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@DerryGreed",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/derry_greevild",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artist_3d734790-c23a-4a34-b068-925f0ed96f7c",
+  "name": "廷a理工御宅",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61572425004213&rdid=NliO2FyNK0617IV9&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1FtkfDBekD%2F%3Fmibextid%3DwwXIfr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/harry2016b",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

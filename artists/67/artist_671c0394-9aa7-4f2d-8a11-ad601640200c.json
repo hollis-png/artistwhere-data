@@ -1,0 +1,30 @@
+{
+  "id": "artist_671c0394-9aa7-4f2d-8a11-ad601640200c",
+  "name": "芒果派對",
+  "types": [],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/mangoparty.business",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/MangoPartyGames",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MangoPartyGames",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@mangoparty9959",
+      "platform": "YouTube",
+      "status": "dead"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "artist_764f3632-319f-4b17-8344-943e509fd80e",
+  "name": "そらなにいろ",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/sora72iro_art",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sora72iro_art",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4357504",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

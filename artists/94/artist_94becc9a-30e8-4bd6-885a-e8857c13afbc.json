@@ -1,0 +1,37 @@
+{
+  "id": "artist_94becc9a-30e8-4bd6-885a-e8857c13afbc",
+  "name": "樂祈是隻綠狐狸",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://ruichifox.fanbox.cc",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ruichi2022",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4479710",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/m/24908750",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ruichifox",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

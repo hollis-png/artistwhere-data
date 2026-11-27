@@ -1,0 +1,80 @@
+{
+  "id": "artist_ef44f1c3-7089-4ecf-8964-f6f447be308f",
+  "name": "鬼父神奈",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://facebook.com/ShennaiMisha",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/348976",
+      "platform": "Fantia",
+      "status": "alive",
+      "displayName": "神奈弥莎のファンティア (神奈弥莎)｜ファンティア[Fantia]"
+    },
+    {
+      "url": "https://fantia.jp/profiles/tus_9ujc4soqndyd",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://krosa1028.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive",
+      "displayName": "神奈弥莎"
+    },
+    {
+      "url": "https://pixiv.net/users/2262943",
+      "platform": "Pixiv",
+      "status": "alive",
+      "displayName": "神奈弥沙"
+    },
+    {
+      "url": "https://plurk.com/ssttool6113",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/krosa1028",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://weibo.com/tv",
+      "platform": "Weibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://weibo.com/u/6055022813",
+      "platform": "Weibo",
+      "status": "alive",
+      "displayName": "鬼父神奈的微博_微博"
+    },
+    {
+      "url": "https://www.facebook.com/jiang.wei.ting.241286",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "跑車車"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100000438094759",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2262943/artworks",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

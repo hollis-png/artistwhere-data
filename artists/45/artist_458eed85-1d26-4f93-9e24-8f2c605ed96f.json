@@ -1,0 +1,39 @@
+{
+  "id": "artist_458eed85-1d26-4f93-9e24-8f2c605ed96f",
+  "name": "ノラネコノタマ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/493",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://noraneko-no-tama.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/straycat_2018",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Arukamikad",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.pixiv.net/users/529489",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "artist_a0f63b0a-44fa-4d86-a524-66e7da27e62d",
+  "name": "末小沁",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://potofu.me/uaq3ql2c",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://sites.google.com/view/smallqin?usp=sharing",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://smallqin.carrd.co/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/smallqin0802",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/smallqin_0802/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/9195220",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/smallqin_0802",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCArAvnlTUbMIJ9LUPqNuTiQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/qin880802",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/smallqin",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

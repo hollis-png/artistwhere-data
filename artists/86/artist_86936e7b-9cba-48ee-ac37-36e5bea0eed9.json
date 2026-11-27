@@ -1,0 +1,17 @@
+{
+  "id": "artist_86936e7b-9cba-48ee-ac37-36e5bea0eed9",
+  "name": "臨終サーカス",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/7859107",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

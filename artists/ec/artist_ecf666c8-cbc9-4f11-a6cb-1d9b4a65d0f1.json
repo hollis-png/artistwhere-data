@@ -1,0 +1,22 @@
+{
+  "id": "artist_ecf666c8-cbc9-4f11-a6cb-1d9b4a65d0f1",
+  "name": "奇怪的東西混入了",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yuenying.luk.1",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/_henna.mono_/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

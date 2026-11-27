@@ -1,0 +1,63 @@
+{
+  "id": "artist_4e30be08-f3ca-434e-b254-9ca076d62919",
+  "name": "地圖邊界的浣熊窩",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://ara1kumaru.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://bsky.app/profile/araikumaru.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/7YV45xDZYD",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index_creation.php?owner=lidon3692233",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/araikumaru",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://store.line.me/stickershop/author/2980781/zh-Hant?_gl=1*1ciy428*_gcl_au*MTA5NDQ0MTMwLjE3NjA2MTgyODk.*_ga*MTg5MDY2Mzc1OC4xNzYwNjE4Mjkw*_ga_0PV16Y9CZG*czE3NjQ5MTU2MDEkbzI1JGcwJHQxNzY0OTE1NjAxJGo2MCRsMCRoMA..",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Ara1kumaru",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/araikumaru/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/araikumarufb/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8694738",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

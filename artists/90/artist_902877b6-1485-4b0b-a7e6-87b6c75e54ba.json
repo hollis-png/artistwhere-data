@@ -1,0 +1,23 @@
+{
+  "id": "artist_902877b6-1485-4b0b-a7e6-87b6c75e54ba",
+  "name": "全糖里斯",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ke.li.si.439192",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tobunchudoku",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

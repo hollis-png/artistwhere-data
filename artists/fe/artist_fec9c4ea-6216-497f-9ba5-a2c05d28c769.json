@@ -1,0 +1,22 @@
+{
+  "id": "artist_fec9c4ea-6216-497f-9ba5-a2c05d28c769",
+  "name": "貓咖桃茶館",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E8%B2%93%E5%92%96%E6%A1%83%E8%8C%B6%E9%A4%A8-100086671113991/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18800957",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

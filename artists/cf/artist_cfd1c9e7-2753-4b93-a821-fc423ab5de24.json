@@ -1,0 +1,17 @@
+{
+  "id": "artist_cfd1c9e7-2753-4b93-a821-fc423ab5de24",
+  "name": "歪的工作室Ystudio",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yuhuirustudio/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

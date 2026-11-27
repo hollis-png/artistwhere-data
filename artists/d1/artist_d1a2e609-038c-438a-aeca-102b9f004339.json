@@ -1,0 +1,25 @@
+{
+  "id": "artist_d1a2e609-038c-438a-aeca-102b9f004339",
+  "name": "月八屋",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/artwork.php?sn=5854537",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1618799",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/SHIFTSHAU",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

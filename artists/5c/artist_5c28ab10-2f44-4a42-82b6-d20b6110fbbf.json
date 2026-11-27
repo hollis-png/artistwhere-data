@@ -1,0 +1,22 @@
+{
+  "id": "artist_5c28ab10-2f44-4a42-82b6-d20b6110fbbf",
+  "name": "采采兒Caicai",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/chen.cai.cai.452578/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/3636caicai/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

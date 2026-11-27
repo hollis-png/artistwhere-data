@@ -1,0 +1,37 @@
+{
+  "id": "artist_aa85bc79-2f91-4bb3-a0bf-09ee04bfd477",
+  "name": "洛可洛斯特鬆餅屋",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/locolost65",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.hivebee.com.tw/locolost65/Donate",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/locolost65",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@Locolost65/featured",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/LocoLost65",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_9a3040b5-044c-4928-81b2-b5ef0cb54099",
+  "name": "karomixとぱんのみみ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://pannomimi.net/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/panno_mimi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

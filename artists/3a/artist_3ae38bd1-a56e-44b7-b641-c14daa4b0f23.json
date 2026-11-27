@@ -1,0 +1,23 @@
+{
+  "id": "artist_3ae38bd1-a56e-44b7-b641-c14daa4b0f23",
+  "name": "JING式柑仔店",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.twitch.tv/ja4793060?lang=zh-tw",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/jng46312495",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

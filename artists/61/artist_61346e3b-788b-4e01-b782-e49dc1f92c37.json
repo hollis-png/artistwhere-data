@@ -1,0 +1,32 @@
+{
+  "id": "artist_61346e3b-788b-4e01-b782-e49dc1f92c37",
+  "name": "Littlesshine晴兒",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/littlesshinehk/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/littlesshine030/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/littlesshine_",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@littlesshine_",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

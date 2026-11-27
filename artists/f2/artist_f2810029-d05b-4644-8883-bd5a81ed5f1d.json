@@ -1,0 +1,18 @@
+{
+  "id": "artist_f2810029-d05b-4644-8883-bd5a81ed5f1d",
+  "name": "空想工房．Reverie Studio",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Reverie.Studio.RS",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

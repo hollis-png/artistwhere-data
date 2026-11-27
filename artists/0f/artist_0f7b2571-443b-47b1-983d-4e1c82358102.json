@@ -1,0 +1,43 @@
+{
+  "id": "artist_0f7b2571-443b-47b1-983d-4e1c82358102",
+  "name": "緣流",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/enruzero.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/enru",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/enru_0120/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/93178244",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC7JtgOVtuzlCauDccms-LoA",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/enruzero",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

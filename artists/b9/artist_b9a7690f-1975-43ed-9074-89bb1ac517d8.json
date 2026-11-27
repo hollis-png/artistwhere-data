@@ -1,0 +1,63 @@
+{
+  "id": "artist_b9a7690f-1975-43ed-9074-89bb1ac517d8",
+  "name": "秋芽與小花蕉",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/2Abecy82UX",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/JmTZnqaj",
+      "platform": "Discord",
+      "status": "dead"
+    },
+    {
+      "url": "https://instagram.com/chillya1020",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/chillya1020",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://p.ecpay.com.tw/597EE96",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/chillya1020",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/chillya1020",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCv_W2ZpvfrLAzsHqtjWGKYw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chillya1020",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/@chillya1020",
+      "platform": "YouTube",
+      "status": "dead"
+    }
+  ]
+}

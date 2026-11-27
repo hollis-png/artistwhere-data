@@ -1,0 +1,27 @@
+{
+  "id": "artist_59b5820d-bcb4-4f36-9449-4fea0e4d102d",
+  "name": "艾絲特薾",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/D4QqhyfTYD",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/hsien889",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hsien889",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "artist_12724441-c9b6-4a35-8eba-b7d3b65e20fe",
+  "name": "花間絮語",
+  "types": [],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://florise-hub.onrender.com/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

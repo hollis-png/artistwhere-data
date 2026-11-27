@@ -1,0 +1,32 @@
+{
+  "id": "artist_d41e1f41-aca7-4912-8421-a97d49a09319",
+  "name": "棉 MuBo",
+  "types": [
+    "artist"
+  ],
+  "events": [],
+  "accounts": [
+    {
+      "url": "https://instagram.com/sailormubo",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61550867528558",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/19156807",
+      "platform": "Pixiv",
+      "status": "alive",
+      "displayName": "棉 MuBo"
+    },
+    {
+      "url": "https://x.com/sailormubo",
+      "platform": "Twitter (X)",
+      "status": "alive",
+      "displayName": "棉 MuBo ⚓️"
+    }
+  ]
+}

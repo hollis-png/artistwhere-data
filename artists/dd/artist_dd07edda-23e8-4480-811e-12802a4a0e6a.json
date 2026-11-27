@@ -1,0 +1,30 @@
+{
+  "id": "artist_dd07edda-23e8-4480-811e-12802a4a0e6a",
+  "name": "毛毛精靈與牠們的喵喵迷因",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/%E6%AF%9B%E6%AF%9B%E7%B2%BE%E9%9D%88%E8%88%87%E7%89%A0%E5%80%91%E7%9A%84%E5%96%B5%E5%96%B5%E8%BF%B7%E5%9B%A0-meowmemes-167231107224673",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100064843065736",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/memelover1932",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

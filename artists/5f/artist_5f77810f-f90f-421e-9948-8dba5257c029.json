@@ -1,0 +1,38 @@
+{
+  "id": "artist_5f77810f-f90f-421e-9948-8dba5257c029",
+  "name": "星野秀奈★XUXU",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/149284",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/xuxu_0330",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/xuxu_0330/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@xuxu_0330",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/xuxu0330",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

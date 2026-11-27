@@ -1,0 +1,25 @@
+{
+  "id": "artist_8e91f528-0bbd-4bf6-84e8-a521781a9ff4",
+  "name": "卡爾比在這(⸝⸝•̀֊•́⸝⸝)",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://m.twitch.tv/karupinowhere",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/karupinowhere",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

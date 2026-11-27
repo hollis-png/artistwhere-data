@@ -1,0 +1,42 @@
+{
+  "id": "artist_2c95d13b-c8ea-435b-a475-5bbeebe68617",
+  "name": "魔窟",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/dragonhsuan13.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/DragonHsuan13",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6270703",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/dragonlovehon",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/DragonHsuan13",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "artist_e157bcc7-8905-46ff-bda2-b28a1346984c",
+  "name": "SSRB無限地下勞動部",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/wool86.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://callwool.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://clibo.tw/users/SfMoIb",
+      "platform": "Clibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/WOOL",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61556188869086",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/wool86/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/woolaa86/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/13604576",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@woolaa86",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/wool86",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/wool1997",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

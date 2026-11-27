@@ -1,0 +1,22 @@
+{
+  "id": "artist_e7d80e01-f1b6-4450-893e-954e5d07193e",
+  "name": "ステゴ產駒與他們的ATM",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/rayuki223",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rayuki223",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

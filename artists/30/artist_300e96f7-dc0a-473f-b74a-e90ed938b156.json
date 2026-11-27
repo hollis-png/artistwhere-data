@@ -1,0 +1,27 @@
+{
+  "id": "artist_300e96f7-dc0a-473f-b74a-e90ed938b156",
+  "name": "regnie",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/yzk_knmn",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yzk_knmn",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/50193123",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

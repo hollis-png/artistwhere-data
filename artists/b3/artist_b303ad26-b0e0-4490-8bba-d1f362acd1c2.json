@@ -1,0 +1,22 @@
+{
+  "id": "artist_b303ad26-b0e0-4490-8bba-d1f362acd1c2",
+  "name": "Blanc☆Meow的計劃",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/blanc_meow",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/44713968",
+      "platform": "Pixiv",
+      "status": "dead"
+    }
+  ]
+}

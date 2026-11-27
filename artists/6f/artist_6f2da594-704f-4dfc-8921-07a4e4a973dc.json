@@ -1,0 +1,27 @@
+{
+  "id": "artist_6f2da594-704f-4dfc-8921-07a4e4a973dc",
+  "name": "ふぁみりあ",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/@ria_arino",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ria_arino",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ria_arino0707",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

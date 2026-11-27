@@ -1,0 +1,27 @@
+{
+  "id": "artist_95d3513b-380b-4bb8-8a8e-2f74f618e715",
+  "name": "李龜Leeki",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/leekameko",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/lee_kameko",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/lee_kameko",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

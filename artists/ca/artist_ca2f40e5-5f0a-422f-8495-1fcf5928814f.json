@@ -1,0 +1,77 @@
+{
+  "id": "artist_ca2f40e5-5f0a-422f-8495-1fcf5928814f",
+  "name": "cho~",
+  "types": [
+    "artist",
+    "coser",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://instagram.com/qchocolatetw%20",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "http://www.plurk.com/qchocolate",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://chocobox.me/qchocolate",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/qchocolate",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://qchocolate.info/cho",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/qchocolate",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twpf.jp/qchocolate",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/qchocolatetw",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/58003",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/qchocolate",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@mahouchoco",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mahouchoco",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

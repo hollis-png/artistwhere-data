@@ -1,0 +1,19 @@
+{
+  "id": "artist_f529321b-bcfd-4a2a-9e9a-7c740af9aa4c",
+  "name": "Xamu ArtWorks",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/groups/info/8936?srsltid=AfmBOopDQzfX6_0p4ugKobmV0gk5ia2O_dffrdFpRPF2FeWlArNZsyUu",
+      "platform": "同人誌通販",
+      "status": "alive"
+    }
+  ]
+}

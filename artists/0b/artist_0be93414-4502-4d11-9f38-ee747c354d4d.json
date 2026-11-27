@@ -1,0 +1,20 @@
+{
+  "id": "artist_0be93414-4502-4d11-9f38-ee747c354d4d",
+  "name": "翠苑",
+  "types": [],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/269990",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sui_en_imotas",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

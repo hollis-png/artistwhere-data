@@ -1,0 +1,15 @@
+{
+  "id": "artist_dfcd3e36-65e7-4abd-9c90-ae6e5ad370a4",
+  "name": "配線略圖.net",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/haisennet/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

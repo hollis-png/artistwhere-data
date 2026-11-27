@@ -1,0 +1,41 @@
+{
+  "id": "artist_0e635471-6d66-4764-bcf6-947fce1bb3b6",
+  "name": "塗鴉時空間",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47",
+    "FFK19",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/kcnny.microdiary/?viewas=100000686899395",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/share/1ELu8GVp75/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4310025",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kcnny",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kcnny",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

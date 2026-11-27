@@ -1,0 +1,25 @@
+{
+  "id": "artist_6161cf3d-5561-426a-91fd-e0d8c0709905",
+  "name": "たちばなぐみ。",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/473697?locale=jp",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/myksan1717",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/myksan1717",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "artist_dd6c1966-9f11-47dd-9f69-49a541448907",
+  "name": "Catachi Cosplay",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/TzQ73qM7TK",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://instabio.cc/catachi77",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://instagram.com/catachi77",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/catachi77",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/catachi77/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

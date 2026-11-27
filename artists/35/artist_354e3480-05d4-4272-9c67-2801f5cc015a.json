@@ -1,0 +1,15 @@
+{
+  "id": "artist_354e3480-05d4-4272-9c67-2801f5cc015a",
+  "name": "RK Music",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://rkmusic.jp/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

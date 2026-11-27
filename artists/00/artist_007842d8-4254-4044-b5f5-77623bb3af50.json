@@ -1,0 +1,25 @@
+{
+  "id": "artist_007842d8-4254-4044-b5f5-77623bb3af50",
+  "name": "狸奴小築",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E7%8B%B8%E5%A5%B4%E5%B0%8F%E7%AF%89-61550612348852/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/linu_house/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

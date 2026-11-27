@@ -1,0 +1,52 @@
+{
+  "id": "artist_70abe085-5ebe-4934-ad1c-b241322b081e",
+  "name": "RUUNACHU",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/j4T3U5cq9E",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://ko-fi.com/ruunavi/commissions",
+      "platform": "Ko-fi",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/ruunachu",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ruunachu",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/ruunachu",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/ruunachu",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC_6VLIj8c2otq-cYCQ9o_GQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/churuuna",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

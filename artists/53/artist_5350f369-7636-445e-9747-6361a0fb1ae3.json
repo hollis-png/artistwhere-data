@@ -1,0 +1,29 @@
+{
+  "id": "artist_5350f369-7636-445e-9747-6361a0fb1ae3",
+  "name": "零星集市（stellar zero market）",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100071676066205",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/53496975",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/AH_BEY1024",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

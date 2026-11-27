@@ -1,0 +1,22 @@
+{
+  "id": "artist_d18bbc21-ba51-46b2-b1b7-71c1cc3185a9",
+  "name": "sentter森特繪",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/42385610/artworks",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sentter2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

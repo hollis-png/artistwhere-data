@@ -1,0 +1,86 @@
+{
+  "id": "artist_0f404d58-8dec-428f-9fa4-2fb0cb23b4c9",
+  "name": "Bygin-白巾",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/bygin.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://bygin.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/qCs4qX3T9x",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/creation.php?owner=chenyang100",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://linkgoods.com/bygin",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/bygin",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/ByginArtist",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/bygin01/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/byginartwork/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/bygin_artwork",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/c/bygin?vanity=user",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/13795156",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/chenyangyang100",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ByGin712576",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

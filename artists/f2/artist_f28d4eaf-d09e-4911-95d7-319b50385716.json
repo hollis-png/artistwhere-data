@@ -1,0 +1,46 @@
+{
+  "id": "artist_f28d4eaf-d09e-4911-95d7-319b50385716",
+  "name": "感電少女注意報",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://kanden0.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/kanden_shoujyo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kanden0/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mafuyu07/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/300537",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kanden",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "artist_43214491-6e63-4c48-b37a-47c53e08c505",
+  "name": "和(なごみ)",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/tenmu_nagomi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1666572",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

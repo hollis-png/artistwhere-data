@@ -1,0 +1,18 @@
+{
+  "id": "artist_dfe24b37-9eba-488e-89a8-9773273f8ca5",
+  "name": "木木梟保育協會",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E5%85%89%E4%B9%8B%E6%97%AD-100086222487714/?locale=eo_EO",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

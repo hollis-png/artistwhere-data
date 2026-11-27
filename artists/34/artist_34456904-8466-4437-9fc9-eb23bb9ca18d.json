@@ -1,0 +1,23 @@
+{
+  "id": "artist_34456904-8466-4437-9fc9-eb23bb9ca18d",
+  "name": "すずらまーと！",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/suzuran_ro/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/suzuran_ro",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "artist_a31e7aca-4d11-4194-b07e-c2fbb2947af1",
+  "name": "鴉醬",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Karasu_Chan1204",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100009275320341",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/17779015",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

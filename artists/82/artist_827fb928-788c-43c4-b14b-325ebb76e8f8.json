@@ -1,0 +1,19 @@
+{
+  "id": "artist_827fb928-788c-43c4-b14b-325ebb76e8f8",
+  "name": "狼師收留中心",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/shi.kabai/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

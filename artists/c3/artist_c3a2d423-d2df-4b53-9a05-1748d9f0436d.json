@@ -1,0 +1,24 @@
+{
+  "id": "artist_c3a2d423-d2df-4b53-9a05-1748d9f0436d",
+  "name": "桑好美盤",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/Yvonne_0317",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/cassandra_desu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

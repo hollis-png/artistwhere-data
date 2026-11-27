@@ -1,0 +1,42 @@
+{
+  "id": "artist_3aafdc6b-34d2-439d-8dd7-73d09fb3d2e7",
+  "name": "KS’ Works",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/xephyrks",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/KSworkss/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/649747",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/82120709",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/real_haku89",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

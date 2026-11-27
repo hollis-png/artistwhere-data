@@ -1,0 +1,50 @@
+{
+  "id": "artist_333e7024-7380-41b3-9302-f5c8b64ede42",
+  "name": "風味本舖",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/Eyh9bat2ty",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/Machi0910",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/_Machi0910",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/machi0910",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/mochi1212/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/m._.achi/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4632856",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

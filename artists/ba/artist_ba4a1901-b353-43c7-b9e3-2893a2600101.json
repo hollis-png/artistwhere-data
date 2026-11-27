@@ -1,0 +1,39 @@
+{
+  "id": "artist_ba4a1901-b353-43c7-b9e3-2893a2600101",
+  "name": "Beebeebunny",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.facebook.com/beebee.1120",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/beebee.1120",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/beebee.1120",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/beear1120",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/beear1120",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

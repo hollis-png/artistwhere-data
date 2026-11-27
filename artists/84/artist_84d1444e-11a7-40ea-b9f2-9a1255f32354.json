@@ -1,0 +1,41 @@
+{
+  "id": "artist_84d1444e-11a7-40ea-b9f2-9a1255f32354",
+  "name": "Waifubait",
+  "types": [
+    "craft",
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://waifubait.moe/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100083613786128",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/waifubait_tw/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/c/WaifuBaitCh/featured",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/waifubait",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

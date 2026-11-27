@@ -1,0 +1,45 @@
+{
+  "id": "artist_63929c45-eb7b-4229-9342-7b48e393cdc1",
+  "name": "うさぎ号",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://usagigo.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://usagigo.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1198913",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/hoshicham",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCEumFhHfhIkyv-q_S_Od4Ig",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hoshi_u3",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/poshi_u3",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

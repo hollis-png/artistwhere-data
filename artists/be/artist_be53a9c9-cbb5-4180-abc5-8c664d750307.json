@@ -1,0 +1,32 @@
+{
+  "id": "artist_be53a9c9-cbb5-4180-abc5-8c664d750307",
+  "name": "熊悠午睡",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://lazybear31232.wixsite.com/lazybear",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/lazybear0504/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sakamotofumi/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2504046",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

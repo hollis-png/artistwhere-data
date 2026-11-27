@@ -1,0 +1,23 @@
+{
+  "id": "artist_ad7a76d6-9dca-4a91-beac-f0a1a8bbb7a5",
+  "name": "丁丁dingding",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E4%B8%81%E4%B8%81DingDing-100084623769863/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/dingding_0106",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

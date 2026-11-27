@@ -1,0 +1,29 @@
+{
+  "id": "artist_875b7f7e-b1a6-4001-a6c4-440333155dba",
+  "name": "讓我再多睡一會",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/053942E6-5C0E-40D0-94DF-C99ACA781A72/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100093254274049",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/loveCR",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

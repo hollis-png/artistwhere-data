@@ -1,0 +1,15 @@
+{
+  "id": "artist_fdbc61b3-12cc-45e4-8cdd-e58ac6344224",
+  "name": "彩虹盤子",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/AAAAaaaa",
+      "platform": "Lit.link",
+      "status": "alive"
+    }
+  ]
+}

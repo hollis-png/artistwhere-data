@@ -1,0 +1,45 @@
+{
+  "id": "artist_7947d6cd-2cba-40dc-937c-c13fecbc49a2",
+  "name": "桜もよん",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/sakuramoyon.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/sakuramoyon",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://sakuramoyon.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sakuramoyon/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/10475690",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCrtO1NNtQ2xI2iLOh22x2Gw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/SakuraMoyon",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

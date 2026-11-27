@@ -1,0 +1,23 @@
+{
+  "id": "artist_0d6fa8c8-57eb-4fba-9a30-5a518b2d7fdd",
+  "name": "芝麻鳥事",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/gomatori/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/pennyyam/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

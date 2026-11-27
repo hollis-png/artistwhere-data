@@ -1,0 +1,33 @@
+{
+  "id": "artist_b90b63e9-9731-4a0a-8438-4ff7316970e9",
+  "name": "雜草丸子的培養皿",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/zassoumaruko.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/QSiQBt63VwZkfGV",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/template1234",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/template1234",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

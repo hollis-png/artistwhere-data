@@ -1,0 +1,38 @@
+{
+  "id": "artist_677e878f-22fa-4a1c-af7a-8be18496f5c0",
+  "name": "黑桐heton",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/he.ton.286396",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/kurokiri6630",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/13674176",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/erokiri6630",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kurokiri6630",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "artist_00dc2075-df00-49c8-8148-3373267f8b8a",
+  "name": "麥芽堂MALTYTOWN",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Bakugadou",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/town.malty",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/13794972",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

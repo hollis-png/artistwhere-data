@@ -1,0 +1,45 @@
+{
+  "id": "artist_6cc56774-c617-4cf2-a6fa-7f7a10a7e284",
+  "name": "悶KID",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://anetarou.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/sunameridrill",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/anetarou_monkid/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sunameridrill/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/31986233",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/SunameriDrill",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

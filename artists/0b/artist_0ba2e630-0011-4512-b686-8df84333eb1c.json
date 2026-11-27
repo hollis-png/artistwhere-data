@@ -1,0 +1,38 @@
+{
+  "id": "artist_0ba2e630-0011-4512-b686-8df84333eb1c",
+  "name": "GraceKaori Cos",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.patreon.com/gracekirara",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/GraceKaori",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/gracekaori2/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/gracekirara",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCaGunUx1nj1QtsmXV8u_jDQ",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

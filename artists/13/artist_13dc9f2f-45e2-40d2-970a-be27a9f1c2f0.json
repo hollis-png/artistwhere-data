@@ -1,0 +1,41 @@
+{
+  "id": "artist_13dc9f2f-45e2-40d2-970a-be27a9f1c2f0",
+  "name": "泥泥汝",
+  "types": [
+    "coser",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linkby.tw/new-page-uK1PxkIn",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/niniru621",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/niniru622",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/niniru621",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCTOA5N3AbUAVSWrSjlK5A2g",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

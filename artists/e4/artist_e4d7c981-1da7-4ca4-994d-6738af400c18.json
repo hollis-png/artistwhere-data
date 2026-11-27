@@ -1,0 +1,25 @@
+{
+  "id": "artist_e4d7c981-1da7-4ca4-994d-6738af400c18",
+  "name": "SA comme Sassy",
+  "types": [],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://sasatseng.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/sasatseng",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sacommesassy",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "artist_208b50a8-d8a4-414c-a5c0-c2103b66655e",
+  "name": "我們聯合",
+  "types": [
+    "artist",
+    "craft"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100089346145596",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/SusFubukiarashi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

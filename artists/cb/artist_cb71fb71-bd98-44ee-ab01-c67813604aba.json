@@ -1,0 +1,21 @@
+{
+  "id": "artist_cb71fb71-bd98-44ee-ab01-c67813604aba",
+  "name": "異私特",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/people/%E7%95%B0%E7%A7%81%E7%89%B9/100063892189068/?paipv=0&eav=AfbxktUHIJM5OQTH7fUz6W6inmvK6xi65xsmS-URooRK-A8qLisZ1O-Kstfn5UK1WRU&_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

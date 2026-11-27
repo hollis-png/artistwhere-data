@@ -1,0 +1,35 @@
+{
+  "id": "artist_1ce54979-5b07-41c0-8827-8a3b7e8b7797",
+  "name": "さざなみ壊変",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://sazanami.net",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sazanamikaihen/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kazupi",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kazupi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

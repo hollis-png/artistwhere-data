@@ -1,0 +1,37 @@
+{
+  "id": "artist_54be7629-60bc-4f58-b547-058ceab3a9ff",
+  "name": "STAR LAIKA",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/senjoakari.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/akari_kawa",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/senjoakari",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Keita228",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/senjoakari",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

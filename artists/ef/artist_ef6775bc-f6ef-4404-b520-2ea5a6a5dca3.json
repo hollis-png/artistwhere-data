@@ -1,0 +1,40 @@
+{
+  "id": "artist_ef6775bc-f6ef-4404-b520-2ea5a6a5dca3",
+  "name": "kinkinkin",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/kinkinkincos",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/kinkinkincos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kin.QDQ/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kinkinkincos/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@kinkinkincos/featured",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

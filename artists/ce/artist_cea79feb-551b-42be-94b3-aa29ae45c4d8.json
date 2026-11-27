@@ -1,0 +1,26 @@
+{
+  "id": "artist_cea79feb-551b-42be-94b3-aa29ae45c4d8",
+  "name": "怪獸箱_monsterbox",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/AXiangstudio/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/monsterbox_1024",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "artist_349cd395-8f5c-45a2-981e-589d706e3247",
+  "name": "芆Z與他的繪圖好夥伴們",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/xzon",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/xz.on.985840",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/32105408",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@playersneverreturn",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yangkaiming91",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

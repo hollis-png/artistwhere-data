@@ -1,0 +1,22 @@
+{
+  "id": "artist_347610d1-1b31-4656-b08f-00cd2d973f86",
+  "name": "金髪ショー党",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.twitch.tv/kkr777pp",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kokoro777pp",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

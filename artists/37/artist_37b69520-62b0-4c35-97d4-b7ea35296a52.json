@@ -1,0 +1,22 @@
+{
+  "id": "artist_37b69520-62b0-4c35-97d4-b7ea35296a52",
+  "name": "K/s",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/piyo_hiyokokko",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nakukotogadekin",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

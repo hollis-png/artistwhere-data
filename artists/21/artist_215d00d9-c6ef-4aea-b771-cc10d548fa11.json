@@ -1,0 +1,86 @@
+{
+  "id": "artist_215d00d9-c6ef-4aea-b771-cc10d548fa11",
+  "name": "六本木製作所",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/kayuki.roppongimfg.xyz",
+      "platform": "Bluesky",
+      "status": "dead"
+    },
+    {
+      "url": "https://bsky.app/profile/roppongimfg.xyz",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=kge78682",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://msk.roppongimfg.xyz/@hinata_kayuki",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://roppongimfg.xyz/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://roppongimfg.xyz/linktree",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/hinata_kayuki",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hinata.kayuki.3939/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/roppongi.mfg",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1929209",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Hinata_Kayuki",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/roppongimfg",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/hinata_kayuki",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/roppongimfg",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

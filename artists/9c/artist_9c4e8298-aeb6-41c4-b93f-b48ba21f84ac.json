@@ -1,0 +1,32 @@
+{
+  "id": "artist_9c4e8298-aeb6-41c4-b93f-b48ba21f84ac",
+  "name": "明天的章魚也想當香腸",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063640453560",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sonya.hsieh.965",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/29352067",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/duoduo910524",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

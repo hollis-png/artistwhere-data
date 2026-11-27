@@ -1,0 +1,63 @@
+{
+  "id": "artist_d1162646-ff00-4e31-9e3b-c5f368c1ba9c",
+  "name": "REI's ROOM",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FFK19",
+    "PF45",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/E32CF387-1881-498A-B196-B4C06696F535/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/reisroom",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://pixiv.me/reis_room",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/R_E_I_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.fanbox.cc/@reisroom",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/26644",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/reisroom",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@REIsROOMch/",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/REIs_711",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

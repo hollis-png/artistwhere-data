@@ -1,0 +1,60 @@
+{
+  "id": "artist_5681b988-6aa6-46d4-b0fd-015eb2565832",
+  "name": "BiBiRoM",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bibirom.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://bibirom.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://bsky.app/profile/bibirooom.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://potofu.me/bibirooom",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/bibirooom/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/bibirooom/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/962399",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/bi2rom",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/bibirooom",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

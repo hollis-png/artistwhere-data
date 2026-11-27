@@ -1,0 +1,60 @@
+{
+  "id": "artist_0d901d96-6ae6-4250-bf7d-8a28381402d6",
+  "name": "《雪豹薇薇與龍貓娜比的滑雪日常！一起摔進雪堆吧♡》",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/43SMBYensf",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/8zbzNtJD7c",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://reurl.cc/emgQnL",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Nayuki_Vivy",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61566804809143",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hanabibureya/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nayukivivy/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@hanabibureya",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCdesGlD7t5JV-z28p5GqVIw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Hanabi_Bureya",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

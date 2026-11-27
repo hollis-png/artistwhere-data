@@ -1,0 +1,27 @@
+{
+  "id": "artist_2b5392e0-1892-43e4-8b72-207bffca7e06",
+  "name": "りんごの木",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/c50130",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/c5_0_1_3_0/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/c5_0_1_3_0",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

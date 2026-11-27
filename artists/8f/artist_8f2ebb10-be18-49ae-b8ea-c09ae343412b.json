@@ -1,0 +1,19 @@
+{
+  "id": "artist_8f2ebb10-be18-49ae-b8ea-c09ae343412b",
+  "name": "似個晴天",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E4%BC%BC%E5%80%8B%E6%99%B4%E5%A4%A9-61563264224230/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

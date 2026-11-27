@@ -1,0 +1,20 @@
+{
+  "id": "artist_19313c3f-d121-4f5a-a3c7-b77953eadc5e",
+  "name": "蓬萊賦形所&戀石同盟",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Dr.Sponga/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61581887180431",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

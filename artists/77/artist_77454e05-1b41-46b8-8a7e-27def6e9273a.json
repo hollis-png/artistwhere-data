@@ -1,0 +1,17 @@
+{
+  "id": "artist_77454e05-1b41-46b8-8a7e-27def6e9273a",
+  "name": "我來、我見、我射爆",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100080781097899#",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

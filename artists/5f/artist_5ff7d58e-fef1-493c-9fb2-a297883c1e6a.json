@@ -1,0 +1,22 @@
+{
+  "id": "artist_5ff7d58e-fef1-493c-9fb2-a297883c1e6a",
+  "name": "豬排今天想吃豬排飯",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/PorkSteak.photography/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/genri0112/posts/pfbid0XX6S49mzXX5xmZZQ5qzxX5EkzBuMQSGWkxXdjZtQd4pEFigKAu5vt1pMn2w3atdl",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

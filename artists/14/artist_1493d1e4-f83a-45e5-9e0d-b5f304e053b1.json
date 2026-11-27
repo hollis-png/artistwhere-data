@@ -1,0 +1,23 @@
+{
+  "id": "artist_1493d1e4-f83a-45e5-9e0d-b5f304e053b1",
+  "name": "Amajoku",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/27940492",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/bluesandesei",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

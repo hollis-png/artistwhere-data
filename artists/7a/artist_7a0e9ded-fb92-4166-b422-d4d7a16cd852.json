@@ -1,0 +1,49 @@
+{
+  "id": "artist_7a0e9ded-fb92-4166-b422-d4d7a16cd852",
+  "name": "小馬麗Marie",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://line.me/R/ti/p/@501kbvdt",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://linkpota.to/mari_j",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/littlemarieJ",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/littlemaryJ/?ref=_xav_ig_profile_page_web",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/__mari__j_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/little_marie",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/lamento821229",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

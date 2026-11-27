@@ -1,0 +1,27 @@
+{
+  "id": "artist_e6e9b5ca-e3ce-4c9e-802a-9628ff62280d",
+  "name": "少女機関(仮)",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/kiidoumajin",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kiidoumajin/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1181103",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

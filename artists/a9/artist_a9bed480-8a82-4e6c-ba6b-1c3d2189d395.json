@@ -1,0 +1,61 @@
+{
+  "id": "artist_a9bed480-8a82-4e6c-ba6b-1c3d2189d395",
+  "name": "URA BOU",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://potofu.me/garaura",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.doujin.com.tw/authors/info/bockdog/books/2?srsltid=AfmBOor79cMBYz37_5ck5kk0CR0YaTydIb9md-WOCsY4ES5unUVaciqs",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.doujin.com.tw/groups/info/2584",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/34124256",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/65362684",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/garaura",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/m/garaura",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mzenura",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ura_garaura",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

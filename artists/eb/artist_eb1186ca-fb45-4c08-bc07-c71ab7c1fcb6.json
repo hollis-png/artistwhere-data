@@ -1,0 +1,25 @@
+{
+  "id": "artist_eb1186ca-fb45-4c08-bc07-c71ab7c1fcb6",
+  "name": "倪亞的戀丹工坊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/niamasalu1/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/dbMiya",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

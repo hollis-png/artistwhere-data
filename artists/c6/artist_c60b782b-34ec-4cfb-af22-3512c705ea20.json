@@ -1,0 +1,67 @@
+{
+  "id": "artist_c60b782b-34ec-4cfb-af22-3512c705ea20",
+  "name": "畫說日常",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/54ebiyaya",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.ecpay.com.tw/Broadcaster/Donate/6B70CC2854B141546727465233A1F1A1",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/54ebiyaya",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/54ebiyaya/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/54ebiyaya/posts/%E8%B2%93%E8%B2%93%E6%98%AF%E6%B2%92%E6%9C%89%E5%9C%A8%E5%AE%A2%E6%B0%A3%E7%9A%84btw%E6%9C%83%E5%8F%83%E5%8A%A0ff%E5%92%8Cnice-%E5%A0%B4%E5%93%A6%EF%B8%8E-%EF%B8%8E%EF%B8%8E%EF%B8%8E-/1571811244308170/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/54ebiyaya",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@54ebiyaya",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCbi8guSAh6hGpX4DU-2rpAQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/54ebiyaya",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/54ebiyaya_ch",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

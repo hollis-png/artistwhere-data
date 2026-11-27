@@ -1,0 +1,27 @@
+{
+  "id": "artist_f715f9b9-28a1-4d80-8e3f-17d9cabd8730",
+  "name": "絕体絕命",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/zetsutaizetsumei/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/zetsutaizetsumei/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://zetsutaizetsumei.wordpress.com/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

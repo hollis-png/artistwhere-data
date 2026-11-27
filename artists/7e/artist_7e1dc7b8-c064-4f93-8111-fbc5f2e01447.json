@@ -1,0 +1,17 @@
+{
+  "id": "artist_7e1dc7b8-c064-4f93-8111-fbc5f2e01447",
+  "name": "花水霧",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/hua.shui.wu",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

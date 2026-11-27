@@ -1,0 +1,42 @@
+{
+  "id": "artist_18c8064d-7924-45db-95aa-a203a09a2558",
+  "name": "神聖蘿馬帝國",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/yopokaede.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61555049632363",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yopokaede",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/63990552",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yopokaede",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://yopokaede.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    }
+  ]
+}

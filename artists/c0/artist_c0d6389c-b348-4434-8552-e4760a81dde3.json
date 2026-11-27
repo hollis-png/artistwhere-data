@@ -1,0 +1,17 @@
+{
+  "id": "artist_c0d6389c-b348-4434-8552-e4760a81dde3",
+  "name": "春花秋月",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/sago.akatsuki",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

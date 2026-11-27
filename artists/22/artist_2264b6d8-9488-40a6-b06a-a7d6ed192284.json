@@ -1,0 +1,24 @@
+{
+  "id": "artist_2264b6d8-9488-40a6-b06a-a7d6ed192284",
+  "name": "獣人人外",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/323513",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/donguri_BC",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

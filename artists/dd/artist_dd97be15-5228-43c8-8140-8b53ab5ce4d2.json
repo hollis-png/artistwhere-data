@@ -1,0 +1,67 @@
+{
+  "id": "artist_dd97be15-5228-43c8-8140-8b53ab5ce4d2",
+  "name": "五連裝酸素茶葉罐",
+  "types": [
+    "artist",
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://dkaze.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://driftking.tw",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://pixiv.me/driftkingtw",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://plurk.com/driftkingtw",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/driftkingtw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/DriftKaze/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kaomojisan",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/schrodinger.blickwinkel",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/17338111",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/9934873",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

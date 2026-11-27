@@ -1,0 +1,32 @@
+{
+  "id": "artist_3f972499-48e1-4879-9d21-e3a1bd947df7",
+  "name": "王爸爸狗園-加姆",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/jiamugram",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100078274682776",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/garmdoghehe",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC4L4S8UVYq_aZznU5_ldbGw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

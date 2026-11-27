@@ -1,0 +1,75 @@
+{
+  "id": "artist_4f828a54-4ca8-45e4-b03b-4c0b139e44c7",
+  "name": "全紅白子，PAPALA，歸懶趴火",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://buy35.webnode.tw/",
+      "platform": "Link",
+      "status": "alive",
+      "displayName": "蒼銀之星商城"
+    },
+    {
+      "url": "https://cangyinzhixing50.webnode.tw/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/4UaVNs6eMW",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Aokihoshi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/aokihoshi/",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "蒼銀之星"
+    },
+    {
+      "url": "https://www.instagram.com/aokihoshi000/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11067101",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Aokihoshi",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@aokihoshi000",
+      "platform": "Threads",
+      "status": "alive",
+      "displayName": "蒼銀之星（@aokihoshi000） • Threads，暢所欲言"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCwWXEcctsLoTMDkyXLQzVSQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/flandremoe",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

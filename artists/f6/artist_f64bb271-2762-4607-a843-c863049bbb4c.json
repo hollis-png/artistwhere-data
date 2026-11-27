@@ -1,0 +1,26 @@
+{
+  "id": "artist_f64bb271-2762-4607-a843-c863049bbb4c",
+  "name": "ZZZSTUDIO",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/zzzstudio.sleep/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/zzzstudio_sleep/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "artist_a78c9901-03ec-49d6-abd4-a72177c44395",
+  "name": "蝦子的腦內劇場",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/yaki_ebiko",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ebiko.cheung",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/12323331",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

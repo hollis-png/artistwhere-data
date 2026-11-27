@@ -1,0 +1,38 @@
+{
+  "id": "artist_8791764e-5d55-448a-9232-663eff5c7bd7",
+  "name": "iketara_iku × Ma.",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://pixiv.me/84_kg",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/84mg",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/17105792",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/84mg_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/iketara_iku",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "artist_33c8829a-41f4-4706-b1f1-eea9829c09c9",
+  "name": "快樂罌粟花自耕農會",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/groups/info/8155/books",
+      "platform": "同人誌通販",
+      "status": "alive"
+    }
+  ]
+}

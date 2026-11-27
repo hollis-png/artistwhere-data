@@ -1,0 +1,37 @@
+{
+  "id": "artist_36690058-7841-4842-ba1d-7aa2dd976ce9",
+  "name": "wen",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=wave490977",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/wen.wen.816009",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/wixen_0979/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/28930193",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/wen_dy910",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

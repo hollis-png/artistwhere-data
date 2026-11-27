@@ -1,0 +1,35 @@
+{
+  "id": "artist_0ce06e77-1784-4100-a25a-5b6d6f76d40c",
+  "name": "箱庭盆栽",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/HA5XGZfQyY",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/%E7%9B%86%E6%A0%BD%E5%B7%A5%E4%BD%9C%E5%AE%A4-100076739076365/?_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/aeiou468910/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Potted_Live",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

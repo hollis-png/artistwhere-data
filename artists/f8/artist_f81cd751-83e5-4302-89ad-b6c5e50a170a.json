@@ -1,0 +1,25 @@
+{
+  "id": "artist_f81cd751-83e5-4302-89ad-b6c5e50a170a",
+  "name": "朝暮薄日",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61586921584188",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/79757222",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Chao_4738",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

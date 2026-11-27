@@ -1,0 +1,17 @@
+{
+  "id": "artist_93bf92aa-0f8d-4561-b2a1-294d90e87c83",
+  "name": "紅荼館",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063733638537&comment_id=Y29tbWVudDoxNTEwODQxMzg2NzQ0MDc5XzExMDMyNzc1NjEyMjIzNzQ%3D",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

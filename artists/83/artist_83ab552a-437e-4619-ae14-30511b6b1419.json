@@ -1,0 +1,25 @@
+{
+  "id": "artist_83ab552a-437e-4619-ae14-30511b6b1419",
+  "name": "Onimomo",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/oliverdream97",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/14100371",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/onimomo",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

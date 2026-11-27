@@ -1,0 +1,29 @@
+{
+  "id": "artist_df68d674-9192-4bb9-b0f2-53a3a17d495c",
+  "name": "K_Pring",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/K_pring654",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/k_pring654/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3937352",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

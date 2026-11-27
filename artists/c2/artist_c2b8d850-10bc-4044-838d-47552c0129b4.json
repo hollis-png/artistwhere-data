@@ -1,0 +1,20 @@
+{
+  "id": "artist_c2b8d850-10bc-4044-838d-47552c0129b4",
+  "name": "安迪",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E6%80%AA%E7%A0%94%E6%89%80-guai_yan_suo-100084595803870/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/guai_yan_suo",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

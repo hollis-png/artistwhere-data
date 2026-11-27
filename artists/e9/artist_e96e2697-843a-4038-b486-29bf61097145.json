@@ -1,0 +1,48 @@
+{
+  "id": "artist_e96e2697-843a-4038-b486-29bf61097145",
+  "name": "蒼空樹閣",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "http://cangkongmuge.blogspot.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "http://cangkongmuge.blogspot.tw/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/naoyayuki",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/sinkai_J",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.doujin.com.tw/groups/info/6013?srsltid=AfmBOoqSJN8on9kHaIOVxgv_992aqD8nNjdfeCd-3ASlUK1cQPGfaEnu",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/15024882",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/556846",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

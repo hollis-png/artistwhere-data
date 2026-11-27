@@ -1,0 +1,27 @@
+{
+  "id": "artist_a33c4ab7-2798-4399-aba8-a202fd2757b6",
+  "name": "LinerNote工作室",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/linernote000",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/liner.note.hk/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.kradia-project.com/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

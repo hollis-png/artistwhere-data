@@ -1,0 +1,17 @@
+{
+  "id": "artist_c4cc0c6d-987d-43c0-9058-1aa44b894139",
+  "name": "粹心齋 模創空間",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063999572043",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

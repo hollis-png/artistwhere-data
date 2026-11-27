@@ -1,0 +1,30 @@
+{
+  "id": "artist_3ee37b29-405f-4dbd-8783-a82543800d1a",
+  "name": "艾力克斯匠 alexspace54",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/alexspace54",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/alexspace54/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/alexspace54",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/alexspace542",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

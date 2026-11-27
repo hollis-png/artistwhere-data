@@ -1,0 +1,22 @@
+{
+  "id": "artist_338025e7-34e1-4e9c-bb6b-9051e9401632",
+  "name": "希萌創意",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://simoncreatives.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/SimonStore8",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

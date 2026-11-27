@@ -1,0 +1,18 @@
+{
+  "id": "artist_e6571446-1e05-421e-b78f-c7175870fa89",
+  "name": "鱷魚恐龍工作室",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/LAI0529",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

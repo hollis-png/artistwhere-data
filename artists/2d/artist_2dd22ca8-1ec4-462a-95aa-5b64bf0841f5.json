@@ -1,0 +1,15 @@
+{
+  "id": "artist_2dd22ca8-1ec4-462a-95aa-5b64bf0841f5",
+  "name": "未來飛翔",
+  "types": [],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61575556031923",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

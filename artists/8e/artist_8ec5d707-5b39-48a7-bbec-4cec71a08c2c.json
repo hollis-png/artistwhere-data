@@ -1,0 +1,17 @@
+{
+  "id": "artist_8ec5d707-5b39-48a7-bbec-4cec71a08c2c",
+  "name": "Boss去哪兒？？",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/bossioio/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

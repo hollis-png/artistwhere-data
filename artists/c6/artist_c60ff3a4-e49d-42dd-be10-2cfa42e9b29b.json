@@ -1,0 +1,27 @@
+{
+  "id": "artist_c60ff3a4-e49d-42dd-be10-2cfa42e9b29b",
+  "name": "玉音の工房",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Gyokuon.studio/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/gyokuon/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCSs6E-1j5zpNQsJyO-mEG3A",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

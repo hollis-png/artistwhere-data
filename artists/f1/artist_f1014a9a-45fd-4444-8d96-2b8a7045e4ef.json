@@ -1,0 +1,30 @@
+{
+  "id": "artist_f1014a9a-45fd-4444-8d96-2b8a7045e4ef",
+  "name": "CIRCLE WORKS",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/circleworks",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/circleworks0707",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61556671013215",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

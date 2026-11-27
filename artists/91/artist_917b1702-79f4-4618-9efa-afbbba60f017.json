@@ -1,0 +1,24 @@
+{
+  "id": "artist_917b1702-79f4-4618-9efa-afbbba60f017",
+  "name": "埃及大旅社",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://mobile.twitter.com/wz_eag",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/whatz.cats/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

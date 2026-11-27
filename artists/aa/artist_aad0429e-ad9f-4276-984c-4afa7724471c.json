@@ -1,0 +1,17 @@
+{
+  "id": "artist_aad0429e-ad9f-4276-984c-4afa7724471c",
+  "name": "魚米之箱",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/fishmibox/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

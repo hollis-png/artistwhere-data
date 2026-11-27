@@ -1,0 +1,46 @@
+{
+  "id": "artist_da830aea-49b0-4c6d-82c8-a953d432ee12",
+  "name": "いおいおいおりん",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://fanicon.net/web/shops/3958",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/rinriniorin",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/moe_five/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/moe_iori",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/c/iorimoe",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/iorimoe_five",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

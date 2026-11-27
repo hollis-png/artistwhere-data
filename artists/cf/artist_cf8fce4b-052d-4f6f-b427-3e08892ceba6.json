@@ -1,0 +1,20 @@
+{
+  "id": "artist_cf8fce4b-052d-4f6f-b427-3e08892ceba6",
+  "name": "魔亞方舟戰棋專賣店",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/moya.miniatures/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/moya.miniatures",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

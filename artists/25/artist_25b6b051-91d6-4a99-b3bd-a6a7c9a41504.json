@@ -1,0 +1,25 @@
+{
+  "id": "artist_25b6b051-91d6-4a99-b3bd-a6a7c9a41504",
+  "name": "Marineiris",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/4284365",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ikataruto",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "artist_5e1c749e-c73a-4aaf-bee0-1a0e9f71db4e",
+  "name": "ZAP製造所",
+  "types": [
+    "craft",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47",
+    "PF45",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/ZAPworkshop",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100086677718365",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/zap.zap.workshop/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Zapworkshop",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ZapWorkshop",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

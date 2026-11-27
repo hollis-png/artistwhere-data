@@ -1,0 +1,27 @@
+{
+  "id": "artist_e84bb98f-793f-4f8b-b8c8-51a533170ccd",
+  "name": "天台工作室",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://rooftopstudio.weebly.com/about38364260442510520497.html",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/rooftop26/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rooftop_26/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

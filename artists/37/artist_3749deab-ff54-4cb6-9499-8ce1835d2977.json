@@ -1,0 +1,17 @@
+{
+  "id": "artist_3749deab-ff54-4cb6-9499-8ce1835d2977",
+  "name": "禿頭貓基地",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61557875583240",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

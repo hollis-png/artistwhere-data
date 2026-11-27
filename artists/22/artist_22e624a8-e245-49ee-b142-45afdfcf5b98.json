@@ -1,0 +1,38 @@
+{
+  "id": "artist_22e624a8-e245-49ee-b142-45afdfcf5b98",
+  "name": "庫洛姆•Kuromu",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/jYfjJ5RJF3",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/KuromuOno",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kuromuono",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC2ZWggon1NOT2TGaVUMzY7A",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

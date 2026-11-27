@@ -1,0 +1,44 @@
+{
+  "id": "artist_19f471ca-6130-4858-8634-705136cb123c",
+  "name": "SCIFASAURUS(海穹文化)",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/SciFaSaurus/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/scifasaurus",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/scifasaurus",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.scifasaurus.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@scifasaurus",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/scifasaurus",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

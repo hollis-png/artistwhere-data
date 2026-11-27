@@ -1,0 +1,48 @@
+{
+  "id": "artist_75ab60d5-5ead-4e16-94b5-e6b85c97bf59",
+  "name": "雁冰、夏久",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://myacg.com.tw/seller_market.php?seller=590573",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/nicknikg86",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/nicknikg863/",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "下空少女"
+    },
+    {
+      "url": "https://www.pixiv.net/users/577076",
+      "platform": "Pixiv",
+      "status": "alive",
+      "displayName": "雁"
+    },
+    {
+      "url": "https://www.plurk.com/nicknikg",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/zuyngy2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

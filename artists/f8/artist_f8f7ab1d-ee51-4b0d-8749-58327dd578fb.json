@@ -1,0 +1,30 @@
+{
+  "id": "artist_f8f7ab1d-ee51-4b0d-8749-58327dd578fb",
+  "name": "鬍渣大叔",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/s9654431/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3385418/artworks",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/wPBJppSG1vhxwCu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

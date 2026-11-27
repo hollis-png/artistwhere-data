@@ -1,0 +1,15 @@
+{
+  "id": "artist_bab4b8fa-f556-4134-a8bd-3b00f5e40b7c",
+  "name": "TANgent",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/tangent103/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

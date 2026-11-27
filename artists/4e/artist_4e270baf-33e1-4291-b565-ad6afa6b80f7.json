@@ -1,0 +1,18 @@
+{
+  "id": "artist_4e270baf-33e1-4291-b565-ad6afa6b80f7",
+  "name": "喫茶 華楽里",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/seat755_oh",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

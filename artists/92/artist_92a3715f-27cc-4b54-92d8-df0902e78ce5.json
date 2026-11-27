@@ -1,0 +1,32 @@
+{
+  "id": "artist_92a3715f-27cc-4b54-92d8-df0902e78ce5",
+  "name": "紫貓屋ZimaoStudio",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linkgoods.com/zimaostudio",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/%E7%B4%AB%E8%B2%93%E5%B1%8B-100090553989399/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/zimaostudio/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/zimaostudio",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

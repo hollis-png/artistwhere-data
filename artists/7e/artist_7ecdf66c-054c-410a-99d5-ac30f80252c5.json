@@ -1,0 +1,33 @@
+{
+  "id": "artist_7ecdf66c-054c-410a-99d5-ac30f80252c5",
+  "name": "藤宅仔的塗圖工坊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://a2058074.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/a20580741",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/a2058074/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6787982?_gl=1*1bf5htx*_ga*MTY2ODYwNTc3MS4xNzIyMzM0MTI0*_ga_D9TLP3EFER*MTczNDE2MjUxNS4zMy4xLjE3MzQxNjMxNzYuNjAuMC4w",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

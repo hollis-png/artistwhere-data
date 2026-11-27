@@ -1,0 +1,37 @@
+{
+  "id": "artist_5ce6bdd9-de3a-43e9-8396-4b6036b875bb",
+  "name": "香菇人",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "http://pixiv.me/mimit",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/MIMIT48648860",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ToadstoolFactory",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.plurk.com/ANTANS8092",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

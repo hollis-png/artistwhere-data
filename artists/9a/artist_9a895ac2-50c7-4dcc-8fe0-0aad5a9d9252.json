@@ -1,0 +1,41 @@
+{
+  "id": "artist_9a895ac2-50c7-4dcc-8fe0-0aad5a9d9252",
+  "name": "小菊8",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://kokiku8.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://pixiv.net/users/13155227",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://plurk.com/kikukiku599",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hua.xiao.hua.859628",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/0_71_Rain",
+      "platform": "Twitter (X)",
+      "status": "alive",
+      "displayName": "小菊8💥コミケ 二日目 東イ05"
+    }
+  ]
+}

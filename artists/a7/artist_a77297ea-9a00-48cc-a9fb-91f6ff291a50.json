@@ -1,0 +1,37 @@
+{
+  "id": "artist_a77297ea-9a00-48cc-a9fb-91f6ff291a50",
+  "name": "邊緣小地方",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://rottrnking.weebly.com/31038222963164929702201543325820171.html",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/cunge721/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/gecun831",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1241550",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/cunge214",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

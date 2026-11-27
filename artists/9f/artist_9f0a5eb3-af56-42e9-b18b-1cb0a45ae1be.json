@@ -1,0 +1,40 @@
+{
+  "id": "artist_9f0a5eb3-af56-42e9-b18b-1cb0a45ae1be",
+  "name": "銀璃的秘密花園",
+  "types": [],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/EGugPfPK3R",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/silverluri",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Silverluri",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/silverluri.0/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/silverluri_0528",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/c/silverluri/posts",
+      "platform": "Patreon",
+      "status": "alive"
+    }
+  ]
+}

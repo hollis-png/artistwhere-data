@@ -1,0 +1,55 @@
+{
+  "id": "artist_059499bc-09fc-4787-8b26-eb908a446387",
+  "name": "向日葵茄子",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/himawarinasuvt",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/himawarinasu",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2719327",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/zackary60272",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC3IEFVV3d_BPwk2ssThijuw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCrukIa8J-NSI3iut3sleE3g",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Nasu9810702",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://zackary60272.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

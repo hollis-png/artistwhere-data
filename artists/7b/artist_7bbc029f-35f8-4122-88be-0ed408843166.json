@@ -1,0 +1,35 @@
+{
+  "id": "artist_7bbc029f-35f8-4122-88be-0ed408843166",
+  "name": "XFate",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/xfate",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/XFateArtworks",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/xfateart/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2374176",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/xfatezh",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "artist_a428f2a7-c16b-45c0-a86b-e7d0870f14ef",
+  "name": "水棲重工 feat. 墨紅工房",
+  "types": [],
+  "events": [
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/NitoriLegoWorkshop?ltsid=060cc4ba-4992-4982-b7ec-44c19806ca9c",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/14ujdreYqGB/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nitori_lego_workshop",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

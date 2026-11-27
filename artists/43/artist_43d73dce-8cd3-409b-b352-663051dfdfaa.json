@@ -1,0 +1,27 @@
+{
+  "id": "artist_43d73dce-8cd3-409b-b352-663051dfdfaa",
+  "name": "納納子",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/nana20601",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/nanabrown_",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCbD54nLbIM9dhQULfO-sboA",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

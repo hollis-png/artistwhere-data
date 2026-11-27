@@ -1,0 +1,33 @@
+{
+  "id": "artist_1d33bd93-c55f-4b2d-bf48-58a32d3da19f",
+  "name": "薄荷花園",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://reurl.cc/K02j4m",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/RaimuMinto_0119",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/raimumintovtuber/videos?filter=archives&lang=zh-cn&sort=time",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCwAUQdBH_rg9SYjrydUj-dQ",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "artist_8731a041-b10d-4395-bed1-61f52b43b592",
+  "name": "MapleSyrup",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ma.puru.28219/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/25686364",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/maple_mafuyube",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

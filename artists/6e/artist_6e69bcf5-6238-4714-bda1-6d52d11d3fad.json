@@ -1,0 +1,70 @@
+{
+  "id": "artist_6e69bcf5-6238-4714-bda1-6d52d11d3fad",
+  "name": "桑尤姆",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/TRK8AsenZ2",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=er913187750",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://patreon.com/er",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/kino_na",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/er913187750/",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "桑尤姆的部屋"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100000588704235",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/youmusang/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/92181",
+      "platform": "Pixiv",
+      "status": "alive",
+      "displayName": "SUM(仕事募集中)"
+    },
+    {
+      "url": "https://www.plurk.com/er913187750",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/sum_91318",
+      "platform": "Twitch",
+      "status": "alive",
+      "displayName": "桑尤姆"
+    }
+  ]
+}

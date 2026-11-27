@@ -1,0 +1,22 @@
+{
+  "id": "artist_292a72e2-f450-4908-aeba-a476bffac39c",
+  "name": "YJ Book Studio",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61550261913747",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/yjbookstudio/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

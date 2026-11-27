@@ -1,0 +1,39 @@
+{
+  "id": "artist_c395db30-9ef6-4556-ad33-9d5dabecfd7a",
+  "name": "BB一號",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://rickylee544.wixsite.com/twbb0224",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100006578748479",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/32492214",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/twbb0224",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/akimotomiki0224",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "artist_7b572b13-0606-4fa4-b7aa-73f29e641ab4",
+  "name": "塗鴉星狐窩",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/StarKitsuneRan/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4703009",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kitsuneran",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Kitsune_ran",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

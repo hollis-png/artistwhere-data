@@ -1,0 +1,42 @@
+{
+  "id": "artist_bad2ab69-3fad-44d7-ac24-5b5d4121b108",
+  "name": "藍莓教缺香油錢",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/lanmei-cute.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/ncCxrKZTwsY22zdj3ZZJeuhdtFf1",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/blueart_owo/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/53819466",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@blueart_owo",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/lanmei_cute",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

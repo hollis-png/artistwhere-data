@@ -1,0 +1,17 @@
+{
+  "id": "artist_fce28b07-6770-4581-9afd-0945a5d2dcb6",
+  "name": "蓬萊賦形所",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/groups/165900450103098/user/61556142492930/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

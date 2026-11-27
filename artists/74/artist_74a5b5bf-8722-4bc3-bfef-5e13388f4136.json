@@ -1,0 +1,17 @@
+{
+  "id": "artist_74a5b5bf-8722-4bc3-bfef-5e13388f4136",
+  "name": "豬視會攝Studio",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/PorkChops.Studio/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "artist_c4b6642a-0879-4e3f-975c-071a5c38387f",
+  "name": "樂緻設計公司",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://naloklok.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/NalokLok",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/nalok.lok?_ga=2.214369886.870678012.1752313584-966573364.1752313584",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nalok.lok",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

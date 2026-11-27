@@ -1,0 +1,17 @@
+{
+  "id": "artist_8da32692-fa26-4e3a-a8f9-6faa5ef3f281",
+  "name": "Infinite Shroud",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/amanotsugumi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

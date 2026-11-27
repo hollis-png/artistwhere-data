@@ -1,0 +1,38 @@
+{
+  "id": "artist_2161a808-5d79-4375-9c06-3fc0329675aa",
+  "name": "CATPOT",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/kusa_space",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kusa.space",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kusa_space/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kusa_space",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@kusaspace2068",
+      "platform": "YouTube",
+      "status": "dead"
+    }
+  ]
+}

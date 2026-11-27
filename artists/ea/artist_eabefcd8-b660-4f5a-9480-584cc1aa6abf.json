@@ -1,0 +1,28 @@
+{
+  "id": "artist_eabefcd8-b660-4f5a-9480-584cc1aa6abf",
+  "name": "日初翱祥-陌千",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=fain550123",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/%E9%99%8C%E5%8D%83-61573280459091/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/34597732",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

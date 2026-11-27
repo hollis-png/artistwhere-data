@@ -1,0 +1,30 @@
+{
+  "id": "artist_38dfe91b-9a4a-4be7-84c7-2bc8201c516d",
+  "name": "真央城公園",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://qrcode.plurk.com/fcemao",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/fuchiemao",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/73622365",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

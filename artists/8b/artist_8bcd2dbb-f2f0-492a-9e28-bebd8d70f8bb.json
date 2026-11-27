@@ -1,0 +1,54 @@
+{
+  "id": "artist_8bcd2dbb-f2f0-492a-9e28-bebd8d70f8bb",
+  "name": "龜龜",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/zy2VQbsTuU",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://joy.gallery/kameka25217",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://kame-nayu.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/kameka590892",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/li.zi.677029/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100065834050314&locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kameka590892/profilecard/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/kame_nu",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

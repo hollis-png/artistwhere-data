@@ -1,0 +1,27 @@
+{
+  "id": "artist_95c9c46a-183b-4e73-87ce-fd719a3b7689",
+  "name": "吉宮亭",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/ro_yoshimiya",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/111987606?_gl=1*6bx5kg*_ga*MTE0NTUxNDI3My4xNzQ4NjY1NzY4*_ga_D9TLP3EFER*czE3NDkwNDE3MDUkbzIkZzAkdDE3NDkwNDE3MDgkajU3JGwwJGgw",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/RO_YOSHIMIYA",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

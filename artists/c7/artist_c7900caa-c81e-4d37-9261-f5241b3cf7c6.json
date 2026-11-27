@@ -1,0 +1,47 @@
+{
+  "id": "artist_c7900caa-c81e-4d37-9261-f5241b3cf7c6",
+  "name": "Sally Dorasnow 哆啦雪",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.facebook.com/SallyTehCosplayer",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "http://www.patreon.com/iamdorasnow",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "http://www.twitch.tv/iamdorasnow",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://campsite.bio/iamdorasnow",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/iamdorasnow/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitter.com/iamdorasnow",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/user/SALLY6317",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artist_392e59ba-9017-4d34-b13e-95dd918a9fa6",
+  "name": "吉吉",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/TUA1116",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/3LXozoUZi169962",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

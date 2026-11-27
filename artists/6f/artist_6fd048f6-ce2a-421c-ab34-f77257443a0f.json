@@ -1,0 +1,34 @@
+{
+  "id": "artist_6fd048f6-ce2a-421c-ab34-f77257443a0f",
+  "name": "千煂+BS",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063490909635#",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/36214643",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/blackstrange",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hagarener",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_adc0847a-3b8f-476d-8dd5-f23218b0d2a9",
+  "name": "菌菌跟檸檬奈在這裡",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/lemonadecosplay/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/lemonade_qoo/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "artist_e5722085-907d-4184-ad54-3a021a012df0",
+  "name": "Weige",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/122226948",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/lnwi0323",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

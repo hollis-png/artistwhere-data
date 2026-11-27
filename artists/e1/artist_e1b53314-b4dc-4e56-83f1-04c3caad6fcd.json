@@ -1,0 +1,33 @@
+{
+  "id": "artist_e1b53314-b4dc-4e56-83f1-04c3caad6fcd",
+  "name": "JILI♡",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ikejiriairi",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ilovely1007_",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@ilovely1007",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ilovely1007_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

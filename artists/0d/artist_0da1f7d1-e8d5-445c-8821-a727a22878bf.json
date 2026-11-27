@@ -1,0 +1,17 @@
+{
+  "id": "artist_0da1f7d1-e8d5-445c-8821-a727a22878bf",
+  "name": "阿巴巴鹹水雞",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/ababa00087",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

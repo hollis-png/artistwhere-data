@@ -1,0 +1,57 @@
+{
+  "id": "artist_2ce15a6b-4c0b-4f69-a15e-f9c69295fe33",
+  "name": "Hashira十四",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/486395",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://hashira14.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Hashira_14",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ha.shira.527423/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100053531497186",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/yuhu.ruo",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ruoyuhu_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/10387832",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

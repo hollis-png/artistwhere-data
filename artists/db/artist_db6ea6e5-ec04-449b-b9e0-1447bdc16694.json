@@ -1,0 +1,32 @@
+{
+  "id": "artist_db6ea6e5-ec04-449b-b9e0-1447bdc16694",
+  "name": "lapinAngelia",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lapinangelia.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.twitch.tv/toutomicyan/home?tt_content=channel&tt_medium=mobile_web_share",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100091897287604&ref=_ig_profile_ac",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/lapinangelia/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

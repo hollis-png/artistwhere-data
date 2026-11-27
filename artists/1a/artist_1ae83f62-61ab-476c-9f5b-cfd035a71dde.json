@@ -1,0 +1,22 @@
+{
+  "id": "artist_1ae83f62-61ab-476c-9f5b-cfd035a71dde",
+  "name": "少女フラクタル",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/@shoujofractal",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shoujo_fractal",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

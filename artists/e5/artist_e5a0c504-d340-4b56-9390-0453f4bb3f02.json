@@ -1,0 +1,19 @@
+{
+  "id": "artist_e5a0c504-d340-4b56-9390-0453f4bb3f02",
+  "name": "余月的黏土人攝影",
+  "types": [
+    "craft",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/NCnendoroid",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

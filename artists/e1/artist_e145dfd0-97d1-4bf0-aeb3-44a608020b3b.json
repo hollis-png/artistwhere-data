@@ -1,0 +1,21 @@
+{
+  "id": "artist_e145dfd0-97d1-4bf0-aeb3-44a608020b3b",
+  "name": "大慶集團",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/DaChinElectronic",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

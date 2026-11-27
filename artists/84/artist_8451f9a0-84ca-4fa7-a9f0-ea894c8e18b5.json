@@ -1,0 +1,22 @@
+{
+  "id": "artist_8451f9a0-84ca-4fa7-a9f0-ea894c8e18b5",
+  "name": "百事可蘿",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.twitch.tv/beilooo",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/beilo1004",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

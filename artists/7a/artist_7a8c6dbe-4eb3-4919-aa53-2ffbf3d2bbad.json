@@ -1,0 +1,18 @@
+{
+  "id": "artist_7a8c6dbe-4eb3-4919-aa53-2ffbf3d2bbad",
+  "name": "LiNi Cosplay",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/LiNiCosplay/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

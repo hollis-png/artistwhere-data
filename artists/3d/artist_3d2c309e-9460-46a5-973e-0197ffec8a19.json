@@ -1,0 +1,56 @@
+{
+  "id": "artist_3d2c309e-9460-46a5-973e-0197ffec8a19",
+  "name": "左と右―左右子個人",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/hidarimigiko.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://clusters.tw/profile/5AE28006-9730-45DE-8AA7-18E09069761E/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/hidarimigiko",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/HIDARI_MIGIKO",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/hidarimigiko_tw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/HidariMigiko",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/migiko.hidari.9/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/HIDARI_MIGI",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

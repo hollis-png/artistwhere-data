@@ -1,0 +1,28 @@
+{
+  "id": "artist_45e22da3-a6e8-42df-b2cd-88baf27f2e78",
+  "name": "想中五千萬",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/uq2ZvaPxPR",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/777_5000w_777/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@wX5000wXw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

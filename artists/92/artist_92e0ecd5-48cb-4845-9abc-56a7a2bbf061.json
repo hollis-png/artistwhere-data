@@ -1,0 +1,24 @@
+{
+  "id": "artist_92e0ecd5-48cb-4845-9abc-56a7a2bbf061",
+  "name": "御用飯糰",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/fan.thomas.16940/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/FT_0516",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

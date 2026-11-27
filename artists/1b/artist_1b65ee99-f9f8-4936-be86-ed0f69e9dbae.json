@@ -1,0 +1,50 @@
+{
+  "id": "artist_1b65ee99-f9f8-4936-be86-ed0f69e9dbae",
+  "name": "咪狗工作室",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=qaws6533",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://jessie6533.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/MiO58529941",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Mio6533",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mio_19930819/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1294526",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/jessie6533",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

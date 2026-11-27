@@ -1,0 +1,51 @@
+{
+  "id": "artist_592912e7-4fb1-4988-aaa8-213cfbb69a7e",
+  "name": "兔肉罐頭",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://facebook.com/usagikanzume",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/kanillust",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kan_illust/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2323676",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6755571",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Kouya0306",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kan_illust_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

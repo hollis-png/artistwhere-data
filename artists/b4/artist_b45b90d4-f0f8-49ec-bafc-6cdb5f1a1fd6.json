@@ -1,0 +1,17 @@
+{
+  "id": "artist_b45b90d4-f0f8-49ec-bafc-6cdb5f1a1fd6",
+  "name": "成大漫畫社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/NCKUCOMIC/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

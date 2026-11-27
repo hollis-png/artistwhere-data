@@ -1,0 +1,46 @@
+{
+  "id": "artist_95f12054-5822-4177-830d-1986772c3600",
+  "name": "真龍第四帝國",
+  "types": [
+    "artist",
+    "craft"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://hainohikaru.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://potofu.me/hainohikaru",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sinryuvietrereich/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1387626",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/hainohikaru",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hainohtype_e",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "artist_4487ad24-b93e-4e4d-82b3-d1be9cdb909f",
+  "name": "山上風大",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Alashi50",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1348846",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/hsuchen_543670",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "artist_c2ea0e53-c908-4ed9-a994-d4a1117b68bf",
+  "name": "Shi Do TW cosplayer",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/Shi-Do-TW-cosplayer-100063556968428/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/1020sis/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rin_10201998/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@rin_10201998",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

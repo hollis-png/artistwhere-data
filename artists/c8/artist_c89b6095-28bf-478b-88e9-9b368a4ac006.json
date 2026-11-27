@@ -1,0 +1,25 @@
+{
+  "id": "artist_c89b6095-28bf-478b-88e9-9b368a4ac006",
+  "name": "あきれいいち",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/AkiReiichi",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/re_chi0119/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/re_chi0119",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

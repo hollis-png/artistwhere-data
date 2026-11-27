@@ -1,0 +1,41 @@
+{
+  "id": "artist_8890a184-1981-4197-a4eb-36fd4fedfcd6",
+  "name": "よこ YoyoLam",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/groups/info/6044/goods",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/yoyolamy",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yyl.yoyo/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/14462674",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/lamyoyo1022",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "artist_94e5d489-ca1e-4b49-b2a7-aba864fa726e",
+  "name": "螺旋星夜",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://forum.gamer.com.tw/C.php?bsn=28198&snA=1663&tnum=4",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/lasperi_10th",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/u/payao",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yayun_mur",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artist_b6214740-5bc5-4a79-aee3-95a95980a852",
+  "name": "米豆綠",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/midori_fufu/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Midori_fufu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

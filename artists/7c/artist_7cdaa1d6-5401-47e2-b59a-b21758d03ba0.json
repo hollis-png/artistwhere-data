@@ -1,0 +1,15 @@
+{
+  "id": "artist_7cdaa1d6-5401-47e2-b59a-b21758d03ba0",
+  "name": "Uniautomata Studio",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/uniautomata_studio/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

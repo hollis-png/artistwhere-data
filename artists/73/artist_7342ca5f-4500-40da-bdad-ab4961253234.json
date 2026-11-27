@@ -1,0 +1,19 @@
+{
+  "id": "artist_7342ca5f-4500-40da-bdad-ab4961253234",
+  "name": "蘿莉豹不吃DM63",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/WittmannUMU",
+      "platform": "Facebook",
+      "status": "dead"
+    }
+  ]
+}

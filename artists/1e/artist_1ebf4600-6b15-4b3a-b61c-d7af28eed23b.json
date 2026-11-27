@@ -1,0 +1,38 @@
+{
+  "id": "artist_1ebf4600-6b15-4b3a-b61c-d7af28eed23b",
+  "name": "此時此地依然放晴",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/PA5510N0423",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/PA5510N",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/pa5510n0423/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/19997437",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/pa5510n0423",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

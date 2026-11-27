@@ -1,0 +1,41 @@
+{
+  "id": "artist_b7cc5ac6-692f-4186-94e8-2e91def2e7b9",
+  "name": "Bedtime Story 被談聲聆",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://bedtimestoryasmr.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/5pZRyrQSsg",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/BedtimeStory923",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/AxHxASMR",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC8nEndJxgRqA_0KiCYmZQpQ",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "artist_37325b5e-5618-4ffb-90f2-cfc864ea37e6",
+  "name": "三線鼠工作室",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/MouseLinStudio",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCpH1WpI9TE7zD5fTa2dx3KQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/MouseLinStudio",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

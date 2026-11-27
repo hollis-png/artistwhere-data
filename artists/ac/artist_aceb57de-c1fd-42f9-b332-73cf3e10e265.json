@@ -1,0 +1,40 @@
+{
+  "id": "artist_aceb57de-c1fd-42f9-b332-73cf3e10e265",
+  "name": "南瓜男pumpkin man",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/pumpkiiiiinman",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61551746811240",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/maybe_a_pumpkin_man",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@pumpkinman2512",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/pumpkiiiiin_man",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

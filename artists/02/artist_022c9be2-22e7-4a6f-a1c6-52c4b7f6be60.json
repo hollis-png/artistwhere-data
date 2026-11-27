@@ -1,0 +1,40 @@
+{
+  "id": "artist_022c9be2-22e7-4a6f-a1c6-52c4b7f6be60",
+  "name": "萌妹子前線",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/LiuSheng_Art",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/LiushengArt",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4237973",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/mopackp09062",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

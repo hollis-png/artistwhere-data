@@ -1,0 +1,20 @@
+{
+  "id": "artist_50772d49-9109-4116-9a17-7fcd21a7002e",
+  "name": "阿丹貓模型工作室",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://mall.iopenmall.tw/109920/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/%E9%98%BF%E4%B8%B9%E8%B2%93%E5%B7%A5%E4%BD%9C%E5%AE%A4-100064479108848/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

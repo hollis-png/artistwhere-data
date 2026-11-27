@@ -1,0 +1,17 @@
+{
+  "id": "artist_5ae0224a-332d-4931-80f5-42ffef05c30c",
+  "name": "平靜咖啡廳",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/caramel0703",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artist_e73c0cc4-33ca-4766-8bb6-11e88e5e1f41",
+  "name": "ArnebWorks",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "PF45",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://space.bilibili.com/3991940",
+      "platform": "Bilibili",
+      "status": "alive"
+    }
+  ]
+}

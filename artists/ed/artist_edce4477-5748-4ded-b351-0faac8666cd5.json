@@ -1,0 +1,31 @@
+{
+  "id": "artist_edce4477-5748-4ded-b351-0faac8666cd5",
+  "name": "美味兔堡",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/MULING0606",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/muling66",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/muling0606",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

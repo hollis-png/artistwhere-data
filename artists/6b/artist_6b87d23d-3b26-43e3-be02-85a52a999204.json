@@ -1,0 +1,17 @@
+{
+  "id": "artist_6b87d23d-3b26-43e3-be02-85a52a999204",
+  "name": "Dark-yard.studio",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/dark_yard.studio/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

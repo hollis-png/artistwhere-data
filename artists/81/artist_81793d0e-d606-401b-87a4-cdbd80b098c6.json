@@ -1,0 +1,39 @@
+{
+  "id": "artist_81793d0e-d606-401b-87a4-cdbd80b098c6",
+  "name": "綿牛喵星球",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/GN3HUUCwpu",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://mnmhoshi.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/mnmhoshi_office",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61552160816018",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCbqQOaT_aDmNQmCA0ssr9DA",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

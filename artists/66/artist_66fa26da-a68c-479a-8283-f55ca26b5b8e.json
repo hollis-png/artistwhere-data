@@ -1,0 +1,36 @@
+{
+  "id": "artist_66fa26da-a68c-479a-8283-f55ca26b5b8e",
+  "name": "Tempest",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://tempestylo.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61553739931045",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Tempestylo",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/10pest_ten",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

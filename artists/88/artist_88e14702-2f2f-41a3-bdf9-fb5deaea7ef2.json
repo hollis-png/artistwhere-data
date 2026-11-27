@@ -1,0 +1,37 @@
+{
+  "id": "artist_88e14702-2f2f-41a3-bdf9-fb5deaea7ef2",
+  "name": "Kevin’s Caravan",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/Kevinbayashi",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kevin_bayashi/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.tiktok.com/@kevin_bayashi",
+      "platform": "TikTok",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@kevinbayashi",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kevin_bayashi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

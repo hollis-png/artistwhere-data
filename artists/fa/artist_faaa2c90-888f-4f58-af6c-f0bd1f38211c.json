@@ -1,0 +1,28 @@
+{
+  "id": "artist_faaa2c90-888f-4f58-af6c-f0bd1f38211c",
+  "name": "OxO2",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/vilishde.cerreros",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/17972488",
+      "platform": "Pixiv",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/OTHERS79799254",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "artist_359df7e0-e9f2-4c6e-b4ab-e3492b1a40d4",
+  "name": "一令到位",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Sansanpainting",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

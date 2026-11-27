@@ -1,0 +1,64 @@
+{
+  "id": "artist_690379bb-cf9a-40e6-83d7-b4bd3467b00a",
+  "name": "♡可凡kofan0331",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/f9ukYFb",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linkpota.to/kofan_0331",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.facebook.com/kofan331/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.twitch.tv/kofan0331",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://streamlabs.com/kofan0331/tip",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://taplink.cc/kofan_0331",
+      "platform": "Taplink",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kofan_0331",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/kofan0331",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kofan0331",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/c/kofan%E5%8F%AF%E5%87%A1",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

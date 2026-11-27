@@ -1,0 +1,43 @@
+{
+  "id": "artist_5a22af6a-8927-49f1-97f6-042dc5e843ab",
+  "name": "あまに",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://kujoamani.booth.pm",
+      "platform": "Booth",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/kujoamani",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitch.tv/amani_kujo",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61576787103396#",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/amani_cos/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kujoamani",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "artist_4503287e-e264-4cbf-83fd-6373e4df41d3",
+  "name": "あみったけ",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/amichan0907/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.stunningarts.co.jp/minamiami",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/amichan_0907",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

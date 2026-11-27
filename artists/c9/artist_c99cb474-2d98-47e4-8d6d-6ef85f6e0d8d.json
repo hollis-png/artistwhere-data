@@ -1,0 +1,48 @@
+{
+  "id": "artist_c99cb474-2d98-47e4-8d6d-6ef85f6e0d8d",
+  "name": "不知道在做什麼的山羊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/justagoat",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61573903790115",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/just_agoat_",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/115041881",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/just_agoat_",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC1rk0VyYo7ckG3Sga5bPpMg",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/just_agoat_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

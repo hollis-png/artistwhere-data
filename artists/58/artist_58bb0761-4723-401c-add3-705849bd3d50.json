@@ -1,0 +1,24 @@
+{
+  "id": "artist_58bb0761-4723-401c-add3-705849bd3d50",
+  "name": "周荀 DenKa",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/denkakeke.0404/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/denkakeke2/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

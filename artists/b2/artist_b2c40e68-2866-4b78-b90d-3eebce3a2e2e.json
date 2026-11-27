@@ -1,0 +1,22 @@
+{
+  "id": "artist_b2c40e68-2866-4b78-b90d-3eebce3a2e2e",
+  "name": "成江江江",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/58923053",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/CHEJAN1219",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

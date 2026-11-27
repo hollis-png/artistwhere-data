@@ -1,0 +1,32 @@
+{
+  "id": "artist_e87d31c8-5c13-406d-a673-cc27f3376ba8",
+  "name": "キネマ106",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://kinema106.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://kinema106.com/link/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDyevZadz0CuFpjIau7Qxsw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tom106zany",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

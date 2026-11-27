@@ -1,0 +1,23 @@
+{
+  "id": "artist_182e2597-6272-49b8-a6f8-c8758401769d",
+  "name": "陪騎的快樂小舖",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/mei.emerald.96",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/pcc_1020/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

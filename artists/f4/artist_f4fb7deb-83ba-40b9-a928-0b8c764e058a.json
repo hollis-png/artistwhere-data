@@ -1,0 +1,25 @@
+{
+  "id": "artist_f4fb7deb-83ba-40b9-a928-0b8c764e058a",
+  "name": "1T5K.Lab ver.968",
+  "types": [],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/kuroha142",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ku_ro8/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kuroha142",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

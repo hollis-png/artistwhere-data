@@ -1,0 +1,30 @@
+{
+  "id": "artist_9068bda8-5c14-4d95-86c5-1d20182d41c6",
+  "name": "易爛",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/5824774",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/YilanUN",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yilan_un",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

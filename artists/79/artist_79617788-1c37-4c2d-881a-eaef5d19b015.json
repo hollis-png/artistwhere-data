@@ -1,0 +1,74 @@
+{
+  "id": "artist_79617788-1c37-4c2d-881a-eaef5d19b015",
+  "name": "ららりらら",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/rararirara0art.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/rararirara",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://misskey.io/@rararirara0art",
+      "platform": "Mastodon",
+      "status": "alive"
+    },
+    {
+      "url": "https://rararirara0art.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/rararirara0art/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/rarariraraART/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rarariraraxart/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/rararirara0art",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/73142725",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/littletest223",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/rararirara0art",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rarariraraXart",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

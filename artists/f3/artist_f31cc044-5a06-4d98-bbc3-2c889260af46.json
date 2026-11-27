@@ -1,0 +1,55 @@
+{
+  "id": "artist_f31cc044-5a06-4d98-bbc3-2c889260af46",
+  "name": "三分糖‧手作中",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://blog.erenehsu.com/HappyCandy/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://blog.erenehsu.com/archives/3017#more-3017",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/BJDhappy.candy/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100072289940546",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.google.com/maps/place/Happy+candy+%E4%B8%89%E5%88%86%E7%B3%96%E6%89%8B%E4%BD%9C%E9%A3%9F%E7%8E%A9%E5%B0%8F%E7%89%A9+(%E9%9D%9E%E5%BA%97%E9%9D%A2+%E6%8E%A1%E9%9B%BB%E8%A9%B1%E9%A0%90%E7%B4%84%E5%88%B6)/@25.1905713,121.4378092,15z/data=!4m6!3m5!1s0x3468038ec152b963:0xd4f6f822f6d2d969!8m2!3d25.1905713!4d121.4378092!16s%2Fg%2F11h06_73lr?sa=X&ved=1t:2428&ictx=111&coh=210790&entry=tts",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/dollworld1204/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Erenehsu",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@Erenehsu",
+      "platform": "YouTube",
+      "status": "dead"
+    }
+  ]
+}

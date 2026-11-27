@@ -1,0 +1,33 @@
+{
+  "id": "artist_2b22319a-05f8-4d96-8c06-a19404aa3f69",
+  "name": "うみの家",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E6%9D%B1%E9%9B%B2%E6%B5%B7-100064267743646/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/umi_portrait/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@umi_shinonome",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sinonome_umi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

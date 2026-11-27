@@ -1,0 +1,35 @@
+{
+  "id": "artist_c0eb9017-b69a-416a-a3e5-e0dd885be080",
+  "name": "蘿蔔農學院",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://robosquat.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/RoBosquat",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/RoBosquat",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.robosquat.com/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

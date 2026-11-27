@@ -1,0 +1,24 @@
+{
+  "id": "artist_11582ba5-d44b-4758-8069-10cccccc236a",
+  "name": "MiraKE",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/mirakehk",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

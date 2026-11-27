@@ -1,0 +1,22 @@
+{
+  "id": "artist_c6669e06-4bb4-4506-9c21-0672f595a29e",
+  "name": "工口中毒ガールM10",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/nazo.eirian.2025/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.instagram.com/nazo.eirian/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

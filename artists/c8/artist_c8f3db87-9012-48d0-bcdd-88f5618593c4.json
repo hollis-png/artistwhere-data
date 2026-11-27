@@ -1,0 +1,44 @@
+{
+  "id": "artist_c8f3db87-9012-48d0-bcdd-88f5618593c4",
+  "name": "阿喔喔咧合作社",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FFK19",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/aoore_x64",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/aoore.x64/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61552480586900",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/26560299",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@A.O.O.R.E_x64",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/AOORE_x64",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

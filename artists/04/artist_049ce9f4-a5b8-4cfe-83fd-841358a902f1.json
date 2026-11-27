@@ -1,0 +1,17 @@
+{
+  "id": "artist_049ce9f4-a5b8-4cfe-83fd-841358a902f1",
+  "name": "7B鉛筆",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/kateterkk",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

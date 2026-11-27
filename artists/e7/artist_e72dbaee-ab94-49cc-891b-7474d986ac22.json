@@ -1,0 +1,22 @@
+{
+  "id": "artist_e72dbaee-ab94-49cc-891b-7474d986ac22",
+  "name": "墨水浴缸",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/OrukaOru",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/oruka_oru",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

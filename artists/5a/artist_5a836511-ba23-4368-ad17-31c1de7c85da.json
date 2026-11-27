@@ -1,0 +1,23 @@
+{
+  "id": "artist_5a836511-ba23-4368-ad17-31c1de7c85da",
+  "name": "chested",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/ardnades",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ardnades",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

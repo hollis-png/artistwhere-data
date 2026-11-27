@@ -1,0 +1,24 @@
+{
+  "id": "artist_35ec77d7-5f91-4014-a5ce-22f287c2b66e",
+  "name": "多多",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E5%A4%9A%E5%A4%9A-61556960274133/?locale=eu_ES",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yezijia1",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

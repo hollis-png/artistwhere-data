@@ -1,0 +1,32 @@
+{
+  "id": "artist_12e10ecc-eb5e-4490-aaa4-910fff1b6c6a",
+  "name": "土撥鼠研究所",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/kagetai307668",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/lolita.guys",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6792781/illustrations",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/kagetai1118",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

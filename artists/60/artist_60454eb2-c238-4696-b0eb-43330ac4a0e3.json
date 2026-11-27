@@ -1,0 +1,20 @@
+{
+  "id": "artist_60454eb2-c238-4696-b0eb-43330ac4a0e3",
+  "name": "甜酒/sweetwine",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61570953615216",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sweetwine_studio/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

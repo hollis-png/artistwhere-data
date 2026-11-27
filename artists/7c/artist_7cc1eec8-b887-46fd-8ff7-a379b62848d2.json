@@ -1,0 +1,28 @@
+{
+  "id": "artist_7cc1eec8-b887-46fd-8ff7-a379b62848d2",
+  "name": "EPO’s Art",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/erythropoietin.rbc",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/EPO_",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/EPO_art",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "artist_b75cec76-8fe9-4d86-836a-f320f5517572",
+  "name": "墨貓空氣幻境",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://blackomi.web.fc2.com/senen/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/blackomicat",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/blackomicat",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/blackomicat",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/blackomicat/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3779383",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/blackomi",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@blackomicat",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

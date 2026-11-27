@@ -1,0 +1,16 @@
+{
+  "id": "artist_6028fe15-2f1a-4d42-9e3a-a2fd1a2732e7",
+  "name": "fu富",
+  "types": [],
+  "events": [
+    "FF46",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/fu121/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

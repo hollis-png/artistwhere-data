@@ -1,0 +1,27 @@
+{
+  "id": "artist_875b785a-7bfd-4ddd-9498-84796f13231c",
+  "name": "冰風繪屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/icewind0223",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100002334173148",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11864374",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

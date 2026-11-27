@@ -1,0 +1,45 @@
+{
+  "id": "artist_3fa51ebe-3ee4-4810-9878-b7156675ba2c",
+  "name": "小羊/풍신 Kohitsuji_Pungsin",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/kohitsujipungsin.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/kohitsuji.pungsin",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/hitsuji_pungsin",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kohitsuji.pungsin.cosplay",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kohitsuji_pungsin/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@kohitsuji_pungsin",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

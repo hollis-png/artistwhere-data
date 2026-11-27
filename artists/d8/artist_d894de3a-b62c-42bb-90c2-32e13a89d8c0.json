@@ -1,0 +1,17 @@
+{
+  "id": "artist_d894de3a-b62c-42bb-90c2-32e13a89d8c0",
+  "name": "BlueMage",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/aoimanabu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

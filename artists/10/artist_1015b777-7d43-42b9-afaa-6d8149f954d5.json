@@ -1,0 +1,33 @@
+{
+  "id": "artist_1015b777-7d43-42b9-afaa-6d8149f954d5",
+  "name": "ユニYuni的夏萊輔導處",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/dbtjfnyk",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/20534219",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Ray_Chung",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/aUnitofYuni",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

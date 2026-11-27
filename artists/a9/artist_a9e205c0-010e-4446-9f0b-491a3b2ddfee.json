@@ -1,0 +1,28 @@
+{
+  "id": "artist_a9e205c0-010e-4446-9f0b-491a3b2ddfee",
+  "name": "好好樹園",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/yusuyusu",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063855934350&comment_id=Y29tbWVudDoxMzUzOTA2NjEzNDE0NTI0XzIwNTE0OTk2MTIyNTc1MDE%3D",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yusuyusu0408/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

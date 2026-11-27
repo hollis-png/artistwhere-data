@@ -1,0 +1,30 @@
+{
+  "id": "artist_00d2522f-f928-4a89-b475-64ba251e82fa",
+  "name": "Ghost City",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/share/19t1hQNszT/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3386064",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ghostling1991",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

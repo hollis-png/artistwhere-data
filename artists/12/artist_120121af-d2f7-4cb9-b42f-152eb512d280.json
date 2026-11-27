@@ -1,0 +1,27 @@
+{
+  "id": "artist_120121af-d2f7-4cb9-b42f-152eb512d280",
+  "name": "找夏夏",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/shia197411",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/keven1107/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/56891927",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "artist_94380eee-b10a-4398-bc2a-b79f30667be7",
+  "name": "xinsworkshop",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ninishou.workshop/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ninishou0.0/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@ninishou0.0",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "artist_6389a0d1-3624-439c-ba27-5d9c631b63ff",
+  "name": "黑魔法人偶部門",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/BJDdepartment/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

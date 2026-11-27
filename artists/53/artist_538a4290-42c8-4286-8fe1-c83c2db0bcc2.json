@@ -1,0 +1,32 @@
+{
+  "id": "artist_538a4290-42c8-4286-8fe1-c83c2db0bcc2",
+  "name": "喵星號12W",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://m.twitch.tv/onetwowhocats",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/OneTwoWhoCats",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/OneTwoWhoCats",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCchmUuifhEPWG0ka9Z6Lr2g",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

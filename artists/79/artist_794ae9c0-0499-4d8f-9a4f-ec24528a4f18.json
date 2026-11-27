@@ -1,0 +1,25 @@
+{
+  "id": "artist_794ae9c0-0499-4d8f-9a4f-ec24528a4f18",
+  "name": "Haku Works",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/real-haku89.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/haku89",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/real_haku89/media",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

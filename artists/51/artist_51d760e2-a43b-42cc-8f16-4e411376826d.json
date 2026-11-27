@@ -1,0 +1,30 @@
+{
+  "id": "artist_51d760e2-a43b-42cc-8f16-4e411376826d",
+  "name": "石原竜也",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://qwjjuvoa.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/258494",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/curry_and_rice4",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

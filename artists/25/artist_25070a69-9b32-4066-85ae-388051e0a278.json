@@ -1,0 +1,35 @@
+{
+  "id": "artist_25070a69-9b32-4066-85ae-388051e0a278",
+  "name": "我老婆今年8歲",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/princessxhana",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/42921326",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/princessXprincess",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/princessxhana7",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

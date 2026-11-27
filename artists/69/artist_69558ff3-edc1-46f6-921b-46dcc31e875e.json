@@ -1,0 +1,42 @@
+{
+  "id": "artist_69558ff3-edc1-46f6-921b-46dcc31e875e",
+  "name": "風車屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/misuali",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://misuali.lofter.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/misuali",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/misuali_525",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Xiaomeng0525",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/misuali",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

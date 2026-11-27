@@ -1,0 +1,23 @@
+{
+  "id": "artist_3a4eed25-9cad-433f-a9cb-b5a98d370f21",
+  "name": "稻荷七櫻的狐狸神社",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/@user-hd6pb7xw7h/featured",
+      "platform": "YouTube",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/_smallalien",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

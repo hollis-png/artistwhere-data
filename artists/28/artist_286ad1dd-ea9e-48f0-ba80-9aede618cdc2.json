@@ -1,0 +1,52 @@
+{
+  "id": "artist_286ad1dd-ea9e-48f0-ba80-9aede618cdc2",
+  "name": "花絵の万貨-AORI個人勢",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/aori-kae.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://clibo.tw/users/AORI",
+      "platform": "Clibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/HrvZBUXwwP",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/aorikae",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://p.ecpay.com.tw/08C887B",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Aori_kae",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/107600212",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@AORI_KaE",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

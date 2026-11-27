@@ -1,0 +1,37 @@
+{
+  "id": "artist_0c0bb718-53fd-4c81-9686-fd9446edd545",
+  "name": "深海觸手怪",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/creation.php?owner=takos",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://takos000.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/chinhsiang.pan",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/265608",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ssccy01",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

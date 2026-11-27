@@ -1,0 +1,17 @@
+{
+  "id": "artist_f1829ab2-79b0-4145-8492-f1988cda9dea",
+  "name": "秀棒秀棒秀",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/bob.show1",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

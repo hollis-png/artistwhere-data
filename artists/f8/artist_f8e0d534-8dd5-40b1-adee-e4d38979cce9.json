@@ -1,0 +1,22 @@
+{
+  "id": "artist_f8e0d534-8dd5-40b1-adee-e4d38979cce9",
+  "name": "綠豆貓",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E7%B6%A0%E8%B1%86%E8%B2%93-100064801598250/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.fppstudio.net/midori",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

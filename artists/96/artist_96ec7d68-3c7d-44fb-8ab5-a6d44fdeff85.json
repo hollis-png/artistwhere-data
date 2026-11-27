@@ -1,0 +1,29 @@
+{
+  "id": "artist_96ec7d68-3c7d-44fb-8ab5-a6d44fdeff85",
+  "name": "不挑食的糰糰",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/WeEatAll/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/we_eat_everthing",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/frog9951000",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

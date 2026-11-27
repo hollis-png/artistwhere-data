@@ -1,0 +1,22 @@
+{
+  "id": "artist_eb5b8426-7062-45a1-a014-b79959771bc5",
+  "name": "A-GUI",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/agui.sextoy/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Agui_SexGamepad",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

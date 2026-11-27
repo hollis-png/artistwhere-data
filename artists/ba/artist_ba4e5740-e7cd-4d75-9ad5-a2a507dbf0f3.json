@@ -1,0 +1,42 @@
+{
+  "id": "artist_ba4e5740-e7cd-4d75-9ad5-a2a507dbf0f3",
+  "name": "羽毛吃蛋糕oω o",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/6E4A35BD-4803-473F-AD42-2CF041B48CD1/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?&owner=may65879",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Feather_OuO",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/FeatherCake/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4082742",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/feather_ovo",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "artist_50c4820b-4f94-4591-ab94-b5ecc0e9b38e",
+  "name": "本攤主打一個隨便",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/wu.y.ting.92/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/FeiWaJiang",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

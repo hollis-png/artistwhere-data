@@ -1,0 +1,24 @@
+{
+  "id": "artist_52487c02-1733-4059-aab9-dc48e69d2817",
+  "name": "Hsun Craft Studio",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/HsunCraftStudio/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/TuHsun0616",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

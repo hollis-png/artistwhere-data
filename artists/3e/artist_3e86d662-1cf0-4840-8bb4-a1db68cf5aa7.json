@@ -1,0 +1,22 @@
+{
+  "id": "artist_3e86d662-1cf0-4840-8bb4-a1db68cf5aa7",
+  "name": "照夜白",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/share/1CLyQdgJZr/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/wtwjybart",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

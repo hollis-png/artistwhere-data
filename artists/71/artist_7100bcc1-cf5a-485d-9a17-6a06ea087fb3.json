@@ -1,0 +1,29 @@
+{
+  "id": "artist_7100bcc1-cf5a-485d-9a17-6a06ea087fb3",
+  "name": "一個小路人",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E5%B0%8F%E8%B7%AF%E4%BA%BA%E7%9A%84%E8%85%A6%E6%B4%9E%E5%A1%97%E9%B4%89%E7%89%86-100077894957363/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/s/u/susan1980735",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Miga_Chen",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

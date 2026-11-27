@@ -1,0 +1,17 @@
+{
+  "id": "artist_4acd7f85-6516-4995-9f47-740c67d94043",
+  "name": "拌飯ビビンバ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Bibimbumpdoneen69",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

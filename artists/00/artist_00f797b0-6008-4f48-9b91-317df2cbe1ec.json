@@ -1,0 +1,42 @@
+{
+  "id": "artist_00f797b0-6008-4f48-9b91-317df2cbe1ec",
+  "name": "萌夜茶会",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/GC8JxQ3ZZy",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/moeyatw",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/moeyatw",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/721171",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/moeyatw",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

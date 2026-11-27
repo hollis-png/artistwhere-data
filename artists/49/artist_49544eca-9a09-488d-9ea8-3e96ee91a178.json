@@ -1,0 +1,48 @@
+{
+  "id": "artist_49544eca-9a09-488d-9ea8-3e96ee91a178",
+  "name": "Sum sum Danka x 裁縫姬",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/33princess_girl",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100090480579472",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sum.hsiao/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/33Princess_girl",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/princess33tw",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/c/SumsumPrincesstw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/princess33tw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

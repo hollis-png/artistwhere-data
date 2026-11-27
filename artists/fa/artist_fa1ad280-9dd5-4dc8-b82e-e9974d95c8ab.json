@@ -1,0 +1,30 @@
+{
+  "id": "artist_fa1ad280-9dd5-4dc8-b82e-e9974d95c8ab",
+  "name": "六太日日人",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/6days.hk/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/6days.hk/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/6dayshk",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

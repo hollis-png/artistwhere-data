@@ -1,0 +1,38 @@
+{
+  "id": "artist_6d79f926-43a2-4b81-8b16-ebeacf9fa81f",
+  "name": "えなこみゅ",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://line.me/R/ti/p/@062jxdis?from=page&openQrModal=true&searchId=062jxdis",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/enakorin",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/enako_chan",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/c/enako_channel",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/enako_cos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

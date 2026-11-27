@@ -1,0 +1,62 @@
+{
+  "id": "artist_c2187095-8bfc-4c78-b439-b6fd44e1fd98",
+  "name": "KiraraCape",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://ci-en.dlsite.com/creator/30130",
+      "platform": "Ci-en",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=meiax9983",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/KiraraCape",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/benshakin",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/meiax9983",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/chiachieh.chu.9/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/meiax9983",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.fanbox.cc/@meiax9983",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3382719",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/meiax9983",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

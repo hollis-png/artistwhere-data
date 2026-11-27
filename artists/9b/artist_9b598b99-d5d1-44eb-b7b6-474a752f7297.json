@@ -1,0 +1,15 @@
+{
+  "id": "artist_9b598b99-d5d1-44eb-b7b6-474a752f7297",
+  "name": "小芸",
+  "types": [],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/CloudyMoonAtSkyWonderland/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

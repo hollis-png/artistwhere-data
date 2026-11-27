@@ -1,0 +1,38 @@
+{
+  "id": "artist_a17582e2-9069-4d85-b079-123fda884673",
+  "name": "三食納豆飯",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://potofu.me/miwanorag",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://ragmyan.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/miwano_rag/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7324626",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rag_ragko",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "artist_2898802f-e1cd-440c-aeac-3d2f63d2565b",
+  "name": "奉池 Fonchi",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/7F9689C8-5DC0-4E1C-911E-051B963894D3/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/52ecKFnYre",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/Fonchi0419",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Fonchi0419",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/fonchi0419",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@Fonchi0419",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

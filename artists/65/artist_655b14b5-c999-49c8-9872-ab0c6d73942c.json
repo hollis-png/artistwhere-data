@@ -1,0 +1,17 @@
+{
+  "id": "artist_655b14b5-c999-49c8-9872-ab0c6d73942c",
+  "name": "hirotaka",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100073586522744",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "artist_c5af499d-459b-49fa-b477-1f4c9a388ab5",
+  "name": "我4亞羅",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/aira.twcosplay/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.furuke.com/AIRA_OuO",
+      "platform": "Furuke",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "artist_2562cb72-fb7d-47b4-8d24-90ee7968fe42",
+  "name": "TroisBebes闖禍現場",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/yeefomlan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

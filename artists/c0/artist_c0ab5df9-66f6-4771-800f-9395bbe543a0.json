@@ -1,0 +1,35 @@
+{
+  "id": "artist_c0ab5df9-66f6-4771-800f-9395bbe543a0",
+  "name": "U-232C",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://suzuri.jp/angy_otter",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yoobu_angy",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/YoobuR18warning",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/angy_otter",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

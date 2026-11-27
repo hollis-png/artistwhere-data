@@ -1,0 +1,31 @@
+{
+  "id": "artist_6fdcd18b-02bb-4d0c-9f02-57282ce377e1",
+  "name": "☆阿兆☆Ajo",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/rolan_ajo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/rolan666/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rolan666",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

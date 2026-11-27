@@ -1,0 +1,18 @@
+{
+  "id": "artist_499eb2a7-0b9e-4c1d-b53d-f8ba3013884a",
+  "name": "手札を守るもの",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/tefumamo/media",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

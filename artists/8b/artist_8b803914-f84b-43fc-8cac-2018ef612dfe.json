@@ -1,0 +1,30 @@
+{
+  "id": "artist_8b803914-f84b-43fc-8cac-2018ef612dfe",
+  "name": "Aironia",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/aironia.artist/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2440574",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/aironia0621",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

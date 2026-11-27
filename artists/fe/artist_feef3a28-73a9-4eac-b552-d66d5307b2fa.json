@@ -1,0 +1,22 @@
+{
+  "id": "artist_feef3a28-73a9-4eac-b552-d66d5307b2fa",
+  "name": "四月兔工作坊",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/0603usagi/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/0603usagi",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

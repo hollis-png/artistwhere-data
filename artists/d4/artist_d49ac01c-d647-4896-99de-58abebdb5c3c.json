@@ -1,0 +1,42 @@
+{
+  "id": "artist_d49ac01c-d647-4896-99de-58abebdb5c3c",
+  "name": "Leviathan",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/leviathan0902.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://leviathan.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/leviathan_0902/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/27350443",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@leviathan0902",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Leviathan_0902",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

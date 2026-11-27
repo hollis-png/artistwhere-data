@@ -1,0 +1,45 @@
+{
+  "id": "artist_f3c8f645-e721-4c43-b7e5-f941e16d77b9",
+  "name": "Rev3",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/18521",
+      "platform": "Fantia",
+      "status": "dead"
+    },
+    {
+      "url": "https://monchanrev3.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6511975",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/monchan_rev3",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/circle_rev3",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/monchan_rev3",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "artist_b85ee416-2638-48c7-9449-1458e34f4c05",
+  "name": "rarana.",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/raranach",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

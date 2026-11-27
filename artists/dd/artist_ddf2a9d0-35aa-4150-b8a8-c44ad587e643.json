@@ -1,0 +1,22 @@
+{
+  "id": "artist_ddf2a9d0-35aa-4150-b8a8-c44ad587e643",
+  "name": "工坊夏至千里",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=summerkmth",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/km1000km1000/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

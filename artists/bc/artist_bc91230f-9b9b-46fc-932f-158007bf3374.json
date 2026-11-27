@@ -1,0 +1,22 @@
+{
+  "id": "artist_bc91230f-9b9b-46fc-932f-158007bf3374",
+  "name": "佐川千尋",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://m.youtube.com/c/%E5%8F%A9%E8%88%8Dcosir?ra=m",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/1H2WPzdLkV/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

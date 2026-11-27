@@ -1,0 +1,33 @@
+{
+  "id": "artist_2c0fc0ce-b8b5-4784-ba9e-829909eb779b",
+  "name": "Kouki_Lab",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/koukillab",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kouki_1ab/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@kouki_1ab",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kouki_lab_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

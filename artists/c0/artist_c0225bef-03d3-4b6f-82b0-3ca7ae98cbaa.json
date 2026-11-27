@@ -1,0 +1,40 @@
+{
+  "id": "artist_c0225bef-03d3-4b6f-82b0-3ca7ae98cbaa",
+  "name": "是我啦!我阿良啦!",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/TQ3M4VgEHD",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/washimineryo1022",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment-r2qm.onrender.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/washimineryo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Washimineryo",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/washimineryo",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

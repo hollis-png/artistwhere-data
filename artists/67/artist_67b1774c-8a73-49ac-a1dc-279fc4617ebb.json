@@ -1,0 +1,37 @@
+{
+  "id": "artist_67b1774c-8a73-49ac-a1dc-279fc4617ebb",
+  "name": "こうましろ",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://itsuwa0815.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://pawoo.net/@rorona0815",
+      "platform": "Mastodon",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/itsuwa0815",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4493551",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

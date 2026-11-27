@@ -1,0 +1,39 @@
+{
+  "id": "artist_bc0bff38-a0b1-40ea-ad59-590a099788ee",
+  "name": "壯哉我大佞總",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/ningning_only",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100059721872094&locale=th_TH",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ningning_only",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/ningning_only",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/user/NANA22332647",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

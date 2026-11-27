@@ -1,0 +1,37 @@
+{
+  "id": "artist_945c98b0-a68a-468a-9347-2e91e8d6adde",
+  "name": "SuperAppleMan",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100076362457212&ref=page_internal#",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/super_appleman/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/75980618",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCoTPqHRmleube2CTt9xyodg/featured",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/KW7MD8FEWT7lMXx",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

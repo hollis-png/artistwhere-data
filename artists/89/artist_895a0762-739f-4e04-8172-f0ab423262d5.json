@@ -1,0 +1,48 @@
+{
+  "id": "artist_895a0762-739f-4e04-8172-f0ab423262d5",
+  "name": "MIBRY’s World",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/phrysm",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://phrysm.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/phrysm",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MIBRYsWorld/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mibryshop/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/phrysm",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2367541",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

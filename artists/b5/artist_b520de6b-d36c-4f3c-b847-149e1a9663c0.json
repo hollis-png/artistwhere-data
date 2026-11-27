@@ -1,0 +1,31 @@
+{
+  "id": "artist_b520de6b-d36c-4f3c-b847-149e1a9663c0",
+  "name": "咕咕嚕紅茶",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/kukukulu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063663492498",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/u3au66",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

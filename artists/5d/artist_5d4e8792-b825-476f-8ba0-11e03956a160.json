@@ -1,0 +1,23 @@
+{
+  "id": "artist_5d4e8792-b825-476f-8ba0-11e03956a160",
+  "name": "照燒你的貓",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/niwacat2/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/812278",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "artist_70be7d3c-d011-417c-8514-15cfc0a65d62",
+  "name": "御宅eden",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/otakueden.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/6ca6GKSuGB",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/8uGkqwr",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/eden2014",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/otaku_eden2014",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/OtakuEden%20%20/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/otaku.eden2",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/otaku.eden1995/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.otaku-eden.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/51610526",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/cadpeople",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/otaku_eden1995",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

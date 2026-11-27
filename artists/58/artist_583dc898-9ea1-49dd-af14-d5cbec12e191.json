@@ -1,0 +1,31 @@
+{
+  "id": "artist_583dc898-9ea1-49dd-af14-d5cbec12e191",
+  "name": "烯醇ENOL",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/goods/search?keyword=%E7%83%AF%E9%86%87enol&kt=2",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/aenol2011/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/aenol2002",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

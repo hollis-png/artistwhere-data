@@ -1,0 +1,47 @@
+{
+  "id": "artist_06c54b3f-5e95-4906-863e-c3df40437fa9",
+  "name": "Kadorin Hitomi - カドリン 仁美",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/494648",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/kadorinhitomi",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://onlyfans.com/hitomicosplay",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/hitomicosplayer",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/KadorinCosplayer",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kadorin.hitomi",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UChnZRJ4kVHud79I2XElg_xQ",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

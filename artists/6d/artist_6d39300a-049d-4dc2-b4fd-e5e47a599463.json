@@ -1,0 +1,45 @@
+{
+  "id": "artist_6d39300a-049d-4dc2-b4fd-e5e47a599463",
+  "name": "つくねわーるど【DREAM.Project】",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/tsukunetsukimi",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/%E6%9C%88%E6%B5%B7%E3%81%A4%E3%81%8F%E3%81%AD-Tsukimi-Tsukune-61567095626731/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61567095626731#",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/xaiabp/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/XaiabP",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/channel/UCZhAVtzwGrxpeXKTqavqJTg",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

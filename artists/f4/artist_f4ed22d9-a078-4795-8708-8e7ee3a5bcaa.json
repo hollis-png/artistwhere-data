@@ -1,0 +1,27 @@
+{
+  "id": "artist_f4ed22d9-a078-4795-8708-8e7ee3a5bcaa",
+  "name": "藏雪堂",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/miyukireirei",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/130073",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/miyukirei",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

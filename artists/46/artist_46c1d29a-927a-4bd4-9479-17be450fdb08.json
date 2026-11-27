@@ -1,0 +1,55 @@
+{
+  "id": "artist_46c1d29a-927a-4bd4-9479-17be450fdb08",
+  "name": "1569",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.facebook.com/1569kikuichi/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/23118",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://kiku1569.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/Kiku1569",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kiku1569/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/kiku1569",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kiku1569",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kiku1569",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

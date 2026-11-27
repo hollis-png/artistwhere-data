@@ -1,0 +1,17 @@
+{
+  "id": "artist_342a58a3-d96e-439b-ad83-8019279e5053",
+  "name": "MIBRY",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/MirRorrrrrrr/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

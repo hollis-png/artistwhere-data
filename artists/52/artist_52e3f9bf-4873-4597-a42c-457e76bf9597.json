@@ -1,0 +1,20 @@
+{
+  "id": "artist_52e3f9bf-4873-4597-a42c-457e76bf9597",
+  "name": "あいがふゎり",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/aikumofuwari",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/110469753",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

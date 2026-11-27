@@ -1,0 +1,18 @@
+{
+  "id": "artist_be13b2c7-3889-4516-ad67-980f4b88d76b",
+  "name": "～NEKONABE～",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100066562821753",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "artist_c29f6263-a9e5-4888-9162-a27327882064",
+  "name": "跑跑鼬",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/runyo",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://runyo.carrd.co/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://runyo.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/RunyoDraws/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100093293982816",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/1drawing_everyday/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/Runyo",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/9521897",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Runyosfw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/runyouo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

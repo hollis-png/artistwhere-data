@@ -1,0 +1,46 @@
+{
+  "id": "artist_93ed44f5-772c-4881-b5f0-388571eb2e69",
+  "name": "Tamarun",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/481576",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://tamarun.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://tamarun.gumroad.com/",
+      "platform": "Gumroad",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/tamarun1st",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1241231",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tamarun1st",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

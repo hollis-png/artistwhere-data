@@ -1,0 +1,59 @@
+{
+  "id": "artist_91d74f59-84d0-4b89-bf50-840eb4ac02fe",
+  "name": "sally : deja-vu",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/slychen.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/slychen",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://mastodon.social/@slychen",
+      "platform": "Mastodon",
+      "status": "alive"
+    },
+    {
+      "url": "https://sally-dejavu.blogspot.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/slychen/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sally_dejavu",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/slychen",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@slychen",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/slychen",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

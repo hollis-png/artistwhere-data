@@ -1,0 +1,18 @@
+{
+  "id": "artist_a4230806-87e6-4545-8fd9-f156c1b6e956",
+  "name": "CrazyBeats",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://soundcloud.com/crazybeats-official",
+      "platform": "SoundCloud",
+      "status": "alive"
+    }
+  ]
+}

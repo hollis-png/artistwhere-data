@@ -1,0 +1,18 @@
+{
+  "id": "artist_aea8803c-543b-4130-b7d1-1cfd2388d4ad",
+  "name": "永繪工坊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/DE_anime_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

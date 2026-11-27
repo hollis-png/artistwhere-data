@@ -1,0 +1,17 @@
+{
+  "id": "artist_4484862f-d6fa-4ffe-a53e-c892b979b197",
+  "name": "雪豹工作室",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/solene_901",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

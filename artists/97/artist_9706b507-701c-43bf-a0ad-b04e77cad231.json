@@ -1,0 +1,38 @@
+{
+  "id": "artist_9706b507-701c-43bf-a0ad-b04e77cad231",
+  "name": "橙雨沐沿",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/nerolirain",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/%E6%A9%99%E9%9B%A8%E6%B2%90%E6%B2%BF-Neroli-Rain-111661784520024/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.nerolirain.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/nerolirain",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCRGpjwvV1V41QTkNqOtNstw/",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

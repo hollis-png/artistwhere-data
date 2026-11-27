@@ -1,0 +1,23 @@
+{
+  "id": "artist_2c95beb3-6b5d-43e2-8e4b-70efbf54c43c",
+  "name": "Fuy社",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://sites.google.com/view/detectiveclub/%E9%A6%96%E9%A0%81?pli=1",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/DetectiveClub",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

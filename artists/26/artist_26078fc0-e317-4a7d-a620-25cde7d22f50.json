@@ -1,0 +1,71 @@
+{
+  "id": "artist_26078fc0-e317-4a7d-a620-25cde7d22f50",
+  "name": "Luoying",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/VcaxGa5RWG",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/qqu5S4fKgg",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/luoyingcosplay",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/luoyingcosplay",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/LuoyingCosplay/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100090895444259",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/luoying_cosplay/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.tiktok.com/@luoying_cosplay",
+      "platform": "TikTok",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/luo_ying_",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@forbiddenknowledge123/about",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/luoying0202",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

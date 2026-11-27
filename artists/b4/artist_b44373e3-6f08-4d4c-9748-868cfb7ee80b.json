@@ -1,0 +1,17 @@
+{
+  "id": "artist_b44373e3-6f08-4d4c-9748-868cfb7ee80b",
+  "name": "雙馬尾協會",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61573054561350",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

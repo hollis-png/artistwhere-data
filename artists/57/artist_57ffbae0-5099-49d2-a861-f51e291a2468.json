@@ -1,0 +1,32 @@
+{
+  "id": "artist_57ffbae0-5099-49d2-a861-f51e291a2468",
+  "name": "はんげつ15",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/MilkYuzi",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/80578914",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hangetsu_15",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

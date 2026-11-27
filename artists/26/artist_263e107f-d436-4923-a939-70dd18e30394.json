@@ -1,0 +1,18 @@
+{
+  "id": "artist_263e107f-d436-4923-a939-70dd18e30394",
+  "name": "鹿言設計工作室 Antler Studio",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/AntlerStudio.tw?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

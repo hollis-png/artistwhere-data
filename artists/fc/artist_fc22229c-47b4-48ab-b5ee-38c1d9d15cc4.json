@@ -1,0 +1,66 @@
+{
+  "id": "artist_fc22229c-47b4-48ab-b5ee-38c1d9d15cc4",
+  "name": "比鄰星域 Proxima Sector",
+  "types": [
+    "other",
+    "vtuber"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/AEA5764C-2973-41B0-B627-C334DDCD5B7A/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/muqxxvSHtM",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/proximasector",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/proximasector",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ProximaSector",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ProximaSector",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ProximaSector",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@proximasector",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC9txSCFCcrwjBliA2WSnODQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/proximasatou",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

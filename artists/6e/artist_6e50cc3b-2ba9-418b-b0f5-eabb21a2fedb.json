@@ -1,0 +1,25 @@
+{
+  "id": "artist_6e50cc3b-2ba9-418b-b0f5-eabb21a2fedb",
+  "name": "No day,no night",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/1029116",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/samrui2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

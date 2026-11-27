@@ -1,0 +1,32 @@
+{
+  "id": "artist_019cfa0a-d7d8-43fb-9f84-469fe6720c6f",
+  "name": "conscious8th",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61561813621433",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/conscious8th/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/conscious8th",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "artist_72f5481a-e6be-4b7a-be80-7377757e28ac",
+  "name": "櫻花雪月",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/sakura.snow.studio/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sakura_snow_studio/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/44960329",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

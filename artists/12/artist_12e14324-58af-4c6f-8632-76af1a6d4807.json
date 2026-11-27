@@ -1,0 +1,17 @@
+{
+  "id": "artist_12e14324-58af-4c6f-8632-76af1a6d4807",
+  "name": "冰與雪之地",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/feather0511",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

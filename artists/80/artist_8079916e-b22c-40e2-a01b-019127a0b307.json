@@ -1,0 +1,41 @@
+{
+  "id": "artist_8079916e-b22c-40e2-a01b-019127a0b307",
+  "name": "芙子煉的藝想室and小黃瓜口味冰泡芙",
+  "types": [
+    "artist",
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/fosusd_lina",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.comicworld.com.tw/Buy/Club/7494",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/fosusd.lina.graffiti.art/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3708089",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/fosusd_lin",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

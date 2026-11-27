@@ -1,0 +1,15 @@
+{
+  "id": "artist_08bf41fe-6b95-4104-a6e7-394d863933bf",
+  "name": "Pinky Ring",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/pinky.ring.639726",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

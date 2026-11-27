@@ -1,0 +1,17 @@
+{
+  "id": "artist_74d8c3b0-571d-4c0b-b13e-a8ffd3bf5383",
+  "name": "ZLing讀做Z0的魔法研究室",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ZLingArt",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artist_575332ac-87d3-4a46-8de7-b3a7c6b2df5c",
+  "name": "ななしのはなし",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://nanashinohanashi.wixsite.com/nanahana",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nanasi_RPG",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

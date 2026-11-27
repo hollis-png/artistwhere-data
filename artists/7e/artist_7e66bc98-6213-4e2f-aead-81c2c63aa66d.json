@@ -1,0 +1,25 @@
+{
+  "id": "artist_7e66bc98-6213-4e2f-aead-81c2c63aa66d",
+  "name": "むげん＠WORKS",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "http://mugen-works.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/MUGEN_WORKS",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/42951",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

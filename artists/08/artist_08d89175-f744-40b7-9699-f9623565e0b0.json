@@ -1,0 +1,15 @@
+{
+  "id": "artist_08d89175-f744-40b7-9699-f9623565e0b0",
+  "name": "Jingle Deer Studio",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/jingledeer/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

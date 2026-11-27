@@ -1,0 +1,25 @@
+{
+  "id": "artist_6773fbc3-bb10-4605-a7c9-e4f05c941e91",
+  "name": "Kami Cosplay",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/kamibpage/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kamikami_v",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kamikami_vv",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

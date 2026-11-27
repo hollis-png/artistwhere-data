@@ -1,0 +1,23 @@
+{
+  "id": "artist_eb9acfc0-dff8-4925-b943-c320a012cb58",
+  "name": "さくらアイス",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://sakuraice.booth.pm",
+      "platform": "Booth",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/17874579",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "artist_c08d28ba-2f8a-443f-9d81-e0b55bec41ab",
+  "name": "咪乓",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/mi.xiang.380726",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

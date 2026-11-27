@@ -1,0 +1,22 @@
+{
+  "id": "artist_383d1eaf-fe4e-4afb-b9e2-ce155bd708d1",
+  "name": "Day on&off",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/day_onnn",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ppkchanchan",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

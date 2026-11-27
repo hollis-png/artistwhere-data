@@ -1,0 +1,47 @@
+{
+  "id": "artist_e8e71774-2200-4bb8-9117-2e3308b890f3",
+  "name": "咖啡 cosplay",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/sppskk7788",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/e3253321",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/lovecoffeecosplay/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sppskk7788/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/coffeecute",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@sppskk7788",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

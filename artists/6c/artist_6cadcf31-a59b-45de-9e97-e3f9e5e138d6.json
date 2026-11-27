@@ -1,0 +1,25 @@
+{
+  "id": "artist_6cadcf31-a59b-45de-9e97-e3f9e5e138d6",
+  "name": "いのがる工房",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://skeb.jp/@garumux",
+      "platform": "Skeb",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/32952745",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/garumux",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

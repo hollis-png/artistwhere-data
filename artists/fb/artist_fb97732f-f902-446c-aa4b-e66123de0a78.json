@@ -1,0 +1,18 @@
+{
+  "id": "artist_fb97732f-f902-446c-aa4b-e66123de0a78",
+  "name": "*漂流天國*",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100068319614813&locale=ka_GE",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

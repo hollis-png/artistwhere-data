@@ -1,0 +1,33 @@
+{
+  "id": "artist_a2855938-dee6-4931-97d5-26140647d6ae",
+  "name": "日安同學",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/goodayclassmate",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/rihantongsyue/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rihan_tongsyue",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rihantongsyue",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

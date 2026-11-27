@@ -1,0 +1,25 @@
+{
+  "id": "artist_f3a14f89-5d84-48a3-b09a-41db170abfc5",
+  "name": "ㄚ泥畫畫",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/River0401",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/69152922",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/River0401",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

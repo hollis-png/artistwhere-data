@@ -1,0 +1,44 @@
+{
+  "id": "artist_59b4e6cd-7ac6-4a1a-a622-5c66551dbfa8",
+  "name": "姬瑟研",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=z0919616670",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/dean0011",
+      "platform": "Linktree",
+      "status": "alive",
+      "displayName": "帝恩"
+    },
+    {
+      "url": "https://patreon.com/z220501",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://pixiv.net/users/220501",
+      "platform": "Pixiv",
+      "status": "alive",
+      "displayName": "帝恩(ディーン)"
+    },
+    {
+      "url": "https://www.plurk.com/z0919616670",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/z0919616670",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

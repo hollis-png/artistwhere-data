@@ -1,0 +1,33 @@
+{
+  "id": "artist_465f1cac-0eda-41cd-81c6-bac18689762e",
+  "name": "香港虛擬偶像應援企劃組 #hkvidolfans",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/hkvidolfans",
+      "platform": "Discord",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/hkvidolfans",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hkvidolfans",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitter.com/hkvidolfans",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

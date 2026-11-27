@@ -1,0 +1,37 @@
+{
+  "id": "artist_e3f32290-6427-45a7-9f11-09a00e4c22c6",
+  "name": "甲Yeetの泡麵館",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://pixiv.net/users/18770181",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/MegufanYEEEEEET",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MegufanYEEEEEET",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://youtube.com/@megufanyeeeeeet",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

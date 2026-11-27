@@ -1,0 +1,15 @@
+{
+  "id": "artist_90f5ca1e-2d9e-4608-82c5-d789a0ec24e2",
+  "name": "哈嘍你好嗎",
+  "types": [],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id%3D100006243996532",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

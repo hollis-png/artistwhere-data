@@ -1,0 +1,37 @@
+{
+  "id": "artist_25ffddfd-9693-499e-b348-59f4489fe0fc",
+  "name": "湯米二七",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Tomi2716",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/tomi.lau.336",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4150773",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/tomi2716",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

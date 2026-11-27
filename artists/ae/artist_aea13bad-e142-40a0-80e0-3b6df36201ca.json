@@ -1,0 +1,57 @@
+{
+  "id": "artist_aea13bad-e142-40a0-80e0-3b6df36201ca",
+  "name": "KeShin",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/weiyikeshin.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/weiyikeshin",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.deviantart.com/fengxiong",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/weiyikeshin_feng/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6423025",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/howard8580",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@weiyikeshin_feng",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/weiyikeshin",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/WeiYiKeShin",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

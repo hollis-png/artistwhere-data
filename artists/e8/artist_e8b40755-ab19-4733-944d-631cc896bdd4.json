@@ -1,0 +1,31 @@
+{
+  "id": "artist_e8b40755-ab19-4733-944d-631cc896bdd4",
+  "name": "綾枷家の猫",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/chiyoko241",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/302306",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/chiyoko241",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

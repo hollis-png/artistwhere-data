@@ -1,0 +1,27 @@
+{
+  "id": "artist_a50e3a07-83ea-4add-9d1a-416d1c0ba74e",
+  "name": "ユカニュンの生贄-YUKA HANYU-",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/yuka_neko_nyun/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.romanticparade.com/yukanyun",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yuka_nyun",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

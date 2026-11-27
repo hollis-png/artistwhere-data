@@ -1,0 +1,37 @@
+{
+  "id": "artist_3bdb0bab-3246-4884-9ffd-a208e9949068",
+  "name": "正經同人",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://seikei-doujin.com",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/seikeidoujin/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2074388",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/walzrjW18",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

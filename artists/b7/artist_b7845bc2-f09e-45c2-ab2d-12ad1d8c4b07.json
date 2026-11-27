@@ -1,0 +1,63 @@
+{
+  "id": "artist_b7845bc2-f09e-45c2-ab2d-12ad1d8c4b07",
+  "name": "初末",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45",
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/beardad85414.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=beardad85414",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/beardad85414",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/404Armory/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/beardad85414/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/xiongchumo",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/beardad850414/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11526704",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/beardad85414",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

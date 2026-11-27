@@ -1,0 +1,18 @@
+{
+  "id": "artist_4d41d78f-f10f-4a17-a28a-b0b163cb9dc0",
+  "name": "只是一株狐尾草",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/may_129art",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

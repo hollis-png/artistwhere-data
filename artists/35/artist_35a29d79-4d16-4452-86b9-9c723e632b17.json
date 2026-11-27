@@ -1,0 +1,51 @@
+{
+  "id": "artist_35a29d79-4d16-4452-86b9-9c723e632b17",
+  "name": "沃爾大帝國秘密集會",
+  "types": [],
+  "events": [
+    "FF43",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/nicawolper",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/nicawolper",
+      "platform": "Lit.link",
+      "status": "alive",
+      "displayName": "妮卡沃爾 NicaWolper lit.link"
+    },
+    {
+      "url": "https://t.co/tlB1TdBLk0",
+      "platform": "Link",
+      "status": "alive",
+      "displayName": "妮卡沃爾❤️‍🔥Nica Wolperにマシュマロを投げる"
+    },
+    {
+      "url": "https://x.com/NicaWolper",
+      "platform": "Twitter (X)",
+      "status": "alive",
+      "displayName": "妮卡沃爾大推！康定洗髮精團購請看置頂"
+    },
+    {
+      "url": "https://x.com/krosa1028",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/@NicaCh",
+      "platform": "YouTube",
+      "status": "alive",
+      "displayName": "Nica Ch. 妮卡沃爾"
+    },
+    {
+      "url": "https://youtube.com/redirect",
+      "platform": "YouTube",
+      "status": "dead",
+      "displayName": "YouTube"
+    }
+  ]
+}

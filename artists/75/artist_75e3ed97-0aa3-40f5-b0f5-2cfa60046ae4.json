@@ -1,0 +1,27 @@
+{
+  "id": "artist_75e3ed97-0aa3-40f5-b0f5-2cfa60046ae4",
+  "name": "百變恩恩",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linkbio.co/5100302JShA29",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.furuke.com/mido_216",
+      "platform": "Furuke",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mido_0216",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

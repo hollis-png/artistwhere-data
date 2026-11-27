@@ -1,0 +1,38 @@
+{
+  "id": "artist_458ab36a-2cad-4743-836b-5bb9654d851f",
+  "name": "不安勒戒所",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF43",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/_ul666lu_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ul666lu",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/_u.666.u_",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/s1ck666",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCR1t8BAI3a3cuSaGCRAIZNw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "artist_88b98cce-fdbf-457a-a0a0-eddc2dbdf554",
+  "name": "嘶嘶嘶嘶",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yayoirli/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yayoi_rli/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

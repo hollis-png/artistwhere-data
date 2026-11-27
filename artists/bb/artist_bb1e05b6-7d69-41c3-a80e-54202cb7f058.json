@@ -1,0 +1,33 @@
+{
+  "id": "artist_bb1e05b6-7d69-41c3-a80e-54202cb7f058",
+  "name": "Hechi 鶴祁",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://hechihehe.carrd.co/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/hechihe",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@hechihehe",
+      "platform": "YouTube",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/hehebirdhechi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

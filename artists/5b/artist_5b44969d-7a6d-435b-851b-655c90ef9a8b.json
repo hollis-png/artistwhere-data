@@ -1,0 +1,28 @@
+{
+  "id": "artist_5b44969d-7a6d-435b-851b-655c90ef9a8b",
+  "name": "銀水杯 SilverCup",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61562392253217",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ShimaNamiDesu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/biggie_white812",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

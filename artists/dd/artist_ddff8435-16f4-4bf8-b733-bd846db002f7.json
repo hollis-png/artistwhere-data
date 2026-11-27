@@ -1,0 +1,25 @@
+{
+  "id": "artist_ddff8435-16f4-4bf8-b733-bd846db002f7",
+  "name": "仲夏の浣熊",
+  "types": [],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/araiguma_810",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/28606589",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/araiguma_0311",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

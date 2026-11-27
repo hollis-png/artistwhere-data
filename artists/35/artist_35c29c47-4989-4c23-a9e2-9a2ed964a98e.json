@@ -1,0 +1,17 @@
+{
+  "id": "artist_35c29c47-4989-4c23-a9e2-9a2ed964a98e",
+  "name": "SUSHI KANI",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/A2929umai",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

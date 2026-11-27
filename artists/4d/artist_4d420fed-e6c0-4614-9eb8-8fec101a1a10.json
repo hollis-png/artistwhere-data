@@ -1,0 +1,25 @@
+{
+  "id": "artist_4d420fed-e6c0-4614-9eb8-8fec101a1a10",
+  "name": "瀬花的酪梨田",
+  "types": [],
+  "events": [
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/okay.seka",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/20167698",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sekaiskoala",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

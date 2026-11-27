@@ -1,0 +1,17 @@
+{
+  "id": "artist_254aa558-7663-4d33-8f6b-c8ec2c15fc58",
+  "name": "Nemuikuma 眠熊",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Lai_nemuikuma",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

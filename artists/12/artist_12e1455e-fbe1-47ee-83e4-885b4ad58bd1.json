@@ -1,0 +1,26 @@
+{
+  "id": "artist_12e1455e-fbe1-47ee-83e4-885b4ad58bd1",
+  "name": "快樂美乃滋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100009021227792",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18061021",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

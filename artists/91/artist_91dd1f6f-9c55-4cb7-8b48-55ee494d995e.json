@@ -1,0 +1,33 @@
+{
+  "id": "artist_91dd1f6f-9c55-4cb7-8b48-55ee494d995e",
+  "name": "逢魔",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://skeb.jp/@touma00",
+      "platform": "Skeb",
+      "status": "alive"
+    },
+    {
+      "url": "https://touma00.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/23239",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/touma00",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "artist_ef1eb2a0-74d6-4397-8c32-9077ae7bbeda",
+  "name": "喇密時區入境處",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/2Yev59eX2j",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/xLamit",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/xlamit",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/xlamit",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCdn7LBoE_D8horrWOcsGGpw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

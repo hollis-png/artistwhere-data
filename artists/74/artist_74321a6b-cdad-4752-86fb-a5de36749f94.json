@@ -1,0 +1,23 @@
+{
+  "id": "artist_74321a6b-cdad-4752-86fb-a5de36749f94",
+  "name": "咻筆插畫工作室",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/xubi_uxu",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ohhiyo777/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "咻筆𝐗𝐮𝐛𝐢 插畫工作室"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "artist_5cc2dee0-3b00-46fa-bd64-2a110f37c03e",
+  "name": "蓮之空聖地巡禮部台灣分會",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/Rinascimento709",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

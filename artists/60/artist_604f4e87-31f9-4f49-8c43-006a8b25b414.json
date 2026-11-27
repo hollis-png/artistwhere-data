@@ -1,0 +1,18 @@
+{
+  "id": "artist_604f4e87-31f9-4f49-8c43-006a8b25b414",
+  "name": "舍團",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/dannysses",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

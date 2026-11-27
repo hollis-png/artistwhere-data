@@ -1,0 +1,37 @@
+{
+  "id": "artist_f0f8e4fc-58cd-4595-840c-811dc290057d",
+  "name": "巴哥共和國",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/jiahao0306_art",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/jaychou0306",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/jiahao0306_art/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/25890980",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/jiahao0306_art",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "artist_4c7c5e96-cd89-4598-afd5-7e14501ff780",
+  "name": "岸邊的消波塊×蔚藍檔案",
+  "types": [],
+  "events": [
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://linkgoods.com/shaobocry",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61567162220441",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/shaobocry200504/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shaobocry_li",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

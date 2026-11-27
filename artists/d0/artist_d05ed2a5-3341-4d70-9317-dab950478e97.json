@@ -1,0 +1,40 @@
+{
+  "id": "artist_d05ed2a5-3341-4d70-9317-dab950478e97",
+  "name": "夜行飛船",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/witlhgti",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/witlhgti",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/witlhgti/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.instagram.com/________witlhgti________/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/13025466",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

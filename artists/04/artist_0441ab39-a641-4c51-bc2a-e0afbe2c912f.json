@@ -1,0 +1,44 @@
+{
+  "id": "artist_0441ab39-a641-4c51-bc2a-e0afbe2c912f",
+  "name": "北空港",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/KSKXgWUu",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/kitamura_nshd",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61577006694472",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/120273789",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kitamura_",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kitamura_nshd",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "artist_17af3686-9326-4d14-b3bc-41ba1fb73dc6",
+  "name": "あぶく屋",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/shikimi_acid",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

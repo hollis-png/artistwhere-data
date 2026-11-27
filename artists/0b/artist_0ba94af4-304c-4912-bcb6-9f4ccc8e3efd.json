@@ -1,0 +1,20 @@
+{
+  "id": "artist_0ba94af4-304c-4912-bcb6-9f4ccc8e3efd",
+  "name": "number",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/pmf61",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

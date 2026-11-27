@@ -1,0 +1,33 @@
+{
+  "id": "artist_e8de4147-36be-4a92-97cb-d7ce124e0e42",
+  "name": "拖稿酥不想動有限公司",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/dragdraftpolarbear",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Gui_PobeaR",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/waiting_pbear/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@waiting_pbear",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

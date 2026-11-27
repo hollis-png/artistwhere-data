@@ -1,0 +1,18 @@
+{
+  "id": "artist_cb07be7a-191b-447f-8421-0dab75077b19",
+  "name": "Aminww阿明明",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Aminww.amin",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

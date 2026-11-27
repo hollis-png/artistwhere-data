@@ -1,0 +1,17 @@
+{
+  "id": "artist_34638a63-815d-4c34-8b42-70fb866f0fa1",
+  "name": "神羅工業",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/shinratw/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

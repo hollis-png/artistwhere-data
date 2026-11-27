@@ -1,0 +1,33 @@
+{
+  "id": "artist_78f08be0-557b-4a79-a1f7-33b8fe8ba330",
+  "name": "UnchikuCompany",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/teaunchiku.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1418675",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.unchiku.org/link/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/t_unchiku",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

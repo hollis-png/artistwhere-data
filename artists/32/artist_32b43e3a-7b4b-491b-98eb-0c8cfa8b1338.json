@@ -1,0 +1,22 @@
+{
+  "id": "artist_32b43e3a-7b4b-491b-98eb-0c8cfa8b1338",
+  "name": "no裏",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/nana.nori.2025",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nananori_77",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

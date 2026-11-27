@@ -1,0 +1,15 @@
+{
+  "id": "artist_68bc59c1-0e60-4b26-aeb1-bd3299f59d22",
+  "name": "箱龜盒子",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/BoxTurtleBox/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

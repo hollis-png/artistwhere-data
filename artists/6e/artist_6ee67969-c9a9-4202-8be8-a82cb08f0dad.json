@@ -1,0 +1,30 @@
+{
+  "id": "artist_6ee67969-c9a9-4202-8be8-a82cb08f0dad",
+  "name": "0蛋黃女子由奈0",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/matsuoka_yuna",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/matsuokayune.2015/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/akai_yuna_1110/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "artist_412908ca-fe61-433e-ab12-29a02bec6bf6",
+  "name": "超頻者瀨田",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/yulinnichan.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://clusters.tw/profile/E01AF824-FCEE-4CBA-9FB7-8DC57598574F/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://drawman.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=trigunfire",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/YuLinnichan",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Mr.yulinArtwork",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61590468235924#",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.instagram.com/mryulin0007/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mryulin007",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.nicovideo.jp/user/1573949",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/mryulin",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/107531155",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/762990",
+      "platform": "Pixiv",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/YuLinMarkII",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

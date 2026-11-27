@@ -1,0 +1,39 @@
+{
+  "id": "artist_9c1a896c-6b0b-4f5f-9c7d-bed30b8eb4dc",
+  "name": "人工降雨",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://manmaderain.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/manmaderain",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3172150?_gl=1*1bb9yfm*_ga*MTg0OTgzODg1MC4xNzgwMjM0NjE0*_ga_D9TLP3EFER*czE3ODAyMzQ2MTQkbzEkZzAkdDE3ODAyMzQ2MTQkajYwJGwwJGgw",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Man_Made_Rain",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/manmaderain",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "artist_8754b8d4-af07-4dd5-8efd-a4e0d0a56f25",
+  "name": "西谷雷",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/shigure_43",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/xi.gu.lei",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/32629835",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

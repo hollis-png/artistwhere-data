@@ -1,0 +1,18 @@
+{
+  "id": "artist_f0f3aedc-b82a-4114-a6ac-7f46dcda6514",
+  "name": "蝦池紀念品",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://linkby.tw/kameka25217",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

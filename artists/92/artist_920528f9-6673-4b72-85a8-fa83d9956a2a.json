@@ -1,0 +1,32 @@
+{
+  "id": "artist_920528f9-6673-4b72-85a8-fa83d9956a2a",
+  "name": "想睡的貓不會醒",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ian.tseng.98",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/27862157",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/neko_n0908",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/_NekoN0908",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

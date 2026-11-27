@@ -1,0 +1,22 @@
+{
+  "id": "artist_9dcaa6e0-4810-4ca0-8e53-daa785ef0fa0",
+  "name": "Cxiela",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61586609199512",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/Cxiela1/media",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

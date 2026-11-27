@@ -1,0 +1,15 @@
+{
+  "id": "artist_e08d830c-d6e3-49d5-8150-8f26407452e2",
+  "name": "Marvix.F Model Studio",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Marvix.FModelStudio/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

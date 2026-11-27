@@ -1,0 +1,88 @@
+{
+  "id": "artist_ba6cb98c-519e-4b1a-b6ff-3a3daa9b0649",
+  "name": "少搬三箱月台奉系注意小組",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/cnastor.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://clusters.tw/profile/4255C1A3-B3F8-411A-8A57-50A5875A7723/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://ganknow.com/%E5%B8%AD%E6%81%A9cn",
+      "platform": "Ganknow",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/astorcn",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://ravenastor.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/RarityUSSR",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/astor.cn",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/auroraACP",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/astor_cn",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11807239",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/42785945/artworks",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5202179",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/dragonfire",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/CN40989116",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

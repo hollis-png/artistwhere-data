@@ -1,0 +1,17 @@
+{
+  "id": "artist_a6686b81-6934-4c0e-9c67-5e0ee0072fe1",
+  "name": "【ZENTENG】",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Zen-Teng-214385615977145/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

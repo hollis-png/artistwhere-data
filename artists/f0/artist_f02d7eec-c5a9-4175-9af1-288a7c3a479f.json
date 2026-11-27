@@ -1,0 +1,47 @@
+{
+  "id": "artist_f02d7eec-c5a9-4175-9af1-288a7c3a479f",
+  "name": "捏捏捏祈",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/ndHrbh98Jn",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/fullmoonnegi",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://p.ecpay.com.tw/1CA9DD4",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/fullmoonnegi/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/fullmoonnenegi",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@fullmoonnegi",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/fullmoonnegi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

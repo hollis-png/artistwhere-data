@@ -1,0 +1,44 @@
+{
+  "id": "artist_c39a3e46-50d2-4b1a-9663-b8d02f643a74",
+  "name": "江江優夜",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/yusaya1019",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/yusaya1019",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/yusaya.rabbit",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rabbit.1019/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/rabbit_1019",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/rabbit_1019",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

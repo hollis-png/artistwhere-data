@@ -1,0 +1,82 @@
+{
+  "id": "artist_c516bbfd-c59c-46bb-a214-f937be72085d",
+  "name": "兀幾斗Wugedou",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:qizlai7jjzaa7mhlf7usg6up",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://clibo.tw/users/wugedou579",
+      "platform": "Clibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/MYXJ7W3EAR",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/XA3dmeUZ",
+      "platform": "Discord",
+      "status": "dead"
+    },
+    {
+      "url": "https://twitter.com/wugedou579",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://wuwu579.wixsite.com/wugedou579",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61556405966196#",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/wugdouGG/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/wugedou579/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6350586",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/wugedou",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@WGD579",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/c/wu556680",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "artist_86e47de1-f130-47c3-8cfe-2b0e1d769169",
+  "name": "圈圈米的無終奇語",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100004811041935",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/102856579",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/66gq88888",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

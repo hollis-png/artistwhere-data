@@ -1,0 +1,47 @@
+{
+  "id": "artist_bd9c2065-0e02-401d-b55f-28c3537cb122",
+  "name": "ねぎあぴる",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://fanme.link/@negitan518",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://instagram.com/negi_kujyo",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linkpota.to/negikujyo",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/negitan518",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/negitan518",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC6H4zQGwlxbA6iK_DjGzTAg",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/negitan518",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_eda5b468-e7d0-4a9d-8cbe-a215a6799d2c",
+  "name": "LUMINO",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.eventeny.com/company/?c=7006",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/LuminoInc",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "artist_296d27d2-c7d7-4273-bb67-0495aa5b60a0",
+  "name": "プラチナきのこ",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://ajouet1.wixsite.com/platinumkinoko",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://picpicgram.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://potofu.me/picpicgram",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4004789",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCueQGvFMhQkccRgIjxZUn9Q",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mohu_san_day",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

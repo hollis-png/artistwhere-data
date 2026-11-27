@@ -1,0 +1,34 @@
+{
+  "id": "artist_39be92cb-2d9e-456f-ad8c-fc24bd05ddf0",
+  "name": "咪咪兔",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/mimi2asmr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/mimi2asmr",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@mimi2asmr",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mimi2asmr",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "artist_9a82a677-5916-48ae-bca0-ab5638902278",
+  "name": "湮雨計畫",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E6%B9%AE%E9%9B%A8%E8%A8%88%E5%8A%83Neu-project-61556843864288/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/neuproject_/media",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

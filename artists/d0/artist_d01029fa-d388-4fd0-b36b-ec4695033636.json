@@ -1,0 +1,52 @@
+{
+  "id": "artist_d01029fa-d388-4fd0-b36b-ec4695033636",
+  "name": "不理不理布里斯",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/mm050728",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/mm050728",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://mm050728.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.creative-comic.tw/zh/author/356249672942",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/mm050728",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/703047",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/mm050728",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mm050728",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

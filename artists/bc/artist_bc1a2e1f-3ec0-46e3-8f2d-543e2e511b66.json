@@ -1,0 +1,37 @@
+{
+  "id": "artist_bc1a2e1f-3ec0-46e3-8f2d-543e2e511b66",
+  "name": "k鴻畫不完",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/46eE3Hu3Da",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://khong.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/khong0825",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/dw_khong_0825/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/khong_0825",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

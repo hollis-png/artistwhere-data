@@ -1,0 +1,27 @@
+{
+  "id": "artist_c85e1b02-29bb-454c-b717-646420ccc596",
+  "name": "DDD大王",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://pawoo.net/@2573968053",
+      "platform": "Mastodon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/14338645",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/DDD",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

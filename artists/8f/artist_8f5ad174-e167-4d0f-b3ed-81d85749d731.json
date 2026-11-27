@@ -1,0 +1,25 @@
+{
+  "id": "artist_8f5ad174-e167-4d0f-b3ed-81d85749d731",
+  "name": "白範工作室",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/StudioRise",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/StudioRise",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/StudioRise13",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

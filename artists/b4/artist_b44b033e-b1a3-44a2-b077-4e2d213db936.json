@@ -1,0 +1,30 @@
+{
+  "id": "artist_b44b033e-b1a3-44a2-b077-4e2d213db936",
+  "name": "雞肉卷集團",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/roggle16",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/roguru.luo.gu",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/25515746",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

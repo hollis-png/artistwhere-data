@@ -1,0 +1,22 @@
+{
+  "id": "artist_8908e0c9-eff3-4bc0-b50d-5e0fa408de0b",
+  "name": "Rua&Leeloo Cosplay",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/leeloonya",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ru_a09/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

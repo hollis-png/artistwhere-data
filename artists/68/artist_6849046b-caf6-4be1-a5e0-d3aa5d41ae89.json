@@ -1,0 +1,43 @@
+{
+  "id": "artist_6849046b-caf6-4be1-a5e0-d3aa5d41ae89",
+  "name": "子貓丸 & Meow’s Create",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/VxRe64meXs",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/konekomaru_",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://patreon.com/KonekoMaru",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/people/Maru-Koneko/61554822463582/?ref=xav_ig_profile_web",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/_meow.maruw0._/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/manda_rabbitho",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

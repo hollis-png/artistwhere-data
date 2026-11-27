@@ -1,0 +1,33 @@
+{
+  "id": "artist_efd2a6bd-eb8c-431a-b1c8-85c5b42e6d3e",
+  "name": "阿慧社",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/MIGOHUATU1130",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61584919667715",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hua_tu230/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/migo._.1130/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

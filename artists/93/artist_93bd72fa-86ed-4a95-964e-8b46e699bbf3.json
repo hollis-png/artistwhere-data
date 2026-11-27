@@ -1,0 +1,25 @@
+{
+  "id": "artist_93bd72fa-86ed-4a95-964e-8b46e699bbf3",
+  "name": "Amenoarts .Co",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/wdymEnoArtsistaken/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/amanoarts1/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/enoarts13",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

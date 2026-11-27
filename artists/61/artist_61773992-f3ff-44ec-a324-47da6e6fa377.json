@@ -1,0 +1,22 @@
+{
+  "id": "artist_61773992-f3ff-44ec-a324-47da6e6fa377",
+  "name": "Jolee二創手作",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/authors/info/l:1znhy9/goods",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/JoleeDIY/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "artist_06a67488-7ace-4b42-a7dd-b9a7e9bc5710",
+  "name": "百元肉肉",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/hyakuen3",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/612797",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/saboechiyan",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

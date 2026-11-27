@@ -1,0 +1,49 @@
+{
+  "id": "artist_d00510b2-80a6-4cb0-98d6-86888c12c41b",
+  "name": "雷光刻幻",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://llsptw.wixsite.com/home",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/PLTSTW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/lei_guangxuan",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/rappucat4245",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitter.com/Rappumao1",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@rappucat8774",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

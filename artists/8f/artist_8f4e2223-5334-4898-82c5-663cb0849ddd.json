@@ -1,0 +1,22 @@
+{
+  "id": "artist_8f4e2223-5334-4898-82c5-663cb0849ddd",
+  "name": "ACGN創作權益推動協會",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ACGNCRPA/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ACGNCRPA",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

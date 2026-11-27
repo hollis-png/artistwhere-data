@@ -1,0 +1,17 @@
+{
+  "id": "artist_7edd5bc8-6dbb-468a-92c6-4fc8400bb09f",
+  "name": "幽的小田地",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100072226383179",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

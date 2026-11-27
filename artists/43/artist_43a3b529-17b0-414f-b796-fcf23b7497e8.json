@@ -1,0 +1,20 @@
+{
+  "id": "artist_43a3b529-17b0-414f-b796-fcf23b7497e8",
+  "name": "Oru歐璐",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/oru8734",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/oru8734",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

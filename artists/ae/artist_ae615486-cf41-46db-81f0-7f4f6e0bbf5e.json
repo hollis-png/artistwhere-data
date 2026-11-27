@@ -1,0 +1,37 @@
+{
+  "id": "artist_ae615486-cf41-46db-81f0-7f4f6e0bbf5e",
+  "name": "火燒靈芝",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/LiangLiang",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://reurl.cc/0ZpQLk",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100092588132599",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCRc6FNolQs3_1cf9ZkoG3Zg",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/LiangLiang_0406",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

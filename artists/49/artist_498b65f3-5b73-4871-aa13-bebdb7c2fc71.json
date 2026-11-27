@@ -1,0 +1,18 @@
+{
+  "id": "artist_498b65f3-5b73-4871-aa13-bebdb7c2fc71",
+  "name": "HIWAWA工作室",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/bubu.cat.812862",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

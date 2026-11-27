@@ -1,0 +1,34 @@
+{
+  "id": "artist_7531ac88-f1c9-4041-b11d-48a5c633a876",
+  "name": "柏斯X南門",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/boss_tseng",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/BossTsengKuso",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/bosstseng77",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18812949?_gl=1*1l5hhsu*_ga*NzAwODg4NDIwLjE2ODYzMTY4Njc.*_ga_D9TLP3EFER*MTY5MjE2NzM5Ny4xNi4wLjE2OTIxNjczOTcuNjAuMC4w",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

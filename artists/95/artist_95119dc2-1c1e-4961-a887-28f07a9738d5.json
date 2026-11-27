@@ -1,0 +1,32 @@
+{
+  "id": "artist_95119dc2-1c1e-4961-a887-28f07a9738d5",
+  "name": "くれりお",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/riotarou12",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/riotarou12/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kurerio122",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/riotarou12",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

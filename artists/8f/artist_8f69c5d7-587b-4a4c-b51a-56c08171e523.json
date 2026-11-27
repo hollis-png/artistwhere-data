@@ -1,0 +1,37 @@
+{
+  "id": "artist_8f69c5d7-587b-4a4c-b51a-56c08171e523",
+  "name": "Harkyan",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/takkima",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/harkyan",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kate.wong.1804/posts/pfbid0PV2SH8MK9E1AYYsJc2j6VTfs48HT8H65nHpeSq6BKMxZT54ks3UseKYUM3n8NTVUl",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/takkima/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@Harkyan",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

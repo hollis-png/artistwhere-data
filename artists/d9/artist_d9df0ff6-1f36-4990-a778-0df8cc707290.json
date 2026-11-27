@@ -1,0 +1,32 @@
+{
+  "id": "artist_d9df0ff6-1f36-4990-a778-0df8cc707290",
+  "name": "幻羽",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/hyillustration.bsky.social",
+      "platform": "Bluesky",
+      "status": "dead"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=teria",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4004637",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/seizongame777",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

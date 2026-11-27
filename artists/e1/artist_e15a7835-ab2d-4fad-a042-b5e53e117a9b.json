@@ -1,0 +1,46 @@
+{
+  "id": "artist_e15a7835-ab2d-4fad-a042-b5e53e117a9b",
+  "name": "FIKUSHON（虛構社）",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/HbdsKa7NJU",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/creation.php?owner=burst55871",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Hyoukyato",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/FikushonWORK",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hyoukyato/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/15220450",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

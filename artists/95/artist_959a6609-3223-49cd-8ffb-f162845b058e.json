@@ -1,0 +1,22 @@
+{
+  "id": "artist_959a6609-3223-49cd-8ffb-f162845b058e",
+  "name": "交通大學漫畫社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/share/1CFvxwDEf6/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nycu_comic_club",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

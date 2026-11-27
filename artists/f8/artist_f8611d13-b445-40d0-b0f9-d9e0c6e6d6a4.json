@@ -1,0 +1,31 @@
+{
+  "id": "artist_f8611d13-b445-40d0-b0f9-d9e0c6e6d6a4",
+  "name": "莫莫無聞",
+  "types": [],
+  "events": [
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/amocomic",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/amocomic",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/Amocomic%E8%8E%AB%E8%8E%AB%E7%84%A1%E8%81%9E-100063798138359/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Amocomic",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

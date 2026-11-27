@@ -1,0 +1,23 @@
+{
+  "id": "artist_452757e4-178a-4b0a-8ffb-3de484e12842",
+  "name": "red miso soup",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/66790112",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/akadashidehanai",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

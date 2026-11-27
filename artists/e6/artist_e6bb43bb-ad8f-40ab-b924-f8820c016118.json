@@ -1,0 +1,32 @@
+{
+  "id": "artist_e6bb43bb-ad8f-40ab-b924-f8820c016118",
+  "name": "鹹魚不加鹽",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/wsfish",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/wsfish8/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/wsfish8/#",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/wsfish8",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "artist_02d3128e-bb2f-457c-9a17-546c2f4a1906",
+  "name": "Digital Lover",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.digitallover.net/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/1294",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yuka_nakajima",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://yuka-nakajima.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    }
+  ]
+}

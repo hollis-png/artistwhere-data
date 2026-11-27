@@ -1,0 +1,22 @@
+{
+  "id": "artist_6e3547c6-4699-4b63-9979-60147791e861",
+  "name": "ひなのお茶会",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/amanehina22",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/amane_hina22",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

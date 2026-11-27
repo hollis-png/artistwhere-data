@@ -1,0 +1,50 @@
+{
+  "id": "artist_b7bfeb6f-24a3-4de1-8485-fe265cb57a59",
+  "name": "Silver銀的無腦塗鴉",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=chenwen125",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/silver0125",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://pawoo.net/@chenwen2349",
+      "platform": "Mastodon",
+      "status": "alive"
+    },
+    {
+      "url": "https://silver0125.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/chenwen125/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5594793",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/seaocean01251",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

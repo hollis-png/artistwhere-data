@@ -1,0 +1,28 @@
+{
+  "id": "artist_0cbc51d2-39f9-4bd6-8e85-012c38127172",
+  "name": "依草南華",
+  "types": [
+    "artist",
+    "craft"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/chiouchr2518.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/freedom2518",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chiouchr2518",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

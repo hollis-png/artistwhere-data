@@ -1,0 +1,23 @@
+{
+  "id": "artist_f6a76251-33e5-4e19-883a-4685a7bff1fd",
+  "name": "りべるて",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/1302052",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/junorx125732",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

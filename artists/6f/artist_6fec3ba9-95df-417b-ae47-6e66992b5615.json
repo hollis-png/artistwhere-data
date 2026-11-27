@@ -1,0 +1,24 @@
+{
+  "id": "artist_6fec3ba9-95df-417b-ae47-6e66992b5615",
+  "name": "Rabbit hutch",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/usagicos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/usao_cos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

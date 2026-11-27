@@ -1,0 +1,36 @@
+{
+  "id": "artist_e600eaad-8ece-431b-af82-01dc71b176e1",
+  "name": "幻想布萊梅",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "http://gensoubremen.blog.fc2.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "http://gensoubremen.blog.fc2.com/blog-entry-283.html",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/loxenred",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/gensoubremen",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

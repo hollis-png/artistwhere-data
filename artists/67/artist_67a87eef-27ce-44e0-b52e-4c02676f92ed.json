@@ -1,0 +1,32 @@
+{
+  "id": "artist_67a87eef-27ce-44e0-b52e-4c02676f92ed",
+  "name": "綠綠想睡教",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/jiau_ju_sama",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/jiau_ju",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100009256897875",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/jiau_ju",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

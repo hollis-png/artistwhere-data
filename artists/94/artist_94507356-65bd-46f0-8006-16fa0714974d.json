@@ -1,0 +1,22 @@
+{
+  "id": "artist_94507356-65bd-46f0-8006-16fa0714974d",
+  "name": "Yumi小魚兒",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Yumi.TWcosplay",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Yumi_cosplayTW",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

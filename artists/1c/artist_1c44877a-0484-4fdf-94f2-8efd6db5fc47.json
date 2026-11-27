@@ -1,0 +1,18 @@
+{
+  "id": "artist_1c44877a-0484-4fdf-94f2-8efd6db5fc47",
+  "name": "紺色果実",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/5561441",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

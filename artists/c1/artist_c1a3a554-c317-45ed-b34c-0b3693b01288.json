@@ -1,0 +1,27 @@
+{
+  "id": "artist_c1a3a554-c317-45ed-b34c-0b3693b01288",
+  "name": "FuwaFuwa軟趴趴",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/fuwafuwa_35",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/FuwaFuwa35FB",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

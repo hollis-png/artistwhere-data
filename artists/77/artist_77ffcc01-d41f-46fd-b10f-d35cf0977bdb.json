@@ -1,0 +1,21 @@
+{
+  "id": "artist_77ffcc01-d41f-46fd-b10f-d35cf0977bdb",
+  "name": "逸遊団",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Its_you_dan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

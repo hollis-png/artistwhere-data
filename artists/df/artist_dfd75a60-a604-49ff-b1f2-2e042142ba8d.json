@@ -1,0 +1,27 @@
+{
+  "id": "artist_dfd75a60-a604-49ff-b1f2-2e042142ba8d",
+  "name": "Lucky Forever",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/juyu0919",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/juyu0919",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/juyu0919",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

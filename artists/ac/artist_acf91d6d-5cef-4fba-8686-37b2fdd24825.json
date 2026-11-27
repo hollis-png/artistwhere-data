@@ -1,0 +1,19 @@
+{
+  "id": "artist_acf91d6d-5cef-4fba-8686-37b2fdd24825",
+  "name": "Oruka的墨水浴缸",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/OrukaQiu",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

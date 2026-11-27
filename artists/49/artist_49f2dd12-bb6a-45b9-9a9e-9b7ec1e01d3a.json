@@ -1,0 +1,27 @@
+{
+  "id": "artist_49f2dd12-bb6a-45b9-9a9e-9b7ec1e01d3a",
+  "name": "水月研究所",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/aiga_mizuki",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/mzk_0606",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/aiga_mizuki",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

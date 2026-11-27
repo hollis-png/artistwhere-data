@@ -1,0 +1,35 @@
+{
+  "id": "artist_4602a7ec-4735-4ced-9153-9add31e38e4c",
+  "name": "｜紫絃 ✤ SHIZURU｜",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://m.facebook.com/TzShian.OvQ",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/shizuru_515/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/tzshianqvq/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shizuru_515",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

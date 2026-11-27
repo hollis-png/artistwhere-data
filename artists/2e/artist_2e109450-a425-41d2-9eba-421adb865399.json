@@ -1,0 +1,41 @@
+{
+  "id": "artist_2e109450-a425-41d2-9eba-421adb865399",
+  "name": "おほしさま堂!",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/12",
+      "platform": "Fantia",
+      "status": "dead"
+    },
+    {
+      "url": "https://geko-ohoshisama.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/384250",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/geko_ohoshisama",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/geko_ohoshisama",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

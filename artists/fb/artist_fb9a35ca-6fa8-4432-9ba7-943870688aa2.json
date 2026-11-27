@@ -1,0 +1,17 @@
+{
+  "id": "artist_fb9a35ca-6fa8-4432-9ba7-943870688aa2",
+  "name": "M企画",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/emuproject",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

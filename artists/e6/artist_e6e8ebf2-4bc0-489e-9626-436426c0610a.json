@@ -1,0 +1,17 @@
+{
+  "id": "artist_e6e8ebf2-4bc0-489e-9626-436426c0610a",
+  "name": "上海 X Alice 妄想樂團",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/ABookaYear",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "artist_3be8bbb2-8c17-46a5-9297-25ad0c8fd9ce",
+  "name": "模型優創",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/lammatung/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

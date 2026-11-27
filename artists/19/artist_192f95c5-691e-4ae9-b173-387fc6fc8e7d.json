@@ -1,0 +1,50 @@
+{
+  "id": "artist_192f95c5-691e-4ae9-b173-387fc6fc8e7d",
+  "name": "陳嵬",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/rocksnotrock.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://solo.to/rocks508",
+      "platform": "Solo.to",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61573619485188",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rocksnot.rock/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/cw/Rocks508",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/22741937",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/rocks508",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rocksnotrock",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

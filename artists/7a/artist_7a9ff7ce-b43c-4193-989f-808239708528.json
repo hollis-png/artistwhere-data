@@ -1,0 +1,22 @@
+{
+  "id": "artist_7a9ff7ce-b43c-4193-989f-808239708528",
+  "name": "東方Project 文文新聞資訊部",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61554006466732",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@touhouayanews",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "artist_041af9d5-07c0-4e60-9294-9da8e2c2a9b5",
+  "name": "打牌萌",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/pcw1030311/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

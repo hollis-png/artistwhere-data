@@ -1,0 +1,22 @@
+{
+  "id": "artist_c8634c23-a012-44af-b9d8-b1a3d0e2cfc4",
+  "name": "楊梅高中動漫社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/YMHSACGN/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ymhsacgn_21st",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

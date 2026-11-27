@@ -1,0 +1,25 @@
+{
+  "id": "artist_57fd1c15-c9a0-4a59-9672-e74873ccb6f8",
+  "name": "=+洛梨々 Cosplay+",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Roriri285/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/roriri285/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/roriri285",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

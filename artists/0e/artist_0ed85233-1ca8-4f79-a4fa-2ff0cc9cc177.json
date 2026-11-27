@@ -1,0 +1,40 @@
+{
+  "id": "artist_0ed85233-1ca8-4f79-a4fa-2ff0cc9cc177",
+  "name": "洛米的秘密基地",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/X9RuYYUVW",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lomilomi.fanbox.cc/posts/11249956",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/luo.mi.820955",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "洛米"
+    },
+    {
+      "url": "https://www.instagram.com/lomimi_02/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/okim_om",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

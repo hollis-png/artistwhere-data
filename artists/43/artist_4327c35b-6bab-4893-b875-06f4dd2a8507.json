@@ -1,0 +1,23 @@
+{
+  "id": "artist_4327c35b-6bab-4893-b875-06f4dd2a8507",
+  "name": "格里芬故事屋",
+  "types": [
+    "artist",
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/GirlsFrontline-Griffin-Meme-StoryHouse-%E5%B0%91%E5%A5%B3%E5%89%8D%E7%B7%9A%E6%A0%BC%E9%87%8C%E8%8A%AC%E6%95%85%E4%BA%8B%E5%B1%8B-Ver2-61559194003953/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "artist_47b9c973-9130-4a57-82f8-0b53ba8864a4",
+  "name": "悠糸",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/uami0420.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://clibo.tw/users/uami0420",
+      "platform": "Clibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/aYeKfnWSyV",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?&owner=uami0420",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/uami0420",
+      "platform": "Lit.link",
+      "status": "dead"
+    },
+    {
+      "url": "https://payment.ecpay.com.tw/Broadcaster/Donate/1CD088E9C028388D26F20D20539A8604",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://uami0420.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/uami0420",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.instagram.com/uami_0420/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/uami0420",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7526693",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Uami_0420",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCMHaIA6d8MopL9BVkj72BiA",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mi_ning0420",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/uami_0420",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

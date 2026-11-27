@@ -1,0 +1,69 @@
+{
+  "id": "artist_bb869781-2595-48e1-bb81-904236ee2691",
+  "name": "願願精華區",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/12226769-12B2-4EA0-AE99-CF7A847303CE/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://lin.ee/6KmlxTO",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/Yuanyuantseng",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://mobile.twitter.com/yuan_yuan1126",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/yuan_yuan1126",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/wish1126/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/wish_yuan1126/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/yuanyuan1126",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/yuan1126",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@yuan_yuan1126",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/channel/UCFhPyFjiwqjO7LHgpfTcUbA",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

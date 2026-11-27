@@ -1,0 +1,17 @@
+{
+  "id": "artist_5a1d44ae-c596-4dad-a7a4-f10318174731",
+  "name": "岩月工作室",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/iwatsuki_studio",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

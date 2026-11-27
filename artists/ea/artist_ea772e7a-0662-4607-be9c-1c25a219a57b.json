@@ -1,0 +1,30 @@
+{
+  "id": "artist_ea772e7a-0662-4607-be9c-1c25a219a57b",
+  "name": "藍普工作室LP Studio",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/LP_Taiwan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/lpstudiotw/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/lp_taiwan",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

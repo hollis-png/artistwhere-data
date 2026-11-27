@@ -1,0 +1,17 @@
+{
+  "id": "artist_1fdd9ec0-87aa-48b0-ac80-466b22a2572f",
+  "name": "月牙HOLO DD仔",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/kofiremoon/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

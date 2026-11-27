@@ -1,0 +1,25 @@
+{
+  "id": "artist_8bf7db13-430e-479b-9631-32cf63be46c3",
+  "name": "西麻食堂",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/simaoo.2nd",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18354969",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/simaoo_3rd",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

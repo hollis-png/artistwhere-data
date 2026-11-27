@@ -1,0 +1,45 @@
+{
+  "id": "artist_24690b8d-0670-4769-98a2-b64c3dde0e5a",
+  "name": "Dane studio",
+  "types": [],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/danedaisuke",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Dane-Studio-1780047822218380",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.furuke.com/DaneDaisuke",
+      "platform": "Furuke",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/danedaisuke/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@danedaisuke",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/a0931799292",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/daisukedane1",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

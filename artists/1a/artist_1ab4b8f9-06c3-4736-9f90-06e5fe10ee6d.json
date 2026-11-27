@@ -1,0 +1,32 @@
+{
+  "id": "artist_1ab4b8f9-06c3-4736-9f90-06e5fe10ee6d",
+  "name": "容子",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/zonezicos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/zonezicos/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/zonezicos/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

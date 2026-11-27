@@ -1,0 +1,25 @@
+{
+  "id": "artist_765ac6d7-0993-4bff-95fa-40cfebb3bdb1",
+  "name": "狐狸的尾巴",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/omarutail",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/wuchun07504138",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "artist_8e875e47-f687-48da-89ae-0cf98d547df8",
+  "name": "屎臉貓星球",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/15chuan/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

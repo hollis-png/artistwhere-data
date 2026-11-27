@@ -1,0 +1,29 @@
+{
+  "id": "artist_09e38be3-7e63-43ab-835d-357f26f5a946",
+  "name": "ハウンドｂ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61585888752303",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "馬卡龍騎士 MacaronKnight"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18449024",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/haundo_b",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

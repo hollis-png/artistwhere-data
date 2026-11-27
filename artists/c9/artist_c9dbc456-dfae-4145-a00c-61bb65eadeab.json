@@ -1,0 +1,21 @@
+{
+  "id": "artist_c9dbc456-dfae-4145-a00c-61bb65eadeab",
+  "name": "宇宙垃圾",
+  "types": [],
+  "events": [
+    "FF46",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/imspacetrash/?ref%3Dbookmarks",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/imspacetrash/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

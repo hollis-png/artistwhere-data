@@ -1,0 +1,27 @@
+{
+  "id": "artist_258cd7eb-6e8c-4316-932d-18aa3ae3f053",
+  "name": "黑鏡魔女-噗噗",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100088272660893",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7944412",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/foolcat1204",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

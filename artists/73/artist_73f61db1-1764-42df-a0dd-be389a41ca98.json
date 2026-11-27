@@ -1,0 +1,30 @@
+{
+  "id": "artist_73f61db1-1764-42df-a0dd-be389a41ca98",
+  "name": "炸豬排蓋飯",
+  "types": [],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/qmjfXq8",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/micoann39",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/mico83511",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC50sKfHoXwmONZkUgVDFk4g",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

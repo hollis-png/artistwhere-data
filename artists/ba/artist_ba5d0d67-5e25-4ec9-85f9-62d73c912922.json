@@ -1,0 +1,35 @@
+{
+  "id": "artist_ba5d0d67-5e25-4ec9-85f9-62d73c912922",
+  "name": "漂泊社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61569658034788",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/m_art_0910",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1815657",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/1n910",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

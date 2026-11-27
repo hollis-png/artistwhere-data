@@ -1,0 +1,48 @@
+{
+  "id": "artist_d043eb6b-bce3-47f4-8519-ae4a927b58f2",
+  "name": "醉宮Yomiya",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/yomiya0918",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/18kWM3YF3K/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/1AK7VMiUhY/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/yomiya.cos/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yomiya_cosplay/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.kkcospalyshop.com/categories/Yomiya",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

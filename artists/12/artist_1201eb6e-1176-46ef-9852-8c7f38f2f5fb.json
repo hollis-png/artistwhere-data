@@ -1,0 +1,67 @@
+{
+  "id": "artist_1201eb6e-1176-46ef-9852-8c7f38f2f5fb",
+  "name": "格爾迪恩的芙拉爾",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://beta.mosir.app/profile/morifuerfulaer",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://bsky.app/profile/morifuerfulaer.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/morifuerfulaer",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://mewe.com/fulaer99.55/posts",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://morifuerfulaer.blogspot.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/morifuerfulaer",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MFgeldian/?locale=hi_IN",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/morifuerfulaer",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/m/morifuerfulaer",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@morifuerfulaer",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

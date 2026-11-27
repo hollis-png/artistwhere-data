@@ -1,0 +1,32 @@
+{
+  "id": "artist_88d71b66-c33f-4023-b2ca-6cd4cec643fb",
+  "name": "howu好油聚集地",
+  "types": [
+    "craft",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/haoyoujujide1",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100083137430570",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/howuvtuber/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

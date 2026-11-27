@@ -1,0 +1,24 @@
+{
+  "id": "artist_5af7bf69-96e1-4363-91b7-404dd76bb7ac",
+  "name": "AZURE DRAGON",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/azudra",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/azudra",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

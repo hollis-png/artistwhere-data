@@ -1,0 +1,32 @@
+{
+  "id": "artist_5ebe36ec-8d30-4d54-9902-1daf097e0096",
+  "name": "Haru_no_booth",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://haruharu09.carrd.co/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://potofu.me/haruki-09",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/haru_no.09/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/haru_ki_09",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_8a053698-1f42-44e8-932c-bb2e1c5b1e1e",
+  "name": "NOAA Tanpaku",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/12054124",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hidama_hirosh1",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

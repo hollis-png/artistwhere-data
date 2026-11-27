@@ -1,0 +1,28 @@
+{
+  "id": "artist_ab95e184-a9b3-4f2c-8e89-0db592348a96",
+  "name": "MR工作室",
+  "types": [
+    "artist",
+    "craft",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/MR_11191",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100064806698099&paipv=0&eav=AfbV6c7hJlDqb4iMlQRuMJUh2hxd9h_rthN2CQKHts59EM8egOroUDkuavoD_xsrvPA&_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

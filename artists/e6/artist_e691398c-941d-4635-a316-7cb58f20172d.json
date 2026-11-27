@@ -1,0 +1,34 @@
+{
+  "id": "artist_e691398c-941d-4635-a316-7cb58f20172d",
+  "name": "軟綿牧場",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/fatsheep0621",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/fatsheep0621",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/fatsheep6021",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/@fatsheep0621",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "artist_54a895da-7042-4229-8176-f2e03ea59c5f",
+  "name": "Re:Volte",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "http://re-volte.net/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://soundcloud.com/ravy_revolte",
+      "platform": "SoundCloud",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ravy_revolte",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

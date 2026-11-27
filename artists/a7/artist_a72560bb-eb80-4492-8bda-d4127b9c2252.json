@@ -1,0 +1,57 @@
+{
+  "id": "artist_a72560bb-eb80-4492-8bda-d4127b9c2252",
+  "name": "大江山花咲宴",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "http://patreon.com/EyamaArt",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/zero77754",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/eyamahanasaki",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/zero77754/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/zero77754/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5738809",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/zero77754",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://zero77754.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://zero77754.wixsite.com/eyama",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

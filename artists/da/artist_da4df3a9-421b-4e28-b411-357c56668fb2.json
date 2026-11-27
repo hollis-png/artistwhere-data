@@ -1,0 +1,33 @@
+{
+  "id": "artist_da4df3a9-421b-4e28-b411-357c56668fb2",
+  "name": "iKkyu3",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/nomita193",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://pont.co/u/193ikkyu3",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@iKkyu3_193",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/193ikkyu3",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

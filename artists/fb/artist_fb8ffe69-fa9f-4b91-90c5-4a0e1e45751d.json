@@ -1,0 +1,20 @@
+{
+  "id": "artist_fb8ffe69-fa9f-4b91-90c5-4a0e1e45751d",
+  "name": "御狐亭",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100070485473734",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

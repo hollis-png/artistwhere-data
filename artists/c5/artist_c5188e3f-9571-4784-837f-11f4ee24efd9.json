@@ -1,0 +1,67 @@
+{
+  "id": "artist_c5188e3f-9571-4784-837f-11f4ee24efd9",
+  "name": "霜月鬼奈",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index_creation.php?owner=onina70",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/OninaArt",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/TsukinaArt",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/OninaArt",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/babyonina",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61553659323524",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/_onina.art_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/_tsukina.art_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Oninaart",
+      "platform": "Plurk",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/TsukinaArt",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

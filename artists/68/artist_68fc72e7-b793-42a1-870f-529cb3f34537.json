@@ -1,0 +1,19 @@
+{
+  "id": "artist_68fc72e7-b793-42a1-870f-529cb3f34537",
+  "name": "詠桜堂",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/cherryblossomfactory/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

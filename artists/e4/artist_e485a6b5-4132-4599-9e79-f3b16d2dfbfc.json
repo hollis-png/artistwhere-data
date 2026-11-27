@@ -1,0 +1,22 @@
+{
+  "id": "artist_e485a6b5-4132-4599-9e79-f3b16d2dfbfc",
+  "name": "ママ谷らんど",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/nam76num",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nam_man3",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

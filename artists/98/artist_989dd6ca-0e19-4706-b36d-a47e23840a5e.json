@@ -1,0 +1,32 @@
+{
+  "id": "artist_989dd6ca-0e19-4706-b36d-a47e23840a5e",
+  "name": "みぃこ：Miico",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/mmm.mii29",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mmm_mii_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/c/MiicoTV",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mmm_mii_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

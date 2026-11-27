@@ -1,0 +1,39 @@
+{
+  "id": "artist_097e7383-47de-4fcf-8cd1-9a65aaf7973a",
+  "name": "娜卡黛西",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=gg321654",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/gg980987",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100075983155813&paipv=0&eav=AfZa-vByA5lDO9uFQcvJt81nI-Ch5AcJP-10zbIdpwlZVNetiVxO6Zs1goIDRpZugY8&_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3049781",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/gg321654",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "artist_de8bd065-2788-43e1-8112-f0358f4475b4",
+  "name": "Yonder Voice",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://space.bilibili.com/210232/",
+      "platform": "Bilibili",
+      "status": "alive"
+    },
+    {
+      "url": "http://www.nicovideo.jp/mylist/47502540",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "http://x.com/yondervoice",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "http://yondervoice.net/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://soundcloud.com/yondervoice",
+      "platform": "SoundCloud",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/YonderVoice/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC3XYLqwrAH6YKcsoVn7kikA",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

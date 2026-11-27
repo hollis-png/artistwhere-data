@@ -1,0 +1,32 @@
+{
+  "id": "artist_6998a3f7-c76a-41aa-a391-a1bfb7aa5c74",
+  "name": "羊的老鼠窩",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index_creation.php?owner=as200123as",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/mi.sheep2",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/20583831",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mi_sheep2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

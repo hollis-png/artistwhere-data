@@ -1,0 +1,25 @@
+{
+  "id": "artist_2d9376dc-f7e2-447a-94f7-e76823d2ba2d",
+  "name": "飲料只喝鮮奶茶",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61579654927688",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/miruku2025",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Mirukubabe1026",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

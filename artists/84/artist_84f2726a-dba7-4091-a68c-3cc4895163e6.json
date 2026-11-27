@@ -1,0 +1,38 @@
+{
+  "id": "artist_84f2726a-dba7-4091-a68c-3cc4895163e6",
+  "name": "MWKK",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://miwakoku.carrd.co/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/people/MWKK/61559200452650/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/miwa_koku/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/19832005",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/miwakokuMWKK",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

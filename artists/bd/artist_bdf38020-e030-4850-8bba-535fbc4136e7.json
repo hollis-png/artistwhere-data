@@ -1,0 +1,20 @@
+{
+  "id": "artist_bdf38020-e030-4850-8bba-535fbc4136e7",
+  "name": "Ah-Wei",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/AhWei1002",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yang.shuwei/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

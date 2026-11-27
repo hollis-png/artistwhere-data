@@ -1,0 +1,32 @@
+{
+  "id": "artist_716fc77a-831c-4434-bb46-95460a1d3b38",
+  "name": "彥燈－ひことう",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/sao73cat",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://wall.gamer.com.tw/redir.php?userId=na2s2o3",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hikotou",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/12005532",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

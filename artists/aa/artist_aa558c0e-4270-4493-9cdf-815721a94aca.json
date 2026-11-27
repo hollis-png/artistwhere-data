@@ -1,0 +1,15 @@
+{
+  "id": "artist_aa558c0e-4270-4493-9cdf-815721a94aca",
+  "name": "紙作物OrgaPaper",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/OrgaPaper",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

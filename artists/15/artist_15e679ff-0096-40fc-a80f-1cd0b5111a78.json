@@ -1,0 +1,24 @@
+{
+  "id": "artist_15e679ff-0096-40fc-a80f-1cd0b5111a78",
+  "name": "Blue civet",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/@ayul.illustrator",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Ayul_oekaki",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

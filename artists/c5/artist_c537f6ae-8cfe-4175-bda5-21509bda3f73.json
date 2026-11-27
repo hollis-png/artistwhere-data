@@ -1,0 +1,37 @@
+{
+  "id": "artist_c537f6ae-8cfe-4175-bda5-21509bda3f73",
+  "name": "米恩坊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/en.mi.7771/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mienn_pp",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/24639982",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mieen22",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

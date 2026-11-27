@@ -1,0 +1,33 @@
+{
+  "id": "artist_e88d0ec5-3e8e-4f7e-9829-e92b3800e98b",
+  "name": "阿廣同好会",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/edward98311",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/edward_earlgray/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7054612",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/edwardlo311",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "artist_4e8bd556-d7e1-4870-b73a-ad1df77e758c",
+  "name": "今天就你們先吃",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61580198964740",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "碗粿米果之家"
+    }
+  ]
+}

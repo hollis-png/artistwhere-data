@@ -1,0 +1,18 @@
+{
+  "id": "artist_dddba465-1724-4942-a85d-fc0aa8ac6963",
+  "name": "左岸咩咩館",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/CoalSheepOAO",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

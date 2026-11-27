@@ -1,0 +1,42 @@
+{
+  "id": "artist_45e8ad75-48e8-490b-9ac9-03813be9b391",
+  "name": "Keeko Club",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/keikoriiin",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://tksource.co.jp/lp/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/keekoriin",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/keekoriiin/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@keekoriiin",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/keekoriiin",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

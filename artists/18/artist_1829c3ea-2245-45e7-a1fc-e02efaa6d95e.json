@@ -1,0 +1,36 @@
+{
+  "id": "artist_1829c3ea-2245-45e7-a1fc-e02efaa6d95e",
+  "name": "23.4ド＆きのこのみ＆蜂蜜少女",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://itiri.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://mamgon.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/234itiri",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mamgon",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

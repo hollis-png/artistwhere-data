@@ -1,0 +1,23 @@
+{
+  "id": "artist_5343e854-b863-4c01-9313-03d9a6362bcf",
+  "name": "Fuumi",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/10292",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/fuumiisc",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

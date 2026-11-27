@@ -1,0 +1,74 @@
+{
+  "id": "artist_a9c209e3-8bef-46d9-b611-9785e939b886",
+  "name": "Ellyfam",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.youtube.com/channel/UCjsSvmT8N_lR1D6qaLc_42w",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/29773",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://ko-fi.com/elly_precious2",
+      "platform": "Ko-fi",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/ellycos",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.amazon.co.jp/hz/wishlist/ls/2KRWTVVUJE4BS",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/elly_precious2/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@elly_precious2",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.tiktok.com/@ellycosjp",
+      "platform": "TikTok",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/elly_pyon",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rin_risu2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rin_risu22",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/@ellypyon_channel",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

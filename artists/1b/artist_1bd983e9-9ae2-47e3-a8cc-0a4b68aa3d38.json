@@ -1,0 +1,17 @@
+{
+  "id": "artist_1bd983e9-9ae2-47e3-a8cc-0a4b68aa3d38",
+  "name": "ス4屋。",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/urct",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

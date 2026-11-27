@@ -1,0 +1,65 @@
+{
+  "id": "artist_5a714480-5df5-49a4-9242-65b652088d2d",
+  "name": "山鬼實驗室",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:yeuc7ca36xqlm2wr6smoxgm6",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://clibo.tw/users/chimei0405",
+      "platform": "Clibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/TDeRCHBMV4",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/chimei0405",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/84701338",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/chimei0405",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/chimei0405",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC7NAZRp8fhIYKxlSouWpiEQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chichishop0405",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chimei_chichi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

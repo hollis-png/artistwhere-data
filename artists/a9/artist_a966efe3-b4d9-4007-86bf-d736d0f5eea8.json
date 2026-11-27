@@ -1,0 +1,37 @@
+{
+  "id": "artist_a966efe3-b4d9-4007-86bf-d736d0f5eea8",
+  "name": "秋橘種植園",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/a.aakichan",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/autumnorange__",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/bakaorange",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/autumnorangee",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2942970",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

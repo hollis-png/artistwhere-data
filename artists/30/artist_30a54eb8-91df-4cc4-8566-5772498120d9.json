@@ -1,0 +1,49 @@
+{
+  "id": "artist_30a54eb8-91df-4cc4-8566-5772498120d9",
+  "name": "by0ru",
+  "types": [
+    "coser",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/byoru",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://instagram.com/by0ru",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/byoru",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Byoruu/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/cw/byoru",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/by0ru",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/byoruuuu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

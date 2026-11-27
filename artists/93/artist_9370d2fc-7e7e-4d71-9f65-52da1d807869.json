@@ -1,0 +1,20 @@
+{
+  "id": "artist_9370d2fc-7e7e-4d71-9f65-52da1d807869",
+  "name": "黑暗小倉庫",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E9%BB%91%E6%9A%97%E5%B0%8F%E5%80%89%E5%BA%AB-100064580536845/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

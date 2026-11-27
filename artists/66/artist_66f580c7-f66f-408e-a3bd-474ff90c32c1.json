@@ -1,0 +1,25 @@
+{
+  "id": "artist_66f580c7-f66f-408e-a3bd-474ff90c32c1",
+  "name": "清澀橘子",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/erorange.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/88346180",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/JSli48763",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

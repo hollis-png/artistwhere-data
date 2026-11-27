@@ -1,0 +1,27 @@
+{
+  "id": "artist_981cf799-43f4-44a6-abe8-2bf6de3e73e6",
+  "name": "Vivicosplay_hk",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/vivi0.85",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/vivi_0.85/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@vivi_0.85",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

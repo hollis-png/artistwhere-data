@@ -1,0 +1,17 @@
+{
+  "id": "artist_50e9e572-0ec8-4527-9ea4-ac90418dfc2f",
+  "name": "蔦屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/tsutadori",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

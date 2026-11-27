@@ -1,0 +1,64 @@
+{
+  "id": "artist_8292b929-ccbc-4e77-9009-8f16aa89cf6b",
+  "name": "NaruBan",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/e-rou-tui-ben-pu-e-1124719225248940094",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/servers/e-rou-tui-ben-pu-e-1124719225248940094",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/narurock8925",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/naru.ban.2025",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/narurock8925?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100093903764915&locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/naruhonpo/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5477773",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/narurock8925",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rockasceny",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

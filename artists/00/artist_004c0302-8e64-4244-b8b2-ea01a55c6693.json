@@ -1,0 +1,40 @@
+{
+  "id": "artist_004c0302-8e64-4244-b8b2-ea01a55c6693",
+  "name": "島明",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/2awuming.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7772544",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Nia_u_min",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/niao_ming83898",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://zx9987155.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    }
+  ]
+}

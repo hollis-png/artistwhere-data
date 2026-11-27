@@ -1,0 +1,46 @@
+{
+  "id": "artist_2e8dadcd-9416-4cc0-8fc0-b388954a25cd",
+  "name": "加零在電線桿下",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/jia0kelvin",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/jia0kelvin",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/jia0kelvin/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/jia0kelvin/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/jia0kelvin",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@jia0kelvin",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

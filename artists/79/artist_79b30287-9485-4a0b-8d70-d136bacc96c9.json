@@ -1,0 +1,17 @@
+{
+  "id": "artist_79b30287-9485-4a0b-8d70-d136bacc96c9",
+  "name": "放養兒童",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/freedkids2022/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

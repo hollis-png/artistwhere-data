@@ -1,0 +1,17 @@
+{
+  "id": "artist_758792f7-70f4-4d26-97bf-5753f7d77eb0",
+  "name": "AuroraLive",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/yamineneru",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "artist_b7f379fd-bc10-49db-8fba-3bf9083ffa8a",
+  "name": "攻勢主義",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/aosorakamiya",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/groups/Offensivism/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/AosoraKamiya",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

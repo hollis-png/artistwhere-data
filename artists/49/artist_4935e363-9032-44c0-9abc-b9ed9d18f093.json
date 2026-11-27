@@ -1,0 +1,76 @@
+{
+  "id": "artist_4935e363-9032-44c0-9abc-b9ed9d18f093",
+  "name": "ＳＨＩＮＩＮＧ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.shinings.net/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://bsky.app/profile/shian.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/shian",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/shian.shining",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://shian.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://shining.booth.pm",
+      "platform": "Booth",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/shian.shining.3/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/shian_shining",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/10220",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/shian_shining",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/SHIAN_R18",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/SHIAN_SHINING",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "artist_113d42d9-4349-49eb-a8ba-4e19f8c20dd2",
+  "name": "四季注意",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/catbox230123",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/catbox230123",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/318609",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/945404",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/catbox230123",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/s60398123",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

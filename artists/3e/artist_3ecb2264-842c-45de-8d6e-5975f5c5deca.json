@@ -1,0 +1,18 @@
+{
+  "id": "artist_3ecb2264-842c-45de-8d6e-5975f5c5deca",
+  "name": "C.U.Wa",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/inashikuwa",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

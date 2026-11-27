@@ -1,0 +1,108 @@
+{
+  "id": "artist_710c6fcf-7440-4244-bf76-7e9522b41f75",
+  "name": "TRY方言",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/rdekN8e9HJ",
+      "platform": "Discord",
+      "status": "alive",
+      "displayName": "加入 TRY方言 Discord 伺服器！"
+    },
+    {
+      "url": "https://dlsite.com/maniax/circle/profile/=/maker_id/RG01006360.html",
+      "platform": "DLsite",
+      "status": "alive"
+    },
+    {
+      "url": "https://facebook.com/trylsc",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "TRY Hougen"
+    },
+    {
+      "url": "https://ganknow.com/trylsc",
+      "platform": "Ganknow",
+      "status": "alive",
+      "displayName": "Trylsc"
+    },
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=czdaeqzcadqe",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://instagram.com/trylsc2023",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linkgoods.com/trylsc",
+      "platform": "Link",
+      "status": "alive",
+      "displayName": "TRY方言"
+    },
+    {
+      "url": "https://lit.link/TRYLSC",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://patreon.com/c/TRYLSC",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://plurk.com/czdaeqzcadqe",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://threads.com/@trylsc2023",
+      "platform": "Threads",
+      "status": "alive",
+      "displayName": "Try方言 ("
+    },
+    {
+      "url": "https://trylsc.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1340203",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/TryTrylsc",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/douzinr18",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/trytry_lsc2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/@try9129",
+      "platform": "YouTube",
+      "status": "alive",
+      "displayName": "方言try"
+    }
+  ]
+}

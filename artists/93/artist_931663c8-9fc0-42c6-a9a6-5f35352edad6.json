@@ -1,0 +1,32 @@
+{
+  "id": "artist_931663c8-9fc0-42c6-a9a6-5f35352edad6",
+  "name": "培式洋館",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/peipei80243.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/rg80243",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/peipei80243",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chougoupeipei1",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "artist_1d8a0602-6bcb-4efe-90fc-cd1ef5f32de6",
+  "name": "LiliumCasablanca",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/liliumcasablanca",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/14081128",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Samidare_Haduki",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

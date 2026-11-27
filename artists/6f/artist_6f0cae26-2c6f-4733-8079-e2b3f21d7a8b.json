@@ -1,0 +1,29 @@
+{
+  "id": "artist_6f0cae26-2c6f-4733-8079-e2b3f21d7a8b",
+  "name": "RayP",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61562328452863",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5478332",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/RayP3399",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

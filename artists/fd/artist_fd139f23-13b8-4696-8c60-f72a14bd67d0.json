@@ -1,0 +1,18 @@
+{
+  "id": "artist_fd139f23-13b8-4696-8c60-f72a14bd67d0",
+  "name": "N.D.S.L.",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/DS_NDSL",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

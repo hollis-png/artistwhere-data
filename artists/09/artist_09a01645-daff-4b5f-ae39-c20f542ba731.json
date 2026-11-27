@@ -1,0 +1,25 @@
+{
+  "id": "artist_09a01645-daff-4b5f-ae39-c20f542ba731",
+  "name": "Harmony*tzsche",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://nawo019.base.shop/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nawo019/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nawo019",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

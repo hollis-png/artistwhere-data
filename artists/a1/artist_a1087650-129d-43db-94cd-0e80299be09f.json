@@ -1,0 +1,54 @@
+{
+  "id": "artist_a1087650-129d-43db-94cd-0e80299be09f",
+  "name": "錦燈Akari",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/62WcYCgFVm",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/fei0730?brid=SvccueCE_DKsO7Tx1IhYiQ",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/JindengCosplay",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100016861652425",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61572399244351",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/1DMaHQYuwN/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/fei_lamp/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/jindeng_cosplay/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

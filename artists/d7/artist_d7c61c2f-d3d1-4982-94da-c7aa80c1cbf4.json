@@ -1,0 +1,25 @@
+{
+  "id": "artist_d7c61c2f-d3d1-4982-94da-c7aa80c1cbf4",
+  "name": "burittohiroba",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/burittohiroba",
+      "platform": "Lit.link",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.instagram.com/burittohiroba/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/burittohiroba",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

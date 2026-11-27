@@ -1,0 +1,15 @@
+{
+  "id": "artist_3a649a26-74d9-4e1f-abe7-b9b7c2c07bc5",
+  "name": "Chian’s artwork",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/chian_twitch/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

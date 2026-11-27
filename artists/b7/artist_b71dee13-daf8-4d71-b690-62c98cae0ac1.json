@@ -1,0 +1,31 @@
+{
+  "id": "artist_b71dee13-daf8-4d71-b690-62c98cae0ac1",
+  "name": "野人文庫",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yala1688888/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yala1688888/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yala168",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "artist_1f3d67e6-9531-4ea0-abad-ffb839aca4b0",
+  "name": "STAR BERRY",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/2057449",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/suzumeyamaneko",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/suzumeyamaneko_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

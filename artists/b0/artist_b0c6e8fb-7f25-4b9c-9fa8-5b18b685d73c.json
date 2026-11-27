@@ -1,0 +1,47 @@
+{
+  "id": "artist_b0c6e8fb-7f25-4b9c-9fa8-5b18b685d73c",
+  "name": "OriginZero",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/OrignZeroJP",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/OriginZeroClub/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/originzero.live/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.myacg.com.tw/seller_market.php?seller=282225&srsltid=AfmBOophlpnE1uQls7Lc7tFHoeY8i2786-qcvhzrq-oaKyLu5H3I7dE-",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/258097",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/OriginZero",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

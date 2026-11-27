@@ -1,0 +1,27 @@
+{
+  "id": "artist_17712a8d-23a4-49c8-8537-2345f9d06cab",
+  "name": "こむぎばたけ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/komugiiiidayo",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/40449091",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ko_mugiiiidayo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

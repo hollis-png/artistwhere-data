@@ -1,0 +1,35 @@
+{
+  "id": "artist_43c620ef-b971-4d76-b860-7ca0dc014267",
+  "name": "☆阿蛋2.0初登場☆",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/YUDANSCOSPLAY/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yudan1217/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/yudan1217",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/YuDan1217",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

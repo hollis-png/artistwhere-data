@@ -1,0 +1,31 @@
+{
+  "id": "artist_601885af-c637-4d79-9468-e1fa701ff25d",
+  "name": "Passing Rain 通り雨",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/rudrawong",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/tooriame/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/tooriame.hk/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

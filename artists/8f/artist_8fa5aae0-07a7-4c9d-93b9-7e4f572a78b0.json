@@ -1,0 +1,20 @@
+{
+  "id": "artist_8fa5aae0-07a7-4c9d-93b9-7e4f572a78b0",
+  "name": "起司",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/qi.si.110395/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/gsooo0365",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

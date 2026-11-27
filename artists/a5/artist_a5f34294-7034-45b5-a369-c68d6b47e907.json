@@ -1,0 +1,17 @@
+{
+  "id": "artist_a5f34294-7034-45b5-a369-c68d6b47e907",
+  "name": "louisruisu",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/louisruisu_/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

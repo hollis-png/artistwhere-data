@@ -1,0 +1,30 @@
+{
+  "id": "artist_c79a7c9b-650f-4967-b29e-8897f7fd5dc7",
+  "name": "興趣始燃",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://m.weibo.cn/u/7468544059?luicode=10000011&lfid=1005052975665330&featurecode=20000181",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/19600593",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Sly96__",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

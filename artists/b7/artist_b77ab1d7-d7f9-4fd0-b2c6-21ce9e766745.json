@@ -1,0 +1,25 @@
+{
+  "id": "artist_b77ab1d7-d7f9-4fd0-b2c6-21ce9e766745",
+  "name": "Nicha茶茶",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.twitch.tv/nicha60606",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nicha60606",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

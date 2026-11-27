@@ -1,0 +1,35 @@
+{
+  "id": "artist_61dff9b3-f1ce-43fd-9c04-87fb6f374cf4",
+  "name": "蔥鴨嘎嘎",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://kamonegimember.cashier.ecpay.com.tw/",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/kamonegi1230",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kamonegi1230",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@kamonegi1230",
+      "platform": "YouTube",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/kamonegi1230",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

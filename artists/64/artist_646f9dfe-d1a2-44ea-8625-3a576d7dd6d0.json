@@ -1,0 +1,18 @@
+{
+  "id": "artist_646f9dfe-d1a2-44ea-8625-3a576d7dd6d0",
+  "name": "貓罐販售所",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61568456401103",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "artist_6a7ef232-ac73-4ac9-89fc-162fc99d8fbe",
+  "name": "休止狐不是羞恥狐",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF47",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/vinale.bsky",
+      "platform": "Bluesky",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/vinale37564/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6012599",
+      "platform": "Pixiv",
+      "status": "alive",
+      "displayName": "泣〆鳴 ヒナレン"
+    },
+    {
+      "url": "https://x.com/vinale37564",
+      "platform": "Twitter (X)",
+      "status": "alive",
+      "displayName": "比奈蓮"
+    }
+  ]
+}

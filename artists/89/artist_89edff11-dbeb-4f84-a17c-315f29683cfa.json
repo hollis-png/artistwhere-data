@@ -1,0 +1,39 @@
+{
+  "id": "artist_89edff11-dbeb-4f84-a17c-315f29683cfa",
+  "name": "楊衣．Yangyi",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/yangyi",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/twitter.com/yangyi4712",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/yangyi4712/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yangyi0228/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/yangyi0228",
+      "platform": "Patreon",
+      "status": "alive"
+    }
+  ]
+}

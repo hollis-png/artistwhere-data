@@ -1,0 +1,35 @@
+{
+  "id": "artist_20586cff-aaaf-4bd1-9bde-34312bc503af",
+  "name": "Shey雪依",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://instabio.cc/shey1006",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Sheycosplayer",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/shey_1006",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shey_1006",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

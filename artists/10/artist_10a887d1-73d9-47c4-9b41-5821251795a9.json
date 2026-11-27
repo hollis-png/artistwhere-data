@@ -1,0 +1,32 @@
+{
+  "id": "artist_10a887d1-73d9-47c4-9b41-5821251795a9",
+  "name": "月亮代表我的心",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/wang.yong.xiang.355554",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/wangduo2/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/10615779",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kakult2017",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

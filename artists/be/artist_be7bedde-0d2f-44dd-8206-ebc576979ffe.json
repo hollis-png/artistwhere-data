@@ -1,0 +1,17 @@
+{
+  "id": "artist_be7bedde-0d2f-44dd-8206-ebc576979ffe",
+  "name": "Ou Ka",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/OuKaRaRa",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

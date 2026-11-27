@@ -1,0 +1,32 @@
+{
+  "id": "artist_b57ffdab-34a7-4e1f-9fa6-6221f4610114",
+  "name": "臺灣大學虛擬藝人研究社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/RwsU9JhEzZ",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/ntuVTA",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ntu_vta/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ntu_vta",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

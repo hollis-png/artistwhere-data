@@ -1,0 +1,31 @@
+{
+  "id": "artist_e05e5515-e03e-4bc4-af84-97794f504a61",
+  "name": "諾米拉兵工廠",
+  "types": [],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://nganfungsui.wixsite.com/ntfs",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/toddy.ngan",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/14021622",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/NTFS10125051",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

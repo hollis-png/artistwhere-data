@@ -1,0 +1,45 @@
+{
+  "id": "artist_17dae1a3-d782-4cdd-8503-2b1eca18bae5",
+  "name": "鳩DEVIL部",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/jojosensei360",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/jojosensei360",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/jojosensei360",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1350252",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/jojosensei360",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/jojosensei360",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

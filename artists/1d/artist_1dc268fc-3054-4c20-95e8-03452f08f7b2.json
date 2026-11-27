@@ -1,0 +1,15 @@
+{
+  "id": "artist_1dc268fc-3054-4c20-95e8-03452f08f7b2",
+  "name": "Tazo工坊",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/TazoWorkshop/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

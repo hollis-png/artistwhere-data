@@ -1,0 +1,32 @@
+{
+  "id": "artist_6f1a62da-5a72-4c90-896b-62aa59c1262e",
+  "name": "redjoystick's artwork",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://redjoystickmk2.wixsite.com/redjoystick",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/228745",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/redjoystick",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/redjoystick",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

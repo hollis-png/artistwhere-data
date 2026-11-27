@@ -1,0 +1,56 @@
+{
+  "id": "artist_3c3b036b-39f9-44d0-a03f-0115aa7a9842",
+  "name": "white parabellum",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/mito-nagishiro.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://mito-nagishiro.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://mito-nagishiro.tumblr.com/",
+      "platform": "Tumblr",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mito_nagishiro",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8189060",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/mito_nagishiro",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@mito_nagishiro",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/lemon_mito",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

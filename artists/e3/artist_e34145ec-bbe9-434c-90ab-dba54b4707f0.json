@@ -1,0 +1,17 @@
+{
+  "id": "artist_e34145ec-bbe9-434c-90ab-dba54b4707f0",
+  "name": "翔羊亭",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/Syouyoutei_0804",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

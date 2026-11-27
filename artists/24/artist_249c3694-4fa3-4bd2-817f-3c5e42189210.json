@@ -1,0 +1,27 @@
+{
+  "id": "artist_249c3694-4fa3-4bd2-817f-3c5e42189210",
+  "name": "兔司-TuSi",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/tusi_0502",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61579812016103",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/83352137",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

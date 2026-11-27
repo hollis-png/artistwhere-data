@@ -1,0 +1,27 @@
+{
+  "id": "artist_a7451a00-8e26-429c-a848-3688b19bc2c2",
+  "name": "島輝製薬",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/yokunin_tgif",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/yokunin/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/23969426",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

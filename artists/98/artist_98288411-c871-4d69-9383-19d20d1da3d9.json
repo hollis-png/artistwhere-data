@@ -1,0 +1,33 @@
+{
+  "id": "artist_98288411-c871-4d69-9383-19d20d1da3d9",
+  "name": "結生晴海",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/SDcqTfyqJT",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/harumi_ouo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/harumi_ouo?lang=zh-tw",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@harumi_ouo",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

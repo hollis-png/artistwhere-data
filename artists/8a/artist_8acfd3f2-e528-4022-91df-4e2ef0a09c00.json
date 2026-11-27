@@ -1,0 +1,25 @@
+{
+  "id": "artist_8acfd3f2-e528-4022-91df-4e2ef0a09c00",
+  "name": "夏至日NATSUHI",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/KAEAS21",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/natsuhi_621/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3690802",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

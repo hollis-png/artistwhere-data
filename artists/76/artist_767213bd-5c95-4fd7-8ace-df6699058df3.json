@@ -1,0 +1,38 @@
+{
+  "id": "artist_767213bd-5c95-4fd7-8ace-df6699058df3",
+  "name": "NEKOKAREYA",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Kare_Huang",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kare.huang.2025/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100001268739792",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1045048/artworks?p=1",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/tommy830219",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

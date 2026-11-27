@@ -1,0 +1,29 @@
+{
+  "id": "artist_2edb5cb8-8145-49e7-8198-00b55160c3ef",
+  "name": "捏嚕捏嚕",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/nenerune/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5122064",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/NENERUuu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "artist_180a31c8-8b37-4875-a2ab-5f3f2757455f",
+  "name": "美栗",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/gggglaze",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/people/%E8%91%9B%E7%BE%8E%E6%A0%97/pfbid0384xY2532dNMaV2kWGLzrdzE5sreJEayeaStkJXBrnKS5MGDx1QxChzN2vXckrgVvl/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61561221459878",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/glint.2015/",
+      "platform": "Instagram",
+      "status": "alive",
+      "displayName": "Glint美栗（@glint.2015）"
+    },
+    {
+      "url": "https://www.plurk.com/enteridec",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

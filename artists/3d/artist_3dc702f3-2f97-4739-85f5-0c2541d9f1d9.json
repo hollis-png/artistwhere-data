@@ -1,0 +1,28 @@
+{
+  "id": "artist_3dc702f3-2f97-4739-85f5-0c2541d9f1d9",
+  "name": "にゃんション-貓宅",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/nyansyon/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8993603",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/wakatsukineko",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

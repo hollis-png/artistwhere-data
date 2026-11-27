@@ -1,0 +1,32 @@
+{
+  "id": "artist_92a36a80-ff5f-4b08-add5-6c102cc725b1",
+  "name": "褻君拖不拖",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/waisetsu5",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.instagram.com/wai_setsu/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/waisetsu5",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@waisetsu5",
+      "platform": "YouTube",
+      "status": "dead"
+    }
+  ]
+}

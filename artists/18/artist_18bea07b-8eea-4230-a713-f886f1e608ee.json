@@ -1,0 +1,32 @@
+{
+  "id": "artist_18bea07b-8eea-4230-a713-f886f1e608ee",
+  "name": "ネトーチカ",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/neti_jp",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/neti_jp",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@neti_jp",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/neti_jp",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

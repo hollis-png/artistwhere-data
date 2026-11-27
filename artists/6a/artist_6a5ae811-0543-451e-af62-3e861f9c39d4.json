@@ -1,0 +1,36 @@
+{
+  "id": "artist_6a5ae811-0543-451e-af62-3e861f9c39d4",
+  "name": "珍緑",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/peter781226",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100002416768665",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/410812",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/peter781226",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

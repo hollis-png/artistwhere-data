@@ -1,0 +1,33 @@
+{
+  "id": "artist_4bfc1f0b-6051-4d1c-9c70-7624c8e8672c",
+  "name": "rana",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/ranaachaa",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://patreon.com/ranaachaa",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://ranaachaa.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ranaachaa",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

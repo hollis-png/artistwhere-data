@@ -1,0 +1,18 @@
+{
+  "id": "artist_5503764a-3d0d-49b3-8bed-e049fcb0aac3",
+  "name": "TSA studio",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.tsastudio.com/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

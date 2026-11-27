@@ -1,0 +1,39 @@
+{
+  "id": "artist_f78ae2f8-e176-42d2-b4ec-338e741e9840",
+  "name": "幻想手札",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=mitsueyn",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/itsuki20140102",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/mitsueyn.tw/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/9817470",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/mitsueyn",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

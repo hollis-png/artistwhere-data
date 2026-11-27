@@ -1,0 +1,16 @@
+{
+  "id": "artist_94d4292c-60b7-4727-ac81-34c68656722b",
+  "name": "大磨界+GIOstudio",
+  "types": [],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/zerowork",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

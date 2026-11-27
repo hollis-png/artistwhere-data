@@ -1,0 +1,66 @@
+{
+  "id": "artist_aa3788e9-01fa-40f3-9b99-4ec6ec2960f2",
+  "name": "K.Y.HIRO",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://cxc.today/zh/store/KYHIRO/work",
+      "platform": "CXC",
+      "status": "alive"
+    },
+    {
+      "url": "https://dlsite.com/maniax/fsr/=/language/jp/sex_category%5B0%5D/male/keyword/K.Y.HIRO/work_category%5B0%5D/doujin/work_category%5B1%5D/books/work_category%5B2%5D/pc/work_category%5B3%5D/app/order%5B0%5D/trend/options_and_or/and/per_page/30/page/1/from/fs.header",
+      "platform": "DLsite",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/476844",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://myacg.com.tw/seller_market.php?keyword=K.Y.Hiro&seller=555355",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://pixiv.net/users/127206254",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/HIRO.tw/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "K.Y.Hiro"
+    },
+    {
+      "url": "https://www.instagram.com/hiro.ig.tw",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1495996",
+      "platform": "Pixiv",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/zxc687933",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://zxc687933.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    }
+  ]
+}

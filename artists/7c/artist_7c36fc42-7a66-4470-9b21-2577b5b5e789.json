@@ -1,0 +1,36 @@
+{
+  "id": "artist_7c36fc42-7a66-4470-9b21-2577b5b5e789",
+  "name": "MiruMiu",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/mirutulove.love/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1789714",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/mirutulove",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/miru_miu2024",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "artist_59d41d78-f168-4683-a753-6781c49a8eac",
+  "name": "全糖雞蛋卷",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/fengliart.bsky.social/post/3l6u27ykrzx2a",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://fengliart520.wixsite.com/my-site-2",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.doujin.com.tw/groups/info/7808",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61569358773274",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

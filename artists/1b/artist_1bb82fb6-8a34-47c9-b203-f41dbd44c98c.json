@@ -1,0 +1,32 @@
+{
+  "id": "artist_1bb82fb6-8a34-47c9-b203-f41dbd44c98c",
+  "name": "林檎工房",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/yuki90286",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ringokoubou/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/300928",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/s/u/yuki90286",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

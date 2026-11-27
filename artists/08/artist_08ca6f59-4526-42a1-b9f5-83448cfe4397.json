@@ -1,0 +1,43 @@
+{
+  "id": "artist_08ca6f59-4526-42a1-b9f5-83448cfe4397",
+  "name": "富士繪社",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://mobile.twitter.com/uanuan_93",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100072024726705",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100072024726705&paipv=0&eav=AfZ7lzG4JpRxzF4w5eHVaHdtfv7fARyAguwLG1onk2uxa9V5kXC9DCMb7LVCwNSEQrc&_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2145683",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/uanuan_93",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

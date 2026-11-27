@@ -1,0 +1,21 @@
+{
+  "id": "artist_83fbca1b-7209-4f55-a812-d4312d600bfd",
+  "name": "浣熊會洗棉花糖",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/_uri_world",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

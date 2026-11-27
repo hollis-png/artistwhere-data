@@ -1,0 +1,20 @@
+{
+  "id": "artist_f70d972f-234a-4a11-932f-c4263a813872",
+  "name": "AJ4N3",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/doubleagen",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

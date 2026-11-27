@@ -1,0 +1,22 @@
+{
+  "id": "artist_0cb5813f-574a-42db-9329-26f584476415",
+  "name": "買動漫",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Myacgevent",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.myacg.com.tw/?srsltid=AfmBOooNEkQaJR_YmCKMjSMpcbZbK31uI0C0TD_RSSjDjARF1L26cqJ0",
+      "platform": "同人誌通販",
+      "status": "alive"
+    }
+  ]
+}

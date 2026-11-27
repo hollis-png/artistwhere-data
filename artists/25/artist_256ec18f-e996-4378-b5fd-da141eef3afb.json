@@ -1,0 +1,23 @@
+{
+  "id": "artist_256ec18f-e996-4378-b5fd-da141eef3afb",
+  "name": "なすあんちょび",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/38102774",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/takanasu05",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

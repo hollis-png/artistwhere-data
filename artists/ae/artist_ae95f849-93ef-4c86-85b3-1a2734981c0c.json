@@ -1,0 +1,22 @@
+{
+  "id": "artist_ae95f849-93ef-4c86-85b3-1a2734981c0c",
+  "name": "沙拉油滑倒油",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Yonneyouo",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yonneyowo/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

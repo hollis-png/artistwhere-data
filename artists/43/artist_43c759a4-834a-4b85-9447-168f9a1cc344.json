@@ -1,0 +1,39 @@
+{
+  "id": "artist_43c759a4-834a-4b85-9447-168f9a1cc344",
+  "name": "東泉重車",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/sankyy377",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/Sankyy377",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100073175811887&locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/14784783",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Sanky337",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

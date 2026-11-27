@@ -1,0 +1,45 @@
+{
+  "id": "artist_57e280c4-0772-49a7-abdf-c9a1be8f10df",
+  "name": "紅音色",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.akaneiro.biz/home/event.php?lan=c",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://pixiv.me/akanecolors",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/akanyanya",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/akanyanya/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/95416",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/akanya",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

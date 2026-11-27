@@ -1,0 +1,25 @@
+{
+  "id": "artist_c2649258-4351-4b80-9018-127e6026d0b2",
+  "name": "苡縷光芒，櫻你照亮",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/calico_221",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/calico.221/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/calico221/about",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

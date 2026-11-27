@@ -1,0 +1,33 @@
+{
+  "id": "artist_b89386db-d9e4-49fc-b0a1-f1ca5a7b60a2",
+  "name": "鬼歌Obake",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/obake0331",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/obake0331/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/79596486",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/john981111",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

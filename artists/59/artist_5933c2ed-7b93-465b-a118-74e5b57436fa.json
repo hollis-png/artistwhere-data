@@ -1,0 +1,49 @@
+{
+  "id": "artist_5933c2ed-7b93-465b-a118-74e5b57436fa",
+  "name": "Chocolat",
+  "types": [
+    "coser",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://fanme.link/@chocolatcos0",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/181829",
+      "platform": "Fantia",
+      "status": "dead"
+    },
+    {
+      "url": "https://lit.link/shokora",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/chocolatcos0/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@channel-ff3rs",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCIs0RjJkbzlRJk4b1AKRh7w",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Chocolat_cos0",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

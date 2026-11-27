@@ -1,0 +1,42 @@
+{
+  "id": "artist_34354d1d-a9b5-499a-931f-466b8580278b",
+  "name": "赤瞳不是紅色眼睛",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/akame1225",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/akame1225/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/jane.wang.3956690",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/akame1225",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Akame1225",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

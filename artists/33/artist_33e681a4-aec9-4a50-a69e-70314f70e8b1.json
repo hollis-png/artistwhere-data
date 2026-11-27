@@ -1,0 +1,23 @@
+{
+  "id": "artist_33e681a4-aec9-4a50-a69e-70314f70e8b1",
+  "name": "沖田太太是凜花",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/okitarinka01",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/rinka.okita.1",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

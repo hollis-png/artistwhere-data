@@ -1,0 +1,18 @@
+{
+  "id": "artist_500c7fa6-8de2-4aae-9f07-b372ea10791d",
+  "name": "鍊土工坊",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/soniaC0o/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "artist_672316dd-c263-4b77-a224-502d04db4211",
+  "name": "微楓繪鋪",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/dlexdchiou?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100069498769838",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/WeyasKayur",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

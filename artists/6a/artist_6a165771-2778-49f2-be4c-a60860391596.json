@@ -1,0 +1,22 @@
+{
+  "id": "artist_6a165771-2778-49f2-be4c-a60860391596",
+  "name": "風鈴檔案W.C.A",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/channel/UC7TK_bgCXn6MhnAU0okJYQQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/windchimes_wca",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

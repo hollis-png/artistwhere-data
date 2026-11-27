@@ -1,0 +1,63 @@
+{
+  "id": "artist_a00f281b-a73d-451e-9a9d-9ed318abe9c4",
+  "name": "SsinN",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/dtRm4n4txB",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/gjPGw4PwsS",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/ssinn",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Ssinncosplay/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/messages/t/9353002174783285/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ssinn_ria",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/ssinn",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@ssinn",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCXEqIcppXSy-TxakKL-XkkA",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ssin_n",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

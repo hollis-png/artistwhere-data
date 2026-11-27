@@ -1,0 +1,20 @@
+{
+  "id": "artist_c379e9ea-c06a-4d99-b7a1-e41a5d273a4e",
+  "name": "里歐里歐",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/Leooo",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/leo_chen0912",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

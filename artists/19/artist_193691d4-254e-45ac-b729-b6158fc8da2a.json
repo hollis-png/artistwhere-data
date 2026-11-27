@@ -1,0 +1,35 @@
+{
+  "id": "artist_193691d4-254e-45ac-b729-b6158fc8da2a",
+  "name": "カカオポッド",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://kakaorantan.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://kakaorantan.wixsite.com/website",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8513896",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kakao_rantan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "artist_8f326e93-92fd-4832-bf0c-4239362e2c10",
+  "name": "兔姬",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/k2wKjtKW2v",
+      "platform": "Discord",
+      "status": "alive",
+      "displayName": "加入 【惡兔CLUB】兔姬官方DC Discord 伺服器！"
+    },
+    {
+      "url": "https://facebook.com/usagihime777",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "兔姬 UsagiHime"
+    },
+    {
+      "url": "https://instagram.com/usagihime_777",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://order.manga-agent.com/bulletins/39",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://usagihime.net/",
+      "platform": "Link",
+      "status": "alive",
+      "displayName": "Home"
+    },
+    {
+      "url": "https://x.com/kuroxusagihime",
+      "platform": "Twitter (X)",
+      "status": "alive",
+      "displayName": "USAGIHIME"
+    },
+    {
+      "url": "https://youtube.com/@channel%2FUC0u_-3zgLkSYpQOxlBi-5Ng",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/channel/UC0u_",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/channel/UC0u_-3zgLkSYpQOxlBi-5Ng",
+      "platform": "YouTube",
+      "status": "alive",
+      "displayName": "USAGIHIME 兔姬"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "artist_399adcc0-9a11-4dd6-acb4-3538c5705bb0",
+  "name": "VIOLA已躺平",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/violachinese",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/violatranslate",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC6MNVbYJd0pqwSrNQXQF-kw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/violatranslate",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

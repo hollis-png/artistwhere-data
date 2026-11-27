@@ -1,0 +1,33 @@
+{
+  "id": "artist_1a706c53-fa71-447e-aaf3-821469f44fa2",
+  "name": "SSRB 军团 446大隊所屬",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/rooter1027.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/rooter.chen.2025/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/23030445",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Zexal1027",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

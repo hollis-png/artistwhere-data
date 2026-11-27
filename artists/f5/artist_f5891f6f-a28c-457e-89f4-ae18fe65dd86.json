@@ -1,0 +1,28 @@
+{
+  "id": "artist_f5891f6f-a28c-457e-89f4-ae18fe65dd86",
+  "name": "奶油湯匙",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ChrisuChizza/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/butterspoonofficial",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/spoon_butter",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

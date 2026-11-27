@@ -1,0 +1,34 @@
+{
+  "id": "artist_9cda24d6-2318-4510-b5a5-bbbd07d0ad6d",
+  "name": "幸運屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://pixiv.net/users/3504226",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://portal.circle.ms/Circle/Index/22004152",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/clobaluckyhouse",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/cloba377",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

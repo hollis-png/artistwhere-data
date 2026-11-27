@@ -1,0 +1,42 @@
+{
+  "id": "artist_48ea32d0-1510-4bbe-a354-76d41c91bfd3",
+  "name": "小波波利那可可",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/thenami8929.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/thenami",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/na.ge.bo.coffee89298929",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6460806",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/coffee89298929",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

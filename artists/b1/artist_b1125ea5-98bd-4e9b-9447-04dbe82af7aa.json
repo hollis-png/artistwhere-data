@@ -1,0 +1,36 @@
+{
+  "id": "artist_b1125ea5-98bd-4e9b-9447-04dbe82af7aa",
+  "name": "Kivotonuz",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/cyclonewars.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/533562",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/cyclonewars",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Cyclonewars1",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

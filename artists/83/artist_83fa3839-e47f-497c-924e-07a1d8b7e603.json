@@ -1,0 +1,28 @@
+{
+  "id": "artist_83fa3839-e47f-497c-924e-07a1d8b7e603",
+  "name": "本草綱目的珏珏",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/people/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/100012822046550/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/im_jue_1123",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/OUO_1123",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "artist_94987ab8-fe5d-4783-9ba0-02b0fdb0b8c2",
+  "name": "世界樹圖書館",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/qREVmqQ68",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=sun1080",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://surreal.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100075642566256",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/surreal1080",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/9472244",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/QUESTION_1080",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

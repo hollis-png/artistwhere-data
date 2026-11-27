@@ -1,0 +1,22 @@
+{
+  "id": "artist_d5728135-8014-40b8-ad9f-2247be122026",
+  "name": "STARWALKER STUDIO",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/starwalker_st",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2289764",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

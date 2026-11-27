@@ -1,0 +1,17 @@
+{
+  "id": "artist_0839fdd8-65ea-4099-a778-3b4d69d5d0ca",
+  "name": "狐娘萬事屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/people/Aoi-Yuzuki/61560826096452/?_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

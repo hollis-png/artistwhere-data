@@ -1,0 +1,77 @@
+{
+  "id": "artist_06cfe228-7167-483a-b1f7-86597c11dcac",
+  "name": "UNLOLI",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?&owner=unloli",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://pawoo.net/@unloli",
+      "platform": "Mastodon",
+      "status": "alive"
+    },
+    {
+      "url": "https://unloli.wixsite.com/index",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Unloli-Nest-%E4%B8%8D%E8%98%BF%E8%8E%89%E7%9A%84%E9%B3%A5%E7%AA%A9-100858045582616",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100070689368787",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/un1o1i/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2319956",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/unloli",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/unloli721",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/unloli0",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/unloli",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/unloli818",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

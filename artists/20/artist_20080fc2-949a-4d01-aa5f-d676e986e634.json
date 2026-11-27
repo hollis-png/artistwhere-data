@@ -1,0 +1,25 @@
+{
+  "id": "artist_20080fc2-949a-4d01-aa5f-d676e986e634",
+  "name": "HEART-WORK",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/suzuhirahiro666",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@SUZUHIRAChannel",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

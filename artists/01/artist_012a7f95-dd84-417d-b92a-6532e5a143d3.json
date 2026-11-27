@@ -1,0 +1,27 @@
+{
+  "id": "artist_012a7f95-dd84-417d-b92a-6532e5a143d3",
+  "name": "RAMEN RIDER",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/theawesomeyoyoko/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1230984",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/CrossGross",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

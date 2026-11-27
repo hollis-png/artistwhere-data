@@ -1,0 +1,17 @@
+{
+  "id": "artist_522cf797-4d9e-4b89-b3a4-e8e602d8990a",
+  "name": "黑木耳大盤商",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/zuo.mu.604593",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

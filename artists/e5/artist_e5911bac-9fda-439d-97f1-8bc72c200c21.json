@@ -1,0 +1,26 @@
+{
+  "id": "artist_e5911bac-9fda-439d-97f1-8bc72c200c21",
+  "name": "銅雀臺",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/BBirdTerrace",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61552249589321",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

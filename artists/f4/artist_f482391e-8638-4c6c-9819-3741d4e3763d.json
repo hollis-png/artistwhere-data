@@ -1,0 +1,22 @@
+{
+  "id": "artist_f482391e-8638-4c6c-9819-3741d4e3763d",
+  "name": "春日影研究所",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/4033649",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Lyytoaoitori",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

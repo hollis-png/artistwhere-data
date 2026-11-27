@@ -1,0 +1,22 @@
+{
+  "id": "artist_ff38e692-0b99-418a-900d-9d9b69dc1635",
+  "name": "Hanaka@MiruMiu",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/hanakaaaa",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hanaka._.28/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "artist_9d6b60fa-7336-4246-a73d-c541afe9ccb3",
+  "name": "夜語亭",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100073259783529",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

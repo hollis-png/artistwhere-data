@@ -1,0 +1,61 @@
+{
+  "id": "artist_7714ac23-1bf0-4961-bda0-c628d7d57568",
+  "name": "稚稚丸",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://chichimaru.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/521039",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=t070713",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://htoh.asia/chichimaru",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.facebook.com/story.php?story_fbid=pfbid02fAQMV25xmi81CWnVq7gPBnJ7CfVQT9h7wPFMeCgV6iufsdyAak2iLMNYGb7T2rhMl&id=100063778451711",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063778451711#",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/51262417",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ChiChiMaru",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/07ChiChiMaru",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

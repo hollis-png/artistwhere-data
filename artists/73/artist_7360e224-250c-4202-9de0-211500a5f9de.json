@@ -1,0 +1,17 @@
+{
+  "id": "artist_7360e224-250c-4202-9de0-211500a5f9de",
+  "name": "小熊俱樂部",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E5%B0%8F%E7%86%8A%E4%BF%B1%E6%A8%82%E9%83%A8-%E6%89%8B%E4%BD%9CLarp%E9%81%93%E5%85%B7-100086417554413/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "artist_d69a6222-84ec-42dc-9c59-949b9dad129d",
+  "name": "消波ブロック社",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Tetrapodsha",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.tetrapodsha.com/artists",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Tetrapodsha",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "artist_e2d70053-4284-4d0c-8b08-de1f1d7cea55",
+  "name": "周休二日",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/twds_2d/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

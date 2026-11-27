@@ -1,0 +1,15 @@
+{
+  "id": "artist_ee65f538-1951-4962-b31f-8a4e3a7837b6",
+  "name": "奇牠記事",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "http://yayago220.wixsite.com/mysite",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

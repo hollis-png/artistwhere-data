@@ -1,0 +1,30 @@
+{
+  "id": "artist_fbc8544c-5be9-401c-9d9f-63beeb3c91f9",
+  "name": "幼彩社",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/490091",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/KINN_0639",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/KINNABAR",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

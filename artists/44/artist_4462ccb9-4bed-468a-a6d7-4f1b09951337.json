@@ -1,0 +1,27 @@
+{
+  "id": "artist_4462ccb9-4bed-468a-a6d7-4f1b09951337",
+  "name": "ReiRZ Illustration",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61550686150354",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/87614857",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ReiRZ211",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

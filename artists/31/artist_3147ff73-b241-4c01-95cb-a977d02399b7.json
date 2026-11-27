@@ -1,0 +1,26 @@
+{
+  "id": "artist_3147ff73-b241-4c01-95cb-a977d02399b7",
+  "name": "海生番茄",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100014464936430",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rantomato18",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "artist_91940b26-0d75-4327-b4ec-66eb399af8df",
+  "name": "椰子喵咖啡屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/EC9FE8EB-FF07-4101-AE84-16BCD0E1AA14/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/shadowsinking",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/RumieChen",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rumiechen/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/777076",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/hukai",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

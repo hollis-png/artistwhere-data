@@ -1,0 +1,59 @@
+{
+  "id": "artist_0ea8e69b-d184-4235-8133-6fd4fdec1017",
+  "name": "雙糖＊糖霜",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/VKkNxYJwnC",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://line.me/ti/g2/7hHYI-PFk4fRPz7gJmD7Y1sczwGnD0hi68yP9A",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://paypal.me/masacandi",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/candixcandi",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Candi.tw",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/candixcandi/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@candixcandi",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/masacandi",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/candixcandi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

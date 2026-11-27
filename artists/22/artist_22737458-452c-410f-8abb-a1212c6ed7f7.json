@@ -1,0 +1,28 @@
+{
+  "id": "artist_22737458-452c-410f-8abb-a1212c6ed7f7",
+  "name": "宮坂みゆ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://canvas.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/miyu_miyasaka",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://zh.moegirl.org.cn/zh-tw/Template:CANVAS%2BGARDEN",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

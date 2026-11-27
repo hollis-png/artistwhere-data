@@ -1,0 +1,27 @@
+{
+  "id": "artist_61c9645c-8788-434c-8489-76a657c76aae",
+  "name": "Shooting Star’s",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/87594",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@saku93v/streams",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/saku93",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

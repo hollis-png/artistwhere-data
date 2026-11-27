@@ -1,0 +1,30 @@
+{
+  "id": "artist_5c7922e8-1ba9-4335-861b-b19ee0deb2de",
+  "name": "膠愛模型工作室",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://johnny1026310.wixsite.com/plastic-love-studio",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/plasticlove113",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61560449774623",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/plastic_love_studio/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

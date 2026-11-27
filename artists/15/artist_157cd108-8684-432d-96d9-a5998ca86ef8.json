@@ -1,0 +1,43 @@
+{
+  "id": "artist_157cd108-8684-432d-96d9-a5998ca86ef8",
+  "name": "SIBYL西貝魯",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/sibyl",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Sibylart",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sibyl2017",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sibylart2016/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/sibylsibyl2006",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCoYDoHlAFOd9NAgLqlA6rNw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

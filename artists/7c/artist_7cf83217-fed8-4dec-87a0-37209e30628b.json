@@ -1,0 +1,24 @@
+{
+  "id": "artist_7cf83217-fed8-4dec-87a0-37209e30628b",
+  "name": "凌晨四你老沐",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/LingChenModel",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/qaws_1109/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

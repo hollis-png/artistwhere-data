@@ -1,0 +1,27 @@
+{
+  "id": "artist_9b8cbe65-8cba-45b4-bbf0-5bca6545fa5c",
+  "name": "台日友好Vtuber企画",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/rettsuma",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@rettsuma",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rettsuma",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

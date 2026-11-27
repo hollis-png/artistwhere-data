@@ -1,0 +1,28 @@
+{
+  "id": "artist_21770b87-8390-4e6c-a75a-74452c16a5fe",
+  "name": "Mon夢",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/monpink.mon",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/monpink_mon/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/monpink_mon",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

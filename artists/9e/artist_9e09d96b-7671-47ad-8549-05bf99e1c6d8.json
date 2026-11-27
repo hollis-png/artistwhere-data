@@ -1,0 +1,15 @@
+{
+  "id": "artist_9e09d96b-7671-47ad-8549-05bf99e1c6d8",
+  "name": "女巫寶盒",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/wwisbox/?locale=nl_BE",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

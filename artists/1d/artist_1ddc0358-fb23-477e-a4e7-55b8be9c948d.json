@@ -1,0 +1,19 @@
+{
+  "id": "artist_1ddc0358-fb23-477e-a4e7-55b8be9c948d",
+  "name": "東方project文文新聞資訊部",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E6%9D%B1%E6%96%B9project-%E6%96%87%E6%96%87%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A%E9%83%A8-61554006466732/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

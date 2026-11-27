@@ -1,0 +1,41 @@
+{
+  "id": "artist_d2a0c2f4-0337-4e7a-9321-0ae2146713d2",
+  "name": "FOODpenguin",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/tsenp.shuju/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/14223271",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yaku_joan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yaku_joan1818",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://yakupenguin.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    }
+  ]
+}

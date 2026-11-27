@@ -1,0 +1,17 @@
+{
+  "id": "artist_1e83b1b6-e158-4a74-abd8-30dbb4aa4bef",
+  "name": "Good Chemistry",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/C_goodchemistry",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

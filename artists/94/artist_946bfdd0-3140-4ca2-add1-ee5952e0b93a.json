@@ -1,0 +1,21 @@
+{
+  "id": "artist_946bfdd0-3140-4ca2-add1-ee5952e0b93a",
+  "name": "貓晏的小舖",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063824298824",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

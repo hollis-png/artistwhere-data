@@ -1,0 +1,32 @@
+{
+  "id": "artist_3ea90051-8f57-4de1-b9a5-ad64726b657d",
+  "name": "小町牧場",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://pont.co/u/nenecomachi",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/comacomachi3/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@nenecomachi",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nmc008es",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

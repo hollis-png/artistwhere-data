@@ -1,0 +1,30 @@
+{
+  "id": "artist_3df15162-a819-4ff9-9fee-bc74f9b34906",
+  "name": "猫犬屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://medium.com/@albertc0303/about",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/31471454",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/AlbertC67277889",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

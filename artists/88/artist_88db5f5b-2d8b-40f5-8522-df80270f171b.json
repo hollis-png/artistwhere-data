@@ -1,0 +1,55 @@
+{
+  "id": "artist_88db5f5b-2d8b-40f5-8522-df80270f171b",
+  "name": "小雪Yukichan",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/XYfJdxXKPD",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/yukichan11025200",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://p.ecpay.com.tw/C043450",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/@yasetsu1314520/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yukichan_vtuber_ch/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/hosinoyasetsu?lang=zh-tw",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCQymE4njJ-t9oahwX9-iC8w",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Yukichan1102",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

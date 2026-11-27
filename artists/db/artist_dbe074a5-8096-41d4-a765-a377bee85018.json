@@ -1,0 +1,18 @@
+{
+  "id": "artist_dbe074a5-8096-41d4-a765-a377bee85018",
+  "name": "甜品製造所",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/liu.tong.xue.241219/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

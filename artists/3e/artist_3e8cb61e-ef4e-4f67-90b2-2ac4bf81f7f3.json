@@ -1,0 +1,70 @@
+{
+  "id": "artist_3e8cb61e-ef4e-4f67-90b2-2ac4bf81f7f3",
+  "name": "今天不想畫",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/yuchianart",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.artstation.com/yuchianart",
+      "platform": "ArtStation",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.deviantart.com/yuchianart",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/DC002studio/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/YuchianArt/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yuchian_yu71/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6658523",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Eejonne",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@yuchianart6492",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yuchianart",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://yuchianart.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

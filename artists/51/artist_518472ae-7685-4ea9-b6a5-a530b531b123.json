@@ -1,0 +1,44 @@
+{
+  "id": "artist_518472ae-7685-4ea9-b6a5-a530b531b123",
+  "name": "尼腓工作室",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19",
+    "PF45",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/XNtPpaHtyt",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://nephidog.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Nephi.GD",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/26499900",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Nephi_jp",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

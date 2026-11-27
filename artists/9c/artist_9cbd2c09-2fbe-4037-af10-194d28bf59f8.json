@@ -1,0 +1,23 @@
+{
+  "id": "artist_9cbd2c09-2fbe-4037-af10-194d28bf59f8",
+  "name": "長庚大學漫研社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/CGU.ACCG/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/animix.cgu",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

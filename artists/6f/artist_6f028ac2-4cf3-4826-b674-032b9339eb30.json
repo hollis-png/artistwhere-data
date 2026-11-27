@@ -1,0 +1,20 @@
+{
+  "id": "artist_6f028ac2-4cf3-4826-b674-032b9339eb30",
+  "name": "一襄橘子",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ms.siang1999/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yisiang.juzi_/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

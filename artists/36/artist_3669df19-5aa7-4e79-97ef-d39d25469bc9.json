@@ -1,0 +1,17 @@
+{
+  "id": "artist_3669df19-5aa7-4e79-97ef-d39d25469bc9",
+  "name": "動物押花",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.plurk.com/summerbonekiara",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

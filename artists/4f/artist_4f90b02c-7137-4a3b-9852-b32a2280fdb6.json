@@ -1,0 +1,53 @@
+{
+  "id": "artist_4f90b02c-7137-4a3b-9852-b32a2280fdb6",
+  "name": "晴靄(尾毛)",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://ameart.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive",
+      "displayName": "晴靄"
+    },
+    {
+      "url": "https://linktr.ee/ameart22",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ameart22",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/41444763",
+      "platform": "Pixiv",
+      "status": "alive",
+      "displayName": "晴靄"
+    },
+    {
+      "url": "https://x.com/ameart22",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ameart_2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ameart_sub",
+      "platform": "Twitter (X)",
+      "status": "alive",
+      "displayName": "Ame🔞"
+    }
+  ]
+}

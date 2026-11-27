@@ -1,0 +1,44 @@
+{
+  "id": "artist_ffdc4583-3226-435c-9da0-c31414f53945",
+  "name": "吃餅進ジーン",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/eatsomecookie",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/eat_some_cookie",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100014224158695",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/eat_some_cookie",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/29630131",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@eat_some_cookie",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

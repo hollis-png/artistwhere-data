@@ -1,0 +1,32 @@
+{
+  "id": "artist_20a58245-b557-4ba3-8503-9832288aea11",
+  "name": "超開星STARRR",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://line.me/R/ti/p/@048auauz?oat_content=url&ts=01041430",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/flaming_starrr",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/PainnnCanDraw/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/flaming_starrr/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

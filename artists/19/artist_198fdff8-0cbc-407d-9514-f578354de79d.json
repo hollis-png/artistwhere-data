@@ -1,0 +1,17 @@
+{
+  "id": "artist_198fdff8-0cbc-407d-9514-f578354de79d",
+  "name": "旋轉馬鈴薯",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/seemoonks",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

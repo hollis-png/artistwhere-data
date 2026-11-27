@@ -1,0 +1,47 @@
+{
+  "id": "artist_64417d96-b95a-486a-800e-c9535bac6cfa",
+  "name": "Yukari",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/yukari0606",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.opay.tw/Broadcaster/Donate/5B5ED037853C0ABAB05708B51D6DC654",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/yukari06061",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/YuKaRiFC",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/bjyxszd_love/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/yukari06",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/yukari0606",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

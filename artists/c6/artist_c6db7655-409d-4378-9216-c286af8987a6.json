@@ -1,0 +1,38 @@
+{
+  "id": "artist_c6db7655-409d-4378-9216-c286af8987a6",
+  "name": "Pupu 堂",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://fanme.link/@azupupu1005",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100061203458688&ref=_ig_profile_ac",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/idol__1005/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@idol__1005",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/idol__1005",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

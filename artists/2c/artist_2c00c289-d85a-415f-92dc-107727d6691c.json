@@ -1,0 +1,29 @@
+{
+  "id": "artist_2c00c289-d85a-415f-92dc-107727d6691c",
+  "name": "龍龍的畫畫倉庫",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Drasdr7513/media",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100037840994289",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/22563791",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

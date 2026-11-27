@@ -1,0 +1,25 @@
+{
+  "id": "artist_8821f2ab-d55c-4649-a1ad-c9f090196451",
+  "name": "菇菇の王様",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/3145569",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kinoking",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

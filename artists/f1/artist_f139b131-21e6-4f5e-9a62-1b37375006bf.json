@@ -1,0 +1,18 @@
+{
+  "id": "artist_f139b131-21e6-4f5e-9a62-1b37375006bf",
+  "name": "羽星吃星星",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://m.facebook.com/p/%E7%BE%BD%E6%98%9F%E5%90%83%E6%98%9F%E6%98%9F-%CF%89%CB%8B-100063735879249/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

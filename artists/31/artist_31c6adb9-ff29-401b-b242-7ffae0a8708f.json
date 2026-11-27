@@ -1,0 +1,18 @@
+{
+  "id": "artist_31c6adb9-ff29-401b-b242-7ffae0a8708f",
+  "name": "主辦攤位",
+  "types": [],
+  "events": [],
+  "accounts": [
+    {
+      "url": "https://www.f-2.com.tw/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ffrontier",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

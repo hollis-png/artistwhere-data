@@ -1,0 +1,18 @@
+{
+  "id": "artist_b7ae3410-ba4c-436b-b413-e00ca1123ba5",
+  "name": "清華大學光畫社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/NTHUACGclub2.0/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

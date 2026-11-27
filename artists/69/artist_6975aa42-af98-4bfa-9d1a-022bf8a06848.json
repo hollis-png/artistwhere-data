@@ -1,0 +1,55 @@
+{
+  "id": "artist_6975aa42-af98-4bfa-9d1a-022bf8a06848",
+  "name": "黑翼冰嵐",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/hyolan.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/hyolan",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/blackwing.kurochian",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/blackwingbinlan",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kokuyoku_hyolan/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11465007",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/kokuyoku_hyolan/about",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@%E9%BB%91%E7%BF%BC%E5%86%B0%E5%B5%90Vtuber",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Kokuyoku_Hyolan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

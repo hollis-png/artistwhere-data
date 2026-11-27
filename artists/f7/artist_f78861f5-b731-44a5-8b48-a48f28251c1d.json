@@ -1,0 +1,27 @@
+{
+  "id": "artist_f78861f5-b731-44a5-8b48-a48f28251c1d",
+  "name": "綠錐",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100080676961776",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/jichun_ouo",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/jichun_ouo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

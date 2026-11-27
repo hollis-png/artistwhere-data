@@ -1,0 +1,36 @@
+{
+  "id": "artist_34a3d8b0-64a4-48aa-8f93-0206a5866918",
+  "name": "EMO個人",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/ricemo30",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/emo3m",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1444298",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ricemoe",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

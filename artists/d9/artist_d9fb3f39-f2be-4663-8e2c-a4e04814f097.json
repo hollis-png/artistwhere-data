@@ -1,0 +1,15 @@
+{
+  "id": "artist_d9fb3f39-f2be-4663-8e2c-a4e04814f097",
+  "name": "Kashiwa ArtWorks",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/TLR.Kashiwa/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "artist_6ee77883-4357-44b9-bfae-bf11ee17ae54",
+  "name": "木吉高機動型",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/JOHNJOHNW23",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/johnjohnw23/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11816962",
+      "platform": "Pixiv",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.plurk.com/JOHNJOHNW",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

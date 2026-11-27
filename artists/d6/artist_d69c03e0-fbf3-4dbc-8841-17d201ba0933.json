@@ -1,0 +1,22 @@
+{
+  "id": "artist_d69c03e0-fbf3-4dbc-8841-17d201ba0933",
+  "name": "猫茶喫茶",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/nekocha0527/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/73439734",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

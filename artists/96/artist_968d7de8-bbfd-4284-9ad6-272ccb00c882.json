@@ -1,0 +1,37 @@
+{
+  "id": "artist_968d7de8-bbfd-4284-9ad6-272ccb00c882",
+  "name": "JE",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/KuguiEMA",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/KuguiEMA/?locale=zh_CN",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ema_qvq",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8990183",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

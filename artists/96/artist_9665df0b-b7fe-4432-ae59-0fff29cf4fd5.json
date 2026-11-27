@@ -1,0 +1,46 @@
+{
+  "id": "artist_9665df0b-b7fe-4432-ae59-0fff29cf4fd5",
+  "name": "菟吉珍珠販售店",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://m.twitch.tv/qianqian",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/tokkieee_qian",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://wall.gamer.com.tw/redir.php?userId=d91023217",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100009248503510",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100092326037120",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/Syounoo",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

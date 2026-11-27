@@ -1,0 +1,39 @@
+{
+  "id": "artist_ac6989d3-e640-4e6e-bc0a-99e5af054145",
+  "name": "彼岸花園特產品",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/MonLuoSha",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/monluosha/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/monluosha",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UChkXzVT3ejzUVO9V7gUvc5w",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/MonLuoSha",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

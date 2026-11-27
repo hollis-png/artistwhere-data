@@ -1,0 +1,37 @@
+{
+  "id": "artist_3948a5c8-9a21-479e-b0d7-3e78c7a7c952",
+  "name": "厭世球球蝦",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=ms000000",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://pixiv.me/qazedcsteve",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/qazedcsteve",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/DisgustShrimpBall/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/smbo_star/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

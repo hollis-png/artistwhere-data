@@ -1,0 +1,20 @@
+{
+  "id": "artist_68692626-f117-469d-9a19-3545423ae430",
+  "name": "Yutakako 裕子",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yutakako26/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCfay61wwH9qBcASaLf-nd6Q",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

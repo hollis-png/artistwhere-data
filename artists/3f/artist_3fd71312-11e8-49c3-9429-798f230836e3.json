@@ -1,0 +1,25 @@
+{
+  "id": "artist_3fd71312-11e8-49c3-9429-798f230836e3",
+  "name": "丘比重工",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/share/1Bki4rdRVr/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/QBHeavyindustry",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

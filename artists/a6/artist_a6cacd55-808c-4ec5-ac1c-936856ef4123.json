@@ -1,0 +1,22 @@
+{
+  "id": "artist_a6cacd55-808c-4ec5-ac1c-936856ef4123",
+  "name": "Firstspear",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "http://firstspear.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/takeshi_nogami",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

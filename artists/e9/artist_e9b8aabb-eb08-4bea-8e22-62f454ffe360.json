@@ -1,0 +1,19 @@
+{
+  "id": "artist_e9b8aabb-eb08-4bea-8e22-62f454ffe360",
+  "name": "Plumesyoukai",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://dlcomic.com/circles/403",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

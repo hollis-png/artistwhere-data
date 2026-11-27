@@ -1,0 +1,20 @@
+{
+  "id": "artist_352962d9-6624-4408-8b3c-7dd6740986ae",
+  "name": "藝吟花園",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/hshshs20160503",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

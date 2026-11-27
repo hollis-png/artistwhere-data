@@ -1,0 +1,48 @@
+{
+  "id": "artist_ad64510b-c0fb-4903-8398-b0c2c4945d0f",
+  "name": "Vtuber 白音エルル",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/hakuneeruru.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/WGUZUyCHTh",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?&owner=hakuneeruru",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100084867803528",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/hakuneeruru",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC7M9zsObozmu0BBoDRIAkcQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hakuneeruru",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

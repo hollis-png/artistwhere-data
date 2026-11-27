@@ -1,0 +1,21 @@
+{
+  "id": "artist_9550337c-6b07-4575-a0ff-1294aab8f949",
+  "name": "雙夏",
+  "types": [
+    "artist",
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/PatonaNatsu/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

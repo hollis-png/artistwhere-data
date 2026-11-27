@@ -1,0 +1,23 @@
+{
+  "id": "artist_d7f7d518-fb75-4cb9-b2e7-f82a08ec2b2f",
+  "name": "Miaosugoi",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Miaosugoi",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/miaosugoi/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

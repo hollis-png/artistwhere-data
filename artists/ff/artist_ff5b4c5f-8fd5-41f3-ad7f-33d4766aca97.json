@@ -1,0 +1,39 @@
+{
+  "id": "artist_ff5b4c5f-8fd5-41f3-ad7f-33d4766aca97",
+  "name": "TE artwork",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/EDdCfHUNde",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/TEartTE/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/283076",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/tenmoom",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/TEartTE",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

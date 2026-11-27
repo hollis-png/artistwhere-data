@@ -1,0 +1,28 @@
+{
+  "id": "artist_5538aa97-67b3-4372-b67a-3856593977fa",
+  "name": "A-Brei Atelier",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ABreiAtelier/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/a_brei_atelier",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/u/A_Brei_Atelier",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

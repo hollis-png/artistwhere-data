@@ -1,0 +1,22 @@
+{
+  "id": "artist_a1c610e6-59f1-4396-863c-9579995c4bbc",
+  "name": "御饅頭帝国の逆襲",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/45930959",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Manjuukosan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_b7ce9fec-9495-4966-a417-19df67905d5b",
+  "name": "NAK",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://nak.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/NakatokungV2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

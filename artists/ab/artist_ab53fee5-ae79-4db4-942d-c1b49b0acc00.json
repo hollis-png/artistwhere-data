@@ -1,0 +1,30 @@
+{
+  "id": "artist_ab53fee5-ae79-4db4-942d-c1b49b0acc00",
+  "name": "卡卡修的雜物工房",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/kasyo1128.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://kasyo1128.blogspot.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Kasyo",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Kasyo1128",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

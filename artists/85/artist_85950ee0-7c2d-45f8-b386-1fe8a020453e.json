@@ -1,0 +1,33 @@
+{
+  "id": "artist_85950ee0-7c2d-45f8-b386-1fe8a020453e",
+  "name": "taimini棉花娃衣",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://reurl.cc/5dGRgR",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://reurl.cc/Yq9374",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://reurl.cc/xvO3xE",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/taimini865",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "artist_c06a72d5-3221-4a37-8895-c128c7f86538",
+  "name": "秋山-AkiYama",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Aki_Yama73",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/Aki-Yama-100023401803009/?locale=fi_FI",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100023401803009",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8057905",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

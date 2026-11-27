@@ -1,0 +1,15 @@
+{
+  "id": "artist_53034d79-bd38-4d9f-b158-68103b5ea505",
+  "name": "水母魚鴨子",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/plant.duck/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

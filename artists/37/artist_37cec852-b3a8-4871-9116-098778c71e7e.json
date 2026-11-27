@@ -1,0 +1,62 @@
+{
+  "id": "artist_37cec852-b3a8-4871-9116-098778c71e7e",
+  "name": "一虎虎虎",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/yihu15.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/yihu_15",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.behance.net/gallery/176740105/YIHU-2",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/yihu15/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yihu_15/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11199704",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@yihu_15",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.tiktok.com/@yihu_15",
+      "platform": "TikTok",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/yihu15",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yihu_15",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

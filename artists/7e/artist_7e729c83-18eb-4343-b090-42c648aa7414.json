@@ -1,0 +1,20 @@
+{
+  "id": "artist_7e729c83-18eb-4343-b090-42c648aa7414",
+  "name": "もちんち",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/kireina_mochi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5835340",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

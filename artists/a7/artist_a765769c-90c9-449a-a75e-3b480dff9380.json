@@ -1,0 +1,29 @@
+{
+  "id": "artist_a765769c-90c9-449a-a75e-3b480dff9380",
+  "name": "町貓貓町",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Dincattw",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2595184",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/DINCAT_Pixiv",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

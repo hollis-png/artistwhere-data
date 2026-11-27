@@ -1,0 +1,43 @@
+{
+  "id": "artist_bc83c48b-e325-4bfa-84ca-47e2c00d47ef",
+  "name": "瑞鴛 RUYAN",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://plurk.com/qazqaz95123",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Ru_Yan95123",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100010327230621",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ru.yan.614935",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/24469808",
+      "platform": "Pixiv",
+      "status": "alive",
+      "displayName": "Ruyan 瑞鴛"
+    },
+    {
+      "url": "https://x.com/Ruyan_95123",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

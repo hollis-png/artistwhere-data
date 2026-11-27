@@ -1,0 +1,26 @@
+{
+  "id": "artist_60a1e7b7-d316-46a2-a5d6-86542cec69c8",
+  "name": "塔可喵喵教",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/TakoNekoSama/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/takoneko_owo",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

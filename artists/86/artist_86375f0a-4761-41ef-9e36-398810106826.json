@@ -1,0 +1,28 @@
+{
+  "id": "artist_86375f0a-4761-41ef-9e36-398810106826",
+  "name": "山田商會",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.dmm.co.jp/en/age_check/=/?rurl=DRVESRUMTh1PEkYWV1sLGQIKGFxAFgBaTQZYE1gMWR9ITlRcElcIXhdYHltaUltTPlQDBQgMXBZdBloLQA__",
+      "platform": "DMM",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/30209302",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yamadasyoukai",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

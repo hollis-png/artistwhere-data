@@ -1,0 +1,21 @@
+{
+  "id": "artist_38eb1021-bb6d-4fd8-a2f6-6155233ef1fa",
+  "name": "G&K modeling",
+  "types": [
+    "craft",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/TBR.Lab/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "artist_f5ef7c99-0c93-47ce-a24d-3bb44ec1279b",
+  "name": "Sweet Avenue",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/284096",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ninamorieri",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

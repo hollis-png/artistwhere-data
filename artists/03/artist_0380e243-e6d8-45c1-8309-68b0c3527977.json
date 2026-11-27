@@ -1,0 +1,18 @@
+{
+  "id": "artist_0380e243-e6d8-45c1-8309-68b0c3527977",
+  "name": "HoR",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/horuhara",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "artist_a10fed9f-3da8-4583-847f-8bb8231b4a26",
+  "name": "櫻野露",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.wishstudio.com.tw/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Wishswing",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/207057",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/MY_LOKI",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/c/%E6%AB%BB%E9%87%8E%E9%9C%B2/about",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sakuranoruu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

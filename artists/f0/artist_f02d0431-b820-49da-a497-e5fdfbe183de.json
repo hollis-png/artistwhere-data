@@ -1,0 +1,22 @@
+{
+  "id": "artist_f02d0431-b820-49da-a497-e5fdfbe183de",
+  "name": "空洞騎士屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/jj110ohn",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Meowdoes",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

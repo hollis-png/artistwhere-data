@@ -1,0 +1,20 @@
+{
+  "id": "artist_dd84ba2a-8f81-4f09-8753-1723e722e87b",
+  "name": "浮浮老師",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100048490916465",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

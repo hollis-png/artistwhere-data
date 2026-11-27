@@ -1,0 +1,17 @@
+{
+  "id": "artist_23813f64-ee3c-40a5-85dc-81fda7f7870f",
+  "name": "織夢娃園",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/dream_stitch_dolls",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

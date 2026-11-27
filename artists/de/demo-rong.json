@@ -1,0 +1,129 @@
+{
+  "id": "demo-rong",
+  "name": "榮初涵",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://clibo.tw/users/6nlvct",
+      "platform": "Clibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/rongchuhan",
+      "platform": "Discord",
+      "status": "alive",
+      "displayName": "Join the 𝓡𝓸𝓷𝓰𝓒𝓱𝓾𝓱𝓪𝓷♥榮初涵 Discord Server!"
+    },
+    {
+      "url": "https://dlsite.com/maniax/circle/profile/=/maker_id/RG01005809.html",
+      "platform": "DLsite",
+      "status": "alive"
+    },
+    {
+      "url": "https://dmm.co.jp/dc/doujin/-/detail/=/cid=d_668923",
+      "platform": "DMM",
+      "status": "alive"
+    },
+    {
+      "url": "https://ganknow.com/rongchuhan",
+      "platform": "Ganknow",
+      "status": "alive",
+      "displayName": "RongChuhan"
+    },
+    {
+      "url": "https://lit.link/LLGlailing",
+      "platform": "Lit.link",
+      "status": "alive",
+      "displayName": "榮初涵 💊RongChuhan lit.link"
+    },
+    {
+      "url": "https://llg.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://myacg.com.tw/seller_market.php?seller=583333",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://nekolive.net/rongchuhan",
+      "platform": "NekoLive",
+      "status": "alive",
+      "displayName": "榮初涵"
+    },
+    {
+      "url": "https://pixiv.net/users/15560822",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://rongchuhan.booth.pm",
+      "platform": "Booth",
+      "status": "alive",
+      "displayName": "えいしょかん"
+    },
+    {
+      "url": "https://twitch.tv/rongchuhan",
+      "platform": "Twitch",
+      "status": "alive",
+      "displayName": "榮初涵"
+    },
+    {
+      "url": "https://www.facebook.com/LLGlailing",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "RongChuhan榮初涵"
+    },
+    {
+      "url": "https://www.instagram.com/llg_lailing/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Eishokan0626",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/LLG_lailing",
+      "platform": "Twitter (X)",
+      "status": "alive",
+      "displayName": "LLG 小號"
+    },
+    {
+      "url": "https://x.com/LLG_lailing18",
+      "platform": "Twitter (X)",
+      "status": "alive",
+      "displayName": "榮初涵"
+    },
+    {
+      "url": "https://youtube.com/@RongChuhan",
+      "platform": "YouTube",
+      "status": "alive",
+      "displayName": "榮初涵 💊 RongChuhan"
+    },
+    {
+      "url": "https://youtube.com/@rongchuhan_ASMR",
+      "platform": "YouTube",
+      "status": "alive",
+      "displayName": "榮初涵💊ASMR"
+    },
+    {
+      "url": "https://youtube.com/rongchuhan",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

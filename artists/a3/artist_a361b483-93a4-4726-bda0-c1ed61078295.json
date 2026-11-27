@@ -1,0 +1,17 @@
+{
+  "id": "artist_a361b483-93a4-4726-bda0-c1ed61078295",
+  "name": "DD的SiD",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/sid_1018",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

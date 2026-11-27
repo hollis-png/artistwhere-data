@@ -1,0 +1,70 @@
+{
+  "id": "artist_32e68f21-d8b1-47e7-9020-24fb39b5932d",
+  "name": "WAGA illustration",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/wagaillustration.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/nPmvDdbGSa",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/WAGAIllustration",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/wagaillustration/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/waga.1115/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/am_rebirth",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/waga1115",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.waga-illustration.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@wagaillustration",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCs5TMNQ0fWvYypKL3PG-vSg",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/wagaillustrator",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

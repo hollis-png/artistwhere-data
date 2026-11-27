@@ -1,0 +1,21 @@
+{
+  "id": "artist_c1928a9b-ab26-49c1-b89b-e1adc92d5ad9",
+  "name": "傑森",
+  "types": [],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/jason.tsai.109902",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/j450n777",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

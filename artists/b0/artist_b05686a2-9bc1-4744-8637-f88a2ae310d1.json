@@ -1,0 +1,37 @@
+{
+  "id": "artist_b05686a2-9bc1-4744-8637-f88a2ae310d1",
+  "name": "景美仙姬巖",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/kitsunefukka",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/fukacea4/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/187424",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/acea4",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

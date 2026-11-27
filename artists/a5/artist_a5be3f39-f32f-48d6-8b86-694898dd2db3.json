@@ -1,0 +1,45 @@
+{
+  "id": "artist_a5be3f39-f32f-48d6-8b86-694898dd2db3",
+  "name": "竹間亭",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://aotakema.mystrikingly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://clusters.tw/profile/398B415E-15CF-464E-BE0E-E3C34A19BF51/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/lensuge02",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/61550937450143/photos/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/440626",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Takema_Ao",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

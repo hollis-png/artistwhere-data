@@ -1,0 +1,39 @@
+{
+  "id": "artist_8815d564-0a42-4f3b-bb02-17b374174f6f",
+  "name": "Ola Aphrodite",
+  "types": [
+    "coser",
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bit.ly/m/OlaAphrodite",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/OlaAphrodite/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/olaaphrodite/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@olaaphrodite",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@olaaphrodite",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

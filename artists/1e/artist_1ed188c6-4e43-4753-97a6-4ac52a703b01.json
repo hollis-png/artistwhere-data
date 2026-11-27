@@ -1,0 +1,28 @@
+{
+  "id": "artist_1ed188c6-4e43-4753-97a6-4ac52a703b01",
+  "name": "天天努力向上",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/tenchan1031",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/TENTAKAHASHI48",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Tenchan_1031",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "artist_10f2310f-0395-4cf5-a271-a037b5d0cdf2",
+  "name": "海老玉",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100002919857683",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/53025594",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/AHedtra",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

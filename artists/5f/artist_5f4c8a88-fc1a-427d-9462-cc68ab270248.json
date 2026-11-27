@@ -1,0 +1,20 @@
+{
+  "id": "artist_5f4c8a88-fc1a-427d-9462-cc68ab270248",
+  "name": "ODA泊地",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/canaancanaan",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Joey2902",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

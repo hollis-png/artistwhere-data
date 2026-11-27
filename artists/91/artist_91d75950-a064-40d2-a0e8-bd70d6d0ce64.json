@@ -1,0 +1,32 @@
+{
+  "id": "artist_91d75950-a064-40d2-a0e8-bd70d6d0ce64",
+  "name": "N’s Cosplay",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/nc__tw",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/nnsctw/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nc__tw/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

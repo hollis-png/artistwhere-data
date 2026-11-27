@@ -1,0 +1,33 @@
+{
+  "id": "artist_bf4b0b4c-ad8b-4c3a-b3a8-fdefcce733df",
+  "name": "奇譚異書齋",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/innxuan.jr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1073303/novels",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/innxuan0322",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

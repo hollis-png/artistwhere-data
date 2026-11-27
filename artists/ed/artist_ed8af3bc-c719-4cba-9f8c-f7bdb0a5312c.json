@@ -1,0 +1,32 @@
+{
+  "id": "artist_ed8af3bc-c719-4cba-9f8c-f7bdb0a5312c",
+  "name": "小夜魔法學院",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/yoru0822",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Yoru_TWcosplay",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/yoruimoko.cos/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yoru0822/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

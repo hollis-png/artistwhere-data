@@ -1,0 +1,29 @@
+{
+  "id": "artist_b8abeef3-136b-4074-85af-83d3d8ac3898",
+  "name": "Tee",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://fanme.link/@teeee_7777",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/Tee%E5%AD%90-61556803694801/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/teeee_7777/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "artist_d76edd62-05ce-44b3-b534-84a29d0a0179",
+  "name": "ABA個人",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/ChenAbabar",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

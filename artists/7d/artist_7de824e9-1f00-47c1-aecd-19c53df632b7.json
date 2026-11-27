@@ -1,0 +1,22 @@
+{
+  "id": "artist_7de824e9-1f00-47c1-aecd-19c53df632b7",
+  "name": "NUNA 姊語",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/nunajieyu2025/?ref=PROFILE_EDIT_xav_ig_profile_page_web#",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nuna.jieyu/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "artist_7c4863e5-d74e-4ca6-bf4b-0a6895347ac1",
+  "name": "あぶら畑(ATOM)グランテッド",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/majimaTTR",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://note.com/tetsu__ttr",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://tetsu.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/16798951",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@leon_marujera",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/tetsu__ttr",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCKWse1dIGE5TftxUhok0Tiw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tetsu__ttr",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

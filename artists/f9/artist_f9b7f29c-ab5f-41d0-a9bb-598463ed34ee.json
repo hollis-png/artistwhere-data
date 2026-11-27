@@ -1,0 +1,29 @@
+{
+  "id": "artist_f9b7f29c-ab5f-41d0-a9bb-598463ed34ee",
+  "name": "貓屋樂園",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/nekoyaliu",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/16785244",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nekoyaliu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

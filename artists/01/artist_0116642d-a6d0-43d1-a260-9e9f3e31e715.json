@@ -1,0 +1,35 @@
+{
+  "id": "artist_0116642d-a6d0-43d1-a260-9e9f3e31e715",
+  "name": "九尾貓desu",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/kyukon",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kyukonneko/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/19583491",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/NtcMuffet",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

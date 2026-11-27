@@ -1,0 +1,18 @@
+{
+  "id": "artist_e8543825-76bd-4a40-b864-596f6a20e405",
+  "name": "狂想風珀",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/www.franck.com.tw/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

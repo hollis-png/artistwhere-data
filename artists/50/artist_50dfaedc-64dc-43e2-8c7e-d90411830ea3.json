@@ -1,0 +1,37 @@
+{
+  "id": "artist_50dfaedc-64dc-43e2-8c7e-d90411830ea3",
+  "name": "MOEYU",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.pixiv.net/users/2666581",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://moeyu.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/lovelymoeyu/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/lovelymoeyu/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/moeyu2013",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

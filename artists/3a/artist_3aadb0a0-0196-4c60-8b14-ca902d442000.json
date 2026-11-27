@@ -1,0 +1,35 @@
+{
+  "id": "artist_3aadb0a0-0196-4c60-8b14-ca902d442000",
+  "name": "來碗貓",
+  "types": [],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=r00759393",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100075724856658",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hongtu3/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2943659",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/EUcDCWKKwzG3HL4",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

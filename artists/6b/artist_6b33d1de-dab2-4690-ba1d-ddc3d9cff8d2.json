@@ -1,0 +1,25 @@
+{
+  "id": "artist_6b33d1de-dab2-4690-ba1d-ddc3d9cff8d2",
+  "name": "しゅにち",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/7847900",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/syunichill_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

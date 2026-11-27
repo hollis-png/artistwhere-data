@@ -1,0 +1,17 @@
+{
+  "id": "artist_4899f5df-41b4-4bd0-8466-f6b27b39c181",
+  "name": "Kouchiku卡卡",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/0AF32CBC-A251-4752-8195-191A90D3CF77/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    }
+  ]
+}

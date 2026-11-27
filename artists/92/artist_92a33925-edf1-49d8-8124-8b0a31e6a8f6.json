@@ -1,0 +1,62 @@
+{
+  "id": "artist_92a33925-edf1-49d8-8124-8b0a31e6a8f6",
+  "name": "丸杏亭",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://anzu0130.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://ci-en.dlsite.com/creator/37799",
+      "platform": "Ci-en",
+      "status": "alive"
+    },
+    {
+      "url": "https://marucoanzu-dot.github.io/maruco-portfolio-20260706-013011/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://piku.page/@maruco",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/anzu_maruco/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3159439",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.tiktok.com/@anzu_maruco",
+      "platform": "TikTok",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@anzu_maruco",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/anzu0130",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/marrrr_co",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "artist_be4986a1-4e01-4523-830f-4181560daae9",
+  "name": "柔らか青豆の温サラダ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://skeb.jp/@pipe_field",
+      "platform": "Skeb",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/pipe_field",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

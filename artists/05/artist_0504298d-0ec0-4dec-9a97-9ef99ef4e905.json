@@ -1,0 +1,41 @@
+{
+  "id": "artist_0504298d-0ec0-4dec-9a97-9ef99ef4e905",
+  "name": "ISANAquarium",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/KPuPQy9BUC",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/isana.umikure",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/isana.wu.migure",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/syh3iua83",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/syh3iua83",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

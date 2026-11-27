@@ -1,0 +1,45 @@
+{
+  "id": "artist_151b81aa-86de-4e5d-848f-c23f11e1521d",
+  "name": "Akineko秋貓",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://aa2233a.wixsite.com/akineko",
+      "platform": "Link",
+      "status": "alive",
+      "displayName": "akineko"
+    },
+    {
+      "url": "https://aa2233a.wixsite.com/akineko/commission",
+      "platform": "Link",
+      "status": "alive",
+      "displayName": "commission"
+    },
+    {
+      "url": "https://patreon.com/AkJBaoBao",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://plurk.com/aa2233a",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://shopee.tw/aa2233a",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/aa2233aa/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "秋貓-Akineko"
+    }
+  ]
+}

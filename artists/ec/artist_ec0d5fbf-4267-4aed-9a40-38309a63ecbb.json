@@ -1,0 +1,39 @@
+{
+  "id": "artist_ec0d5fbf-4267-4aed-9a40-38309a63ecbb",
+  "name": "次文化夾縫",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=dog841202",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/lalumeowmeowmeow/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3307500",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/lalu8412024655",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/lalu8412024655",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

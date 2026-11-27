@@ -1,0 +1,23 @@
+{
+  "id": "artist_a702bd90-abc7-45c9-9117-122e5534d31d",
+  "name": "虎屋和塔塔的神社大廳",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/channel/UCgWN4pwpwOmORhthFroc3Vg",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Toraya_Rei",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

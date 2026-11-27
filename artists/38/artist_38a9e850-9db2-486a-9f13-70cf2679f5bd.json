@@ -1,0 +1,37 @@
+{
+  "id": "artist_38a9e850-9db2-486a-9f13-70cf2679f5bd",
+  "name": "麒麟的快樂繪圖之家",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/ox032122",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hugh.lin.3",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/nohappy70",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ox032122",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

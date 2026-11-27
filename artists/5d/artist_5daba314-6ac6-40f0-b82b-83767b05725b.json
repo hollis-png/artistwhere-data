@@ -1,0 +1,32 @@
+{
+  "id": "artist_5daba314-6ac6-40f0-b82b-83767b05725b",
+  "name": "Rick's 3D列印",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://cults3d.com/en/users/Rick_Chang/3d-models",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/rick3dprint",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/people/Ricks-3D-print/61550644689092/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/HsinJuiChang1",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

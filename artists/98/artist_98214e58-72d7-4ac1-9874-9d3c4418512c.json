@@ -1,0 +1,18 @@
+{
+  "id": "artist_98214e58-72d7-4ac1-9874-9d3c4418512c",
+  "name": "Maenoo",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/5797700",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

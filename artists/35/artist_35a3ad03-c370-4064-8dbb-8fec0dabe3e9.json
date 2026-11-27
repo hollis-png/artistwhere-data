@@ -1,0 +1,58 @@
+{
+  "id": "artist_35a3ad03-c370-4064-8dbb-8fec0dabe3e9",
+  "name": "星夜蝶影",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/yui13p.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/yr8rFmG4kj",
+      "platform": "Discord",
+      "status": "dead"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?&owner=yui13p",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/SeisakuYui13P",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://seisakuyui13p.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/SeisakuYui13P/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61564397566651",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/65688983",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/13PYui",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

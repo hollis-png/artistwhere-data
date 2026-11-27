@@ -1,0 +1,61 @@
+{
+  "id": "artist_2f391012-83fe-48ba-b4e5-e1ff1df7133f",
+  "name": "奈米，伍玖",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://facebook.com/NaiMi0719/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://clibo.tw/users/JyZAYv",
+      "platform": "Clibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/59_orange_soda",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/NaiMi_CY",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/junliang.zhu.71",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/59_naimi/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8798651",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/naimi00147",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/aka_orange_soda",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "artist_26ffcbac-5213-4f52-9bab-ec47790d6e3a",
+  "name": "小空 Sora",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/konkon6927",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/konkon6927/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/konkon6927/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

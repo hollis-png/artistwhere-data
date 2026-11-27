@@ -1,0 +1,28 @@
+{
+  "id": "artist_929ff22a-1cd6-484a-8892-d07ea1456065",
+  "name": "筱望 SiuMong",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/siumong63/?ref=NONE_xav_ig_profile_page_web",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/siumong63/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/siumong63",
+      "platform": "Patreon",
+      "status": "alive"
+    }
+  ]
+}

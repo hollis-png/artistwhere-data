@@ -1,0 +1,17 @@
+{
+  "id": "artist_a1f06c72-a609-4808-b125-88ca7133aa0b",
+  "name": "BaoBy’s NEKO",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/baoby83",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_bacd7104-11b2-4ca9-a0cf-5861c44055ee",
+  "name": "今天肚子餓",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/jintianduzie/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kiri520",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

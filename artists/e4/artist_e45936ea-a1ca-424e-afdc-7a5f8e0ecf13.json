@@ -1,0 +1,23 @@
+{
+  "id": "artist_e45936ea-a1ca-424e-afdc-7a5f8e0ecf13",
+  "name": "璇の箱庭 XUAN BOX",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/xuanmuoartwork",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "璇の箱庭 XUAN BOX"
+    },
+    {
+      "url": "https://www.instagram.com/xuan_shuping",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

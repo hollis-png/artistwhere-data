@@ -1,0 +1,52 @@
+{
+  "id": "artist_7cbb9d37-0a16-4afa-9318-4aed9d106921",
+  "name": "《逐風追月》",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/E640D80F-A2D4-4854-B2B4-BE904A6FDF72/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://potofu.me/shirufido",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://shirufido.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://shirufido.wixsite.com/works",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3083175",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/shirufido",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/shirufido",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shirufido",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

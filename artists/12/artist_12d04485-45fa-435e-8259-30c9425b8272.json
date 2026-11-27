@@ -1,0 +1,27 @@
+{
+  "id": "artist_12d04485-45fa-435e-8259-30c9425b8272",
+  "name": "日田天領水溝水(仮)",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/allen.xie.337023/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/109120010/illustrations",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kagura_022",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

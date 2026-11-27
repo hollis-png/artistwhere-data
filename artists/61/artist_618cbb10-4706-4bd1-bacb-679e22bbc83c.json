@@ -1,0 +1,21 @@
+{
+  "id": "artist_618cbb10-4706-4bd1-bacb-679e22bbc83c",
+  "name": "棉",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/morlina_lilith",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

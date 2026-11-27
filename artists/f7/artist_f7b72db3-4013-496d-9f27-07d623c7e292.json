@@ -1,0 +1,39 @@
+{
+  "id": "artist_f7b72db3-4013-496d-9f27-07d623c7e292",
+  "name": "Shawn創作",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/shawn-20525.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/shawn_20525/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/shawn20525",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@shawn_20525",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Shawn_20525",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

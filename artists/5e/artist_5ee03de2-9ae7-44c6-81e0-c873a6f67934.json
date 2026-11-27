@@ -1,0 +1,25 @@
+{
+  "id": "artist_5ee03de2-9ae7-44c6-81e0-c873a6f67934",
+  "name": "♡彩姎的藏寶箱♡",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ayacosplaypage/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ayahi_cosplay/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ayacos0525",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

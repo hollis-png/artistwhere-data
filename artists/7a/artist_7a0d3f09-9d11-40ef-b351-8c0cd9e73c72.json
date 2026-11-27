@@ -1,0 +1,17 @@
+{
+  "id": "artist_7a0d3f09-9d11-40ef-b351-8c0cd9e73c72",
+  "name": "パコズ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/pacoz_comic",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

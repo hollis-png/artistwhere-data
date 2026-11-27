@@ -1,0 +1,27 @@
+{
+  "id": "artist_f62381c0-2e8d-48eb-8ca7-f459c4a20e95",
+  "name": "Asa",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/share/14ksHbGJcHi/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/10562136",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/aasaku7571",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

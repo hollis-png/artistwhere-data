@@ -1,0 +1,58 @@
+{
+  "id": "artist_df0dd0cf-0708-4dcf-aefe-727ebbe5d031",
+  "name": "SamoAgo",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://deerdonate.herokuapp.com/donation/SamoAgo",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/3QRmFgZUwz",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/a45274dc-16dd-4c69-8316-e02f2c6a75dd",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.twitch.tv/samoago?desktop-redirect=true",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61587067107042",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/samoago_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/samoago?lang=zh-tw",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@SamoAgoch",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Samo_Ago",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

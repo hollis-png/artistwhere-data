@@ -1,0 +1,20 @@
+{
+  "id": "artist_340a0567-1ea5-47cd-a2cb-e806eb699bcd",
+  "name": "魔角貨櫃屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61556042226849",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

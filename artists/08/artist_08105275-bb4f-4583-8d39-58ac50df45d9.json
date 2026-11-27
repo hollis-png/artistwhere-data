@@ -1,0 +1,35 @@
+{
+  "id": "artist_08105275-bb4f-4583-8d39-58ac50df45d9",
+  "name": "やみつきつなまよ！",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/nagai_mayo",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/nagai_mayo",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.twitch.tv/nagai_mayo/home",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/nagai_mayo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nagai.mayo/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

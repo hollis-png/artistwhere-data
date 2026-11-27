@@ -1,0 +1,30 @@
+{
+  "id": "artist_9e8da07d-6c74-45a2-a2ca-d3f9c632ac06",
+  "name": "MAkoriii",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/MAkoriii-100064519669334/?paipv=0&eav=AfZemm0jmBincS0eaoCozMr5lEA30Ph0lfWU2VSZcwZhO8QZewMl1Hi15uFVpbkjiXw&_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/makoriii3677/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/20538501",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

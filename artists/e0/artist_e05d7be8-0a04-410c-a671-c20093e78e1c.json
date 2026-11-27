@@ -1,0 +1,20 @@
+{
+  "id": "artist_e05d7be8-0a04-410c-a671-c20093e78e1c",
+  "name": "留守key",
+  "types": [],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://rusukey.blog.jp/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/russukey/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

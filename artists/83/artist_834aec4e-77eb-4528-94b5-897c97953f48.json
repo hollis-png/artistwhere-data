@@ -1,0 +1,17 @@
+{
+  "id": "artist_834aec4e-77eb-4528-94b5-897c97953f48",
+  "name": "Bear Lion Shop",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/bearlionshop/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

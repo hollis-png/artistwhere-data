@@ -1,0 +1,17 @@
+{
+  "id": "artist_35fee562-f35c-4f6e-bdcc-37ffe85cc22b",
+  "name": "蝶屋和猫",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://waneko.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    }
+  ]
+}

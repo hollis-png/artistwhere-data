@@ -1,0 +1,17 @@
+{
+  "id": "artist_2463b479-c033-4591-94b7-2659a537af05",
+  "name": "宇宙屋台",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/larry.lee.733",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

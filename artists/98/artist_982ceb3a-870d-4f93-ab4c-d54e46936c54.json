@@ -1,0 +1,29 @@
+{
+  "id": "artist_982ceb3a-870d-4f93-ab4c-d54e46936c54",
+  "name": "KUMAx石見三也",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://patreon.com/kuma_yanchi",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kumaxyanchi/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kuma.photography/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "artist_85760975-8f68-4994-9728-e314e5210a67",
+  "name": "夜觸人身",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/ryougi471",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/yetsubody",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2477233",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/lanceroteroot",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "artist_74f7cd30-7a81-481c-ac27-ca4e331be453",
+  "name": "路地裏同盟",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/rojiura1515",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

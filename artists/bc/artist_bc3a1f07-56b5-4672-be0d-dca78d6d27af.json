@@ -1,0 +1,39 @@
+{
+  "id": "artist_bc3a1f07-56b5-4672-be0d-dca78d6d27af",
+  "name": "Socotaku帝大社研宅學組",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/socotaku",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/socotaku",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/socotaku/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/socotaku",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.socotaku.org/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

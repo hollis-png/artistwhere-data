@@ -1,0 +1,28 @@
+{
+  "id": "artist_90f76a9a-5d57-44f8-87bc-fb4414d8f5dc",
+  "name": "餡子工房",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://ankopunyu.wixsite.com/site",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18093",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/anko1014",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

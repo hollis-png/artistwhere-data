@@ -1,0 +1,32 @@
+{
+  "id": "artist_7f2ac5d1-7c04-4577-ae48-5d2b9cc1b68a",
+  "name": "愛玉子",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/ai_yu_ko",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/Aiyuko",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Aiyuko1021",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Aiyukoanartist",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

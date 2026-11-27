@@ -1,0 +1,16 @@
+{
+  "id": "artist_793e9808-30dc-44ba-b129-9e0188d91842",
+  "name": "IRIS_In",
+  "types": [],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.threads.com/@qixiu_irisin",
+      "platform": "Threads",
+      "status": "alive",
+      "displayName": "IRIS"
+    }
+  ]
+}

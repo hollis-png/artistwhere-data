@@ -1,0 +1,43 @@
+{
+  "id": "artist_6067fe17-23a8-4a7c-8feb-018034277264",
+  "name": "博士還不能休息",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/maosuccc",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/delta.iv.2025",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/people/%E8%B2%93%E5%B0%8F%E6%A8%B9Maosu/100083322383475/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/maosu_ccc/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/100352162",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/maosu_ccc",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

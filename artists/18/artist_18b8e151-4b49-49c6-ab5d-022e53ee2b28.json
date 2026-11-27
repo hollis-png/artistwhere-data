@@ -1,0 +1,31 @@
+{
+  "id": "artist_18b8e151-4b49-49c6-ab5d-022e53ee2b28",
+  "name": "よねや",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/12378747",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Aimiuni",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hyouta_shumi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

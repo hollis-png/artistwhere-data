@@ -1,0 +1,38 @@
+{
+  "id": "artist_07f068d6-c297-44c0-b37e-e50fe5657733",
+  "name": "DREAM.Project➤Genko",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/genkosama/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/genko_cosplay",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/genko0426",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Genkocosplay",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

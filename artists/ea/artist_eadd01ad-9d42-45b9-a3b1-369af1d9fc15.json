@@ -1,0 +1,17 @@
+{
+  "id": "artist_eadd01ad-9d42-45b9-a3b1-369af1d9fc15",
+  "name": "娘project製作所EX",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/maiden.project/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

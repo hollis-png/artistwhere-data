@@ -1,0 +1,40 @@
+{
+  "id": "artist_f35a3626-99b5-40f9-9a67-34dc63941fee",
+  "name": "月球牡蠣",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://potofu.me/qikai",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/16Dri7ocKB/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/qikai0904",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/en/users/69954367",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/moonoyster0904",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/channel/UC6KxBh7fSH3T3QU3640joCA",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

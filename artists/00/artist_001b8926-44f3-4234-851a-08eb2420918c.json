@@ -1,0 +1,41 @@
+{
+  "id": "artist_001b8926-44f3-4234-851a-08eb2420918c",
+  "name": "千島Chishima",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/super.chishima",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/andrea.shih.5",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61563758597705",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.furuke.com/superchishima",
+      "platform": "Furuke",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/super.chishima/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

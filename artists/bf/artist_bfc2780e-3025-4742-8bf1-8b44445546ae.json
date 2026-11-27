@@ -1,0 +1,23 @@
+{
+  "id": "artist_bfc2780e-3025-4742-8bf1-8b44445546ae",
+  "name": "茶里",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Charlie87/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@Im_charlie87",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

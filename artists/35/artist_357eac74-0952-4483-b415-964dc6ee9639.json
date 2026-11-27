@@ -1,0 +1,102 @@
+{
+  "id": "artist_357eac74-0952-4483-b415-964dc6ee9639",
+  "name": "Candy Club",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/skyfreedom.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/478213",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/candyclub",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/skyfreedom",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://misskey.io/@skyfreedom",
+      "platform": "Mastodon",
+      "status": "alive"
+    },
+    {
+      "url": "https://skyfreedom.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/skyfreedom_212",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/CandyClub.SKY/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/SkyFreeDom.CandyClub",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.instagram.com/skyfreedom212/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/skyfreedom",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1017056",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/candyclubtw",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@Sky-FreeDom",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sky_freedom212",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/skyfreedom212",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https:/x.com/sky_freedom212",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

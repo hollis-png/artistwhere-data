@@ -1,0 +1,21 @@
+{
+  "id": "artist_53702eb7-3830-4880-806e-34dc0a1508ea",
+  "name": "腹黑工坊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/YandereArtwork",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

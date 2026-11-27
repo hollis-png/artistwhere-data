@@ -1,0 +1,33 @@
+{
+  "id": "artist_0a82683e-3c36-4e4b-9dfa-9cf7b8aa3339",
+  "name": "非常用緊急避難所",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://blog.livedoor.jp/icedayriver/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/874281",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/IceDR/invite/4",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/icedayriver",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

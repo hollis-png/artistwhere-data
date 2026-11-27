@@ -1,0 +1,46 @@
+{
+  "id": "artist_2a873f4e-aa59-4ba3-b440-d1e842e5fc5e",
+  "name": "DREAM.Project➤Usagi羽咲",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/usagi_tw",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://taplink.cc/usagi_tw",
+      "platform": "Taplink",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/UsagiTW/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/usagi_tw/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/usagi_tw",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Usagi__tw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

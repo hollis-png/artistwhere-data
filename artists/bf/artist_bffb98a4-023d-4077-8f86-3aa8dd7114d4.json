@@ -1,0 +1,27 @@
+{
+  "id": "artist_bffb98a4-023d-4077-8f86-3aa8dd7114d4",
+  "name": "熬夜慣犯",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ming.wu.548702",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yanariiiiiiiiiiiii/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/s/u/Yanari_",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

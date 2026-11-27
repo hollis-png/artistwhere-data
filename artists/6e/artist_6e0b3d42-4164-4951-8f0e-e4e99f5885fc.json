@@ -1,0 +1,22 @@
+{
+  "id": "artist_6e0b3d42-4164-4951-8f0e-e4e99f5885fc",
+  "name": "象鼻鼻屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ba.ye.ye.435018",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yayoko_1217",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "artist_efea66cb-fd36-4a9d-a098-089514cadcb3",
+  "name": "月面基地",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://clibo.tw/users/kyawsan2005",
+      "platform": "Clibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://clusters.tw/profile/4AFBFA29-D20C-4EE9-A4AF-0AC3F08E1FEB/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://ljgcndmq.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://oekakiskey.com/@kyawsan2005",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/lewis95lewis95",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/eman.nep.5",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/eman.nep.58",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/moon0905",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kyawsan2005/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/kyawsan2005",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6533472",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kyawsan2005",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "artist_3d1197f1-13e3-4228-92d3-6d2c321d8a5c",
+  "name": "Haku",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/kanden_metalwork",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/%E8%A7%B8%E9%9B%BB%E9%87%91%E5%B7%A5-Kanden-Metalwork-61568229910552/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/people/%E8%A7%B8%E9%9B%BB%E9%87%91%E5%B7%A5-Kanden-Metalwork/61568229910552/#",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kanden_metalwork/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kanden_metalwork",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/p/p9uu07",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Kanden_jewelry",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

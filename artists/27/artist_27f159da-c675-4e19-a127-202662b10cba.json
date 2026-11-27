@@ -1,0 +1,33 @@
+{
+  "id": "artist_27f159da-c675-4e19-a127-202662b10cba",
+  "name": "Lolipop Complete",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://koikoiloli.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://koikoiloli.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/171701?_gl=1*1cbvq3f*_ga*NTk4NTk0MzczLjE3NjA2MTk5Njg.*_ga_D9TLP3EFER*czE3NjkxMzk1MDgkbzExJGcwJHQxNzY5MTM5NTA4JGo2MCRsMCRoMA..",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ilolikoiko",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "artist_8125c5cb-5d48-4b9a-a5ff-ea3d17d17441",
+  "name": "DAi",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/DAiACGDESIGN",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/DAiACGDESIGN",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/16011668",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

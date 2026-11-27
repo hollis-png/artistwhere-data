@@ -1,0 +1,22 @@
+{
+  "id": "artist_c4f5da3f-e1e9-41ec-8b48-eec9f6a801ad",
+  "name": "吾家有貓初長成。",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/teacat0403/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/teacat_cosplay",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

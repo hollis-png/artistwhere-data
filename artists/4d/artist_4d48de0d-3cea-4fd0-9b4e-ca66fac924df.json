@@ -1,0 +1,22 @@
+{
+  "id": "artist_4d48de0d-3cea-4fd0-9b4e-ca66fac924df",
+  "name": "吉太研究部",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/7BQZ6BeRgX",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/jitaiyanjiu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

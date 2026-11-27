@@ -1,0 +1,20 @@
+{
+  "id": "artist_be0d2002-3d9a-483c-820f-a350f2b3f37b",
+  "name": "德國MOZART大紅刀",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Mozartblades",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@mozartag9268",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

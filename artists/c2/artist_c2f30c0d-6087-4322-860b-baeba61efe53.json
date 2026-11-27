@@ -1,0 +1,22 @@
+{
+  "id": "artist_c2f30c0d-6087-4322-860b-baeba61efe53",
+  "name": "薑黃貓工作室",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/beancat53/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/beancat53/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

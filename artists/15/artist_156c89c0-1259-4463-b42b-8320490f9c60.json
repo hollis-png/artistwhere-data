@@ -1,0 +1,17 @@
+{
+  "id": "artist_156c89c0-1259-4463-b42b-8320490f9c60",
+  "name": "東方神秘力量",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100050110432023",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

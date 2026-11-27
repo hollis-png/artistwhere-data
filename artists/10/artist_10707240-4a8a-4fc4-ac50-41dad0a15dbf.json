@@ -1,0 +1,40 @@
+{
+  "id": "artist_10707240-4a8a-4fc4-ac50-41dad0a15dbf",
+  "name": "TiraMisuMisu",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/tgjQVycphd",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://ko-fi.com/tiramisubunnyvt",
+      "platform": "Ko-fi",
+      "status": "alive"
+    },
+    {
+      "url": "https://tiramisubunnyvt.carrd.co/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/tiramisubunnyvt",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@TiramisuBunnyVT",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/TiramisuBunnyVT",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

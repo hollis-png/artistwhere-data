@@ -1,0 +1,30 @@
+{
+  "id": "artist_be099ebb-588d-472b-a2e0-54981cfa3a7f",
+  "name": "樂神Rakugami",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/rakugami",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/RakugamiNotTsukigami/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/20817322",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rakugamiDesu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

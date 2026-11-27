@@ -1,0 +1,32 @@
+{
+  "id": "artist_93055756-ed78-464f-b368-8e1ed514736d",
+  "name": "諾里不是很會畫",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://nori9133.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/19WvfSJ6ce/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8977613",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Nori_9133",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

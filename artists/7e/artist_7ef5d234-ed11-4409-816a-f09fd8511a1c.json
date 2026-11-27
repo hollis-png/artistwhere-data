@@ -1,0 +1,30 @@
+{
+  "id": "artist_7ef5d234-ed11-4409-816a-f09fd8511a1c",
+  "name": "亂中有序",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/LJYS.doujin/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7321996",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kaminalikyo",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

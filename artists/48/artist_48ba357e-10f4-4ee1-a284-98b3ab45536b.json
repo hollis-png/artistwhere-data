@@ -1,0 +1,17 @@
+{
+  "id": "artist_48ba357e-10f4-4ee1-a284-98b3ab45536b",
+  "name": "oMaiEAT",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/Mai_Lunsi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

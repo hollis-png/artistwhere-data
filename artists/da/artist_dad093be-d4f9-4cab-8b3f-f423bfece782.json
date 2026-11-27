@@ -1,0 +1,32 @@
+{
+  "id": "artist_dad093be-d4f9-4cab-8b3f-f423bfece782",
+  "name": "BreadART",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/breadart_1107/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/breadart1107",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/breadart1107",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/37995772",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

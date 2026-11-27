@@ -1,0 +1,28 @@
+{
+  "id": "artist_8384d2c6-3b5c-4539-a8db-74c235170806",
+  "name": "hwulusummer 葫蘆夏天",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/hwulu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hwulu",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/hwulusummer",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

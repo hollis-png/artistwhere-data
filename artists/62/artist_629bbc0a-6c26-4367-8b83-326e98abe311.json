@@ -1,0 +1,65 @@
+{
+  "id": "artist_629bbc0a-6c26-4367-8b83-326e98abe311",
+  "name": "くるみゆべし",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://fanme.link/@kurumipurarine",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/22914",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://kurumi-cosplay.stores.jp/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://line.me/R/ti/p/@113rxped?oat_content=url&ts=10311409",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/Kurumi-Cosplayer-100044163291353/?locale=ja_JP",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/KurumiPurarine",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kurumipurarine/p/C76Qf4aPDDn/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/kurumi_cos",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.tiktok.com/@kurumi_cosplay",
+      "platform": "TikTok",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/k_purarine",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

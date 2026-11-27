@@ -1,0 +1,23 @@
+{
+  "id": "artist_6d14a7ab-26d7-4f85-b3e1-1e99b8c9b3ea",
+  "name": "ぱいんとさいず",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/473403",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/pintsize_tks",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

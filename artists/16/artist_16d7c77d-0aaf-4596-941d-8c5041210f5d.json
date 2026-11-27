@@ -1,0 +1,49 @@
+{
+  "id": "artist_16d7c77d-0aaf-4596-941d-8c5041210f5d",
+  "name": "六六六屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/ryoyaks",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://ryoyaks.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/666YA/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/RyoyakS2nd",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.pixiv.net/users/15708685",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/ryoyaks",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/RyoyakS",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

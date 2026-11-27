@@ -1,0 +1,15 @@
+{
+  "id": "artist_3c4f8005-ee3f-40fe-81cf-31cf93f59f14",
+  "name": "Anon",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/35692440",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

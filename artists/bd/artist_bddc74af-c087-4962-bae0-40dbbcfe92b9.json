@@ -1,0 +1,17 @@
+{
+  "id": "artist_bddc74af-c087-4962-bae0-40dbbcfe92b9",
+  "name": "超易孕妊天堂",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://jun0227.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    }
+  ]
+}

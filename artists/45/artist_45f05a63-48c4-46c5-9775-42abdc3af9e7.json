@@ -1,0 +1,73 @@
+{
+  "id": "artist_45f05a63-48c4-46c5-9775-42abdc3af9e7",
+  "name": "聽說填這個會上",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/yueluoying.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://deerdonate.herokuapp.com/donation/%E6%9C%88%E6%B4%9B%E6%AB%BBLuoying",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/JqhnMaCCe8",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/yueluoying",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://marshmallow-qa.com/yueluoying_",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://p.ecpay.com.tw/F9DA4DE",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/yueluoying",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yueluoying_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/yueluoying_",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCpOgcFX03oV43HOPhhBzr4A",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yueluoying_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://yueluoying.carrd.co/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

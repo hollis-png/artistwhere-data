@@ -1,0 +1,27 @@
+{
+  "id": "artist_c18e3489-7762-41e0-8ca1-3612f2dc8427",
+  "name": "Planet 980",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/planet980?ltsid=a0ca606b-a7a8-4165-8e4e-047a68a9ae70",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yuki00yo/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/660596",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

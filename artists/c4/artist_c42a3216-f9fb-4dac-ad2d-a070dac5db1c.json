@@ -1,0 +1,28 @@
+{
+  "id": "artist_c42a3216-f9fb-4dac-ad2d-a070dac5db1c",
+  "name": "KUWAZA哭挖砸",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/42621632",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/KUWAZA22",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kuwa_za",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

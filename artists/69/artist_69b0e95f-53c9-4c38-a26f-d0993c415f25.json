@@ -1,0 +1,32 @@
+{
+  "id": "artist_69b0e95f-53c9-4c38-a26f-d0993c415f25",
+  "name": "HAGI_art",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/hagi_art4",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@hagi_art",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hagi_art",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://xfolio.jp/zh-CHT/portfolio/hagi_art",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

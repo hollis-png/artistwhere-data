@@ -1,0 +1,28 @@
+{
+  "id": "artist_5e7f17ca-9a8c-4eab-a610-c238a26dec23",
+  "name": "Aniware",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "http://aniwareofficial.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/aniware.official",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100092535461390",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

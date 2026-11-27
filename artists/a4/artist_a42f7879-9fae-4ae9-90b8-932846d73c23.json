@@ -1,0 +1,30 @@
+{
+  "id": "artist_a42f7879-9fae-4ae9-90b8-932846d73c23",
+  "name": "殺必死天國",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/hayasi90224",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2282551",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/hayashi_kenji",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

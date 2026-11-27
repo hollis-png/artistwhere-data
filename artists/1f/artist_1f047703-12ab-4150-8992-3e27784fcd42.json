@@ -1,0 +1,43 @@
+{
+  "id": "artist_1f047703-12ab-4150-8992-3e27784fcd42",
+  "name": "狐媚娘達亞•FoxDaya",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://deerdonate.herokuapp.com/donation/Fox_Daya_ch._%E7%8B%90%E5%AA%9A%E5%A8%98%E9%81%94%E4%BA%9E",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/foxdaya",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/fox.daya/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UChl9chAone90455JN7RHvWw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/foxdaya0620",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/@foxdaya",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

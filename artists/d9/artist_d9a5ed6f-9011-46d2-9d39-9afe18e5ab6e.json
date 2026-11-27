@@ -1,0 +1,22 @@
+{
+  "id": "artist_d9a5ed6f-9011-46d2-9d39-9afe18e5ab6e",
+  "name": "辺境屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.etheric-f.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hinata_k",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

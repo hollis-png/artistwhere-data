@@ -1,0 +1,32 @@
+{
+  "id": "artist_4c793064-26f1-41ef-b782-cc91763a3e83",
+  "name": "甘娜Ping",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/pingcosplay",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/pingcosplay/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/p_i_n_g___/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Pingcosplay0710",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

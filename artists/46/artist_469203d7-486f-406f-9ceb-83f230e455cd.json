@@ -1,0 +1,34 @@
+{
+  "id": "artist_469203d7-486f-406f-9ceb-83f230e455cd",
+  "name": "kuroliu",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100024524679302",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/15277564",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Kuroliu_9021",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Kuroliu_9021r18",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

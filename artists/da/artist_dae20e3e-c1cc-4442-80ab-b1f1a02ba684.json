@@ -1,0 +1,32 @@
+{
+  "id": "artist_dae20e3e-c1cc-4442-80ab-b1f1a02ba684",
+  "name": "Nemumi Parfait",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/mofuuneko",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nemunyan._/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/78673041",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mofuuneko",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

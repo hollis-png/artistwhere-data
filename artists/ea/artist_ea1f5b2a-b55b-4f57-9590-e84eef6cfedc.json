@@ -1,0 +1,24 @@
+{
+  "id": "artist_ea1f5b2a-b55b-4f57-9590-e84eef6cfedc",
+  "name": "歸宅本部",
+  "types": [],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/404335/artworks",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/retaku",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

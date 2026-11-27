@@ -1,0 +1,25 @@
+{
+  "id": "artist_90a64e8e-aa1d-46f2-87f2-4c3d9dfb623e",
+  "name": "猫猫だいふく",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/422116",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nya_cos1226/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Nya_Cos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "artist_1675613c-3a1d-4807-b67e-5382c49878f9",
+  "name": "Hosto",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/SW7Jnr9QDf",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lustduel.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Hosto_costo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61554739561421",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11251598",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

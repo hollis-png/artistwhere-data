@@ -1,0 +1,51 @@
+{
+  "id": "artist_c586ef73-3617-4c47-83b0-33f7a13281f0",
+  "name": "蝦餅XiaBing",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/8qcgYjhBRQ",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://sha6666669.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "dead"
+    },
+    {
+      "url": "https://twitter.com/sha6666669",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sha6666669/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/xia.bing.716766",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3752475",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/sha6666669",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

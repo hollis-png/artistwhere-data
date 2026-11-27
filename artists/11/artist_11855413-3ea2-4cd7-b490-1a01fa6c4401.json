@@ -1,0 +1,22 @@
+{
+  "id": "artist_11855413-3ea2-4cd7-b490-1a01fa6c4401",
+  "name": "西洋麒",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100093333661449",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/97301103",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

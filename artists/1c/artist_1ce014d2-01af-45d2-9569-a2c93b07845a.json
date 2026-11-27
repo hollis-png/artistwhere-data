@@ -1,0 +1,19 @@
+{
+  "id": "artist_1ce014d2-01af-45d2-9569-a2c93b07845a",
+  "name": "百合吉娃娃",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ushiiyuri",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

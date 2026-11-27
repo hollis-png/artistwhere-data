@@ -1,0 +1,38 @@
+{
+  "id": "artist_56d2babe-e34e-4185-8132-5ec2a02436d8",
+  "name": "黒絵レイ kuroerei",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/kuroerei",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/KuroeRei",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hei.hui.rei",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kuroereiart/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@kuroerei",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

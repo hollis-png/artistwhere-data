@@ -1,0 +1,21 @@
+{
+  "id": "artist_1d81aa85-3f88-4066-a155-b2820f19e339",
+  "name": "★～黑色布丁～",
+  "types": [],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://mp.nekonabe.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/melanianpruin",
+      "platform": "Plurk",
+      "status": "alive",
+      "displayName": "★小布丁★CWT"
+    }
+  ]
+}

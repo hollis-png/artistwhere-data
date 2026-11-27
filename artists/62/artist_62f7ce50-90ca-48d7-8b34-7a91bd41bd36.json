@@ -1,0 +1,30 @@
+{
+  "id": "artist_62f7ce50-90ca-48d7-8b34-7a91bd41bd36",
+  "name": "咕咕郵務所",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/buttergugu100/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/buttergugu100?lang=zh-tw",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/buttergugu100",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

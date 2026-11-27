@@ -1,0 +1,48 @@
+{
+  "id": "artist_e931d979-b915-4011-aa94-b2da624af266",
+  "name": "JEN._.",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/WYJEN",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/JEN30825",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://wall.gamer.com.tw/redir.php?userId=matuya0825",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/JEN3ru.ore",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/jenru.ore",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/26112854",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@jenru.ore",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

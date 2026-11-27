@@ -1,0 +1,44 @@
+{
+  "id": "artist_111d553a-e0da-4215-930e-b5069109273d",
+  "name": "lawliet liaw art",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/z2r8APEXVc",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/lawliet_liaw",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/lawliet_liaw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100000841447214",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/lawliet_liaw/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/en/users/28050278",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

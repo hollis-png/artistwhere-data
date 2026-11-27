@@ -1,0 +1,40 @@
+{
+  "id": "artist_80d15731-4575-487e-ac0a-05af40a3aff5",
+  "name": "グリモア",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://macaca12.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://skeb.jp/@a83d8",
+      "platform": "Skeb",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/834194",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Maca105",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/a83d8",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

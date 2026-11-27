@@ -1,0 +1,43 @@
+{
+  "id": "artist_61e93dae-ce6d-4b04-90c8-213f0aee5176",
+  "name": "SANAE",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/sanaemill",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/sanaemill",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/sanaemill",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sanaemill/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6911529",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@sanaemill",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

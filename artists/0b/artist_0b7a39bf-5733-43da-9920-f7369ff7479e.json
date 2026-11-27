@@ -1,0 +1,29 @@
+{
+  "id": "artist_0b7a39bf-5733-43da-9920-f7369ff7479e",
+  "name": "愛ina的馬鈴薯",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100094213977263",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@potatoanimation9929",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Potato_illust",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

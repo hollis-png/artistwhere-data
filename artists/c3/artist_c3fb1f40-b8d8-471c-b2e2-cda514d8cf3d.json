@@ -1,0 +1,35 @@
+{
+  "id": "artist_c3fb1f40-b8d8-471c-b2e2-cda514d8cf3d",
+  "name": "德意少女老貓貓",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/KnifeOldCat",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61580003755262",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/12787502",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18916587",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

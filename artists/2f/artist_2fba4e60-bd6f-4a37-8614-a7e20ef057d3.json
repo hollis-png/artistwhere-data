@@ -1,0 +1,25 @@
+{
+  "id": "artist_2fba4e60-bd6f-4a37-8614-a7e20ef057d3",
+  "name": "戲言繪想工房",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/even4102",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6642015",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/even4102",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

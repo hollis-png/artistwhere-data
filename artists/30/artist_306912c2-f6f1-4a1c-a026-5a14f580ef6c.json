@@ -1,0 +1,26 @@
+{
+  "id": "artist_306912c2-f6f1-4a1c-a026-5a14f580ef6c",
+  "name": "箱庭交響曲",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/hknwsymphony/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hknwsymphony/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

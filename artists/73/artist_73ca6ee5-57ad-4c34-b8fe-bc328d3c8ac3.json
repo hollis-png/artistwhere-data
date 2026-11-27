@@ -1,0 +1,18 @@
+{
+  "id": "artist_73ca6ee5-57ad-4c34-b8fe-bc328d3c8ac3",
+  "name": "地下設施7732",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/nanamini_7732",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

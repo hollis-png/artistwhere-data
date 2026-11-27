@@ -1,0 +1,28 @@
+{
+  "id": "artist_c3b6dc6a-6b2a-4138-b27e-202023bd7593",
+  "name": "HOTCUE.",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/124337016",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/jntknshrk",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nibitashy",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artist_d831d1c1-2335-404d-a5fc-ca0cbdba8570",
+  "name": "好點子",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/chenyurain",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

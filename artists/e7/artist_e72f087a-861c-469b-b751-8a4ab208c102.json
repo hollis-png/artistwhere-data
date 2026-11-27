@@ -1,0 +1,28 @@
+{
+  "id": "artist_e72f087a-861c-469b-b751-8a4ab208c102",
+  "name": "PINK CHUCHU",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.mikeou.net/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/551282",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mikeou_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

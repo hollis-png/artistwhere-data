@@ -1,0 +1,65 @@
+{
+  "id": "artist_99d9c4d2-544d-4390-bdce-519ccf8fc23c",
+  "name": "みゃーのもと",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/sakimiyamoto",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://ppe.jp/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://sakimiyamoto.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Saki.Miyamoto.Fanpage/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sakimi_cos/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.sakimiyamoto.jp/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/saki_miyamoto",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDVltowj5k2pM3zRX5ba_uw/channels",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/saki_miyamoto",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sakimisub",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

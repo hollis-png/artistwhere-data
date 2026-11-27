@@ -1,0 +1,28 @@
+{
+  "id": "artist_fac2ed2a-7c2c-480a-8799-c78d94214ca5",
+  "name": "紅色荔枝樹",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/akarizu223",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/akarizu223",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Akarizu223",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

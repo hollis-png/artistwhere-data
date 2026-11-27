@@ -1,0 +1,23 @@
+{
+  "id": "artist_472168b6-cbea-4d17-bbb9-770051473f9b",
+  "name": "MiroLink",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/mirolivetw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MiroliveTW/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

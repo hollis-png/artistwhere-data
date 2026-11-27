@@ -1,0 +1,22 @@
+{
+  "id": "artist_d5436265-b4d7-45e6-a153-a2a7d01589ba",
+  "name": "放課後TeaTime-ACG同好會",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/houkagoteatime",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/%E6%94%BE%E8%AA%B2%E5%BE%8CTeaTime-ACG%E5%90%8C%E5%A5%BD%E6%9C%83-100094278708410/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

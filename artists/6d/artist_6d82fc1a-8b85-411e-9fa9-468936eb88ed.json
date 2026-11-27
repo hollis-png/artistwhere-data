@@ -1,0 +1,18 @@
+{
+  "id": "artist_6d82fc1a-8b85-411e-9fa9-468936eb88ed",
+  "name": "卡巴塔cafe",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/kabatacafe/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

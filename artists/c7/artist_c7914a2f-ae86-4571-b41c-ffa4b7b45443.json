@@ -1,0 +1,22 @@
+{
+  "id": "artist_c7914a2f-ae86-4571-b41c-ffa4b7b45443",
+  "name": "COSIS Team- Nyao",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/cloudy_1226/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nyaoo_cos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

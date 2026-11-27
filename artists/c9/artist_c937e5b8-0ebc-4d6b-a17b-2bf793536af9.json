@@ -1,0 +1,35 @@
+{
+  "id": "artist_c937e5b8-0ebc-4d6b-a17b-2bf793536af9",
+  "name": "猫田にまたたび",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/Nekotaashu",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://nekotaashu-official.mystrikingly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nekota_ashu",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Nekota_Ashu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "artist_416f5a53-7ad9-434e-b88e-86d36a80e757",
+  "name": "玥炭繪館",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/maoyuue",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

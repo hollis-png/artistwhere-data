@@ -1,0 +1,23 @@
+{
+  "id": "artist_fa0a0074-3413-4b75-a22f-c63f3476ad5a",
+  "name": "異世界冒險王耑口米",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ramionlinegame",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ramioxo",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

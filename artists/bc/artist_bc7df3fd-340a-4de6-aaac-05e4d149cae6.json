@@ -1,0 +1,37 @@
+{
+  "id": "artist_bc7df3fd-340a-4de6-aaac-05e4d149cae6",
+  "name": "和屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/authors/info/a105520310",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hihi310",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hihi_310/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/54648863",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hihi310_wagashi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

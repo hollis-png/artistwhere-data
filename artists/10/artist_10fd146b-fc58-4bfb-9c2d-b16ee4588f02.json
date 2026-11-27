@@ -1,0 +1,19 @@
+{
+  "id": "artist_10fd146b-fc58-4bfb-9c2d-b16ee4588f02",
+  "name": "然後她就lost掉了",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/thenhow35.chuang/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "artist_7b3d7f44-bea7-4f83-8ed2-78477ca34e5c",
+  "name": "あきは帝国",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://akiha555.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3783570?_gl=1*1qx4088*_ga*NTk4NTk0MzczLjE3NjA2MTk5Njg.*_ga_D9TLP3EFER*czE3NjQ3MzY2NDIkbzUkZzEkdDE3NjQ3MzY3MDEkajEkbDAkaDA.",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/akibamaou0610",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

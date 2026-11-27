@@ -1,0 +1,41 @@
+{
+  "id": "artist_1c7ae02e-1495-4a9f-992c-a35bddccf43b",
+  "name": "蘇芳小天地",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/suou_1215",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100090463826499",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/suou_1215/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/12298500",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/suou_1215",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

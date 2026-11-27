@@ -1,0 +1,37 @@
+{
+  "id": "artist_28aa5e01-b106-4ea3-b884-2d5057075af5",
+  "name": "安希",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://lin.ee/SahSNGt",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/anxi666",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/anxi061",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/anxi061/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/vickybaby",
+      "platform": "Patreon",
+      "status": "alive"
+    }
+  ]
+}

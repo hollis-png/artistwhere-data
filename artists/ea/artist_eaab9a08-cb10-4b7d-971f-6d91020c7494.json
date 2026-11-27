@@ -1,0 +1,21 @@
+{
+  "id": "artist_eaab9a08-cb10-4b7d-971f-6d91020c7494",
+  "name": "手創館",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/HappinessHandmade.Angelfamily/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

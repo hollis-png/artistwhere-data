@@ -1,0 +1,18 @@
+{
+  "id": "artist_c3e2dbab-9cd1-473a-a6a0-d3ce5359bb93",
+  "name": "Yolo",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/tony20767/",
+      "platform": "Instagram",
+      "status": "alive",
+      "displayName": "Yolo（@tony20767）"
+    }
+  ]
+}

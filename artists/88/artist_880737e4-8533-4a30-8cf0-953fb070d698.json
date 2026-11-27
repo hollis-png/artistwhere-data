@@ -1,0 +1,28 @@
+{
+  "id": "artist_880737e4-8533-4a30-8cf0-953fb070d698",
+  "name": "ゆりりさいくらー",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/11196053",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/HTsai987",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Risai_TW",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

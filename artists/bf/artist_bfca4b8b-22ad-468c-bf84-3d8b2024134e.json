@@ -1,0 +1,41 @@
+{
+  "id": "artist_bfca4b8b-22ad-468c-bf84-3d8b2024134e",
+  "name": "黎查",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/kevinlin1210",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/JarvisLin1210",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100064882082169",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61578242420529",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18853760",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

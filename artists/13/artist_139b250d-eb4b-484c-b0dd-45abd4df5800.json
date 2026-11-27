@@ -1,0 +1,32 @@
+{
+  "id": "artist_139b250d-eb4b-484c-b0dd-45abd4df5800",
+  "name": "十塔星飛船總部",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/alice0000159",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/FishyAllien",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Yanagiba775",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/alice0000159",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

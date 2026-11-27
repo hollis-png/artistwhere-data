@@ -1,0 +1,30 @@
+{
+  "id": "artist_40ea0cf5-95ff-4255-bb67-a33dcd1b1b97",
+  "name": "修奇",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/groups/info/7419/books",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/57642",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/shouki0721",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

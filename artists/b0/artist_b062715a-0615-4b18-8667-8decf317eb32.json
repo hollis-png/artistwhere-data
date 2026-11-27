@@ -1,0 +1,28 @@
+{
+  "id": "artist_b062715a-0615-4b18-8667-8decf317eb32",
+  "name": "平面狂想",
+  "types": [
+    "artist",
+    "craft"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/morris890071",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Rhapsodical.Plane/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

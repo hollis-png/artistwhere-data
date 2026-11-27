@@ -1,0 +1,59 @@
+{
+  "id": "artist_4bbf21de-7fe3-4c1a-9194-898d97ad6110",
+  "name": "毛毛喵 Cosplayer",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/sDRvWYsUWR",
+      "platform": "Discord",
+      "status": "dead"
+    },
+    {
+      "url": "https://discord.gg/GDRU6rGVzb",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/momocat.0w0",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/0w0momocat",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Cat.MoMo.0w0/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.instagram.com/cat.momo.0w0/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/momocat.daily/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/momocat0728",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC9EPvTwzN0Y3YmzIOPoDaTg",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

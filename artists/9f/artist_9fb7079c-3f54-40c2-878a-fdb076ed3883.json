@@ -1,0 +1,22 @@
+{
+  "id": "artist_9fb7079c-3f54-40c2-878a-fdb076ed3883",
+  "name": "千云qianyu [讓攤]",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/qianyu_012_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/98839259",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

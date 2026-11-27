@@ -1,0 +1,28 @@
+{
+  "id": "artist_bf6aaf35-5113-4c8f-96d0-1e055de90263",
+  "name": "古藤工作室 by MOMO",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/gutenmomo",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kotomomo",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "artist_3a74d46b-e196-4124-b8dc-914d4355402c",
+  "name": "猫丸聯合會",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/5Zwe6SuooSAGodD",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/nekomarupopo",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2606154",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

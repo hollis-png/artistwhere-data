@@ -1,0 +1,33 @@
+{
+  "id": "artist_cf73bc47-963a-421e-bf7c-b5db8202717c",
+  "name": "咪呀萬事屋",
+  "types": [],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100060572053165&locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/miya3127",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCni-9Df2kdUs_Y3kXtDXoAw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/miya3127",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "artist_627c532b-e81c-494f-a0dc-283a2ff3dbec",
+  "name": "ついったー東方部",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://tohobu.org/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/tohobu/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@tohobu",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tohobu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

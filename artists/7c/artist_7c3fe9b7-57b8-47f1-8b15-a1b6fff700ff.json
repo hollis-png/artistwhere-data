@@ -1,0 +1,22 @@
+{
+  "id": "artist_7c3fe9b7-57b8-47f1-8b15-a1b6fff700ff",
+  "name": "一月一日",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linkr.bio/jan1st",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/fromjanuary1st",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

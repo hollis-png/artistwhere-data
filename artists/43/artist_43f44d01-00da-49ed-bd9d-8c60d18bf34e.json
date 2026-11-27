@@ -1,0 +1,48 @@
+{
+  "id": "artist_43f44d01-00da-49ed-bd9d-8c60d18bf34e",
+  "name": "大江山、兩齒",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://clibo.tw/me/center",
+      "platform": "Clibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/twoteeth",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/cjnjbjo159",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100078123084542",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/cjnjbjo159/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/9582639",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/twoteeth_159",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

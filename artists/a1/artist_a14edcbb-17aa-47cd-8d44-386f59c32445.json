@@ -1,0 +1,33 @@
+{
+  "id": "artist_a14edcbb-17aa-47cd-8d44-386f59c32445",
+  "name": "木瓜サンミゲル",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/liomaguri5",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/lio.maguri",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/39342578",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/LioMaguri5",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

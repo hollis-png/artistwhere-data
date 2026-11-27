@@ -1,0 +1,22 @@
+{
+  "id": "artist_4c30f05c-68d7-497b-8061-002407dd1a97",
+  "name": "雪莉姆水晶礦坑",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.twitch.tv/shirleymoon111",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shirleym_annyun",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

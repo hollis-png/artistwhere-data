@@ -1,0 +1,43 @@
+{
+  "id": "artist_660223b0-df56-4ad5-970d-324de68fe5d8",
+  "name": "FLag不正常冒險者研究中心",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=pupss91337",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/pupss0124",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/FLagjar",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/flagjar/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/9680903",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/pupss91337",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

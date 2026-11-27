@@ -1,0 +1,18 @@
+{
+  "id": "artist_db14c739-0877-469f-92e1-3af009917fd5",
+  "name": "REI’s ROOM",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/reisroom711/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

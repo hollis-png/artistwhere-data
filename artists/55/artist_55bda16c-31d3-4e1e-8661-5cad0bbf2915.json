@@ -1,0 +1,32 @@
+{
+  "id": "artist_55bda16c-31d3-4e1e-8661-5cad0bbf2915",
+  "name": "貴族会・アトリエナミナミ",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/pecosauna",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://pont.co/u/pecori38",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/c/Pecochill",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sayapeco38",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

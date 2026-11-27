@@ -1,0 +1,34 @@
+{
+  "id": "artist_2a0c977a-f587-4345-bc59-4095bd4ba160",
+  "name": "Moling墨鈴",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/moling0/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mo_ling_01",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/moling_01",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/moling_01_01",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

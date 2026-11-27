@@ -1,0 +1,25 @@
+{
+  "id": "artist_bfec16d1-135e-48df-b9f7-f7a94c48905e",
+  "name": "風橙實驗室 HR Lab.",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/hclab",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/hclab/support",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hrlab2024kl",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

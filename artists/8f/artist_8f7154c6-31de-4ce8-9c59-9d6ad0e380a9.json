@@ -1,0 +1,17 @@
+{
+  "id": "artist_8f7154c6-31de-4ce8-9c59-9d6ad0e380a9",
+  "name": "守祚魔法堂",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/maho2202002/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

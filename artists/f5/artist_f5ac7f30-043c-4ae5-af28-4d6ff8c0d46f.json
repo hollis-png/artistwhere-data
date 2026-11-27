@@ -1,0 +1,35 @@
+{
+  "id": "artist_f5ac7f30-043c-4ae5-af28-4d6ff8c0d46f",
+  "name": "小艾次吃椰子",
+  "types": [],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://ko-fi.com/aiailove0514",
+      "platform": "Ko-fi",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/ai_j09",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/aij09",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ai_j09/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ai_j09",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

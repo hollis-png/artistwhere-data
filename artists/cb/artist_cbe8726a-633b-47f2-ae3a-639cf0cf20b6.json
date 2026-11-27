@@ -1,0 +1,35 @@
+{
+  "id": "artist_cbe8726a-633b-47f2-ae3a-639cf0cf20b6",
+  "name": "ilairo萊洛",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/ilairo",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Lairo.11111",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/iLaiRo11111",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/_ilairo_",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/87795117",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

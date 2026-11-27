@@ -1,0 +1,18 @@
+{
+  "id": "artist_b1d5019b-46f3-4699-872c-4f8009339b41",
+  "name": "Honey Jam",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/HoneyJam",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

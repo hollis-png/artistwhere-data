@@ -1,0 +1,31 @@
+{
+  "id": "artist_fc77df72-43df-41a8-8bdf-01852dc22bf3",
+  "name": "M片 m-pien",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/M-pien-M%E7%89%87-61553618219617/?_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCTirD7NvOWxm7Shg7a9OI2Q",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mpien6",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

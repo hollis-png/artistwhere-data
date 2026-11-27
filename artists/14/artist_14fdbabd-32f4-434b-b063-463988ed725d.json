@@ -1,0 +1,25 @@
+{
+  "id": "artist_14fdbabd-32f4-434b-b063-463988ed725d",
+  "name": "熊熊麻薯",
+  "types": [],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/5tNsrdVDxA",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/mashiro_14067",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC_nMaPrSxht1oiQjqOquttg/featured",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

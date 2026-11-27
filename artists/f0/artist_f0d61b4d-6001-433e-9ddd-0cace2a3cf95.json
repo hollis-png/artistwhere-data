@@ -1,0 +1,28 @@
+{
+  "id": "artist_f0d61b4d-6001-433e-9ddd-0cace2a3cf95",
+  "name": "ふうせんかずら",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://fusenkazura.me/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/fusenkazurame/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/fusenkazurame",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

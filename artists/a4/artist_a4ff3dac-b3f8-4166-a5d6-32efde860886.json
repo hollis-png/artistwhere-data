@@ -1,0 +1,32 @@
+{
+  "id": "artist_a4ff3dac-b3f8-4166-a5d6-32efde860886",
+  "name": "阿惑出沒！本攤雷電已過載！",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/sQba46VAmH",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100089966172775",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@Holly_kirari",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/holly_kirari128",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "artist_7c30c5a4-83e8-4976-ad42-21c7df60397b",
+  "name": "遜咖歡樂屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/mmo0217",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/34007063",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/mmo0217",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mowjing",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

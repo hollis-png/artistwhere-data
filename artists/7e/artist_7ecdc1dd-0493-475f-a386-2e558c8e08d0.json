@@ -1,0 +1,17 @@
+{
+  "id": "artist_7ecdc1dd-0493-475f-a386-2e558c8e08d0",
+  "name": "BunnyGames",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/bunnygames0303",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

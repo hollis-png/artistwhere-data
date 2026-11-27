@@ -1,0 +1,25 @@
+{
+  "id": "artist_71436906-6841-4dcd-8d5e-270ca0574c0f",
+  "name": "羊駝怪人與陳家胖雞",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linkgoods.com/chennparrot",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/alpaca_ywy",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/chen_nparrot/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

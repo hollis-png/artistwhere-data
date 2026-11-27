@@ -1,0 +1,20 @@
+{
+  "id": "artist_7cc1fdeb-b0f5-44a8-8718-55590c5ba574",
+  "name": "水泊白鹿",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/LuminousMarshStudio/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/luminous.marsh",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

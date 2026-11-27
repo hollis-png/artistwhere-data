@@ -1,0 +1,33 @@
+{
+  "id": "artist_5d57c01f-306a-4383-b734-b25740975900",
+  "name": "AtelierFlügel / 工作坊之翼",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/fromriorley",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/fiiiiish_0/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4410986",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Fi5h_illust",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "artist_a42ee667-5c5e-4974-bc88-15cd2474fa11",
+  "name": "NEOGOD",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/neogod",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Neo629God/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/NeoGODpro",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

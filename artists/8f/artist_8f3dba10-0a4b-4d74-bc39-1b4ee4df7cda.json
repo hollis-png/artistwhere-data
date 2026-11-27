@@ -1,0 +1,59 @@
+{
+  "id": "artist_8f3dba10-0a4b-4d74-bc39-1b4ee4df7cda",
+  "name": "微光創造",
+  "types": [
+    "artist",
+    "craft",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/sage_wu",
+      "platform": "Discord",
+      "status": "dead"
+    },
+    {
+      "url": "https://instagram.com/Glimmer_create",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://line.me/ti/p/~@iid0847o",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/GlimmerCreate?subscribe=",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://t.me/aceox553",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/GlimmerCreate/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@glimmer_create",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Glimmer_create",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

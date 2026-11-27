@@ -1,0 +1,25 @@
+{
+  "id": "artist_9f28ba80-7fb0-486b-b42c-a5540d9cc4b6",
+  "name": "白晝夜行",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/loiza0319/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/LOIZA0319",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

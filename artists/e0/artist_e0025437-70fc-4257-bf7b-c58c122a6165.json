@@ -1,0 +1,71 @@
+{
+  "id": "artist_e0025437-70fc-4257-bf7b-c58c122a6165",
+  "name": "Tali.nai.不夠",
+  "types": [],
+  "events": [
+    "FF46",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/tali9uwu.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/ZtFnTR5xy3",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/tali9uwuART",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://tali9uwu.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61562113019644",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/tali9UwU",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/tali9uwu/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8611180",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/tali9uwu",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@TaliNaiuwu",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tali9UwU",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tali9uwu_R18",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

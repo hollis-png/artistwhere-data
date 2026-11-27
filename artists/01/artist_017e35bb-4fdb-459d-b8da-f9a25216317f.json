@@ -1,0 +1,41 @@
+{
+  "id": "artist_017e35bb-4fdb-459d-b8da-f9a25216317f",
+  "name": "GAKAKU",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/GAKAKU_PR",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/GAKAKU",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ranfptn",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tettaakira",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/y_o_m_y_o_m",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

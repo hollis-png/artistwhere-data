@@ -1,0 +1,37 @@
+{
+  "id": "artist_f9351867-06a5-4ea2-accb-0ea2205a7340",
+  "name": "Limos",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/limnos",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/NKshoujo",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/limnos1101/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCu8xnGNvyMARhjpga3VdQ5Q",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/limnos1101",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

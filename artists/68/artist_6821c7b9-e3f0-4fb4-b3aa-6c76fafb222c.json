@@ -1,0 +1,19 @@
+{
+  "id": "artist_6821c7b9-e3f0-4fb4-b3aa-6c76fafb222c",
+  "name": "成長の カメ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063934156321",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

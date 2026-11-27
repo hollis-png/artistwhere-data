@@ -1,0 +1,22 @@
+{
+  "id": "artist_201814cb-a27a-4e97-a13a-5339950c51de",
+  "name": "月神工房",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://atelierkamizuki.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/atelierkamizuki",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

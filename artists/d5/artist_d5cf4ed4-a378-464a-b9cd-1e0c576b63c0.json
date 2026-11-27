@@ -1,0 +1,28 @@
+{
+  "id": "artist_d5cf4ed4-a378-464a-b9cd-1e0c576b63c0",
+  "name": "ChloeBABY",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/Chloekey0429",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/chloekey0429/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Chloekey0429",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

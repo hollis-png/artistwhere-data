@@ -1,0 +1,15 @@
+{
+  "id": "artist_f0d6bc35-5a74-4154-8ef2-1d3386538e7f",
+  "name": "某王城模型工作室",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/somebodywant.3Dworkshop/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

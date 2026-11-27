@@ -1,0 +1,65 @@
+{
+  "id": "artist_a5832d34-bff6-40b6-824a-ddabc7a2c840",
+  "name": "亞紗 Asa",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/AsaCosplay",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.opay.tw/Broadcaster/Donate/C92CDFD27213100FE282B2A3ECFE759B",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/asa.cosplay/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sakurai.asami.asa/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/asa.cosplay",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@asa.cosplay",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/asa0720",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@-AsaChannel",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/asa_cosplay",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/cosplay_asa",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

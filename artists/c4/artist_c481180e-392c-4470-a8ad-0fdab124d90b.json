@@ -1,0 +1,22 @@
+{
+  "id": "artist_c481180e-392c-4470-a8ad-0fdab124d90b",
+  "name": "鋁飾布裳兔",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://tw.creema.net/c/cloudialee",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/CloudiaRabbit/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "artist_77310391-0294-4e8c-a671-dc845d19e920",
+  "name": "曇kumori",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/kumori01",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/kumori_01",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kumori_01",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/kumori_01",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kumori_01",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

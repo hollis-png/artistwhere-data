@@ -1,0 +1,35 @@
+{
+  "id": "artist_4aa59c2e-842e-409e-aa20-3928c8edb61a",
+  "name": "HAONI",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/ga673899",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ga869302",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1355685",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ga673899",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

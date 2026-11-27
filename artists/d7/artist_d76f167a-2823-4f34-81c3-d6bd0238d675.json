@@ -1,0 +1,15 @@
+{
+  "id": "artist_d76f167a-2823-4f34-81c3-d6bd0238d675",
+  "name": "赤森工作室",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/akamori_toy/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

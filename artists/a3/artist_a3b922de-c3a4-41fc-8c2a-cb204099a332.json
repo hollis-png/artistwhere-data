@@ -1,0 +1,17 @@
+{
+  "id": "artist_a3b922de-c3a4-41fc-8c2a-cb204099a332",
+  "name": "綺麗な星辰工作坊",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Kilanosin/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

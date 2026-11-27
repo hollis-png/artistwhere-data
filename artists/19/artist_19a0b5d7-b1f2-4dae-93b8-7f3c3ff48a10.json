@@ -1,0 +1,90 @@
+{
+  "id": "artist_19a0b5d7-b1f2-4dae-93b8-7f3c3ff48a10",
+  "name": "嘎唄唄",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/YCtAryVnAf",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index_creation.php?owner=andy567892&folder=509068&view_type=2&page=1",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/GaBaiLu",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://p.ecpay.com.tw/01B7F34",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://picarto.tv/GaBaiLu",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://steamcommunity.com/id/GaBaiLu/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Cabeico",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/GaBaiLu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/GaBailu_48cM",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/EelWhalegogogo/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/gabailu/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.paypal.com/paypalme/GaBaiLu",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/17684897",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/GaBaiLu",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/gabai",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

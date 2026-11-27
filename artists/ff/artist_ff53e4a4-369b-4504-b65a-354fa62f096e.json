@@ -1,0 +1,22 @@
+{
+  "id": "artist_ff53e4a4-369b-4504-b65a-354fa62f096e",
+  "name": "沖島灯台",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/253875",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/between0621",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

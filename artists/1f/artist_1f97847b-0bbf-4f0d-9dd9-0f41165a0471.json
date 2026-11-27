@@ -1,0 +1,22 @@
+{
+  "id": "artist_1f97847b-0bbf-4f0d-9dd9-0f41165a0471",
+  "name": "台科大美術社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/nacartwork",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ntustartclub/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

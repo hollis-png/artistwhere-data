@@ -1,0 +1,17 @@
+{
+  "id": "artist_ca879e9a-fc7b-453e-bee4-878cde3c4447",
+  "name": "ytone",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yto999",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

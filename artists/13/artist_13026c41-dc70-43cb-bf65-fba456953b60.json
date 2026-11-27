@@ -1,0 +1,18 @@
+{
+  "id": "artist_13026c41-dc70-43cb-bf65-fba456953b60",
+  "name": "白百合堂",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/shirayurido",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

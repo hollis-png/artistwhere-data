@@ -1,0 +1,32 @@
+{
+  "id": "artist_e8c298bd-361e-4451-bedb-889a706564ec",
+  "name": "LRLR",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/share/16QtEuR1Gb/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yyoaooao",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/yyoaooao",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yyoaooao",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

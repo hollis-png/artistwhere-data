@@ -1,0 +1,30 @@
+{
+  "id": "artist_9a12b53c-e277-4f17-b0ae-acb95619e010",
+  "name": "六樓忍者村 aka.DCPSy",
+  "types": [
+    "other",
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E6%9D%8E%E5%AD%9F%E8%BB%92-100000559225614/?_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100095094920235",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Yoyoko707",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

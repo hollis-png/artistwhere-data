@@ -1,0 +1,45 @@
+{
+  "id": "artist_c8eb8f61-1364-4b18-b012-f8899bd8e7d0",
+  "name": "笑笑餃子",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/smile1312",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Love_Peace_0214",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/smilesmile1312/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/gyozababy_0214",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/50634464",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/GyozaBaby_0214",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

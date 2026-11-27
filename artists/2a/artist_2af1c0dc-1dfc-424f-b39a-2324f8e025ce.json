@@ -1,0 +1,22 @@
+{
+  "id": "artist_2af1c0dc-1dfc-424f-b39a-2324f8e025ce",
+  "name": "東方幻想大社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/878hdyqNVK",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/people/%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E5%A4%A7%E7%A4%BE/61566049035480/?_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "artist_a0df034a-6f3a-4b68-ba2f-5077f391974a",
+  "name": "DISH",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/juicy_ichi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

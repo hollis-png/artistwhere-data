@@ -1,0 +1,29 @@
+{
+  "id": "artist_51da3e7c-bdc5-4581-a2dd-ce6cee8152c6",
+  "name": "惡貓計畫",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/akucatproject",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/AkucatProjectLtd/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@akucatproject4016/about",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

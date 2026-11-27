@@ -1,0 +1,20 @@
+{
+  "id": "artist_6ce077cf-77a8-4f8a-b70f-bea0b4269f5e",
+  "name": "【好運狐狸】",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://furych.com/artists/moyu",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/y_planet_moyu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

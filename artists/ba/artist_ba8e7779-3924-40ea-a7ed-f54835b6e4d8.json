@@ -1,0 +1,17 @@
+{
+  "id": "artist_ba8e7779-3924-40ea-a7ed-f54835b6e4d8",
+  "name": "鸚吉利",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/FruityParrots/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

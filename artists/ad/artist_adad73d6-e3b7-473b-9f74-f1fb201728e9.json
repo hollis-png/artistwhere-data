@@ -1,0 +1,45 @@
+{
+  "id": "artist_adad73d6-e3b7-473b-9f74-f1fb201728e9",
+  "name": "kao_graphy",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/kao_826823",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://linkpota.to/kao_826826",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/kao826826",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.amazon.jp/hz/wishlist/ls/1B5VY80OOET1A?ref_=wl_share",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/KAOOOO_COS/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kao_826826",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

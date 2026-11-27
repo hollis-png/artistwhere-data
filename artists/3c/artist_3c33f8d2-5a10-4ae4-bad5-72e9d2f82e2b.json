@@ -1,0 +1,42 @@
+{
+  "id": "artist_3c33f8d2-5a10-4ae4-bad5-72e9d2f82e2b",
+  "name": "Catity cosplay",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/cosplayer_caity",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/CosplayerCaity",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/cosplayer.caity2.0/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/cosplayer_caity/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCY50ibikolJUOA8Wfs6sHzw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

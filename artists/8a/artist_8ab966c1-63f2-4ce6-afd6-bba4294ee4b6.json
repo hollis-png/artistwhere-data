@@ -1,0 +1,37 @@
+{
+  "id": "artist_8ab966c1-63f2-4ce6-afd6-bba4294ee4b6",
+  "name": "不要那麼吉",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/drawdoublegi",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/gigidouble0323",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/gigidouble0323/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/75778146",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/gigidouble0323",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

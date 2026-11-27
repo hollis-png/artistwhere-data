@@ -1,0 +1,17 @@
+{
+  "id": "artist_9303c02b-129d-42a5-82c8-ffa8dd00ba33",
+  "name": "うみのさち",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/suiheisen1125",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

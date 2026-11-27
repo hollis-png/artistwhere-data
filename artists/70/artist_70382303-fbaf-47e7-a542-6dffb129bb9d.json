@@ -1,0 +1,17 @@
+{
+  "id": "artist_70382303-fbaf-47e7-a542-6dffb129bb9d",
+  "name": "巨匠電腦",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pcschool.com.tw/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

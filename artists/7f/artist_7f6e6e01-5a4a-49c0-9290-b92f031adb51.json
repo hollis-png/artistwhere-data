@@ -1,0 +1,28 @@
+{
+  "id": "artist_7f6e6e01-5a4a-49c0-9290-b92f031adb51",
+  "name": "咩噗怪",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yuhipien",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yuhi_sleepy",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yuhi_sleepy",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

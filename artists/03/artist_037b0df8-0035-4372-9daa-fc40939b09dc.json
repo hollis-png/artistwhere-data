@@ -1,0 +1,49 @@
+{
+  "id": "artist_037b0df8-0035-4372-9daa-fc40939b09dc",
+  "name": "Atelier Kingyo(金魚工房)",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45",
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/atelier_kingyo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Atelier.Kingyo.moe/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/atelier_kingyo/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/337794",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/KingyoBachi",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCdtYdCWYhIpz8Wgnv1UqJcg",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

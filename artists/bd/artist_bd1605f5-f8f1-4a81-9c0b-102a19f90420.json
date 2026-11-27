@@ -1,0 +1,29 @@
+{
+  "id": "artist_bd1605f5-f8f1-4a81-9c0b-102a19f90420",
+  "name": "企鵝冰屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Koutei_Pengu1n",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100035737987126",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/44935338",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

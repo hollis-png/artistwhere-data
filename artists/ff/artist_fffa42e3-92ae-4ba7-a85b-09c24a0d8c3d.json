@@ -1,0 +1,29 @@
+{
+  "id": "artist_fffa42e3-92ae-4ba7-a85b-09c24a0d8c3d",
+  "name": "林檎的貓主子",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ringo2218/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/ringo2218",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCsZZiDZkYtXwdofsIXhlcqg",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

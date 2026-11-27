@@ -1,0 +1,18 @@
+{
+  "id": "artist_42006782-ddbb-4b92-b48f-db5577741abb",
+  "name": "夏洛不明",
+  "types": [
+    "craft",
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/huyue0410",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

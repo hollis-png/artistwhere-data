@@ -1,0 +1,44 @@
+{
+  "id": "artist_770ed992-cf85-4df8-afbe-b60ef60a91bc",
+  "name": "古怪KoKai",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://cxc.today/zh/store/KoKai/work",
+      "platform": "CXC",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/kokai",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kokai.tw",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kokai543/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kokai1220",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/KokaiTw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

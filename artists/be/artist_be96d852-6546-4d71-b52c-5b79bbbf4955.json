@@ -1,0 +1,38 @@
+{
+  "id": "artist_be96d852-6546-4d71-b52c-5b79bbbf4955",
+  "name": "幽幽",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/@yiokaki.owo/",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "工作經歷"
+    },
+    {
+      "url": "https://www.instagram.com/yuki_yu_owo",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/35767309",
+      "platform": "Pixiv",
+      "status": "alive",
+      "displayName": "幽幽yuki"
+    },
+    {
+      "url": "https://x.com/yuki__yu_owo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

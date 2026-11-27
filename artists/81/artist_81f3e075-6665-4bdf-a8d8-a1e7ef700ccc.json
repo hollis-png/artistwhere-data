@@ -1,0 +1,31 @@
+{
+  "id": "artist_81f3e075-6665-4bdf-a8d8-a1e7ef700ccc",
+  "name": "恐怖白果醬",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/simelu1209",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/simelu2016?locale=ja_JP",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/simelu",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

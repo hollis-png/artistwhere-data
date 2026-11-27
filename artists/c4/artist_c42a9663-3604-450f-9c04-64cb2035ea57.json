@@ -1,0 +1,44 @@
+{
+  "id": "artist_c42a9663-3604-450f-9c04-64cb2035ea57",
+  "name": "舞々",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/nishijimamaimai",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://mai-mai.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://nishijimamai327.wixsite.com/-site",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nishijima.maimai",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UChFLyijIQqVo513xP2vSn_w",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mai_nishijima",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

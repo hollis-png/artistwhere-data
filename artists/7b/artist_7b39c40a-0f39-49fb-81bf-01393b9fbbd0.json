@@ -1,0 +1,23 @@
+{
+  "id": "artist_7b39c40a-0f39-49fb-81bf-01393b9fbbd0",
+  "name": "如月And黑澤With一夜",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.notion.so/23068379a8b18094a7bec188d0d13f1a?source=copy_link",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/_zuyaaaaa",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

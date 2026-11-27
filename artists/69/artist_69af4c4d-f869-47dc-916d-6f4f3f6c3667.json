@@ -1,0 +1,44 @@
+{
+  "id": "artist_69af4c4d-f869-47dc-916d-6f4f3f6c3667",
+  "name": "左手有六指",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/liuzhi",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://liuzhi.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://marshmallow-qa.com/k8znxinnr3iyit6?t=eu39Xk",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/liu.zhi.783962#",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "Liu Zhi"
+    },
+    {
+      "url": "https://www.pixiv.net/users/19467930",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Liuzhi_II",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

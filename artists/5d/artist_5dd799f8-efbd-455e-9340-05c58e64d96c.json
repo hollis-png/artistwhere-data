@@ -1,0 +1,23 @@
+{
+  "id": "artist_5dd799f8-efbd-455e-9340-05c58e64d96c",
+  "name": "雪白薄紗",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/@purelysilkvoice",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/purelysilkvoice",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

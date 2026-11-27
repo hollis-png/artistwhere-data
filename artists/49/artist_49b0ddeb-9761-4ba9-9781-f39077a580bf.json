@@ -1,0 +1,17 @@
+{
+  "id": "artist_49b0ddeb-9761-4ba9-9781-f39077a580bf",
+  "name": "小文西畫廊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100090540842885",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

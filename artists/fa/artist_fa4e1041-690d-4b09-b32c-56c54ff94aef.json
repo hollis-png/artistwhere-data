@@ -1,0 +1,39 @@
+{
+  "id": "artist_fa4e1041-690d-4b09-b32c-56c54ff94aef",
+  "name": "バイキング",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://katto317.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://plurk.com/katto317",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3428351",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/moukaplay",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/umeboshi10191",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

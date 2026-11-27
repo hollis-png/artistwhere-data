@@ -1,0 +1,20 @@
+{
+  "id": "artist_b5a73d98-c187-4a82-80e7-3950ebb81f90",
+  "name": "芸草冰",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/6586231",
+      "platform": "Pixiv",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/su_yun81037",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

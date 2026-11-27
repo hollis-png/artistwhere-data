@@ -1,0 +1,52 @@
+{
+  "id": "artist_83bf5621-4031-4c14-92af-eab1613e7665",
+  "name": "リカ空間",
+  "types": [
+    "artist",
+    "other",
+    "vtuber"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/E59698C2-D4E9-4189-B828-E889A4E45B3B/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=rikakuukann",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100064659256691",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/rikakuukann",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/hanaringosui",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ringojuru",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/zekkyon",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "artist_8d174983-ae06-4557-be17-89894bd8ef30",
+  "name": "Neko²AirLine",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/himononeko",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/nyarumaa",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nyarumaa.cosplay/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

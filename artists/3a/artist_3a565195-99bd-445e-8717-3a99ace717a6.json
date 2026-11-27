@@ -1,0 +1,49 @@
+{
+  "id": "artist_3a565195-99bd-445e-8717-3a99ace717a6",
+  "name": "kuse",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://kuse0201.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/kuse0201",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/kuse0201",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2345928",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/26503290",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Kuse0201",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ebkim00",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

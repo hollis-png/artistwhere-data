@@ -1,0 +1,33 @@
+{
+  "id": "artist_4a87fc05-c0e1-4892-8c4d-787713d3cdd5",
+  "name": "福呱娛樂",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/blessingfrog20240629",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/blessingfrog20240629",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@blessingfrog",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Blessingfrog",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

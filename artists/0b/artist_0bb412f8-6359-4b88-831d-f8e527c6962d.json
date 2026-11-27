@@ -1,0 +1,17 @@
+{
+  "id": "artist_0bb412f8-6359-4b88-831d-f8e527c6962d",
+  "name": "白芍產糧舖",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61560306185150",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

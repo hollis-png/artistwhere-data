@@ -1,0 +1,37 @@
+{
+  "id": "artist_62941d59-fac8-4df5-8343-bdbadceeb048",
+  "name": "魯咪ArcZumi",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/ArcZumi",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ArcZumi",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ArcZumi/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6064767",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/arczumi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

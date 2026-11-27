@@ -1,0 +1,26 @@
+{
+  "id": "artist_71019623-1eb8-4acc-be45-fda72adb7ab3",
+  "name": "桃桃吃桃桃",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/mimi.yu.12177",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/oocdawang",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

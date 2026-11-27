@@ -1,0 +1,25 @@
+{
+  "id": "artist_63c52b4a-73ab-4d4f-b809-f7c8e81bddb5",
+  "name": "神祕箱 Nazobako",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/bako_nazo/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@nazobakoch.-1027",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/NazoBako",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

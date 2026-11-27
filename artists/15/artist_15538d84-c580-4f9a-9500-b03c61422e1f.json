@@ -1,0 +1,27 @@
+{
+  "id": "artist_15538d84-c580-4f9a-9500-b03c61422e1f",
+  "name": "EN異界書坊",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/EnAnimeChannel/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/c/ENvideo",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ENvideo10303",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

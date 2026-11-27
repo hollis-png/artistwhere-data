@@ -1,0 +1,25 @@
+{
+  "id": "artist_e395ec83-8615-4c3d-a395-a8788c938b63",
+  "name": "產地直送",
+  "types": [],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://sites.google.com/view/miniegg/%E9%A6%96%E9%A0%81",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/nagoberry",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nago_toto",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

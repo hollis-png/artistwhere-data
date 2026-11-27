@@ -1,0 +1,47 @@
+{
+  "id": "artist_0f892bb6-35a2-4713-97fa-95b1e7db061b",
+  "name": "TOZAN:BU",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://fjym.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/fujiyama",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/fujiyamatzn",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/fujiyamatozan",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/tozanbu",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCP47Vd5X4x3epl7yVxFNxoQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/fujiyamatzn",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

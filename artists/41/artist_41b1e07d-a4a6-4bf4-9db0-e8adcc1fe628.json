@@ -1,0 +1,35 @@
+{
+  "id": "artist_41b1e07d-a4a6-4bf4-9db0-e8adcc1fe628",
+  "name": "貓窩沒有貓",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/mewo.cat.78413/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100003316908954",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7479841",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/woodhxx123",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_2d2f087e-bbee-45df-bcb4-89aa64a0cf02",
+  "name": "呀派紅豆",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/PJiu1210",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kuriri00",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

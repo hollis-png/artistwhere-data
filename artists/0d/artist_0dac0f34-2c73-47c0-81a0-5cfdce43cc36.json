@@ -1,0 +1,26 @@
+{
+  "id": "artist_0dac0f34-2c73-47c0-81a0-5cfdce43cc36",
+  "name": "教皇和牛專賣工作室",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/kkbeafwork/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.kkcospalyshop.com",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

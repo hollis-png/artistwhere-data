@@ -1,0 +1,31 @@
+{
+  "id": "artist_a5e4250e-0cb0-4be2-bbb5-6087cb5dbac1",
+  "name": "SQUARD FIVE",
+  "types": [
+    "artist",
+    "craft",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/oroninshino",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1280720",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/EjShino",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

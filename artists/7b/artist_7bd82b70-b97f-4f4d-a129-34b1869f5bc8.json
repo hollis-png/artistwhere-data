@@ -1,0 +1,26 @@
+{
+  "id": "artist_7bd82b70-b97f-4f4d-a129-34b1869f5bc8",
+  "name": "星之色",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/aqua_creator_tw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/%E6%98%9F%E4%B9%8B%E8%89%B2-100094048361959/?paipv=0&eav=AfZi-CvYQX5fwmDyWwx3IkcmLyHaymAWoWce8tBwfYeC2BYvumv8Rl16sxm1RwVtP8k&_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

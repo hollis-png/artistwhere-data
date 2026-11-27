@@ -1,0 +1,41 @@
+{
+  "id": "artist_409985f0-19f1-445f-9bb0-3ae2ddc3bff5",
+  "name": "部屋26℃",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/3D37A6AC-2283-4615-B112-C33FAACCAD33/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Sayika_SP",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sayikasp",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/39651",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/iwks",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

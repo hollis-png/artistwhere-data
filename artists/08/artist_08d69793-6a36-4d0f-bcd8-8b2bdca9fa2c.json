@@ -1,0 +1,25 @@
+{
+  "id": "artist_08d69793-6a36-4d0f-bcd8-8b2bdca9fa2c",
+  "name": "陰陽流-Rui-",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/YYruiYY/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yy_rui_yy/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/YY_rui_YY",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

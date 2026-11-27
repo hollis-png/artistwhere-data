@@ -1,0 +1,28 @@
+{
+  "id": "artist_e419919b-5440-4ec6-99dd-e85464372367",
+  "name": "鬼山蓬萊支部",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=adam8662067",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18768717",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/2getrekt264",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

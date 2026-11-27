@@ -1,0 +1,29 @@
+{
+  "id": "artist_3a6c5636-8001-4a2e-9cf3-7b7028774833",
+  "name": "食Channel",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/770864",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/fatals900104",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC7agc-C9S3VuNswJhQPNVgw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

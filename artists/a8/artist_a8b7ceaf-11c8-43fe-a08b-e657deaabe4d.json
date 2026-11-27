@@ -1,0 +1,30 @@
+{
+  "id": "artist_a8b7ceaf-11c8-43fe-a08b-e657deaabe4d",
+  "name": "阿里阿巴巴阿千千",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61588219806313",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/23563421",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@rbaba_cain2",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rbaba_cain2",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

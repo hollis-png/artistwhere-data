@@ -1,0 +1,25 @@
+{
+  "id": "artist_bb8bf442-dfad-49b8-ba6f-1e52bb7956a3",
+  "name": "[CHOCOLATE SHOP]",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/4768145",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chocolateshop_i",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

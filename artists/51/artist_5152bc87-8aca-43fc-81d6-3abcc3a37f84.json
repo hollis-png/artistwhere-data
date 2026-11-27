@@ -1,0 +1,78 @@
+{
+  "id": "artist_5152bc87-8aca-43fc-81d6-3abcc3a37f84",
+  "name": "VividKURO",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/nolmo.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/nolmo",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=e1000temu100",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://misskey.io/@nolmo",
+      "platform": "Mastodon",
+      "status": "alive"
+    },
+    {
+      "url": "https://nolmo.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/Nolmo",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/nolmowu",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/_nolmo/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/nolmo",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11431691",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/vanitas__0",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/_nolmo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/monol018",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "artist_43e39953-85f2-4fad-9f10-1e0caa9a7085",
+  "name": "田書坊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/SatoriMelon/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/gameboy931024",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

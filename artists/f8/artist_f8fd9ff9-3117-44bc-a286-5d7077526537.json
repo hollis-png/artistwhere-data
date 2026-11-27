@@ -1,0 +1,22 @@
+{
+  "id": "artist_f8fd9ff9-3117-44bc-a286-5d7077526537",
+  "name": "王國放送局",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.sheenagames.com/kbc/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/SheenaKBC",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

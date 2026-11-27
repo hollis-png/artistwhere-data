@@ -1,0 +1,27 @@
+{
+  "id": "artist_a5659769-8ebf-44f6-a844-5c2e5c407bca",
+  "name": "FAX機關",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/4944330",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/fax61209",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/fax61209",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

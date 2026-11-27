@@ -1,0 +1,30 @@
+{
+  "id": "artist_28c67559-eb65-4eba-ae6a-edcf5fef40e6",
+  "name": "アストレアの天秤",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/507899",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://profu.link/u/kagurayuria",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kagurayuria/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kagurayuriacos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

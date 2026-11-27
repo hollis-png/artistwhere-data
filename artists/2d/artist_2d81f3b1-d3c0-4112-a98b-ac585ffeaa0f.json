@@ -1,0 +1,17 @@
+{
+  "id": "artist_2d81f3b1-d3c0-4112-a98b-ac585ffeaa0f",
+  "name": "中正大學動漫社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/CCUACGN",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

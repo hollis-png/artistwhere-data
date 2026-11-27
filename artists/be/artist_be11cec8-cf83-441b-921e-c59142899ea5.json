@@ -1,0 +1,48 @@
+{
+  "id": "artist_be11cec8-cf83-441b-921e-c59142899ea5",
+  "name": "Damier Cookie 妲米餅乾",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/damiercookie.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=DamierCookie",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/Damier.Cookie",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Damier.Cookie",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/62701406",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Damier_Cookie",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

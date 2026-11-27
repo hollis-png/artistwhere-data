@@ -1,0 +1,23 @@
+{
+  "id": "artist_94b0f1ec-bcfc-46ac-865c-643ccfab08d3",
+  "name": "圍裙上有牙膏",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/monmon511401",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mon_511312",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

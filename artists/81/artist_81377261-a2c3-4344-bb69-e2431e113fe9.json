@@ -1,0 +1,18 @@
+{
+  "id": "artist_81377261-a2c3-4344-bb69-e2431e113fe9",
+  "name": "青頭白龍",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/bhwhitedragon",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artist_8c8f9422-7314-40c8-bb0b-1dc259759780",
+  "name": "J9文創鋪",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100065631123175",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

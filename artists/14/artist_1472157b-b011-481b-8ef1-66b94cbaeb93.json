@@ -1,0 +1,22 @@
+{
+  "id": "artist_1472157b-b011-481b-8ef1-66b94cbaeb93",
+  "name": "Royalみるく",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/4837211",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/m1k0neko",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

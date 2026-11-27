@@ -1,0 +1,17 @@
+{
+  "id": "artist_7222a5eb-12e5-4892-8423-e9caa3ebc87f",
+  "name": "いちごさいず",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/@natsumeeri",
+      "platform": "YouTube",
+      "status": "dead"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "artist_c9a3a863-23cc-4c53-983b-1bf0573b8fe5",
+  "name": "奶油醬油美食街",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/CSS74134570",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

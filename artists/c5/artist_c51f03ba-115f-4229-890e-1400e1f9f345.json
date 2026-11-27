@@ -1,0 +1,28 @@
+{
+  "id": "artist_c51f03ba-115f-4229-890e-1400e1f9f345",
+  "name": "自動販賣機",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/roocoocoo",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/solidaysrcc/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/solidaysrcc",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "artist_18add740-499c-4c50-9d65-633cca85ae0c",
+  "name": "逐水草而居",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/hitomi7828",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

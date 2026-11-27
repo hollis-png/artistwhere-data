@@ -1,0 +1,23 @@
+{
+  "id": "artist_fbaf4e74-bb78-4236-8bdd-417fb7e3e81c",
+  "name": "瑪魯瑪魯手創",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/marumaruDIY/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/marulia.crafter/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

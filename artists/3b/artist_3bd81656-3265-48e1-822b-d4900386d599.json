@@ -1,0 +1,26 @@
+{
+  "id": "artist_3bd81656-3265-48e1-822b-d4900386d599",
+  "name": "ACG動漫迷的秘密會社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/acgsecretclub/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Rodge",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "artist_347c4132-6fee-4fdf-8149-5cdc29bb9262",
+  "name": "老子懶癌末期",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/natsuki1208",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063841011138",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/natsuki_honpo/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/15918082",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/NATSUKI_tetsukuri",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/natsuki_honpo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

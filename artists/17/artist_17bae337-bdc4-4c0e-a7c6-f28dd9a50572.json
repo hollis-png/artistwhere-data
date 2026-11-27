@@ -1,0 +1,20 @@
+{
+  "id": "artist_17bae337-bdc4-4c0e-a7c6-f28dd9a50572",
+  "name": "格子貓娃舖",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/CHECKCAT/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

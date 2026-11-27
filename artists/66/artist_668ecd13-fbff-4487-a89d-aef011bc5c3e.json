@@ -1,0 +1,47 @@
+{
+  "id": "artist_668ecd13-fbff-4487-a89d-aef011bc5c3e",
+  "name": "英國酒狐",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/3B460821-62FF-401B-AD3F-9491B9A78669/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/YoukaiNatori",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/NatoriYoukai/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8590070",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/YoukaiNatori",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/NatoriYoukai",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

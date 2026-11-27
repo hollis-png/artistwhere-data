@@ -1,0 +1,35 @@
+{
+  "id": "artist_681f9486-035c-4df3-8283-0680cd20dcb3",
+  "name": "哭蛙蛙kuwa",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/kuwa2332.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kuwa2332",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kuwa2332",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8584617",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kuwa2332",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

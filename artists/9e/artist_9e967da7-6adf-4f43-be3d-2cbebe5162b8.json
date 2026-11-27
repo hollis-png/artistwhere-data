@@ -1,0 +1,22 @@
+{
+  "id": "artist_9e967da7-6adf-4f43-be3d-2cbebe5162b8",
+  "name": "待援生活",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61554084372762",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

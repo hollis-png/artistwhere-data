@@ -1,0 +1,27 @@
+{
+  "id": "artist_65e0f579-bf43-4e23-8127-a09e00e91857",
+  "name": "哈索爾的理想國",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://hathor2020.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/cw/Hathor2020",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Hathor2020",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "artist_26c57639-bc9b-41f0-b4a6-a8fafc6ef06e",
+  "name": "絕讚發情中",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/tentaclespet/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "artist_fcfc3c8a-be70-4e1f-8d46-18d293289ce2",
+  "name": "SAKUSAKU",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61561083549852",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ouotriangle/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/69844215",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/taida_ouo",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/616SAKU",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

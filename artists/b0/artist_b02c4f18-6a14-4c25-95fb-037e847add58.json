@@ -1,0 +1,32 @@
+{
+  "id": "artist_b02c4f18-6a14-4c25-95fb-037e847add58",
+  "name": "慕晴茶館",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/muqing",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MuqingOfficial",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCu9fr1C4zVazXO-Tl-J0tFg",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Muqing_Official",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

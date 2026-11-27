@@ -1,0 +1,33 @@
+{
+  "id": "artist_6c0dad5a-c98c-4a6a-8511-89cb6a5a36fb",
+  "name": "Shawn_artTW乾你拿",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100090837847940",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/tu920510/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/91926387",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Shawn_artTW",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

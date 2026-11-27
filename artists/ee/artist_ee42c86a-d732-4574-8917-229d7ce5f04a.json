@@ -1,0 +1,19 @@
+{
+  "id": "artist_ee42c86a-d732-4574-8917-229d7ce5f04a",
+  "name": "哨女",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/PUNIOFUKAMI",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "artist_6e745824-ffc3-4d9c-8989-fb8b6b2745f8",
+  "name": "完全に完璧に全壁に変態",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/shoron_pow",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/TKZHentai",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3693397",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

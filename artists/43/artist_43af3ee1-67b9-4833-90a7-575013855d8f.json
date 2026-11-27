@@ -1,0 +1,43 @@
+{
+  "id": "artist_43af3ee1-67b9-4833-90a7-575013855d8f",
+  "name": "SugarFree",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/kamuikaoru",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/kamuikaoru",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kamuikaoru",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/159625",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/c/SugarFreeKamui",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Kamui_SugarFree",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "artist_54360501-48e5-4e49-a8a5-f018492bee38",
+  "name": "鈴澤姛",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/liz022191",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/lizard_0221",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100080692525356",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/lizard0221/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18090585",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/lizard0221",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

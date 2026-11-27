@@ -1,0 +1,32 @@
+{
+  "id": "artist_3715a7e2-9d04-4e57-8ebb-1d32c99e5160",
+  "name": "李賴虎家",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/channel/UCrycDv1sYVGH5GK8XBTXABg",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCx7GU8C3cr7vqp_SbS-8P-w",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/DadaRelive",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Relive_winnie",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

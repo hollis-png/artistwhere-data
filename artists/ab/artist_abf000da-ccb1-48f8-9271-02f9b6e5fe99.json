@@ -1,0 +1,38 @@
+{
+  "id": "artist_abf000da-ccb1-48f8-9271-02f9b6e5fe99",
+  "name": "M.S.E.S. Studio",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/207548",
+      "platform": "Fantia",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/gokaze88",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/_gokaze_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/gokaze88",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/_gokaze_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

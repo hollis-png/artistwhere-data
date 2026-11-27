@@ -1,0 +1,44 @@
+{
+  "id": "artist_fbcff6eb-b113-4018-9143-16da2387736f",
+  "name": "なまねこカフェ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/263490?locale=jp",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://misskey.io/@namahyou",
+      "platform": "Mastodon",
+      "status": "alive"
+    },
+    {
+      "url": "https://namahyou.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/13075529",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/namahyou3",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/namahyou_2nd",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

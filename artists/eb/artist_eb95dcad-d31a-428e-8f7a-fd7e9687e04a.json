@@ -1,0 +1,30 @@
+{
+  "id": "artist_eb95dcad-d31a-428e-8f7a-fd7e9687e04a",
+  "name": "給夜桑倒一杯卡布奇諾",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/yorusan_otaku",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Yorusan0615",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Yoru_san0615",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

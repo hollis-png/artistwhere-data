@@ -1,0 +1,22 @@
+{
+  "id": "artist_5a9bf936-c5d9-4049-aac2-fa638681a5ed",
+  "name": "Tapioka",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/TAPIPIPIPIPIPII",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/249535",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

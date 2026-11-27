@@ -1,0 +1,18 @@
+{
+  "id": "artist_a55934ad-f5a1-48e5-a652-2c191ca30d61",
+  "name": "本喵放空自我",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/YuutsuNeko",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

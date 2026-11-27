@@ -1,0 +1,15 @@
+{
+  "id": "artist_7fb7fd97-e4ef-4093-b4ec-f576320ae700",
+  "name": "Monster Hero",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/monsterhero0624/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

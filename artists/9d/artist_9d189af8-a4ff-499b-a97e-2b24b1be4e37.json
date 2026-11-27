@@ -1,0 +1,55 @@
+{
+  "id": "artist_9d189af8-a4ff-499b-a97e-2b24b1be4e37",
+  "name": "AoiHinamori",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://deerdonate.herokuapp.com/donation/AoiHinamori",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/aoihinamori",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/aoihinamori",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/AoiHinamori",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/AoiHinamori1024",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/aoihinamori",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@AoiHinamoriCh",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCJSBNjYCB1pu_t0FajsY17g/featured",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

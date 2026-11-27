@@ -1,0 +1,32 @@
+{
+  "id": "artist_e4129c10-e399-4700-92f3-ea84e5ffb360",
+  "name": "Karen",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/chung791114",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/10454245",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/KARENshootingstar",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

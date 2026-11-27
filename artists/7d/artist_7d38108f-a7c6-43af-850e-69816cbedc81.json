@@ -1,0 +1,39 @@
+{
+  "id": "artist_7d38108f-a7c6-43af-850e-69816cbedc81",
+  "name": "愛過橘毛陣線",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lisachang201213.wixsite.com/website",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/lisachang2011",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/en/users/8329778",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/lisachang201213",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/luminol5221",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

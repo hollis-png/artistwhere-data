@@ -1,0 +1,40 @@
+{
+  "id": "artist_1e7f2f74-58ee-41b9-bc40-14f54b76c065",
+  "name": "PoiLiang",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/poiliang.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61579182357523",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/poiliang/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/50880072",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/PoiLiang",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

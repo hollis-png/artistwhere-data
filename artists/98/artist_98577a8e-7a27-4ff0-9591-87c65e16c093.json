@@ -1,0 +1,20 @@
+{
+  "id": "artist_98577a8e-7a27-4ff0-9591-87c65e16c093",
+  "name": "和製雪景",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://wasei-sekkei.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/waseisekkei",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

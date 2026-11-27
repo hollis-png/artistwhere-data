@@ -1,0 +1,28 @@
+{
+  "id": "artist_20309bac-c617-4446-8266-c7e25435d506",
+  "name": "CurtainCall",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/IChopage",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ccroquette/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/68210746",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "artist_c32ac54f-4c7c-49a0-978c-14340b43a7b1",
+  "name": "PIXEL DK",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/pixeldk1129/",
+      "platform": "Instagram",
+      "status": "alive",
+      "displayName": "PIXEL DK 哪里どこ（@pixeldk1129）"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "artist_8cfe573a-527f-4b14-8dd9-afd319ff353d",
+  "name": "Neiba Design",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/NeibaDesign",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

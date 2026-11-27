@@ -1,0 +1,27 @@
+{
+  "id": "artist_25423530-2a52-4bbb-a8cf-06582936967f",
+  "name": "庚辰龍屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/raramuda",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100082241450630",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/raramuda_0101",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

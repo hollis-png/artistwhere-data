@@ -1,0 +1,30 @@
+{
+  "id": "artist_9d17f759-8d34-42b6-96b7-3a20ed636998",
+  "name": "Kazeki風希",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/kazeki012",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kazeki0123/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ckazeki",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

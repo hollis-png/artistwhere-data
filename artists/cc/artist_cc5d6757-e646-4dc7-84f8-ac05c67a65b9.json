@@ -1,0 +1,28 @@
+{
+  "id": "artist_cc5d6757-e646-4dc7-84f8-ac05c67a65b9",
+  "name": "翡翠亭",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "http://hisuitei.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/tsubasu_izumi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/874633",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artist_7663d1f0-2fd8-4828-92c5-db1a81ec4e9a",
+  "name": "XI˙Ɐ",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/4825428",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Asasin_9",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

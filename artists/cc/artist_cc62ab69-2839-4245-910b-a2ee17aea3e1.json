@@ -1,0 +1,15 @@
+{
+  "id": "artist_cc62ab69-2839-4245-910b-a2ee17aea3e1",
+  "name": "灰島工作室",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/GrayIslandStudio",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

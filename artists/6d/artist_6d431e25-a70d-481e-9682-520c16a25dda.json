@@ -1,0 +1,45 @@
+{
+  "id": "artist_6d431e25-a70d-481e-9682-520c16a25dda",
+  "name": "蚩尤",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://amatizqueen.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://potofu.me/chiyou",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/StudioAmatiz",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/cw/CHIYOU",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCGH4cbe87KrlXJHBAujnwrQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/amatizqueen",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

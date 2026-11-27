@@ -1,0 +1,59 @@
+{
+  "id": "artist_4ca869d5-dd6c-470a-91de-f1315005c91b",
+  "name": "darkmaya",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://gumroad.com/darkmaya",
+      "platform": "Gumroad",
+      "status": "alive"
+    },
+    {
+      "url": "https://patreon.com/darkmaya",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://pixiv.net/fanbox/creator/474346",
+      "platform": "Pixiv",
+      "status": "alive",
+      "displayName": "Darkmaya｜pixivFANBOX"
+    },
+    {
+      "url": "https://twitter.com/darkmaya6210",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/darkmaya12/",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "闇夢館"
+    },
+    {
+      "url": "https://www.pixiv.net/users/474346",
+      "platform": "Pixiv",
+      "status": "alive",
+      "displayName": "Darkmaya"
+    },
+    {
+      "url": "https://www.plurk.com/LuCho1001",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/m/darkmaya",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "artist_f89c0fa7-8e1c-4908-b247-cec5d6867773",
+  "name": "小森クマ",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://dc.komorikuma.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://komorikuma.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/komorikuma",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.ecpay.com.tw/Broadcaster/Donate/8466857B914567F1E82EFEEAF8F658EF",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/komorikuma.vtuber/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/komorikuma_vtuber/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@komorikuma_vtuber",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/komorikuma_vtuber",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@komorikuma_vtuber/featured",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/komorikuma_vt",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

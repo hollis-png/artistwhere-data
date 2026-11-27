@@ -1,0 +1,27 @@
+{
+  "id": "artist_158a391b-5624-4a2f-b034-4d0914efc570",
+  "name": "芊蕪 Senna",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/sennaouocosplay",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/senna_ouo/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/senna_ouo",
+      "platform": "Patreon",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "artist_ea78a3a0-c186-4611-91c4-50dd7e19ef6a",
+  "name": "芥川組",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Akutagawa.Vtuber.Project/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/akutagawastudio",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@YukinoshitaOriyuki",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/AkutagawaStudio",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

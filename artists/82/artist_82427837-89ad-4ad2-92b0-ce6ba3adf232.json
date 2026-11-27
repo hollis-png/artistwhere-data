@@ -1,0 +1,47 @@
+{
+  "id": "artist_82427837-89ad-4ad2-92b0-ce6ba3adf232",
+  "name": "星米恩",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/ronazure",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063983236404&paipv=0&eav=AfazufJteeeOQ4Dgqh8XCKOBnggjC5QiTFf01y1RiCevJJ1boSJwBa44upmD8IjPna8",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/shin.meyin",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/azure.507",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/42311209",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/azureron",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

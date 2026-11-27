@@ -1,0 +1,41 @@
+{
+  "id": "artist_4b9a2c5b-e7de-417a-a7ad-94cffbd4f842",
+  "name": "一生GO的蟲蟲商號",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://line.me/ti/p/9L15xykg8Q?_gl=1*p25lcq*_gcl_au*MTA5NDQ0MTMwLjE3NjA2MTgyODk.*_ga*MTg5MDY2Mzc1OC4xNzYwNjE4Mjkw*_ga_0PV16Y9CZG*czE3NjQ3MzY3NjIkbzIzJGcxJHQxNzY0NzM5MTk1JGo2MCRsMCRoMA..",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/lanlan077",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Lan_Lan_tw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/chongchong077",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@anananwu",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

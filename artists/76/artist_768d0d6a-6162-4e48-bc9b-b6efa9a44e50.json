@@ -1,0 +1,48 @@
+{
+  "id": "artist_768d0d6a-6162-4e48-bc9b-b6efa9a44e50",
+  "name": "空白頁。",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/yuutsubasa",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/laiyuuko",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/laiyouzi/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yuu_ko0926",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1968690",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/the_drme",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

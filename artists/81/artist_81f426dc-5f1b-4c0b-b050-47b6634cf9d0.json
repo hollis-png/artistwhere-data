@@ -1,0 +1,22 @@
+{
+  "id": "artist_81f426dc-5f1b-4c0b-b050-47b6634cf9d0",
+  "name": "不瀟也得買一點",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/share/1CsYVozrAs/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/haoyue2925184",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "artist_aa3f2d50-0f5c-49a6-a33b-aebe27a3dee1",
+  "name": "ありぃずこーひー",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/allie_cos",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/amane_allie",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/allie_cos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

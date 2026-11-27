@@ -1,0 +1,43 @@
+{
+  "id": "artist_32a975b5-8110-47f3-bcf1-08c0c14a1663",
+  "name": "杯杯咖噗",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitch.tv/beibei_temple",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/kappumarginal",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.furuke.com/kappukappu",
+      "platform": "Furuke",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kappu_marginal/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@kappu_marginal",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/beikappu914181",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

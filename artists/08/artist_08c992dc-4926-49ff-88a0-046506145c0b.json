@@ -1,0 +1,47 @@
+{
+  "id": "artist_08c992dc-4926-49ff-88a0-046506145c0b",
+  "name": "貓咪窩",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/44A11D24-51F1-4EB3-997A-67378CF2FB91/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/lunluncat2186",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/CatKinglun",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/people/%E9%80%99%E4%B8%8D%E6%98%AF%E8%B2%93%E5%92%AA%E7%AA%A9/100064026880533/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1053739",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/helln2186",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

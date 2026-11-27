@@ -1,0 +1,67 @@
+{
+  "id": "artist_422d5dab-ed85-4ff0-beed-84232ba9870d",
+  "name": "颶風攪拌機",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/creation.php?owner=hunman360",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/hunman360",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://p.ecpay.com.tw/19FC862",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/man_hun_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.doujin.com.tw/groups/info/5036/books",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.paypal.com/paypalme/hunman360",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2216707",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/hunman3600",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/hunman360",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCjwkQOw63HAwOjafYvEkQgw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "artist_36abebec-ce2a-441b-96f7-11e6330266e1",
+  "name": "TUT從荒野歸來",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/TUT1344",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/LLLTUTLLL",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/LLLTUTLLL",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/TUTyo",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

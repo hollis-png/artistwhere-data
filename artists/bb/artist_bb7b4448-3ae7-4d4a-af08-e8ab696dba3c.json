@@ -1,0 +1,27 @@
+{
+  "id": "artist_bb7b4448-3ae7-4d4a-af08-e8ab696dba3c",
+  "name": "渾球比比 BEBE",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/BEBE.cosplay/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ra.bebe.it/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/ra_bebe_it",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

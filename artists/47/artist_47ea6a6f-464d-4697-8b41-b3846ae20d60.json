@@ -1,0 +1,46 @@
+{
+  "id": "artist_47ea6a6f-464d-4697-8b41-b3846ae20d60",
+  "name": "NTUCCC台大卡漫社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/ntuccclub?ltsid=0567852b-6031-452c-9267-e747a89b0df9",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ntuccc/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ntuccclub/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ntuccc",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@ntuccclub",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@%E5%8F%B0%E5%A4%A7%E5%8D%A1%E6%BC%AB%E7%A4%BE",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

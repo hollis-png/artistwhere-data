@@ -1,0 +1,17 @@
+{
+  "id": "artist_96946169-e795-421f-97b0-8ef51bc976e7",
+  "name": "YP_Artwork",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/YellowPaintArtwork",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

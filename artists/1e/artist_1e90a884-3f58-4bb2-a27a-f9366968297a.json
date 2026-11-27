@@ -1,0 +1,32 @@
+{
+  "id": "artist_1e90a884-3f58-4bb2-a27a-f9366968297a",
+  "name": "達姆豹可愛",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/damu_the_seal",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/damu_the_seal",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Damu.seal/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/damu_the_seal",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

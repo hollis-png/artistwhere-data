@@ -1,0 +1,32 @@
+{
+  "id": "artist_ddb8115d-1292-4c15-acbc-ef8a98ae495e",
+  "name": "吉良綺形館",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/K1r476melon",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ji.liang.950529/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7814443",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Kira101516",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

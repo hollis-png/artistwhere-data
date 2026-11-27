@@ -1,0 +1,21 @@
+{
+  "id": "artist_5ae0af81-52b8-4a6d-b4d6-0b31f685c06c",
+  "name": "可愛貓主子罐罐金募集社",
+  "types": [],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/kayananashi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/87555141",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

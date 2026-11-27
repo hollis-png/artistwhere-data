@@ -1,0 +1,35 @@
+{
+  "id": "artist_7e51cf9d-2229-4054-815d-55b6d653b4f4",
+  "name": "真理毬果Marika",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/marikavtuber",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/marikavtuber/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/marika_vtuber?lang=zh-tw",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@MarikaVtuber",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/marika_vtuber",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

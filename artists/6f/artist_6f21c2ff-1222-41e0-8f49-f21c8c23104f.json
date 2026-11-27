@@ -1,0 +1,52 @@
+{
+  "id": "artist_6f21c2ff-1222-41e0-8f49-f21c8c23104f",
+  "name": "有隻貓窩",
+  "types": [
+    "artist",
+    "craft",
+    "other",
+    "vtuber"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/XN7has5",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://orangecat331.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/IsOrangeCat",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/17706136/artworks",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/orangecat331",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCsbuBwFXA8_vCdh8E8kBzbw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/orangecat_331",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

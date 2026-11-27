@@ -1,0 +1,43 @@
+{
+  "id": "artist_46591838-71f6-4b05-b8ec-a06387087a58",
+  "name": "百合室內盆栽",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/zhongin",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ZhongIN9611/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/zhongin9611/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/30922627",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ms0564006",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/in_zhong",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

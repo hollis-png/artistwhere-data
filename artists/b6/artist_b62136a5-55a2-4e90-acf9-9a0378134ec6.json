@@ -1,0 +1,17 @@
+{
+  "id": "artist_b62136a5-55a2-4e90-acf9-9a0378134ec6",
+  "name": "森雨小棧",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61559235615906",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

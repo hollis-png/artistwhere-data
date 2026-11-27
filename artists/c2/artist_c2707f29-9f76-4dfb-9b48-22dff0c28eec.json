@@ -1,0 +1,30 @@
+{
+  "id": "artist_c2707f29-9f76-4dfb-9b48-22dff0c28eec",
+  "name": "液体ねこ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/liquineeeeeeeko",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/DaZaWe/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11365349",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

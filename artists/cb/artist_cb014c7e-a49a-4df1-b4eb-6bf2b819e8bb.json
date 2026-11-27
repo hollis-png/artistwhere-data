@@ -1,0 +1,42 @@
+{
+  "id": "artist_cb014c7e-a49a-4df1-b4eb-6bf2b819e8bb",
+  "name": "狸貓茶亭",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "http://chatanuki396.fanbox.cc",
+      "platform": "Fanbox",
+      "status": "dead"
+    },
+    {
+      "url": "http://fantia.jp/fanclubs/84063",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://ganknow.com/chatanuki396?tab=shop",
+      "platform": "Ganknow",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6290306",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/s/u/akina736",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chatanuki396",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

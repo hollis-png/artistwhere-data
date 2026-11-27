@@ -1,0 +1,30 @@
+{
+  "id": "artist_143f9d8d-709c-4b64-aa09-62d589bbf0a6",
+  "name": "蛞蝓肉舍",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Vincent13946559",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61578071090909",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.instagram.com/annieliu9166_diary/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

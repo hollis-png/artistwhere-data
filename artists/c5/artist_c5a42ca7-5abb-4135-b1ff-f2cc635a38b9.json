@@ -1,0 +1,23 @@
+{
+  "id": "artist_c5a42ca7-5abb-4135-b1ff-f2cc635a38b9",
+  "name": "Delayder",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/5192",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/delayder",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

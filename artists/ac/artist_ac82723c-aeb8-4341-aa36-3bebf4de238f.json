@@ -1,0 +1,17 @@
+{
+  "id": "artist_ac82723c-aeb8-4341-aa36-3bebf4de238f",
+  "name": "SM2RB",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/SM2RB",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

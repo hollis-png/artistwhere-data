@@ -1,0 +1,60 @@
+{
+  "id": "artist_575005dc-9c30-457a-9ff2-6638b3355076",
+  "name": "餓小璇Miu",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://fans66.tw/v2066",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/miucosplay1206",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/smilecutty/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/miu.cosplayer/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/smilecutty",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@miu.cosplayer",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/smilecutty",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@miu821206",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/smilecutty",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

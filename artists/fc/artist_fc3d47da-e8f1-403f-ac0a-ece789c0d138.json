@@ -1,0 +1,32 @@
+{
+  "id": "artist_fc3d47da-e8f1-403f-ac0a-ece789c0d138",
+  "name": "RH帝",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/rh00322",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/que.di.gen/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/115711491",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/RH_00322",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

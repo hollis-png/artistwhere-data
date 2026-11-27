@@ -1,0 +1,48 @@
+{
+  "id": "artist_54c33300-b89c-4cff-9ae2-ad43a407182e",
+  "name": "Vtuber岩井莉莉",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/zAPt7hkxBK",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/PxWuLk8YBthx3JfDqNCaMI0fUSB2",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100094350553289#",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/Riryidesu/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/koiwaililyl",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@Riryidesu/featured",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Riryidesu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

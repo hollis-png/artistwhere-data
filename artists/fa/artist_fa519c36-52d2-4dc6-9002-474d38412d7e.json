@@ -1,0 +1,52 @@
+{
+  "id": "artist_fa519c36-52d2-4dc6-9002-474d38412d7e",
+  "name": "淺羽",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://asaba6771.wixsite.com/my-site",
+      "platform": "Link",
+      "status": "alive",
+      "displayName": "主頁"
+    },
+    {
+      "url": "https://facebook.com/wix",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=bill77180212",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://instagram.com/wix",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/asaba_6771",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/asaba0212",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "淺羽"
+    },
+    {
+      "url": "https://www.pixiv.net/users/25510757",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

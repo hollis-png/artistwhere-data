@@ -1,0 +1,35 @@
+{
+  "id": "artist_b7f3498c-4f79-42d8-b6e0-c98c90d1b3fa",
+  "name": "噴射毛球",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/pixiv670656/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/670656",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/248651000",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/MaluBall",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

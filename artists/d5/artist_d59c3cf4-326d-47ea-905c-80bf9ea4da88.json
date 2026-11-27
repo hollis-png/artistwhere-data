@@ -1,0 +1,26 @@
+{
+  "id": "artist_d59c3cf4-326d-47ea-905c-80bf9ea4da88",
+  "name": "角落工作室",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yami.no.plan/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yaminopan/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "artist_74ac93a0-d4a7-4ed6-a553-6a4b1f0caab3",
+  "name": "草神",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/kewpiewang",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hakaiwang",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

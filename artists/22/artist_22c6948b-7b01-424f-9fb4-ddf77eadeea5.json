@@ -1,0 +1,23 @@
+{
+  "id": "artist_22c6948b-7b01-424f-9fb4-ddf77eadeea5",
+  "name": "AiTower",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/dragonbone0000",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/25335780",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

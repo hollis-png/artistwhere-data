@@ -1,0 +1,32 @@
+{
+  "id": "artist_1e1e623e-d31e-47b5-a903-ebbfba10b857",
+  "name": "可口奶凍凍物園",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/B7S8Sm8zrb",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/naidondon_tw/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/yoyo30108/about",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yoyodon_TW",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

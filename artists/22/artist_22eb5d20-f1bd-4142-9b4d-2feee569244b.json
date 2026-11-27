@@ -1,0 +1,19 @@
+{
+  "id": "artist_22eb5d20-f1bd-4142-9b4d-2feee569244b",
+  "name": "外來物種團",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/Yumio0831",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

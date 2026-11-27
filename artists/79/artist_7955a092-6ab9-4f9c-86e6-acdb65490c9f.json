@@ -1,0 +1,21 @@
+{
+  "id": "artist_7955a092-6ab9-4f9c-86e6-acdb65490c9f",
+  "name": "=+喵耳園魔法道具屋+",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/cat_ears2007/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

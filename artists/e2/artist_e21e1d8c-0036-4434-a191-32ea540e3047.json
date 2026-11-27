@@ -1,0 +1,40 @@
+{
+  "id": "artist_e21e1d8c-0036-4434-a191-32ea540e3047",
+  "name": "小文西畫廊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/DpXgNnyAEr",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://g7lhn17v.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61557752053454",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3838279",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Dasketchci",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

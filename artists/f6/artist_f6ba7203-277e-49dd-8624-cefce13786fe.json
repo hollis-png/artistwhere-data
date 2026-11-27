@@ -1,0 +1,44 @@
+{
+  "id": "artist_f6ba7203-277e-49dd-8624-cefce13786fe",
+  "name": "RE炸雞店",
+  "types": [
+    "artist",
+    "coser",
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/V9yFRMFDnD",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/WindCosDream",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/fairywind5487",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC65Ab8I9KU9nSJ8nEGqVIsA",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/fairywind5487",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "artist_88fc04ca-9b53-418e-9747-188c988b8516",
+  "name": "樂弦小屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/LokYinHouse/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/lokyinhouse/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

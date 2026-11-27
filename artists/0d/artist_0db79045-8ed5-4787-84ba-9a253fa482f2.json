@@ -1,0 +1,27 @@
+{
+  "id": "artist_0db79045-8ed5-4787-84ba-9a253fa482f2",
+  "name": "Hanabi花火",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://linkr.bio/hanabicoser",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hanabifafo",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hanabicoser/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

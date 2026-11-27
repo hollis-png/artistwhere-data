@@ -1,0 +1,25 @@
+{
+  "id": "artist_14154729-2b84-4992-8b98-14b97c8c492a",
+  "name": "ぷるたんぐ",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/489762?locale=jp",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/purupuru123456",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/purtang_tokyo/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

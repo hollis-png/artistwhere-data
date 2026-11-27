@@ -1,0 +1,42 @@
+{
+  "id": "artist_4fa5f1b8-a1a7-488e-b8ce-c459ff32f804",
+  "name": "青雨閣",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/chj_joanna",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/%E9%9D%92%E9%9B%A8%E5%86%B0-1975348892696407/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/chj_fox/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/14035114",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@foxcingyubing/about",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

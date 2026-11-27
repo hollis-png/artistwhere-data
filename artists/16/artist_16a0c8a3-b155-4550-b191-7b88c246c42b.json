@@ -1,0 +1,27 @@
+{
+  "id": "artist_16a0c8a3-b155-4550-b191-7b88c246c42b",
+  "name": "にもりうむ",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/nimogimogi",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nimo_mizuumi/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Nimo_mizuumi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

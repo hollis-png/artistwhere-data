@@ -1,0 +1,27 @@
+{
+  "id": "artist_75ce6355-b197-44ca-830d-4bf77e1accd5",
+  "name": "眾水之音",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/people/%E7%9C%BE%E6%B0%B4%E4%B9%8B%E9%9F%B3-Music-Stream-VT/61581686894244/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@MusicStreamVirtual",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/musicstreamvt",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

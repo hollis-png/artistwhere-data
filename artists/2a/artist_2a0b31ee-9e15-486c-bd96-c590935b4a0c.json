@@ -1,0 +1,22 @@
+{
+  "id": "artist_2a0b31ee-9e15-486c-bd96-c590935b4a0c",
+  "name": "shimiiシミ",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/shii_miii",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UClmuRbk2f1brEJY6LdT0d_g",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "artist_46df668d-c790-4653-8631-2ae724bc650a",
+  "name": "人偶・薩賓娜",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100076556596724",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@PanenkaSabina",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/PanenkaSabina",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

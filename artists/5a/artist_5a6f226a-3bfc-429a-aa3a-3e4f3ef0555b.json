@@ -1,0 +1,38 @@
+{
+  "id": "artist_5a6f226a-3bfc-429a-aa3a-3e4f3ef0555b",
+  "name": "春猿火的耳機批發商",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linkby.tw/Esawa",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/yuueze",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/laveny0502/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/denshi11_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/esawa__",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

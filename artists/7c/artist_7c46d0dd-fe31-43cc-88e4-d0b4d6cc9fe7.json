@@ -1,0 +1,37 @@
+{
+  "id": "artist_7c46d0dd-fe31-43cc-88e4-d0b4d6cc9fe7",
+  "name": "CHOCO@",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ai.tong.428461",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/aton_drawing",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/33922941",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/aton2503",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/aton2503",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "artist_57bbeb85-1ea4-4e33-9080-3ce0f07261fe",
+  "name": "CIANYO 千呦",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/nkaTc4Drs8",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linkgoods.com/cianyo",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/cian_yo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/H.Cian.Yo/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4196200",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@%E5%8D%83%E5%8D%83%E5%91%A6",
+      "platform": "YouTube",
+      "status": "dead"
+    }
+  ]
+}

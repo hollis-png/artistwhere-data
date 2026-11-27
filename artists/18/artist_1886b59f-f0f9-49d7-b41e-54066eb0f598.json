@@ -1,0 +1,52 @@
+{
+  "id": "artist_1886b59f-f0f9-49d7-b41e-54066eb0f598",
+  "name": "May梅 Cosplayer",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/maychen0131",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://mech-doll.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Xiao_May1811",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MayCosplayer",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Maycosplayer0131/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/maychen0131/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCViBaNA6wLB1yYO0mTDBS3A",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

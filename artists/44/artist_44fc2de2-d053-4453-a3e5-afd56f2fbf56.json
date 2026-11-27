@@ -1,0 +1,30 @@
+{
+  "id": "artist_44fc2de2-d053-4453-a3e5-afd56f2fbf56",
+  "name": "怪獸少女KaijuShoujo",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/LIZARDOAO",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sian.liu.756",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/barley_tea_o.o",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/24316785",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "artist_54568570-f537-41f2-a5fb-e8e1875654ad",
+  "name": "盛櫻之汀",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/murasakiting",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/%E7%9B%9B%E6%AB%BB%E4%B9%8B%E6%B1%80-100072079989043/?paipv=0&eav=AfYmYvkHBlEdBzvVfABg9dzx8ukt3zNnH18dkiy48I84V55xQOPmpxslKWCZRstUaoY&_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/k1yii_610",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

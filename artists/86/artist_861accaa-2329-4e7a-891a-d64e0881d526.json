@@ -1,0 +1,27 @@
+{
+  "id": "artist_861accaa-2329-4e7a-891a-d64e0881d526",
+  "name": "水晶蠑螈洞",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/rzjUyenXPq",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/evelyn1012",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shimo_yosame",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

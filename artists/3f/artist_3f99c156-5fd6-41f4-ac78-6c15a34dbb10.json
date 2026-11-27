@@ -1,0 +1,36 @@
+{
+  "id": "artist_3f99c156-5fd6-41f4-ac78-6c15a34dbb10",
+  "name": "ＵＲＡＮ-ＦＡＣＴＯＲＹ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://skeb.jp/@URAN1017",
+      "platform": "Skeb",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/26377",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/URAN1017",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/uran1017",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_d69de406-8cde-4d24-af17-9988d782fdbc",
+  "name": "小灰角落",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/kerfish50927",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/cjojp_g",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

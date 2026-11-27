@@ -1,0 +1,27 @@
+{
+  "id": "artist_9c4f2f3c-e8c2-479a-b765-7dd9b9d8838c",
+  "name": "回回拉麺",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/97188437",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCiq1eJxp3ez1gH-CK1SP8Og",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/BRLskLTW0146776",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "artist_dfb6879a-bb87-4f54-a850-0377066f84fb",
+  "name": "Soselの天真爛漫パラダイス",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/share/15vdUgZoC6/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2922438",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

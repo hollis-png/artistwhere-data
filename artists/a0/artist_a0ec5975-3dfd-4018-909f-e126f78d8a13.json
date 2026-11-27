@@ -1,0 +1,17 @@
+{
+  "id": "artist_a0ec5975-3dfd-4018-909f-e126f78d8a13",
+  "name": "米蝦米",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/mishami",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

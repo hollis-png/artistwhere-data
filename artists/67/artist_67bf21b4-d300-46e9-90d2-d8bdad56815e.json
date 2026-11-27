@@ -1,0 +1,32 @@
+{
+  "id": "artist_67bf21b4-d300-46e9-90d2-d8bdad56815e",
+  "name": "JasperZ x Meenfox",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://ganknow.com/jasperz",
+      "platform": "Ganknow",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Jas69per",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/JasperZ619",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/meenfox",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

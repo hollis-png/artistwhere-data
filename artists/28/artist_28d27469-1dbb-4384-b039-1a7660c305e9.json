@@ -1,0 +1,27 @@
+{
+  "id": "artist_28d27469-1dbb-4384-b039-1a7660c305e9",
+  "name": "EDP",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://edp-edp.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/akibatokyo",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/EDP2016official",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

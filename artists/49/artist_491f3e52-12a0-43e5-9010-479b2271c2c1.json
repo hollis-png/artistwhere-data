@@ -1,0 +1,30 @@
+{
+  "id": "artist_491f3e52-12a0-43e5-9010-479b2271c2c1",
+  "name": "AxiaBridge",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.axiabridge.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/HanedaSora_AB",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/S_HanedaOnBoard",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

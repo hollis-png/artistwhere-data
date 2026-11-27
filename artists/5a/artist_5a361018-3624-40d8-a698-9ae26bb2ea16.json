@@ -1,0 +1,22 @@
+{
+  "id": "artist_5a361018-3624-40d8-a698-9ae26bb2ea16",
+  "name": "富士浅間堂",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://sengendo.a.la9.jp/index.html",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/amamura_m",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

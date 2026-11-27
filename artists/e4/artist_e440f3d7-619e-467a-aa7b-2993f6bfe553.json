@@ -1,0 +1,32 @@
+{
+  "id": "artist_e440f3d7-619e-467a-aa7b-2993f6bfe553",
+  "name": "聖瑪莉修道院",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/0FABC5D9-4F09-4D8C-A531-F01604BD6040/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://teakai.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5435728",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Teakai_89237",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

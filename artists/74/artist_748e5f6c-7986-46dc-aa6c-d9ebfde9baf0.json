@@ -1,0 +1,47 @@
+{
+  "id": "artist_748e5f6c-7986-46dc-aa6c-d9ebfde9baf0",
+  "name": "Hatori Sama紀奈奈",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://hatorisama.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/ji_nai55541",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hatoricosplay",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/cindychi88/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/hatori",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@HatoriSama",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

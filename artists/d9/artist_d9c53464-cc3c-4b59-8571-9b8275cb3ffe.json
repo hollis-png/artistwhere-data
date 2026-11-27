@@ -1,0 +1,20 @@
+{
+  "id": "artist_d9c53464-cc3c-4b59-8571-9b8275cb3ffe",
+  "name": "スタジオ・ダイヤ",
+  "types": [],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/4074156",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/studio_dia",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

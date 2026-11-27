@@ -1,0 +1,17 @@
+{
+  "id": "artist_8a184a94-08ef-4ad1-9326-60f01b5b6378",
+  "name": "玦聚 Jadeverse",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/bochiart/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

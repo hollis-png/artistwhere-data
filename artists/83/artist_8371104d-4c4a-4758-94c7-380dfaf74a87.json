@@ -1,0 +1,22 @@
+{
+  "id": "artist_8371104d-4c4a-4758-94c7-380dfaf74a87",
+  "name": "すこすここん部",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/103471730",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/KYOdoyo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

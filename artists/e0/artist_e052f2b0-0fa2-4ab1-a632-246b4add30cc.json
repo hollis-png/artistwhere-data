@@ -1,0 +1,27 @@
+{
+  "id": "artist_e052f2b0-0fa2-4ab1-a632-246b4add30cc",
+  "name": "Irodori Comics-鳳梨",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/irodori_fengli",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61558724323159",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/irodori_comics",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

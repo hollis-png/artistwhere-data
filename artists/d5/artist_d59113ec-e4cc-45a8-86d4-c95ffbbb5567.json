@@ -1,0 +1,38 @@
+{
+  "id": "artist_d59113ec-e4cc-45a8-86d4-c95ffbbb5567",
+  "name": "@莓",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/ichigo722",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/ichigoovo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/ichigouou",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/strawberryouo/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ichigomao",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

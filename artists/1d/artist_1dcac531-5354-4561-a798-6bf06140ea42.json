@@ -1,0 +1,38 @@
+{
+  "id": "artist_1dcac531-5354-4561-a798-6bf06140ea42",
+  "name": "喵漾日和",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/y2SKXAbpaQ",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/shuiyang",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/shuiyang_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/shuiyangyang",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shuiyang_0730/media",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

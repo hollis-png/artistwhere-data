@@ -1,0 +1,30 @@
+{
+  "id": "artist_49bd93ac-ee01-41a0-9900-b546d341ca4f",
+  "name": "よみお姫様_Yomi",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/getsuyuu.yomi/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yomi_inheart",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/GetsuyuuYomi/media",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

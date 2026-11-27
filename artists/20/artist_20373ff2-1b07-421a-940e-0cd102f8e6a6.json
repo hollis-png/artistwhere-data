@@ -1,0 +1,33 @@
+{
+  "id": "artist_20373ff2-1b07-421a-940e-0cd102f8e6a6",
+  "name": "甯甯的漂亮拖鞋和襪子",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://instabio.cc/3071618xIezqZ",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/wei_chen6666/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@wei_chen6666",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/AMU2002625",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

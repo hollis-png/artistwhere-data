@@ -1,0 +1,67 @@
+{
+  "id": "artist_0d849c99-6716-43f6-8c7d-cc3f211258f7",
+  "name": "町町噹噹狗生活",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://dindindandandog.framer.ai/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://kasumihsiao.wixsite.com/home01",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://kasumihsiao.wixsite.com/word01",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/kasumihsiao",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://store.line.me/stickershop/author/107915/zh-Hant",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/dindindandandog/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/dindindandandog/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/dindindandandog",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@dindindandandog",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@DinDinDanDanDog",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/dindindandandog",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

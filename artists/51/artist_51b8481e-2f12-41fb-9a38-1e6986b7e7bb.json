@@ -1,0 +1,35 @@
+{
+  "id": "artist_51b8481e-2f12-41fb-9a38-1e6986b7e7bb",
+  "name": "XTER",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/XTERcomics?ltsid=77fc5b22-8e04-4afe-b99c-dbc08036328c",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://subscribestar.adult/xter",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/XTER-comics-61567949756929/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/xtercomic",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

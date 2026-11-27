@@ -1,0 +1,25 @@
+{
+  "id": "artist_a281c259-cd0f-499b-ac0f-b3f7bf86f3bb",
+  "name": "Dragon KItchen",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/3810781",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/sasorigatame",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sasorigatame",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

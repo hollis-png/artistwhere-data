@@ -1,0 +1,53 @@
+{
+  "id": "artist_f9a85b13-8650-4842-beb2-37450a39c25c",
+  "name": "大阪風男",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=ayumu3659",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://oosaka212.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Ayumukua",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100095148571755",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5650892",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ayumu3659",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Oosaka212",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

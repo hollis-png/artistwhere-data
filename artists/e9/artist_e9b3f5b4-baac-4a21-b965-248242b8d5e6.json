@@ -1,0 +1,29 @@
+{
+  "id": "artist_e9b3f5b4-baac-4a21-b965-248242b8d5e6",
+  "name": "宮田一海",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/4157461",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/user/xo312345",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/MiyataiKazumi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

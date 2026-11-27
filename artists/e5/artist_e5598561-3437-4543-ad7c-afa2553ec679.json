@@ -1,0 +1,22 @@
+{
+  "id": "artist_e5598561-3437-4543-ad7c-afa2553ec679",
+  "name": "酒蔵～chichi～",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/69542160",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chichi_8181_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "artist_b3e466a0-347f-4f20-913d-41abfe47ea4a",
+  "name": "羊亞科",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Lamb3272372",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/lamb.ovis/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61556935388715",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/lamb_yagi",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3272372",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@lamb_yagi",
+      "platform": "Threads",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/lamb1876",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/lambovis0308",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

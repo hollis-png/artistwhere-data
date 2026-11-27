@@ -1,0 +1,31 @@
+{
+  "id": "artist_ab7b9df8-b7d5-44b7-a849-13f90c5fe8f0",
+  "name": "空罐王",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/a12710xxx",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/canking",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.pixiv.net/users/489858",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

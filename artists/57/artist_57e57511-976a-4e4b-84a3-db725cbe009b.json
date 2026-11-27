@@ -1,0 +1,28 @@
+{
+  "id": "artist_57e57511-976a-4e4b-84a3-db725cbe009b",
+  "name": "咖哩東+SOS",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ikaridon/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/187026",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ikaridon",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

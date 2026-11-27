@@ -1,0 +1,22 @@
+{
+  "id": "artist_a90ff3b9-4012-45b3-b814-fdd8b809f3cb",
+  "name": "文西朋友",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/wenxifriend/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/wenxifriend",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

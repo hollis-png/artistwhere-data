@@ -1,0 +1,37 @@
+{
+  "id": "artist_1b6d73a2-8c59-44f8-8535-b1b77561f468",
+  "name": "赤泉重工",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/dawu04",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/da.wu.88857",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/da_wu_art/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/55758150",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Da_wu_uwub",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

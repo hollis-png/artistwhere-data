@@ -1,0 +1,26 @@
+{
+  "id": "artist_36455979-29e2-4eef-8953-ed94d72d6cfa",
+  "name": "嚕卡蹦分貝>100",
+  "types": [
+    "coser",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/rukaleeruka",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/rukalee",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "artist_57619d68-4942-493a-b6c6-173a11eeb6ed",
+  "name": "亞瑪吉大肥羊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "PF45",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yamgy123",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/464649",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

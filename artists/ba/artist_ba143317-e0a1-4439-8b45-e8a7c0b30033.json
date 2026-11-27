@@ -1,0 +1,31 @@
+{
+  "id": "artist_ba143317-e0a1-4439-8b45-e8a7c0b30033",
+  "name": "琉璃茉莉❀∣原創設計",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/rurimatsuri_design",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/rurimatsuri_design",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100094687924587",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "artist_6ed125a9-099e-4337-a302-010caafd9c94",
+  "name": "稻荷七櫻的狐狸神社",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/5y9K25kKjD",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/inarinao",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.ecpay.com.tw/Broadcaster/Donate/67D575F5B31788CBAB189C49BEA1B298",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.opay.tw/Broadcaster/Donate/3DB24A3D83AE24B511DA3EB01F6E3012",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Inarinao1119",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/inarinao_vtuber",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UClvxZ1pRfKcLDTdiP87k7aA/featured",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Inari_nao",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

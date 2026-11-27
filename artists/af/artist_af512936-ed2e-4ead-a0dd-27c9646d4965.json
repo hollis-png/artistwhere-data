@@ -1,0 +1,35 @@
+{
+  "id": "artist_af512936-ed2e-4ead-a0dd-27c9646d4965",
+  "name": "KK魔法學院",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/e8WSkUu9Af",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/KrenzArtwork",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.krenzartwork.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/74646",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_6dad6ec0-430c-4ed1-8d1e-31ab1cebf095",
+  "name": "星海幼兒園",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/hoshimi_rei",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/hoshimi_rei",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "artist_452429b2-c349-45d1-93b6-c4c85408c4de",
+  "name": "SEAN.C",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/SEANC-100068553754297/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

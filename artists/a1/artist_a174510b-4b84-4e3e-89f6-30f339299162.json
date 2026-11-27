@@ -1,0 +1,18 @@
+{
+  "id": "artist_a174510b-4b84-4e3e-89f6-30f339299162",
+  "name": "阿喵喵小窩",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/animeboxyoshi/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

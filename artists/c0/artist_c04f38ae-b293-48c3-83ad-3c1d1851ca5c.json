@@ -1,0 +1,53 @@
+{
+  "id": "artist_c04f38ae-b293-48c3-83ad-3c1d1851ca5c",
+  "name": "紫姝Murasaki",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/dpYZwPASAs",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/Murasaki_",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://starwish.live/donate/zishu030",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Murasaki8586",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sue8586/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/poyeeee666/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.paypal.com/paypalme/zishu030",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/zishu030",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

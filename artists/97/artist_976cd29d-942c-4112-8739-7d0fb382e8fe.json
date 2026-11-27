@@ -1,0 +1,37 @@
+{
+  "id": "artist_976cd29d-942c-4112-8739-7d0fb382e8fe",
+  "name": "F.W.ZHolic",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/alex30818",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/fwzholic/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1434758",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/fwz_0716",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

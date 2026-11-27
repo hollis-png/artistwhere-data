@@ -1,0 +1,22 @@
+{
+  "id": "artist_b1c48216-55ba-4358-b474-1d449ee006b7",
+  "name": "軒天才 & 羽花凜",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/hsuan_diamond/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/87378725",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

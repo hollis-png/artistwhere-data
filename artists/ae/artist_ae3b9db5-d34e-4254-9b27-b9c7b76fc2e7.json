@@ -1,0 +1,37 @@
+{
+  "id": "artist_ae3b9db5-d34e-4254-9b27-b9c7b76fc2e7",
+  "name": "leo795的暫定名稱",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/leouo795",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/leouo795/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/94131987",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/leouo795",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/54268aaaaaa",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

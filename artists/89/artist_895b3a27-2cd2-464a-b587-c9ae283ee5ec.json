@@ -1,0 +1,28 @@
+{
+  "id": "artist_895b3a27-2cd2-464a-b587-c9ae283ee5ec",
+  "name": "藍幽_namyau_",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/YuyukoCosplayer/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nam_yau3",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yuyuko_cosplay",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

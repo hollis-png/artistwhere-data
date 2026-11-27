@@ -1,0 +1,47 @@
+{
+  "id": "artist_6cc000fc-0bf4-4e69-b27a-47e5586e16da",
+  "name": "小艾",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/nvCF6vnZ47",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/alfadaimon",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61551905133307",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/alfadaimon_01/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/alfa_daimon",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@AlfaDaimon",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/alfadaimon",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

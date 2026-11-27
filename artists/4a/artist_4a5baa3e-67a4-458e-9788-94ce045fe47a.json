@@ -1,0 +1,35 @@
+{
+  "id": "artist_4a5baa3e-67a4-458e-9788-94ce045fe47a",
+  "name": "NANAKEN",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linkr.bio/NANAKEN",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100066846383780",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/32470264",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/qijian23092715/with_replies",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "artist_5f5dcf2b-9137-47ab-be1e-e88a0a60b0d1",
+  "name": "SOLar Atelier",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://solar.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/SOLarbim",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/33076135",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/SOLar_Bim",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

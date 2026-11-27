@@ -1,0 +1,36 @@
+{
+  "id": "artist_b93dec57-3df2-4145-912e-12771d09d620",
+  "name": "⟡汪汪 Won Cosplay⟡",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/gigi_and_won?ltsid=e6b046ab-b368-4de8-be4a-1512e42a5166",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/won_u_bae",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/WonCosplayer/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/won_u_bae",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artist_f64073c4-6393-4ac3-94f0-b2c7ec600cde",
+  "name": "KENTAX",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/taku1122",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1584199",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "artist_47b6888e-fe5a-421e-bc69-47dbd312c98b",
+  "name": "牛牛Niu",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/milkybird",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/milkybird_niu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/milkybird/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/milkybird/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/milkybird",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.tiktok.com/@acupbaby_niu",
+      "platform": "TikTok",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/acupbaby",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@acupcabyniu",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

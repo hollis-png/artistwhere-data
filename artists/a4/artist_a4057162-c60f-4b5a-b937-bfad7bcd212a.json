@@ -1,0 +1,60 @@
+{
+  "id": "artist_a4057162-c60f-4b5a-b937-bfad7bcd212a",
+  "name": "JMao睫毛貓舍",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/creation.php?owner=qwer713781",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://jmaomaomao.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/jmaomaomao",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/jmaomaomao",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/jie.mao.96457",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100002695434996",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/2Qpex8tAU9Bn2BzG/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2829550",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/J_MAO6",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

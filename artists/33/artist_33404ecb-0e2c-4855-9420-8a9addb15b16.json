@@ -1,0 +1,17 @@
+{
+  "id": "artist_33404ecb-0e2c-4855-9420-8a9addb15b16",
+  "name": "Rin",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/rin7914",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "artist_eb99b261-cbc2-4fd4-a234-92ad246e50ac",
+  "name": "方舟 Ark",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/arkstudio_tw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

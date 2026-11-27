@@ -1,0 +1,32 @@
+{
+  "id": "artist_69097beb-7955-4bd1-911e-1985aee46a0c",
+  "name": "NoLive諾諾不直播",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/NoNoSa_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100068824385437",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/nonosa_",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@nonosa",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

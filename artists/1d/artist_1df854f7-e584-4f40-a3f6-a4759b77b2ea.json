@@ -1,0 +1,19 @@
+{
+  "id": "artist_1df854f7-e584-4f40-a3f6-a4759b77b2ea",
+  "name": "台科大美術社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/groups/118ART/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

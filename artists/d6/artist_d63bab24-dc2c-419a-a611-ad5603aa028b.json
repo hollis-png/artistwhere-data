@@ -1,0 +1,20 @@
+{
+  "id": "artist_d63bab24-dc2c-419a-a611-ad5603aa028b",
+  "name": "Misuru Cosplay",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/misuru.misuru.2024/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/misuru.japan/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

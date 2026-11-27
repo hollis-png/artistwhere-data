@@ -1,0 +1,53 @@
+{
+  "id": "artist_3fbba14f-ce36-46b5-a2fb-87a41d6af5ae",
+  "name": "愛莉Iri",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/irisuare",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://onlyfans.com/irisuare",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/irisuare",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/iriwuare/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/irisuare",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.tiktok.com/@irisuare",
+      "platform": "TikTok",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/irisuare",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@irisuare",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

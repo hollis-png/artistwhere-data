@@ -1,0 +1,23 @@
+{
+  "id": "artist_2c112d29-b039-44a7-8e16-b5e741b21661",
+  "name": "DOKIDOKI",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/dokidoki520",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/doki_doki_hk",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

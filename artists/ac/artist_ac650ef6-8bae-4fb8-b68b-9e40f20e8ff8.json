@@ -1,0 +1,18 @@
+{
+  "id": "artist_ac650ef6-8bae-4fb8-b68b-9e40f20e8ff8",
+  "name": "狼師收留中心",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61550122171554",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

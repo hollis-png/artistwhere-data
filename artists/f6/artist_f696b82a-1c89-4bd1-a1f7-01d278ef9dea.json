@@ -1,0 +1,37 @@
+{
+  "id": "artist_f696b82a-1c89-4bd1-a1f7-01d278ef9dea",
+  "name": "Le Soleil",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/67850",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/chikaminase",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/chika_minase/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@chika_minase",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chika_minase",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

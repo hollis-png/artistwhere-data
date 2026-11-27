@@ -1,0 +1,19 @@
+{
+  "id": "artist_3184dd94-efe7-49c5-99ba-790608465dca",
+  "name": "超幻想Market",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/NIIKYOUZOU/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

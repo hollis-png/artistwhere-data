@@ -1,0 +1,45 @@
+{
+  "id": "artist_4c919f06-2e1e-44c1-895a-9adf257fe934",
+  "name": "HuHome",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://huhome.org/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://line.me/R/ti/p/@027lpgxp",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/HuHome0906,https://twitter.com/HuHome0910",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/huhome0906",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/huhome0906,https://www.facebook.com/huhome0910",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/huhome0906,https://www.instagram.com/huhome0910",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

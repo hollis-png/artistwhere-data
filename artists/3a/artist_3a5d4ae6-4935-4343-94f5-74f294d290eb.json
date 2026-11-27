@@ -1,0 +1,25 @@
+{
+  "id": "artist_3a5d4ae6-4935-4343-94f5-74f294d290eb",
+  "name": "IVY",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/ENST9",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/enst9",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

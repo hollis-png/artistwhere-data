@@ -1,0 +1,16 @@
+{
+  "id": "artist_e4072683-80e0-4a64-a725-baa99114db0b",
+  "name": "湯原駅三十五番線",
+  "types": [],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/dick.hound.01",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

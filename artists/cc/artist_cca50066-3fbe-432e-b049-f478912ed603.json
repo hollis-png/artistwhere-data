@@ -1,0 +1,23 @@
+{
+  "id": "artist_cca50066-3fbe-432e-b049-f478912ed603",
+  "name": "姬瑟研",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/FleetNevoza/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Azalesord",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "artist_6a5a3e25-8809-4942-8e0a-50c138f816e3",
+  "name": "Freya妃芽鴨鴨",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "http://twitter.com/hime890308",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/channels/849236526301970442/1046138491941163108",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/freya_yaya",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Freya.OuO/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/fre_ya._virus0038/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/freya_yaya",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

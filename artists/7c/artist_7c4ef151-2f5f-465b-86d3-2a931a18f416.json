@@ -1,0 +1,18 @@
+{
+  "id": "artist_7c4ef151-2f5f-465b-86d3-2a931a18f416",
+  "name": "爬蟲不冷血",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/PapanoCB/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

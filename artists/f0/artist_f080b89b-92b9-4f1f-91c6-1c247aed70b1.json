@@ -1,0 +1,71 @@
+{
+  "id": "artist_f080b89b-92b9-4f1f-91c6-1c247aed70b1",
+  "name": "玉姐",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/fnNWEMxZ",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://sites.google.com/view/usagikohizeri",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/live2dakira",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    },
+    {
+      "url": "https://wall.gamer.com.tw/redir.php?userId=alice1212030",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100095364674172&paipv=0&eav=AfYrHqS-eBjNj02FAM0JE0xcjZvYUXjfrEXCcXcEx7u5HBxrUviwEwNtV1RtGXso_6E",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/ESMxisuRynxfe4Wn/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/alice12120303/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/24353490",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/alice12120303",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCj_SAEhAsyVU936Ys_jRb5Q",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/usagikohizeri",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "artist_55f170cb-61af-4a0a-abbc-25a06731e3a6",
+  "name": "kurokanin",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://kurokanin.net",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61558823046194",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/42675",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kurokanin",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

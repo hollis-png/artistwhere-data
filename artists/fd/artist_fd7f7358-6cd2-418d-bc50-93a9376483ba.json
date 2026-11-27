@@ -1,0 +1,38 @@
+{
+  "id": "artist_fd7f7358-6cd2-418d-bc50-93a9376483ba",
+  "name": "蓬萊竹繪屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=poiuy206",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://t.co/zwTArNG6Yz",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/nokotake2785733",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nokotake2785733/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2785733",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

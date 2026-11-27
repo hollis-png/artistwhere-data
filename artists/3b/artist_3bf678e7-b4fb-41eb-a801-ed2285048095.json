@@ -1,0 +1,22 @@
+{
+  "id": "artist_3bf678e7-b4fb-41eb-a801-ed2285048095",
+  "name": "鎏棠請求支援來財",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/liutang.241990",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/liutang233",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

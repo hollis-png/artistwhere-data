@@ -1,0 +1,31 @@
+{
+  "id": "artist_b35992ea-c3ef-426d-bd88-5344b120fd2c",
+  "name": "新夭 Brainholesky",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/brainholesky",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/brainholesky",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/brainholesky/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artist_d150e533-7df5-4f76-a369-6c52bff82ec2",
+  "name": "修修咻ACG",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/shushushuacg/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC_-_BDGX9GGVbtB5sdit9cQ",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "artist_79da4458-baf3-4258-84d3-ce7ed37dd3d2",
+  "name": "Magical Meow",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/summerice0609",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100066567052952",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/owo_summerice/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6880878/artworks",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/summerice0609",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

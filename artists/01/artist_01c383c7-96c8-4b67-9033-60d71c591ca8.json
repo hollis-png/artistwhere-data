@@ -1,0 +1,28 @@
+{
+  "id": "artist_01c383c7-96c8-4b67-9033-60d71c591ca8",
+  "name": "MOKA PARADISE",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/moka_coser",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/mokamokacos/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/moka_cos",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

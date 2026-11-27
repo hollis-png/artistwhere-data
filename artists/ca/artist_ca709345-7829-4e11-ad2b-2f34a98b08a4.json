@@ -1,0 +1,27 @@
+{
+  "id": "artist_ca709345-7829-4e11-ad2b-2f34a98b08a4",
+  "name": "Baetootles",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/shermypotato",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/shermypotato/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shermypotato",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

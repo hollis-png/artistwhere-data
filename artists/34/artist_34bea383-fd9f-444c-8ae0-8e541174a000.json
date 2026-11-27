@@ -1,0 +1,45 @@
+{
+  "id": "artist_34bea383-fd9f-444c-8ae0-8e541174a000",
+  "name": "紫御",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://apple-effect.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://myacg.com.tw/seller_market.php?seller=357072",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/apple_effect",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/AppleEffect/",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "林檎效應"
+    },
+    {
+      "url": "https://www.pixiv.net/users/589135",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/MurasakiO",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

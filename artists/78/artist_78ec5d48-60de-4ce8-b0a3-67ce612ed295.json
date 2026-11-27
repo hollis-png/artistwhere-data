@@ -1,0 +1,25 @@
+{
+  "id": "artist_78ec5d48-60de-4ce8-b0a3-67ce612ed295",
+  "name": "ゆの屋",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/peach__cosplay/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/cos_peach_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/@cos_peach",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

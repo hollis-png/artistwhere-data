@@ -1,0 +1,32 @@
+{
+  "id": "artist_b0402e66-2baf-4b67-b90f-18d094e088ae",
+  "name": "霜隕Lostar",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/LostarChen",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/lostar_chen/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/26849110",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Lostarchen/media",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

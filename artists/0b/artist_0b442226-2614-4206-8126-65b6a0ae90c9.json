@@ -1,0 +1,42 @@
+{
+  "id": "artist_0b442226-2614-4206-8126-65b6a0ae90c9",
+  "name": "TiraMisuMisu",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/authors/info/jd95063412",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100036895718450",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100064346305313",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7517242",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/keiko_kanshyo",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/keiko_tiratira",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

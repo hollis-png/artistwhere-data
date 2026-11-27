@@ -1,0 +1,19 @@
+{
+  "id": "artist_cd3bcb0b-bf02-4d16-a14d-4bbae1018aa7",
+  "name": "交大動畫社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/nctuanime/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

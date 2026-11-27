@@ -1,0 +1,28 @@
+{
+  "id": "artist_54330aeb-eb28-40e1-abb4-7d0667adfe45",
+  "name": "歐吼哥哥的小廚房",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Ooho0216",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100013041902221",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/46315894",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

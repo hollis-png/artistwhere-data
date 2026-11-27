@@ -1,0 +1,27 @@
+{
+  "id": "artist_b2e9ef0c-84b8-4094-990b-f72673c15d0d",
+  "name": "常夜茶會",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://mayonaka.tv/?page_id=281",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://portal.circle.ms/Circle/Index/10351189",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/FriendsGoudou",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

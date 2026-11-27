@@ -1,0 +1,30 @@
+{
+  "id": "artist_12404189-1b9d-4102-bbb7-9d4db8fd4e62",
+  "name": "Hua華兔",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100011900293458",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/huatu_drawing",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Huahua_tu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

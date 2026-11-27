@@ -1,0 +1,23 @@
+{
+  "id": "artist_9bac5e8d-16e4-4c4b-813a-f5aa41b4d236",
+  "name": "Handoru 寒濤旅社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/handoruclub",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/HandoruClub",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

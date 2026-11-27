@@ -1,0 +1,18 @@
+{
+  "id": "artist_f3171c26-c014-47af-9e3a-b92e7c5de1d2",
+  "name": "東南科大動漫電玩社",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/6A79479B-CA80-4116-BDDC-AC327134A91A/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    }
+  ]
+}

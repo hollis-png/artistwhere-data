@@ -1,0 +1,23 @@
+{
+  "id": "artist_ffcd36c1-2bbf-4e46-9ea1-a615dc0faebc",
+  "name": "茉紡工作坊",
+  "types": [
+    "craft",
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/mofangclothing/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Mofang2024",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "artist_8b809e52-7611-44f6-a5e2-cc8baf045736",
+  "name": "At3X Studio",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://at3irx.wixsite.com/at3x-studio",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/at3x_studio/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@AT3X_Studio",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

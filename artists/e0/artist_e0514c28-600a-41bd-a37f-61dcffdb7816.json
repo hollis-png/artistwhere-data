@@ -1,0 +1,41 @@
+{
+  "id": "artist_e0514c28-600a-41bd-a37f-61dcffdb7816",
+  "name": "壞孤兒",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://myacgshika.wixsite.com/cka1",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/1A3kWSytP6/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/shika_cka/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/19274221",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/shika002",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

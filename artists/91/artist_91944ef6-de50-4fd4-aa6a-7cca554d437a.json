@@ -1,0 +1,22 @@
+{
+  "id": "artist_91944ef6-de50-4fd4-aa6a-7cca554d437a",
+  "name": "弋心蘿蔓草",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/PearlBuddhanail",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/xiaojean0128",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "artist_b8f2ee53-a269-4a27-af2f-2873771c5baa",
+  "name": "悶騷的盤子",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "http://pixiv.net/users/32007707",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "http://twitter.com/hairpin0703",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61558258981354",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

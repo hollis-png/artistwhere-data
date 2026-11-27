@@ -1,0 +1,20 @@
+{
+  "id": "artist_bd9bbdd1-af0d-4aaf-ae7a-9917df312d7d",
+  "name": "Tsukiya-夜",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/tsukiya0331/?locale=zh_HK",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/yaya_dreamyland?fan_landing=true",
+      "platform": "Patreon",
+      "status": "alive"
+    }
+  ]
+}

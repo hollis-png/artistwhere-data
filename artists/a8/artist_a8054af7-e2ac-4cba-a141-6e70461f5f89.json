@@ -1,0 +1,40 @@
+{
+  "id": "artist_a8054af7-e2ac-4cba-a141-6e70461f5f89",
+  "name": "に向思考",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/artwork.php?sn=6084819",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=louieca400",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3318611",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/sss4361",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/NekosakiAoi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

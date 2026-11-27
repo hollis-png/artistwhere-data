@@ -1,0 +1,22 @@
+{
+  "id": "artist_6ea8b9dd-9c4f-471b-8456-b33487ad527d",
+  "name": "にごろらぼ",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/256knmiya",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tinmomiyan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

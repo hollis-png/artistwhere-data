@@ -1,0 +1,22 @@
+{
+  "id": "artist_c37fb96b-62ec-4814-a066-85ce9f09462f",
+  "name": "照燒貓teriyakicat",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E7%85%A7%E7%87%92%E8%B2%93-teriyakicat-100068109977379/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/chajaycat",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

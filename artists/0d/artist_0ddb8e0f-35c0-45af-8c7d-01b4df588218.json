@@ -1,0 +1,35 @@
+{
+  "id": "artist_0ddb8e0f-35c0-45af-8c7d-01b4df588218",
+  "name": "瑞紗Coresa",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/coresa0415",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/coresa0415",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/coresa0415/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/terytery5935/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

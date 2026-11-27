@@ -1,0 +1,20 @@
+{
+  "id": "artist_134eba1b-0fb3-4d62-a9dd-15f9742fa8b7",
+  "name": "満福神社",
+  "types": [],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "http://manpukujinja.blog135.fc2.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC8VoGhQC9enEacXs4fYVxRw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

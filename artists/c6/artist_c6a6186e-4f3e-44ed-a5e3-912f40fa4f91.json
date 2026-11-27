@@ -1,0 +1,92 @@
+{
+  "id": "artist_c6a6186e-4f3e-44ed-a5e3-912f40fa4f91",
+  "name": "奶昔工房",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "http://milkshakeworktw.weebly.com/news/ff41",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://bsky.app/profile/milkshakework.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.com/invite/KCtUYckvjU",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/creation.php?owner=redblue0220",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/milkshakework",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/MilkshakeWork",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://milkshakework.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/MirukuSeki3",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MilkshakeWork2",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61569086700965",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/MilkshakeWork",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/569672",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/MilkshakeWork",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/milkshakework",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/MilkshakeWork",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "artist_ebf58eba-7ed7-4e3f-ab48-b8f7f99ebc4a",
+  "name": "R.I.N",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Rin20100803",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/383427",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@rin20200527",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@rin20200527",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCk3xe-eouK69OcKZiL8pcag",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

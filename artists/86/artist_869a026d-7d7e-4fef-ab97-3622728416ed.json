@@ -1,0 +1,32 @@
+{
+  "id": "artist_869a026d-7d7e-4fef-ab97-3622728416ed",
+  "name": "紙皮盒paper @BOX",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/hkpoorguy",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/poorguyinhk/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/siukaukau",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

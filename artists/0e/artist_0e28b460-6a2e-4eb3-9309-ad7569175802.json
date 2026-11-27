@@ -1,0 +1,27 @@
+{
+  "id": "artist_0e28b460-6a2e-4eb3-9309-ad7569175802",
+  "name": "Vicky 依霜",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/victoria.1998.627/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.furuke.com/Victoria__1998__",
+      "platform": "Furuke",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/victoria__1998__/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

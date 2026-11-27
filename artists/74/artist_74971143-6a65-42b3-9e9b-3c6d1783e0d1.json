@@ -1,0 +1,28 @@
+{
+  "id": "artist_74971143-6a65-42b3-9e9b-3c6d1783e0d1",
+  "name": "最喜歡尼",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/meido_nic",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/nnickowo?lang=zh-tw",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/maomaomiNic",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

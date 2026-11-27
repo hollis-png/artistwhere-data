@@ -1,0 +1,23 @@
+{
+  "id": "artist_9c0408f6-5ebb-44f8-8ff5-41dbf745bdc8",
+  "name": "JTGroup",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/klm.lee.14",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/JTLKLM",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

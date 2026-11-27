@@ -1,0 +1,32 @@
+{
+  "id": "artist_24e7d9e3-8f7c-4809-908b-a35660da9813",
+  "name": "莉諾です",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/vqkFsGnzDs",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/lino_0606",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@LINO_0606",
+      "platform": "YouTube",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/LINO_0606",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

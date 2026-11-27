@@ -1,0 +1,27 @@
+{
+  "id": "artist_1052c87d-2f5c-4ca1-9f46-141b19958835",
+  "name": "老農李澤的大菜園",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/li.j5269",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/li_j5269",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/105561089",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

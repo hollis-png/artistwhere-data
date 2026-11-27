@@ -1,0 +1,47 @@
+{
+  "id": "artist_ad4e33b1-3a42-469b-b1b7-311e218a2f49",
+  "name": "泡芙ㄉ家",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/hDayUNdaeh",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://noodle890812.wixsite.com/paofucommission",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.ecpay.com.tw/Broadcaster/Donate/5AC137A291C8C981C2DCF2E3049FFA17",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://potofu.me/paofu0812",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/noodle890812",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCq7Ki9KFlluUVVEDJD0HwCg",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/noodle890812",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

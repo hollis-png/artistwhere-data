@@ -1,0 +1,18 @@
+{
+  "id": "artist_ab7bbbcb-3a75-46b0-9b8f-24c070dc12a8",
+  "name": "Trois Bebes闖禍現場",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/Trois_Bebes",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

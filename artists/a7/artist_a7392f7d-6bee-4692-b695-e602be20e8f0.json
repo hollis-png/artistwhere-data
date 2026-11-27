@@ -1,0 +1,20 @@
+{
+  "id": "artist_a7392f7d-6bee-4692-b695-e602be20e8f0",
+  "name": "喜歡Neru部",
+  "types": [],
+  "events": [
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/67012651",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Shippooosan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

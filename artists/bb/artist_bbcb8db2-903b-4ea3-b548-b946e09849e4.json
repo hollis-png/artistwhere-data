@@ -1,0 +1,46 @@
+{
+  "id": "artist_bbcb8db2-903b-4ea3-b548-b946e09849e4",
+  "name": "致富密碼",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://taplink.cc/sicsicwood",
+      "platform": "Taplink",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/sicsicwood128",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100084566235919",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sicsic_wood",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/29615453",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/sicsicwood",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

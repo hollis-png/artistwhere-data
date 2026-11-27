@@ -1,0 +1,17 @@
+{
+  "id": "artist_56b45d3c-37e5-458f-a304-674326d0a37d",
+  "name": "十三塊雞",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100049380313953",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

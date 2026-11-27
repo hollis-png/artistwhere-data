@@ -1,0 +1,19 @@
+{
+  "id": "artist_4a086a5e-bb2a-450c-83cb-06a445150b44",
+  "name": "正太控診療室",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/tang0410",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

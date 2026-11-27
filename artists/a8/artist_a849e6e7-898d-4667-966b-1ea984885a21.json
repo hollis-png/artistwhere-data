@@ -1,0 +1,32 @@
+{
+  "id": "artist_a849e6e7-898d-4667-966b-1ea984885a21",
+  "name": "百劍討妖傳綺譚",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "http://7quark.com/games-zh/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/7quark",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/7quark_games",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/7quarkgames",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

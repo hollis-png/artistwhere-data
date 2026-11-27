@@ -1,0 +1,33 @@
+{
+  "id": "artist_5d1b8253-ed2b-42f2-bc0a-147ef1d07b68",
+  "name": "星軌工作室",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/StarTrail_tv",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100073489946979",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/star.trail_studio/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@startraillive5021/channels",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

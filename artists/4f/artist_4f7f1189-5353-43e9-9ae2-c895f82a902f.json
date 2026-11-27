@@ -1,0 +1,57 @@
+{
+  "id": "artist_4f7f1189-5353-43e9-9ae2-c895f82a902f",
+  "name": "U00住院部",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://deerdonate.herokuapp.com/donation/%E5%B9%BD%E6%9D%8E%E9%88%B4",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/Xu5PxCv3Mx",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://u00vtuber.wixsite.com/vtuber",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61581848154045",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/u00.vtuber/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@u00.vtuber",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/u00vtuber",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@u00_Vtuber",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/U00Vtuber",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_48fb7421-facb-4a3b-a7f2-efcc0525e56a",
+  "name": "オンキュウ",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/104322214",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/onkyu99",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

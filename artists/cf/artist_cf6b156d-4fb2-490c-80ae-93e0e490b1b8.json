@@ -1,0 +1,33 @@
+{
+  "id": "artist_cf6b156d-4fb2-490c-80ae-93e0e490b1b8",
+  "name": "山鐘塔第三防衛機關",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/clock69.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/shi.zhong.394980",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/67591008",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/clock_owo_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

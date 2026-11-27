@@ -1,0 +1,39 @@
+{
+  "id": "artist_f9c4b045-1e45-4d3f-b279-23a106261520",
+  "name": "broccoholic",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/broccoholic",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/broccoholico/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/204723",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/broccoholic",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/lemoon_mm",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

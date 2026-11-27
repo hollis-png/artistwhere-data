@@ -1,0 +1,26 @@
+{
+  "id": "artist_86232999-a9b4-4619-a6ec-02dc04e7e8e1",
+  "name": "豆腐絲",
+  "types": [],
+  "events": [
+    "FF44",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100003140419233",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/28643883",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/icyboon",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

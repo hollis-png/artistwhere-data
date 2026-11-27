@@ -1,0 +1,27 @@
+{
+  "id": "artist_35554d5a-90c4-4ac7-8996-dd591a09f717",
+  "name": "青年奇蹟工作室",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/TeensWonderStudio/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/teenswonderstudio",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@teenswondoerstudio",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

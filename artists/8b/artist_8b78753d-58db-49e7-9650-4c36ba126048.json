@@ -1,0 +1,55 @@
+{
+  "id": "artist_8b78753d-58db-49e7-9650-4c36ba126048",
+  "name": "無限荒野",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://chiying0924.wixsite.com/website",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://clusters.tw/profile/327011EB-AD9C-4760-AA5B-FDC01C7C44B5/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/VjttBrBM5ZWatqg8ZbQkB0rbgKz1",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/saltcan69210",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/MugenStudioHK/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/saltcan69210/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/FromOuterSpace",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/yamagari_road",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

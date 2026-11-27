@@ -1,0 +1,28 @@
+{
+  "id": "artist_c798d781-cebc-4337-bdeb-2510dbadc256",
+  "name": "Miki is Otaku",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/mikiisotaku",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mikiisotaku",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Mikiisotaku",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

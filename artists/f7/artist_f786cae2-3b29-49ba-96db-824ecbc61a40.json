@@ -1,0 +1,19 @@
+{
+  "id": "artist_f786cae2-3b29-49ba-96db-824ecbc61a40",
+  "name": "將軍與殿下",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/3DUYI",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

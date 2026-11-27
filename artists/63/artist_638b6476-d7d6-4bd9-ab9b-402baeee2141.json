@@ -1,0 +1,20 @@
+{
+  "id": "artist_638b6476-d7d6-4bd9-ab9b-402baeee2141",
+  "name": "卡通人物俱樂部",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/@iamakich",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/iamakich",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

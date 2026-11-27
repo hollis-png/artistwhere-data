@@ -1,0 +1,23 @@
+{
+  "id": "artist_1d3f4465-b2f4-4533-a2a3-9b7ef1be3b01",
+  "name": "口畢雞",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/xiao.ji.kuai.shang.gong",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/ShinaS_13",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

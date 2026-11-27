@@ -1,0 +1,32 @@
+{
+  "id": "artist_aa512c0a-9e65-430e-bc1b-45edc1673afd",
+  "name": "快樂柴犬森林小屋",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100085045054231&locale=es_ES",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/fuune_shiba/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCqGLWrvVOqtrpxFdoTY5tYg",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shibasakithebox",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

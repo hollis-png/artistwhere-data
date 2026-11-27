@@ -1,0 +1,23 @@
+{
+  "id": "artist_ac2ccdf2-acc6-4f33-8e52-face04e6a548",
+  "name": "bmtol(代理人)",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/bm_tol",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/89980668",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

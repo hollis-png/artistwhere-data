@@ -1,0 +1,32 @@
+{
+  "id": "artist_b1baf2c4-1288-429a-872f-ab00fe014910",
+  "name": "一輛",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/YiLiang2018/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yiliang.yl/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/15739881/artworks",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yiliang_yl",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

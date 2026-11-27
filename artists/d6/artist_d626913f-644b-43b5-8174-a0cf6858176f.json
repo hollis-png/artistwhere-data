@@ -1,0 +1,32 @@
+{
+  "id": "artist_d626913f-644b-43b5-8174-a0cf6858176f",
+  "name": "bbibinbing",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/bbibinbingART",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/647294",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/bbibinbing",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

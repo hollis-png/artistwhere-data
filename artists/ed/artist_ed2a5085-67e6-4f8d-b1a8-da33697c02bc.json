@@ -1,0 +1,37 @@
+{
+  "id": "artist_ed2a5085-67e6-4f8d-b1a8-da33697c02bc",
+  "name": "深海魚缸",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/shinkaitoro",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/shinkaitoroN",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100094883753085",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7296180",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/torozai0702",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

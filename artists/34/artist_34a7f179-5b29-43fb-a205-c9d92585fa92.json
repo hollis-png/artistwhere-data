@@ -1,0 +1,19 @@
+{
+  "id": "artist_34a7f179-5b29-43fb-a205-c9d92585fa92",
+  "name": "薛南&共產主義哥",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/setsunann2525/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "artist_1f001938-d6e8-4df5-93a8-8f9dec898d55",
+  "name": "Sumiko",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/sumiko46n9",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.facebook.com/sumikosleep/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sumiko46n9/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/sumiko46n9",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sumiko46n9",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

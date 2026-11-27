@@ -1,0 +1,32 @@
+{
+  "id": "artist_20f8dfe8-7873-4f19-9f62-211d5f96910b",
+  "name": "ATDAN & Criin",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/en/users/4460847",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/en/users/6662895",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Atdan86",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Hanasa_Criin",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

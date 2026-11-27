@@ -1,0 +1,20 @@
+{
+  "id": "artist_3d49f0a0-f5a4-45f5-a332-4707fbf0ac0c",
+  "name": "ZomBT",
+  "types": [],
+  "events": [
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/67801409",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/zombite9661152",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

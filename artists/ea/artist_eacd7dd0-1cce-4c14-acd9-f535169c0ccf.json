@@ -1,0 +1,32 @@
+{
+  "id": "artist_eacd7dd0-1cce-4c14-acd9-f535169c0ccf",
+  "name": "麻糬貓工坊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://mayayoru.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/86391033",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/hiddennightcrow",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Mayayoru_owo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

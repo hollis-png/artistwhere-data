@@ -1,0 +1,25 @@
+{
+  "id": "artist_30615d48-9968-4b58-bc7f-80a9592dee1e",
+  "name": "ALICE Project",
+  "types": [],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://aliceproject.itch.io/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/circle_alice_project/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/68193751",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

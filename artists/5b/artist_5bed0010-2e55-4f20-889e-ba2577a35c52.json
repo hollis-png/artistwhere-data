@@ -1,0 +1,22 @@
+{
+  "id": "artist_5bed0010-2e55-4f20-889e-ba2577a35c52",
+  "name": "栖和菓子",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/seikanichijou",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/54204231",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

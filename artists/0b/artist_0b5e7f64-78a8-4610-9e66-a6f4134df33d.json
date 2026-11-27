@@ -1,0 +1,22 @@
+{
+  "id": "artist_0b5e7f64-78a8-4610-9e66-a6f4134df33d",
+  "name": "Izumi",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "http://izumito.blog124.fc2.com/",
+      "platform": "Link",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/izumi516",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "artist_e304b6c0-8653-48e0-8c22-1af8d5e63302",
+  "name": "HIKOHIKO",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/HIKOHIKO_0204",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/HIKOCOSPLAY",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hiko_wan/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/HIKOHIKO",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

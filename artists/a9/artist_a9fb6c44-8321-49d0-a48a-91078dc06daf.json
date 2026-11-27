@@ -1,0 +1,53 @@
+{
+  "id": "artist_a9fb6c44-8321-49d0-a48a-91078dc06daf",
+  "name": "交大 VTuber 社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.youtube.com/@nycu.vtuber",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/GPBJPshrBU",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://nycu.moe/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://nycu.moe/about.html",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/nycu.vtuber",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/1D58eisKJz/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nycu.vtuber",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nycu_vtuber",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "artist_8ce32c5c-39c2-4726-94a7-b90813fea888",
+  "name": "墨繪師御歌頭",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/sumieokazu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/okazu.global/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

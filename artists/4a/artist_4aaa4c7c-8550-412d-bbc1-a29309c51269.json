@@ -1,0 +1,23 @@
+{
+  "id": "artist_4aaa4c7c-8550-412d-bbc1-a29309c51269",
+  "name": "日落之旅藥水舖",
+  "types": [
+    "craft",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/LARPPotion",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

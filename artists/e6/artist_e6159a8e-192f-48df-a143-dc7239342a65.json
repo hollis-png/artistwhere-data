@@ -1,0 +1,57 @@
+{
+  "id": "artist_e6159a8e-192f-48df-a143-dc7239342a65",
+  "name": "烏冬傳說",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/touchi",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://reikakrzk.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://reikakrzk.tumblr.com/",
+      "platform": "Tumblr",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/reikakrzk__",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/touchi_TC",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100016624872250",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/reikakrzk/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/55831646",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

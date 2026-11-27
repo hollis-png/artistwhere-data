@@ -1,0 +1,45 @@
+{
+  "id": "artist_fac17ebb-3f55-444b-b64e-710b9764e84c",
+  "name": "-Sakimiya-",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=p30000909120",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/sakimiyaHsu",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://skeb.jp/@sakimiya_Hsu",
+      "platform": "Skeb",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3029076",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/sakimiya",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sakimiya_Hsu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

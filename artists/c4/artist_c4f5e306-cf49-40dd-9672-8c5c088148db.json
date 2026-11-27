@@ -1,0 +1,28 @@
+{
+  "id": "artist_c4f5e306-cf49-40dd-9672-8c5c088148db",
+  "name": "Tomodachi",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/TomodachiTShirt",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/tomodachiTShirt/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/tomodachitshirt/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

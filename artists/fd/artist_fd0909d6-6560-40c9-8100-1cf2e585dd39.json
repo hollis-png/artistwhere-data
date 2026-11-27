@@ -1,0 +1,17 @@
+{
+  "id": "artist_fd0909d6-6560-40c9-8100-1cf2e585dd39",
+  "name": "水水的水世界",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/shuishin1968",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "artist_b15b7990-e717-4cb9-b1dc-18bbacd5c8be",
+  "name": "825",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Seraphim825",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/patty.chen.7169",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Seraphim8226546",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

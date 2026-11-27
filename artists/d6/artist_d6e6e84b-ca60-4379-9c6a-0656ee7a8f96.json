@@ -1,0 +1,27 @@
+{
+  "id": "artist_d6e6e84b-ca60-4379-9c6a-0656ee7a8f96",
+  "name": "瞬刊 Shun H4mano",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/hamanoshungab/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/h4manoshun/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/h4manoshun",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

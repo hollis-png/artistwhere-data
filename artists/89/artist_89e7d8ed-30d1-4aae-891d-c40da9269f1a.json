@@ -1,0 +1,28 @@
+{
+  "id": "artist_89e7d8ed-30d1-4aae-891d-c40da9269f1a",
+  "name": "nAKolus",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/authors/info/nakolusu",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/738255",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nAKolusu_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

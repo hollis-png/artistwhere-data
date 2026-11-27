@@ -1,0 +1,33 @@
+{
+  "id": "artist_0e256957-3077-4acb-86b7-d1efe9750ac1",
+  "name": "NNK777",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index_creation.php?owner=a128910345",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/nnk77777",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61571085406339",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/NNK7773",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

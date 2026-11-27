@@ -1,0 +1,44 @@
+{
+  "id": "artist_80097f77-f99e-4f21-bf33-a70f4031f40b",
+  "name": "Frankiew_Yip",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.artstation.com/frankiew_yip",
+      "platform": "ArtStation",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/jongeun.se.5",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/frankiew_yip/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@frankiew_yip",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCT3Zy86L6M3FsStAwtEcbRA",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/frankiewcg",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

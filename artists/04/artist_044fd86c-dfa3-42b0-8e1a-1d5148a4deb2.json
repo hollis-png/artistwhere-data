@@ -1,0 +1,58 @@
+{
+  "id": "artist_044fd86c-dfa3-42b0-8e1a-1d5148a4deb2",
+  "name": "朵莉 Tori",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/gqrbVjpQ6A",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linkby.tw/toriii_cos",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Tori_0314",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Toriiipic/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100080884324277",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.furuke.com/Tori_0314",
+      "platform": "Furuke",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/toriii_cos/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/tori_0314",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

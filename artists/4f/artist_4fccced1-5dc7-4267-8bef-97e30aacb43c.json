@@ -1,0 +1,37 @@
+{
+  "id": "artist_4fccced1-5dc7-4267-8bef-97e30aacb43c",
+  "name": "路基亞創作",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://rugiacreation.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/rugiapuzzle/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rugia_creation",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4468260",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@RugiaCreation",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

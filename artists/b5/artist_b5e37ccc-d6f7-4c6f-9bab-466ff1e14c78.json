@@ -1,0 +1,18 @@
+{
+  "id": "artist_b5e37ccc-d6f7-4c6f-9bab-466ff1e14c78",
+  "name": "微塵事務所",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E5%BE%AE%E5%A1%B5%E4%BA%8B%E5%8B%99%E6%89%80-Mijinko-Studio-61562854440790/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

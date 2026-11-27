@@ -1,0 +1,28 @@
+{
+  "id": "artist_49797b8b-a0cd-4a2e-b118-ac91f333994b",
+  "name": "三喬主公",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/madein3kiu",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/made.in.3kiu/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/3kiumaster",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

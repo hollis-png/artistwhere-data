@@ -1,0 +1,17 @@
+{
+  "id": "artist_c944b497-4383-4db0-82cb-7216a5520f7f",
+  "name": "Hitakami",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/pusacgn",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

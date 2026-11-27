@@ -1,0 +1,23 @@
+{
+  "id": "artist_87705f37-f52f-4316-b9b1-b207b1e95a0b",
+  "name": "波羅麵包三號坊",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/porobread",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/popipopi0803",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

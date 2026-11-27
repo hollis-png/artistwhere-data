@@ -1,0 +1,35 @@
+{
+  "id": "artist_6aac3f8b-3c4c-4ef9-8459-3ae9f4a92d36",
+  "name": "簡單玩意",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/jantan",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/jantan169888",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/jantan169888/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC_JVKVGuvb2xX8_GMppX0hw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

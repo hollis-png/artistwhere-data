@@ -1,0 +1,28 @@
+{
+  "id": "artist_18685853-8103-48a8-9ccf-b276c4cae216",
+  "name": "中原大學漫畫研習社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/cycclemon",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/cyccacglab/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/cycu.comicclub/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

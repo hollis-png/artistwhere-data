@@ -1,0 +1,22 @@
+{
+  "id": "artist_41fb5078-4839-4251-903e-63eb42e9be0b",
+  "name": "大白獨角獸UNI",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/bigwhiteunicorn",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/bw.unicorn_/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

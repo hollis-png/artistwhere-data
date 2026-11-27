@@ -1,0 +1,22 @@
+{
+  "id": "artist_5ed77a7e-d3ba-45e0-b24d-cea6429396df",
+  "name": "Eroge Japan",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://erogejapan.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/eroge_japan",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

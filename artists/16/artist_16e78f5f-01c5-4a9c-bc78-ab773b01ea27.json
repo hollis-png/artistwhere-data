@@ -1,0 +1,42 @@
+{
+  "id": "artist_16e78f5f-01c5-4a9c-bc78-ab773b01ea27",
+  "name": "えとラー！",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://fanme.link/@Etocha_cos",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/513405",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/etocha_cos/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@etocha_cos",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Etocha_cos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Etocha_cossub",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "artist_0bcd5e94-8109-4aec-8aa5-b428ff49e6d8",
+  "name": "夜間飛行xHaruKenharu",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://potofu.me/harukenharu",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://skeb.jp/@harukenharu",
+      "platform": "Skeb",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/harukemharu",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/harukenharu/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/36919471",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/cachcjxwqbe13wu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/harukenharu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

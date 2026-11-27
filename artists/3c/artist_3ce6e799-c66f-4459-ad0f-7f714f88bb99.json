@@ -1,0 +1,15 @@
+{
+  "id": "artist_3ce6e799-c66f-4459-ad0f-7f714f88bb99",
+  "name": "J Studio 模型工坊",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/J-Studio-%E6%A8%A1%E5%9E%8B%E5%B7%A5%E5%9D%8A-100063643676186/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

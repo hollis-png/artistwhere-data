@@ -1,0 +1,37 @@
+{
+  "id": "artist_b65e9f7d-f34f-4f11-9e38-c4c6db2bc2a7",
+  "name": "西澤瑠璃奈與第八二八海軍航空隊",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/FnCc7vsNaD",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rurina_ruririn",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCZD8Zbu_LFn1QOkRwT62Mdw",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/dbuni0705",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rurina_ruririn",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

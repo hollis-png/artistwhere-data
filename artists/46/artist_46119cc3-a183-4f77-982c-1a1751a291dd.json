@@ -1,0 +1,17 @@
+{
+  "id": "artist_46119cc3-a183-4f77-982c-1a1751a291dd",
+  "name": "企鵝工坊",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/72liang/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "artist_6039d7ad-27fe-4327-80bf-9831ec222fbf",
+  "name": "Hanasawa花澤",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://facebook.com/hanasawa062/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hanasawa_062/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/53877974",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hanasawahsu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

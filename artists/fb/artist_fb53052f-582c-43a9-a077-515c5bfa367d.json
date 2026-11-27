@@ -1,0 +1,32 @@
+{
+  "id": "artist_fb53052f-582c-43a9-a077-515c5bfa367d",
+  "name": "筑波的快樂輻射森林",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100000324976406",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5796114",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/tsukuba_0623",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

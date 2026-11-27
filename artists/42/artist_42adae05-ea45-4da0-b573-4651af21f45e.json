@@ -1,0 +1,17 @@
+{
+  "id": "artist_42adae05-ea45-4da0-b573-4651af21f45e",
+  "name": "脆吉",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/jup7778",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

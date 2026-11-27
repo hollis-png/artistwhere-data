@@ -1,0 +1,28 @@
+{
+  "id": "artist_e8290e3d-63f9-4d09-bf1f-10d3c4e595ee",
+  "name": "毛毛工坊-涼貓",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100076110607298",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11589991",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/pillow231303",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

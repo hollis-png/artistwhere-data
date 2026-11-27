@@ -1,0 +1,25 @@
+{
+  "id": "artist_70dcd298-aaa4-4a11-aa3f-98eb6ccf95cc",
+  "name": "青蛙星星",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/FrogStarLizz",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/8517331",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/jamesh1207",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

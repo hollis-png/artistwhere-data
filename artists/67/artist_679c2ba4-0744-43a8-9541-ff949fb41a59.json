@@ -1,0 +1,22 @@
+{
+  "id": "artist_679c2ba4-0744-43a8-9541-ff949fb41a59",
+  "name": "Makrows",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/makrows/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Makrows_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

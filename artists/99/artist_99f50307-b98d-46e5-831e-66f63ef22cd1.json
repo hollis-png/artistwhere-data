@@ -1,0 +1,47 @@
+{
+  "id": "artist_99f50307-b98d-46e5-831e-66f63ef22cd1",
+  "name": "榛小豆",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/355476E9-7B99-4A68-8782-FFA0749DAA76/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/nekomia",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/peas0125",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/peas0125/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/fu.zhen/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5268321#_=_",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

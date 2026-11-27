@@ -1,0 +1,18 @@
+{
+  "id": "artist_040c8fe2-31e7-4e6a-a36e-b3a912c375cf",
+  "name": "外星ki實驗中心",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/Alien_ki",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

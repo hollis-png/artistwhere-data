@@ -1,0 +1,40 @@
+{
+  "id": "artist_c3575d1e-63b6-4603-8041-d0e1222973e5",
+  "name": "=+Ely Cosplay",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/eeelyeee?ltsid=67056354-a3ad-40a1-9eb4-62b394c04887",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Ely_eee",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.eeelyeee.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/eeelyeee/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/eeelyeee/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

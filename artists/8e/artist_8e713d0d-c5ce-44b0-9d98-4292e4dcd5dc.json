@@ -1,0 +1,18 @@
+{
+  "id": "artist_8e713d0d-c5ce-44b0-9d98-4292e4dcd5dc",
+  "name": "熊老大株式會社",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/bear.boss.348298/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

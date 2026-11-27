@@ -1,0 +1,22 @@
+{
+  "id": "artist_692686bf-fb0c-4d03-85ed-63422a07d374",
+  "name": "夜未央手作坊",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/endlessnight_tw",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/endlessnight_tw/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

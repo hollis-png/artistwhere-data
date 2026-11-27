@@ -1,0 +1,37 @@
+{
+  "id": "artist_de7d83af-4af1-4ef0-b8b1-905697dd5b76",
+  "name": "森蘿萬幼SAKI",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://saki.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sakiaurum",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4570183",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/94984377",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/wttoo0202",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

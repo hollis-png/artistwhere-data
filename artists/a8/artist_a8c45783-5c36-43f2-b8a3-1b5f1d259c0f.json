@@ -1,0 +1,67 @@
+{
+  "id": "artist_a8c45783-5c36-43f2-b8a3-1b5f1d259c0f",
+  "name": "阿熊人",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.youtube.com/@KUMAGUNPLA",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://bsky.app/profile/kumahito.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/jh80213",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/jh80213",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/kumahitoart",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/KUMANOHITO/",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "阿熊人熊肉鍋"
+    },
+    {
+      "url": "https://www.instagram.com/kumahito.artwork/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kumahito.gunpla/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/jh80213",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCrptTE7rynGelHCxH60j64A",
+      "platform": "YouTube",
+      "status": "alive",
+      "displayName": "阿熊人原木模玩"
+    }
+  ]
+}

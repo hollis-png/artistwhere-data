@@ -1,0 +1,32 @@
+{
+  "id": "artist_431b9555-87a7-421c-a888-5483f5a11228",
+  "name": "希朵米_Hitomi",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/share/18YJRWHdu5/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hitomi_7828",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/u/hitomi_7828",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/seaweedseason",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

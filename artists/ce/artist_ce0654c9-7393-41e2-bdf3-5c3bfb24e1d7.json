@@ -1,0 +1,30 @@
+{
+  "id": "artist_ce0654c9-7393-41e2-bdf3-5c3bfb24e1d7",
+  "name": "狐魷生物",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/ecKReG4W6B",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/zero_skr",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/zero_skr/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/zeskr_",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

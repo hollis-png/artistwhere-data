@@ -1,0 +1,41 @@
+{
+  "id": "artist_637d6c4c-bc35-4323-8e5f-ede9191e0298",
+  "name": "儒宅 Ruzhai",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?&owner=mariohahahah",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Ruzhai0609",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ArtistRuZhai",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/12539859",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Ruzhai",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

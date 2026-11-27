@@ -1,0 +1,17 @@
+{
+  "id": "artist_2a8c90d6-5302-4355-82cf-e8cfd25ffa66",
+  "name": "錢包ICU",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61574626226698",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

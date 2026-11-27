@@ -1,0 +1,30 @@
+{
+  "id": "artist_4be38169-b966-4b84-9545-fccafec91bd5",
+  "name": "後空翻生物群",
+  "types": [],
+  "events": [
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/backflipmouse",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100088531601996",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/pixel.backflipmouse",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/backflipmouse",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

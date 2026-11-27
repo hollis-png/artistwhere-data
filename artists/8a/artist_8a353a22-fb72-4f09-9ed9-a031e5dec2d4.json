@@ -1,0 +1,28 @@
+{
+  "id": "artist_8a353a22-fb72-4f09-9ed9-a031e5dec2d4",
+  "name": "HM Manga",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/HMsmanga/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/894200",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/HM_Hmongt",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "artist_376687cb-4ecd-4e42-8bf1-7d063e305637",
+  "name": "はるがきた",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://skeb.jp/@Tsukushi_Haru_",
+      "platform": "Skeb",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/41943145/illustrations",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Tsukushi_Haru_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

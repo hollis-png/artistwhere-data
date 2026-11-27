@@ -1,0 +1,22 @@
+{
+  "id": "artist_ec7725c7-81d7-47c5-b0e2-3efb891d679d",
+  "name": "異界編織者",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/3477257",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/q8582",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

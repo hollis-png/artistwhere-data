@@ -1,0 +1,39 @@
+{
+  "id": "artist_e36c4427-1533-487a-a66a-3cf338ff5a4d",
+  "name": "小刺同人部",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/miyukiwww",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61554328723561",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/snow.snowcc/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/snowsnow.cc/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Miyuki_332",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

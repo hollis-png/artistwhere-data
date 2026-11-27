@@ -1,0 +1,41 @@
+{
+  "id": "artist_ac0a6a23-66f2-439a-a49c-17801230b5e1",
+  "name": "VIVA",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.vivaorz.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/VIVAISVIVA/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/vivatomoyo/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/viva123",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@vivatomoyo",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

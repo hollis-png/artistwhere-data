@@ -1,0 +1,28 @@
+{
+  "id": "artist_f2f4c559-00c3-448f-9d9c-08b1804af218",
+  "name": "DOS",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=james30226",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/james30226",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/215846",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

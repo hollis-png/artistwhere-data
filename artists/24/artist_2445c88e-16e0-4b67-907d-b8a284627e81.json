@@ -1,0 +1,31 @@
+{
+  "id": "artist_2445c88e-16e0-4b67-907d-b8a284627e81",
+  "name": "麵Mian",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/misakamian",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://reurl.cc/eQeM1m",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/r.miannn",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "麵Mian"
+    }
+  ]
+}

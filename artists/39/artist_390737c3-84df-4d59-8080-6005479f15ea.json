@@ -1,0 +1,30 @@
+{
+  "id": "artist_390737c3-84df-4d59-8080-6005479f15ea",
+  "name": "晴時陰偶陣雨工作室",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/698182",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/eatbara",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/eatbara",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

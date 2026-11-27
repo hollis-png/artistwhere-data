@@ -1,0 +1,25 @@
+{
+  "id": "artist_a0090ef8-637c-4ea3-80c9-9dd352a1729f",
+  "name": "XIxeong",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/42490384",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/xi_xeong",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

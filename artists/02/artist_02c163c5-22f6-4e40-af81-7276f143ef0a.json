@@ -1,0 +1,22 @@
+{
+  "id": "artist_02c163c5-22f6-4e40-af81-7276f143ef0a",
+  "name": "萬象澄澈",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/origin.kurage",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/originkurage/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

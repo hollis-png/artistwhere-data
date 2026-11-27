@@ -1,0 +1,30 @@
+{
+  "id": "artist_62e01474-9df4-438b-b30a-0977bea33477",
+  "name": "符合舟禮",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/lie.char.3",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100004464600206",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100004996904111",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

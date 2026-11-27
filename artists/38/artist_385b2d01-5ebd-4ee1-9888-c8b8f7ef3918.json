@@ -1,0 +1,21 @@
+{
+  "id": "artist_385b2d01-5ebd-4ee1-9888-c8b8f7ef3918",
+  "name": "Zhima Chen",
+  "types": [
+    "artist"
+  ],
+  "events": [],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/zhima.chen.2025",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "Zhima Chen"
+    },
+    {
+      "url": "https://x.com/zhima01600218",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "artist_caf4be7d-2e52-470f-9961-7bb670fa80b0",
+  "name": "超級米漿",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/chenmimi21",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100093192516824",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61596493277122",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/76889130",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

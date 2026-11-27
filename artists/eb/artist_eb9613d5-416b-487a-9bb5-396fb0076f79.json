@@ -1,0 +1,35 @@
+{
+  "id": "artist_eb9613d5-416b-487a-9bb5-396fb0076f79",
+  "name": "米浮做功德",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/a618rainmusic",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/minamimifu",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/a618mifu/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/a618_rainmusic",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

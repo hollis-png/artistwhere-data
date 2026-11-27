@@ -1,0 +1,41 @@
+{
+  "id": "artist_588fd3b0-50bf-4b5a-b2fd-4036503540ac",
+  "name": "Feshana",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/TAxxsU97Zh",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/e831118",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100053035546032",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1951517",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/eddie831118",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "artist_e4a5577f-bc64-4dae-8568-bac24de3dbbc",
+  "name": "Wolf Knight",
+  "types": [],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61559676778241",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

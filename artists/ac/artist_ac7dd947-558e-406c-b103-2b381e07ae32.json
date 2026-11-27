@@ -1,0 +1,25 @@
+{
+  "id": "artist_ac7dd947-558e-406c-b103-2b381e07ae32",
+  "name": "塗鴉與爬格子的星河小築",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://linkgoods.com/pinkcloud0423",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61584822465078#",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.instagram.com/kaystone0423",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

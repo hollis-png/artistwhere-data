@@ -1,0 +1,15 @@
+{
+  "id": "artist_66aa2b82-79af-48f6-a70a-9b28fd1688b3",
+  "name": "大腹工作室",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/z1z2zzz/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

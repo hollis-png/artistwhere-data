@@ -1,0 +1,37 @@
+{
+  "id": "artist_57967198-5f34-4acf-b9b9-d9ecd3968427",
+  "name": "可可愛愛健健康康人見人愛花見花開",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/QEbWJ7R",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/5__5fish",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/regina5fish/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/regina5fish",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCmRV6gdAuV7wUcW95MiwpTQ",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

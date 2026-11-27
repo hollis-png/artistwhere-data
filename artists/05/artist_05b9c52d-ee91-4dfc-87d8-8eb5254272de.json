@@ -1,0 +1,54 @@
+{
+  "id": "artist_05b9c52d-ee91-4dfc-87d8-8eb5254272de",
+  "name": "初夏百景",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/natsuosla",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://natsusola.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/natsusola",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/natsusola0121",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/natsusola",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/883360",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/natsusola",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/natsu1052",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

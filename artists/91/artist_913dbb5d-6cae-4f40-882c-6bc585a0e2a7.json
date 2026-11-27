@@ -1,0 +1,62 @@
+{
+  "id": "artist_913dbb5d-6cae-4f40-882c-6bc585a0e2a7",
+  "name": "｜Chao&Feli｜KiKi&予樂",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://portaly.cc/kikivtuber410",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/yuler4u",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kikivtuber410",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yuler4u/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/kikivtuber410",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/yuler4u",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@kikivtuber410",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCzS7rVMWfXlf5mskzgD0x9w",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/KikiVtuber410",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/yuler4u",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "artist_22c960f1-fdef-4300-9bc0-2cdf35518351",
+  "name": "wasami",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/wasami.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://discord.gg/8ERphuc4QK",
+      "platform": "Discord",
+      "status": "dead",
+      "displayName": "Discord"
+    },
+    {
+      "url": "https://discord.gg/qUrrUTYy65",
+      "platform": "Discord",
+      "status": "alive",
+      "displayName": "加入 Wasami 的伺服器 Discord 伺服器！"
+    },
+    {
+      "url": "https://facebook.com/dong.x.yao%2F",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://fanbox.cc/@wasami",
+      "platform": "Fanbox",
+      "status": "alive",
+      "displayName": "WASAMI"
+    },
+    {
+      "url": "https://ganknow.com/wasami",
+      "platform": "Ganknow",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=qwerrrttt1",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/wasami",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://myacg.com.tw/seller_market.php?keyword=WASAMI&seller=555355",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://myacg.com.tw/seller_market.php?seller=657183",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://patreon.com/c/u27439586/membership",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://patreon.com/user/collections?u=27439586",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/wasamiii",
+      "platform": "Portaly",
+      "status": "alive",
+      "displayName": "wasamiii"
+    },
+    {
+      "url": "https://wasami.booth.pm",
+      "platform": "Booth",
+      "status": "alive"
+    },
+    {
+      "url": "https://wasami.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/dong.x.yao?comment_id=Y29tbWVudDoxNTEwODQxMzg2NzQ0MDc5Xzc5MTY1OTI5NjU5MjE0Mg%3D%3D",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "WA Sami"
+    },
+    {
+      "url": "https://www.instagram.com/wasami_mimi/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2410146",
+      "platform": "Pixiv",
+      "status": "alive",
+      "displayName": "wasami"
+    },
+    {
+      "url": "https://x.com/_405887169256",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/channel/UCUKTNHTLvvOk4bkWkMEQKhw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

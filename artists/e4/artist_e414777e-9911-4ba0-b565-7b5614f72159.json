@@ -1,0 +1,17 @@
+{
+  "id": "artist_e414777e-9911-4ba0-b565-7b5614f72159",
+  "name": "DAMAO閑駒樓",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/hanarabbitdango/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

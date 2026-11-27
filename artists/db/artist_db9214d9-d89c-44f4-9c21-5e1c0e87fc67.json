@@ -1,0 +1,20 @@
+{
+  "id": "artist_db9214d9-d89c-44f4-9c21-5e1c0e87fc67",
+  "name": "和羽と天羽",
+  "types": [],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100071207273570",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/aitongren514",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

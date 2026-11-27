@@ -1,0 +1,17 @@
+{
+  "id": "artist_b8aa5a88-35a1-4949-8bf2-2b1700fc617b",
+  "name": "旋鳥",
+  "types": [],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/aioto.a/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

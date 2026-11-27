@@ -1,0 +1,28 @@
+{
+  "id": "artist_e93ebc11-3418-4df9-a0cf-20e6a708f014",
+  "name": "霓聲工作室NeonVoice",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/NEONVOICEStudio/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@neonvoice4531",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/neon_voice",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

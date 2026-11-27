@@ -1,0 +1,35 @@
+{
+  "id": "artist_5de4ca36-e3e7-469b-8427-e17a40211c0f",
+  "name": "會呼吸的阿肝",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/cat_kan_0430?ltsid=f4bd2fd0-ef3d-4726-a308-33f8cc874278",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/cat_kan_0430",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/%E9%98%BF%E8%82%9D-Akan--100082865888024/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/cat_kan_0430/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/cat_kan_0430",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

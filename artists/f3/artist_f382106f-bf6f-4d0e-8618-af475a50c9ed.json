@@ -1,0 +1,32 @@
+{
+  "id": "artist_f382106f-bf6f-4d0e-8618-af475a50c9ed",
+  "name": "KANAI",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/KANAI43372177",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100068784137832",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/yukikazusa.2025",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/42333266",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

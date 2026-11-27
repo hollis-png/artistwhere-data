@@ -1,0 +1,17 @@
+{
+  "id": "artist_fbae24c5-68a3-4bf3-87c2-baaedd69a7be",
+  "name": "五月秋天手作",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/autumn_0502",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_d21635b8-20bd-44a7-9ab5-4f31aab1763f",
+  "name": "primore",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://primore.jp/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/primore_photo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

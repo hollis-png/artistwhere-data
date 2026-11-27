@@ -1,0 +1,22 @@
+{
+  "id": "artist_0e4d8191-85e0-4d83-8eeb-c805472ff8e9",
+  "name": "得加補",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/eden53661430",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/OtakuEden/?ref=bookmarks",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "artist_53cd6075-ff6c-46d3-93ea-86616691616d",
+  "name": "莓芊宮",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/VTuberIchigosen",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/ichigosentokikoi?lang=zh-tw",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCJVe_TIWA-EE1Tz9HJbB3zA",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ichigo_TOKIKOI",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "artist_108c2aad-10a0-42d6-8064-b91fe9eb7d58",
+  "name": "雜魚市場",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bento.me/salmonformosa",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://bsky.app/profile/salmonformosa.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/SalmonFormosa",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/salmonformosa/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/43178721",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/SalmonFormosa",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@salmonformosa",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/SalmonFormosa",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

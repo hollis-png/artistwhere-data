@@ -1,0 +1,22 @@
+{
+  "id": "artist_de3d37f1-9a38-4559-8fbb-6094911e4618",
+  "name": "Pro-P",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/12756857",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/pro_p24",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

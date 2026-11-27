@@ -1,0 +1,32 @@
+{
+  "id": "artist_bfeff3fd-c7e1-4f27-9d50-c30887b85195",
+  "name": "冬雪紛飛",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/fuyuha21",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100069824916813#",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/fuyuha_21",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/64653918",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

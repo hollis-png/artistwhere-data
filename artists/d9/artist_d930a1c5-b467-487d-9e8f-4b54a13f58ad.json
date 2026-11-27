@@ -1,0 +1,31 @@
+{
+  "id": "artist_d930a1c5-b467-487d-9e8f-4b54a13f58ad",
+  "name": "早安柴之美",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/channel/UC3ptDDsdCqI9o0hBpvxPaVA",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/DORAHD01",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shibainu_brunch",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "artist_64cb146d-1e68-4d25-ad46-6303c6256612",
+  "name": "DeityMark",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://line.me/R/ti/p/@762fgqjp",
+      "platform": "LINE",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/deitymark",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Heartcat7",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/deity_mark",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100088812120995",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/deity_mark/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/deitymark",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

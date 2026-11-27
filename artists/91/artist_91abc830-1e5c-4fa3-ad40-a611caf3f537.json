@@ -1,0 +1,17 @@
+{
+  "id": "artist_91abc830-1e5c-4fa3-ad40-a611caf3f537",
+  "name": "東域",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/EastareaAnime/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

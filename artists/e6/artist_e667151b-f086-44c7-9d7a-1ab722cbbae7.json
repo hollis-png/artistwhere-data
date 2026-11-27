@@ -1,0 +1,17 @@
+{
+  "id": "artist_e667151b-f086-44c7-9d7a-1ab722cbbae7",
+  "name": "頸椎骨折實驗記錄報告",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/chiyau",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "artist_f0e72147-40c0-49c9-924f-8333a479c6ac",
+  "name": "Nori何苔苔",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/taitai257",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100090932187693",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/taitai257/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

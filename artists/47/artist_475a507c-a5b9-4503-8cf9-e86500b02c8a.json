@@ -1,0 +1,26 @@
+{
+  "id": "artist_475a507c-a5b9-4503-8cf9-e86500b02c8a",
+  "name": "月宮櫻Tsukimiya Sakura",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/tsukimiyasakura",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/tsukimiyasakura92/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

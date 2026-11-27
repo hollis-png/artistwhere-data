@@ -1,0 +1,39 @@
+{
+  "id": "artist_04da703c-0e65-4621-a787-9002a9250e71",
+  "name": "ぱいそんきっど",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "http://pythonkid.blog.fc2.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100043010862787&ref=_ig_profile_ac",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/pythonkid2",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/80703519",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/pythonkid2013",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

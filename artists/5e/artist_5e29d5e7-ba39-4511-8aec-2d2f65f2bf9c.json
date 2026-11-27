@@ -1,0 +1,24 @@
+{
+  "id": "artist_5e29d5e7-ba39-4511-8aec-2d2f65f2bf9c",
+  "name": "萌え北鉄道",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://weibo.com/moerail",
+      "platform": "Weibo",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/moerail",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

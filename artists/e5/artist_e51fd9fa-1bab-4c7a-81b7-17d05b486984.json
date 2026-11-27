@@ -1,0 +1,23 @@
+{
+  "id": "artist_e51fd9fa-1bab-4c7a-81b7-17d05b486984",
+  "name": "F Project",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/icebirdfrovia",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/icebirdfrovia",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "artist_2926b43c-fdb1-4eec-be95-9b7c5ca2b002",
+  "name": "我的推活",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/huang.ting.lun.662617",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

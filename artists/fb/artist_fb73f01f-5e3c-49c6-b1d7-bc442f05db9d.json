@@ -1,0 +1,45 @@
+{
+  "id": "artist_fb73f01f-5e3c-49c6-b1d7-bc442f05db9d",
+  "name": "Hoshihan",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/hoshihan",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/hoshihan3",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hoshihan1125/",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100004831329090",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/75293952",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCPvhqsof0Dqkw6sXsCKXeog",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

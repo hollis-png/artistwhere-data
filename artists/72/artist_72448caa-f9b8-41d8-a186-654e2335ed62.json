@@ -1,0 +1,20 @@
+{
+  "id": "artist_72448caa-f9b8-41d8-a186-654e2335ed62",
+  "name": "らぼまじ！",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.youtube.com/channel/UCqmO-1i52TJGK4pZE-p27ng",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/aranobu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

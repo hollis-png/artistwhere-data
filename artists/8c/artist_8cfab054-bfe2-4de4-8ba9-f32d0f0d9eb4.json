@@ -1,0 +1,35 @@
+{
+  "id": "artist_8cfab054-bfe2-4de4-8ba9-f32d0f0d9eb4",
+  "name": "球球樂園",
+  "types": [],
+  "events": [
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/chyuukaa0124",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61577130843371",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/chyuukaa0124/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/21406481",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chyuukaa0124",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

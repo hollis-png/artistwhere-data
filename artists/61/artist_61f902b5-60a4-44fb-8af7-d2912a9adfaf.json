@@ -1,0 +1,22 @@
+{
+  "id": "artist_61f902b5-60a4-44fb-8af7-d2912a9adfaf",
+  "name": "可奈肉蛋屋",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/dragoonyuki",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/wolfyuki",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "artist_bf717fc9-0e40-4760-807c-c6c4be2a5f78",
+  "name": "草莓大亨堡",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/zkoooo_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

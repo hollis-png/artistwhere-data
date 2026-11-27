@@ -1,0 +1,15 @@
+{
+  "id": "artist_3dfff820-5823-4e3a-a8fb-89fc0037bcb8",
+  "name": "泉源studio",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/kuuhakuprojects/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "artist_83ff69b2-2956-4a81-876b-2f488e8f9ae9",
+  "name": "SyuanIshen",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/yihengyouai.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?owner=gjes90251",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/zeridayo",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://syuanishen.mystrikingly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/SyuanIshen/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3019895",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/gjes90251",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Gamedaisukira",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/gukunine666",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

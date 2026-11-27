@@ -1,0 +1,30 @@
+{
+  "id": "artist_4bb5c48d-7deb-4f0d-b8ee-b05929f31433",
+  "name": "花梨Hanari",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/@hanariv3v/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/hanariv3v",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/takanashihanari",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

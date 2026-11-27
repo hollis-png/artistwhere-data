@@ -1,0 +1,17 @@
+{
+  "id": "artist_6a5153d6-c37d-47f3-bbab-d149b8ee0d4e",
+  "name": "逐星工作室",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.ruten.com.tw/store/gf13_001nhii/?srsltid=AfmBOor4FzgR7n9rBOOxU4SNoRy_uQwLT6GyXWN2ajuRU7sKq15Wu-uz",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

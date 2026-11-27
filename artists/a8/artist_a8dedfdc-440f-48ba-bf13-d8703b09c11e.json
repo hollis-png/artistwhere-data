@@ -1,0 +1,32 @@
+{
+  "id": "artist_a8dedfdc-440f-48ba-bf13-d8703b09c11e",
+  "name": "飛行主義",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/god8456",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/18XoUZzcFW/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/103582",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/god8456",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

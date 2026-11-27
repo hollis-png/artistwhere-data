@@ -1,0 +1,32 @@
+{
+  "id": "artist_894e1dee-b0ba-45b2-9e3e-72f4c6f64419",
+  "name": "鯊魚狗鯊鯊",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/sayuki_9696",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sng.m.song?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@%E9%B2%A8%E9%B1%BC%E7%8B%97%E9%B2%A8%E9%B2%A8",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sayuki_9696",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

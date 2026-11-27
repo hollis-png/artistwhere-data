@@ -1,0 +1,53 @@
+{
+  "id": "artist_63786231-b100-4c37-bde2-fc3c32b35366",
+  "name": "卯時日和",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.chino.tw",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://chino.tw",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://fanbox.chino.tw",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://pixiv.chino.tw",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61586754237293",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/611766",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.chino.tw",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/SeKZpeODgeODjg",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

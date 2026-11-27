@@ -1,0 +1,40 @@
+{
+  "id": "artist_fc4e6ce3-94b8-4b77-a293-2c2cc5b2ba2e",
+  "name": "地方的哭逼有了繪版",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/kk19940324",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/QBdrawingsomething2015/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/UltimateQB",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1989155",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/car784072001",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

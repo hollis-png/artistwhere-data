@@ -1,0 +1,22 @@
+{
+  "id": "artist_a1d6645d-f7d8-414d-a4b2-8e293ac00558",
+  "name": "雜菜湯",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/groups/info/8875",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mishstrone",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "artist_55755b49-b874-47ac-9ca3-33ea91bd15f6",
+  "name": "nekoplanetOuO",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/9CE43FD8-FB57-44C6-8AA9-D199D45A6AC4/works",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?&owner=Nekoplanet",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/Kairasii4",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61576974851794",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/16607392",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nekoplanetOuO",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

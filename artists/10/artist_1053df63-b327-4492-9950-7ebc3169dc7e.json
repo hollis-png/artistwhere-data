@@ -1,0 +1,34 @@
+{
+  "id": "artist_1053df63-b327-4492-9950-7ebc3169dc7e",
+  "name": "交響アクティブNEETs",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://www.nicovideo.jp/mylist/47613803",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://neets.tokyo/index.html",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/active_neets",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/c/ActiveNEETs",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

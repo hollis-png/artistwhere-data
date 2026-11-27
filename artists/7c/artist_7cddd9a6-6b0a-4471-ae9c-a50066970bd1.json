@@ -1,0 +1,20 @@
+{
+  "id": "artist_7cddd9a6-6b0a-4471-ae9c-a50066970bd1",
+  "name": "ALOVA",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ALOVAonPiano/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/c/ALOVA/videos",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

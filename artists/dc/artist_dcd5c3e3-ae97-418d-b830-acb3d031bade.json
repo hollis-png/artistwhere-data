@@ -1,0 +1,32 @@
+{
+  "id": "artist_dcd5c3e3-ae97-418d-b830-acb3d031bade",
+  "name": "小顆子",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/TheLittleThingy",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/The_Little_Thingy/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/TheLittleThingy",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/TheLittleThingy",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

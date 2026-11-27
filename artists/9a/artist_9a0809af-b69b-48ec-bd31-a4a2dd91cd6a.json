@@ -1,0 +1,15 @@
+{
+  "id": "artist_9a0809af-b69b-48ec-bd31-a4a2dd91cd6a",
+  "name": "球歷史Ballhistory",
+  "types": [],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/ballhistory2015/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "artist_381e21c2-8681-4199-bafe-1e667773d4a8",
+  "name": "猫耳メイド屋",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/nekomimimeidoya",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nekome_jp/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nekome_jp",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

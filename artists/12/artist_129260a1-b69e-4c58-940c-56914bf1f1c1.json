@@ -1,0 +1,20 @@
+{
+  "id": "artist_129260a1-b69e-4c58-940c-56914bf1f1c1",
+  "name": "Yupipi",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/benson.tu.526/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/yupicopia",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "artist_a16514e8-ee70-4cf2-95f4-b2187917c901",
+  "name": "赤月工作室_AKA Tsuki",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/akatsukistudio",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/aka_tsuki_1220/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/aka_tsuki_1220",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

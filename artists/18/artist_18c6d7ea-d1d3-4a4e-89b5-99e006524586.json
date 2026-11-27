@@ -1,0 +1,50 @@
+{
+  "id": "artist_18c6d7ea-d1d3-4a4e-89b5-99e006524586",
+  "name": "Runeiscute",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/gk5uxCH8W2",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/Runeiscute",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Runeiscute/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/runeiscute/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/44473246",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@runeiscute",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Runeiscute",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

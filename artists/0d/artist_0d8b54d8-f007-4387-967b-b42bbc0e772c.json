@@ -1,0 +1,48 @@
+{
+  "id": "artist_0d8b54d8-f007-4387-967b-b42bbc0e772c",
+  "name": "魔法燒酒",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/giorgio_groovy",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/akiragiorgio/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/1BE36FhCMR/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/335810",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/yo_sumire_sola",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yo_sumire_sola1",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

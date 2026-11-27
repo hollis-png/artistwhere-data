@@ -1,0 +1,23 @@
+{
+  "id": "artist_c0a895ba-df22-4874-a598-3a83ba62030c",
+  "name": "黒いキョーダイン",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.nisieda.com/wp/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/nisiedas",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artist_6ee42e35-7a44-4ed8-9b3e-4f4478bdb4c6",
+  "name": "小小小萌雪",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yuki.20131499",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yuki_20131499/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "artist_15a66c8a-9365-413a-bdce-c6f2d47ad02e",
+  "name": "腿氏企業",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/tueicosplay",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/tueicosplay/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/tuei_cosplay/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

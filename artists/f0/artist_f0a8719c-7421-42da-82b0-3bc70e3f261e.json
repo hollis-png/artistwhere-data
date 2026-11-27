@@ -1,0 +1,22 @@
+{
+  "id": "artist_f0a8719c-7421-42da-82b0-3bc70e3f261e",
+  "name": "幽閉サテライト",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.yuuhei-satellite.jp/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Yuuka_st",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

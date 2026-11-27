@@ -1,0 +1,29 @@
+{
+  "id": "artist_6a04372b-4d6e-4cca-966c-afc0b91c5b76",
+  "name": "犬狸貓手作",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/a2333300/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/raccoon_cat_handmade/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/AvZMKmG5z2rTAqm",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

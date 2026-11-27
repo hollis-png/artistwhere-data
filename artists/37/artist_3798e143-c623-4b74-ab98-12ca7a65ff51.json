@@ -1,0 +1,39 @@
+{
+  "id": "artist_3798e143-c623-4b74-ab98-12ca7a65ff51",
+  "name": "一顆馬鈴薯-燦",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/potato80501.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/lin.heng.166900/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/potato80501in309/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/p/3izjsj05sc",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/potato80501",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

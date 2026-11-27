@@ -1,0 +1,37 @@
+{
+  "id": "artist_e4f827c6-4a0a-446b-bef1-f50754e311a1",
+  "name": "KIMINA STUDIO",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/itswasuutsu",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://p.ecpay.com.tw/BF5B0",
+      "platform": "綠界斗內",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/itswasuutsu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/wang.ying.482207",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/wang_ying724/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

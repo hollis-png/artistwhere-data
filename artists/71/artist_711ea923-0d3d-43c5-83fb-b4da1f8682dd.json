@@ -1,0 +1,39 @@
+{
+  "id": "artist_711ea923-0d3d-43c5-83fb-b4da1f8682dd",
+  "name": "WHO YUA",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/yua_takanashi/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/who_yuayura",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@whoyua7194/featured",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCQJUpyKgEI0HLYq6rBJYqVw/featured",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yuazzing",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

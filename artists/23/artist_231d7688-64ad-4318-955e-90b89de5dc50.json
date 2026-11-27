@@ -1,0 +1,19 @@
+{
+  "id": "artist_231d7688-64ad-4318-955e-90b89de5dc50",
+  "name": "蜂巢起司",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/chilinn0620",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

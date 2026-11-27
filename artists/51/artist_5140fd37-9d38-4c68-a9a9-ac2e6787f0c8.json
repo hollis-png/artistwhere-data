@@ -1,0 +1,19 @@
+{
+  "id": "artist_5140fd37-9d38-4c68-a9a9-ac2e6787f0c8",
+  "name": "獸耳麵包",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://m.weibo.cn/u/7900645804?luicode=10000011&lfid=1005052834783194",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

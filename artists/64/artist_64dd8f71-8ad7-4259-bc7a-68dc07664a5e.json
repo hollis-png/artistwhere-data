@@ -1,0 +1,29 @@
+{
+  "id": "artist_64dd8f71-8ad7-4259-bc7a-68dc07664a5e",
+  "name": "7MA",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100003639308261",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/15214577",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/c520gpss",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

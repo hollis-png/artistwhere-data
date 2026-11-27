@@ -1,0 +1,27 @@
+{
+  "id": "artist_63f392fe-f476-42c5-a7e1-3791feb03961",
+  "name": "Hauson_artworks",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/hauson0222",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hauson0222?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/43210595",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

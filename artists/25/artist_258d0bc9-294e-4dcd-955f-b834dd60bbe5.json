@@ -1,0 +1,47 @@
+{
+  "id": "artist_258d0bc9-294e-4dcd-955f-b834dd60bbe5",
+  "name": "Puo mart",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/xkhH8Jph",
+      "platform": "Discord",
+      "status": "dead"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/483339",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/puopuo-cosplay",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61550569100774&ref=PROFILE_EDIT_xav_ig_profile_page_web",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/puopuo_cos/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/cw/puopuo",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCx3qtM6IWsSRtx0Q3__xJrQ",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

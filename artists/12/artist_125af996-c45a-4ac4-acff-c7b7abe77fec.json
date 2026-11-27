@@ -1,0 +1,17 @@
+{
+  "id": "artist_125af996-c45a-4ac4-acff-c7b7abe77fec",
+  "name": "即樂堂",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?&owner=gn01920249",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    }
+  ]
+}

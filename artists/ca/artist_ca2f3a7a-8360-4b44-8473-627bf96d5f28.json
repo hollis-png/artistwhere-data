@@ -1,0 +1,35 @@
+{
+  "id": "artist_ca2f3a7a-8360-4b44-8473-627bf96d5f28",
+  "name": "STUDIO GONDWANA TAIWAN",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://gondwanastudio.wixsite.com/gondwana-studio",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.doujin.com.tw/groups/info/7682",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/gondwana_studio/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/aruma_kanjiro",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

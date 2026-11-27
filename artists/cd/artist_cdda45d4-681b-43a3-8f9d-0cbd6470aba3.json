@@ -1,0 +1,15 @@
+{
+  "id": "artist_cdda45d4-681b-43a3-8f9d-0cbd6470aba3",
+  "name": "預見娛樂",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/lanmewko",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

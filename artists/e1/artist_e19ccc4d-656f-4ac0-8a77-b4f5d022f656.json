@@ -1,0 +1,30 @@
+{
+  "id": "artist_e19ccc4d-656f-4ac0-8a77-b4f5d022f656",
+  "name": "さにゃわーーるど！",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/544795?locale=jp",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/sana_mtkn",
+      "platform": "Lit.link",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.instagram.com/sa_nya3737/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/sana_mtkn",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

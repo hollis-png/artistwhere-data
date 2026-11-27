@@ -1,0 +1,20 @@
+{
+  "id": "artist_a32b4b3c-f4b5-42a9-95e7-2c17b2a07d26",
+  "name": "Takodoko",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/takotako.tw",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/takotako.tw/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "artist_0f7a04ae-9402-4ce2-916c-47e1c20f7599",
+  "name": "好了啦！拜寧特大號",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://heidihoney.carrd.co/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/heidi_honey_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/BNTDH/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/heidi_honey_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/heidi_honey",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

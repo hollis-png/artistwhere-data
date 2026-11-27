@@ -1,0 +1,26 @@
+{
+  "id": "artist_9ea17188-01e1-4eae-b1aa-0fb0f037ffb0",
+  "name": "肉球不加蛋",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/meatball.ry/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/meat_ball_without_ball",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

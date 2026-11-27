@@ -1,0 +1,27 @@
+{
+  "id": "artist_408b8a34-4375-40e3-9d68-1ec73dd35c60",
+  "name": "極限邊緣",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/2778703",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/marco1890",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/KU_DINAS",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

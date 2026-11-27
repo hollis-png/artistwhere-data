@@ -1,0 +1,27 @@
+{
+  "id": "artist_1635e68e-87aa-496f-8a08-592facfa63f2",
+  "name": "黑子娛樂",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E9%BB%91%E5%AD%90%E5%A8%9B%E6%A8%82-Kuroko-Entertainment-61552679142113/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.kuroko-entertainment.tw/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kurokostw",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "artist_9d4281f4-9beb-4905-805a-844eb7f02f16",
+  "name": "B.W.Teahouse",
+  "types": [
+    "artist",
+    "vtuber"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Eru_Pikushibu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/bwteahouse",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3222996",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/akkij0358",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "artist_daa87dc5-e8b4-4851-8e28-55f277594235",
+  "name": "牛五花娛樂",
+  "types": [
+    "coser",
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/F2PvxYnb5d",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/yuetai",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://payment.opay.tw/Broadcaster/Donate/A35AFEEEC0FA0800DFAD0135B16835F1",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/yuetaii",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@yuetai7013",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/YueTai_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

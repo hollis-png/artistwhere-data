@@ -1,0 +1,30 @@
+{
+  "id": "artist_bee4e67d-62cc-4e81-9351-837b0e86e608",
+  "name": "蜥蠵創作",
+  "types": [
+    "artist",
+    "craft"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/siamesedolll/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "蜥蠵創作"
+    },
+    {
+      "url": "https://youtube.com/@%E8%9C%A5%E8%A0%B5%E5%89%B5%E4%BD%9C",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/@siamesedoll",
+      "platform": "YouTube",
+      "status": "alive",
+      "displayName": "蜥蠵創作"
+    }
+  ]
+}

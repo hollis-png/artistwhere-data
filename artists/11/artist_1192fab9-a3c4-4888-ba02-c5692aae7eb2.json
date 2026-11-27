@@ -1,0 +1,59 @@
+{
+  "id": "artist_1192fab9-a3c4-4888-ba02-c5692aae7eb2",
+  "name": "月見猫屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/tsukihikarinya",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://tsukihikarinya.wixsite.com/tsukihikarinya",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/tsukihikarinya",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/tsuki.hikarin/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/tsukihikarinya/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/tsukihikarinya/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/35557011",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/moonlightlight2552",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@tsukihikarinya",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

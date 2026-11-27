@@ -1,0 +1,28 @@
+{
+  "id": "artist_6e35e1c4-86c0-41bb-ab9a-2dd34f7d92ee",
+  "name": "作業系統",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/groups/info/339",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/1055157",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/kazos",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

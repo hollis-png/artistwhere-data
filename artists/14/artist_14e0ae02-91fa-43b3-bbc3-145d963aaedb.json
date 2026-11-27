@@ -1,0 +1,19 @@
+{
+  "id": "artist_14e0ae02-91fa-43b3-bbc3-145d963aaedb",
+  "name": "數位軌道2",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/digitrack.tw/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

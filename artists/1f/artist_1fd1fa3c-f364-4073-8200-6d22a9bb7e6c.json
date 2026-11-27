@@ -1,0 +1,36 @@
+{
+  "id": "artist_1fd1fa3c-f364-4073-8200-6d22a9bb7e6c",
+  "name": "栞栞與她的奇妙小夥伴",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/zunzzzz_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Zunzzzz",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/zunzzzz_",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/zunzun89897",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "artist_0021ceab-8da2-479f-8cc2-f09fa7c0cd78",
+  "name": "拾參Thirteen",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Thirteennn013",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100073027887645",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCmKZED1y3oPf8sTaPu3XIQw",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

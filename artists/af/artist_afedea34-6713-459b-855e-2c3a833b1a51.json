@@ -1,0 +1,44 @@
+{
+  "id": "artist_afedea34-6713-459b-855e-2c3a833b1a51",
+  "name": "月魚小屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/moonfish200117.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?&owner=fallencat112",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100035195718553",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61566118498220&rdid=Eqht1V6tWJ7w94J0&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1FjdDG3Hi7%2F%3Fmibextid%3DwwXIfr#",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/66303086",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/MoonFish112",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "artist_cf84f078-01ca-45b2-821a-82651f6954c0",
+  "name": "Preteen-Party",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://cxc.today/zh/store/Preteenparty-Ruki/work",
+      "platform": "CXC",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/ruki_amemiya",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/PreteenParty.RukiArk",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/rukiruki0824/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/eruk8993",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

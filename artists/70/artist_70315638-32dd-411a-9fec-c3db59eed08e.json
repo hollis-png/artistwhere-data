@@ -1,0 +1,30 @@
+{
+  "id": "artist_70315638-32dd-411a-9fec-c3db59eed08e",
+  "name": "貿貿咬一口",
+  "types": [],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/lorymomo",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/lory.momo/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/127696767",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/LoryMomo",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

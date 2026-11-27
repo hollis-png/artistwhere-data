@@ -1,0 +1,43 @@
+{
+  "id": "artist_32bcf58e-caf3-4f11-9ac0-e2c1f6ba2255",
+  "name": "TAMUSIC",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://tamusic.jp/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "http://www.youtube.com/user/violinpiano2",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/tamusic/",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://vocadb.net/Ar/2474",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/240508",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/TAMUSIC_staff",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

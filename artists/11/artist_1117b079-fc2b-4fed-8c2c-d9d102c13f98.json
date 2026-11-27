@@ -1,0 +1,33 @@
+{
+  "id": "artist_1117b079-fc2b-4fed-8c2c-d9d102c13f98",
+  "name": "傅立葉秘密基地",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/fourierkaeru",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/25107225",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/FourierKaERu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/KaERu96591619",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

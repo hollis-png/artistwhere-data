@@ -1,0 +1,37 @@
+{
+  "id": "artist_8182d30b-1935-4a8b-87be-68232df8c4d5",
+  "name": "伊灰大優灰Ehui",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/ehui0403",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/rubycoser0403/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ehuii_0403/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/ehui_0403",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ehui0403",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

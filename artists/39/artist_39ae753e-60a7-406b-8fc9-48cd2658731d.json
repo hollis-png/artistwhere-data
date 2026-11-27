@@ -1,0 +1,33 @@
+{
+  "id": "artist_39ae753e-60a7-406b-8fc9-48cd2658731d",
+  "name": "砂糖駅",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/sugarday_712/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/66864680",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@sugarday_712",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Sugarday0712",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

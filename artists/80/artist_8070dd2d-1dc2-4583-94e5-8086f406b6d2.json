@@ -1,0 +1,24 @@
+{
+  "id": "artist_8070dd2d-1dc2-4583-94e5-8086f406b6d2",
+  "name": "瑪得琳",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.twitch.tv/catlovesu",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/catlovesu1128",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

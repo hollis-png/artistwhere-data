@@ -1,0 +1,27 @@
+{
+  "id": "artist_69fa69ab-5ef5-42b6-8209-be2b392771a8",
+  "name": "角落老師小夥伴",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/QILook0219",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100075352406172",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/108748168",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

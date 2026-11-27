@@ -1,0 +1,33 @@
+{
+  "id": "artist_d538e98f-98ee-4f17-ae1c-ed0789e56a0f",
+  "name": "inchiめろメロ",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/inchimero",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/inchimyu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/inchimero/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/inchi_leung/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_b31fe4b1-e2e9-44f0-b3da-306e10eb22ed",
+  "name": "反式實驗劇場",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/groups/info/1945/books?srsltid=AfmBOoodBiL2iCPabMFNhYyo9dgJrO0B1ABJaWS3Kc01j-VVrWsbuNLc",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/LightOffill",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

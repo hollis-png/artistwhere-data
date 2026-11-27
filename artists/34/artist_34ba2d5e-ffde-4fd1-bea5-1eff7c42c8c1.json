@@ -1,0 +1,81 @@
+{
+  "id": "artist_34ba2d5e-ffde-4fd1-bea5-1eff7c42c8c1",
+  "name": "non_nonsummerjack",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/kXNp5v9e6M",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/fanclubs/24362",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/nonsummerjack",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/rainwhite",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://nonsummerjack.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/rainwhite0914",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61550746821996",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/rainwhite0914/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/non_nonsummerjack/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/white0914/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.tiktok.com/@rain_white0914",
+      "platform": "TikTok",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/rainwhite0914/about",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/monhannoero",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

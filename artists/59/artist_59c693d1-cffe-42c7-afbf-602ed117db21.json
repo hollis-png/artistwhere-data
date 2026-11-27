@@ -1,0 +1,28 @@
+{
+  "id": "artist_59c693d1-cffe-42c7-afbf-602ed117db21",
+  "name": "宅鼠-Nezumi",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/09261377",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100064024324305",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/6446910",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

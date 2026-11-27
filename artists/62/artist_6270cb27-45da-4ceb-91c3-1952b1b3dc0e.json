@@ -1,0 +1,32 @@
+{
+  "id": "artist_6270cb27-45da-4ceb-91c3-1952b1b3dc0e",
+  "name": "Nao嘻嘻",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://instabio.cc/natomitsu323",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/nato_mitsu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/naomitsusama",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nato_mitsu",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

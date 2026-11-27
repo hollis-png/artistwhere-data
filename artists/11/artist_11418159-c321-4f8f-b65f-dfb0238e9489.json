@@ -1,0 +1,38 @@
+{
+  "id": "artist_11418159-c321-4f8f-b65f-dfb0238e9489",
+  "name": "中央動畫社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://clusters.tw/profile/47AFE9E2-0664-4F7B-92CC-B7CE1220A981/plans",
+      "platform": "可洛斯",
+      "status": "alive"
+    },
+    {
+      "url": "https://ncuacg.pixnet.net/blog",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ncuanimeclub",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/NCUACG",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCiqgchrGAe72bDcMyCy8Wwg",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

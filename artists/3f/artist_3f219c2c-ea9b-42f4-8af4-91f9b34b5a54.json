@@ -1,0 +1,17 @@
+{
+  "id": "artist_3f219c2c-ea9b-42f4-8af4-91f9b34b5a54",
+  "name": "德意少女",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/DEYISHONYU/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

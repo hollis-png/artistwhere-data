@@ -1,0 +1,18 @@
+{
+  "id": "artist_c25d1869-f6d0-433c-ac03-74bfbbece218",
+  "name": "きゃべつそふと",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://cabbage-soft.com/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

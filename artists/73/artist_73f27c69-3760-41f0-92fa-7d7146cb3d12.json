@@ -1,0 +1,37 @@
+{
+  "id": "artist_73f27c69-3760-41f0-92fa-7d7146cb3d12",
+  "name": "Anon Taiwan",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/bangdream114514",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/bangdream114514",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/BANDBAND1027/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/oggysecond/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/AnonTaiwan_Meme",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

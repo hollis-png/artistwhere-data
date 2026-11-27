@@ -1,0 +1,23 @@
+{
+  "id": "artist_c742b1bc-67ca-4232-8e2d-eb4a542619ba",
+  "name": "子涵｜Han Cosplayer",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E5%AD%90%E6%B6%B5-Han-Cosplayer-61574531033207/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/%E6%B6%B5%E5%BC%8F%E7%87%92%E8%87%98-100067164668009",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

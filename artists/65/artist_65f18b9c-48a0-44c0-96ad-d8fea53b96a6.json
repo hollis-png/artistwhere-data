@@ -1,0 +1,27 @@
+{
+  "id": "artist_65f18b9c-48a0-44c0-96ad-d8fea53b96a6",
+  "name": "白血球赤血球",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/ziling0512",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@zekkyouch.9498",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/zekkyoubot",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artist_1c8e9e05-2d38-4d52-a6ab-1702d2382e46",
+  "name": "P&C手繪",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/PandC40673761",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "artist_7a993090-05a7-4eb9-b781-05e6b8bc2bf3",
+  "name": "Shouyou",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Shouyou97",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/shou_you97/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/64425228",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@shou_you97",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Shouyou97",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

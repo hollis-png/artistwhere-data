@@ -1,0 +1,17 @@
+{
+  "id": "artist_073a9bd2-9112-4c79-bc7e-f00a3688d671",
+  "name": "Neomalive",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/JiuluVtuber",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

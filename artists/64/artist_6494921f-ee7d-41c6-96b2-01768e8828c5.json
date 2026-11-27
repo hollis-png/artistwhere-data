@@ -1,0 +1,19 @@
+{
+  "id": "artist_6494921f-ee7d-41c6-96b2-01768e8828c5",
+  "name": "EATOS",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/eatos_ye",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "artist_ffd67db6-5b97-40a8-9c2f-95b9a0eeff85",
+  "name": "包子研究社",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/nene927",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/manjiu_/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/nene__oo0/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/__zzz___oo0",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ymnnkn_okura",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

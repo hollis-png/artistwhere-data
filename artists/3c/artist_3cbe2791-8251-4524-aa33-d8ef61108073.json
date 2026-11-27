@@ -1,0 +1,22 @@
+{
+  "id": "artist_3cbe2791-8251-4524-aa33-d8ef61108073",
+  "name": "靈式企業有限公司",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/28897755",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hngryghost9/media",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "artist_bbf3b0ce-8d13-4698-9457-69a3c65c7653",
+  "name": "みゆる〜む伊月的空間",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/bluetwintail.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/bluetwintail",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/bluetwintail",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

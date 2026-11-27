@@ -1,0 +1,30 @@
+{
+  "id": "artist_26cf8ed5-a793-4325-8b48-de539d30b075",
+  "name": "這個名字有毒",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.doujin.com.tw/groups/info/7613/goods",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/ke.su.7524",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/pudding28033757",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

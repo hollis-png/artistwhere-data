@@ -1,0 +1,18 @@
+{
+  "id": "artist_0feb1e70-75e8-4c2f-a71a-fd0c87ae3f7a",
+  "name": "川崎重工",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100086439973776",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

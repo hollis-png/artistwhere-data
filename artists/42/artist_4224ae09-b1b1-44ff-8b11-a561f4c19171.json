@@ -1,0 +1,22 @@
+{
+  "id": "artist_4224ae09-b1b1-44ff-8b11-a561f4c19171",
+  "name": "SIRIKA",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.patreon.com/siriufthebunnyman",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/siriuflong",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

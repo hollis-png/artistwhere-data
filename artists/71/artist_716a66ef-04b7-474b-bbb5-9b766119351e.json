@@ -1,0 +1,30 @@
+{
+  "id": "artist_716a66ef-04b7-474b-bbb5-9b766119351e",
+  "name": "KIPITIA",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/kipi",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kipi_84/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC--23zW98pDRtw1YV80P-BQ",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kipi_84",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

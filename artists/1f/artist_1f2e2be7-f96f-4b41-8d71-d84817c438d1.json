@@ -1,0 +1,22 @@
+{
+  "id": "artist_1f2e2be7-f96f-4b41-8d71-d84817c438d1",
+  "name": "翼口吃掉",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/li.hua.fumino",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/q323_tachibana_",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

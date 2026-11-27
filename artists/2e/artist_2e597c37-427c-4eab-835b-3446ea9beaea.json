@@ -1,0 +1,22 @@
+{
+  "id": "artist_2e597c37-427c-4eab-835b-3446ea9beaea",
+  "name": "路可貓窩",
+  "types": [],
+  "events": [
+    "FF46",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61582790835698",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/top160cm",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

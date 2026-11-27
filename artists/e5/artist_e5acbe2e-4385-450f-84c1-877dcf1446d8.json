@@ -1,0 +1,30 @@
+{
+  "id": "artist_e5acbe2e-4385-450f-84c1-877dcf1446d8",
+  "name": "就是諾亞亞Noyaya",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/noya.cosplay",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/noyayaya.gif/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/noyayaya",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

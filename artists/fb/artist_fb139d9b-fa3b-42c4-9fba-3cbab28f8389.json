@@ -1,0 +1,19 @@
+{
+  "id": "artist_fb139d9b-fa3b-42c4-9fba-3cbab28f8389",
+  "name": "一輩子少女樂團",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.threads.com/@ry_rouyu",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

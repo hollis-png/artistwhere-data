@@ -1,0 +1,18 @@
+{
+  "id": "artist_9416098f-72f2-4d69-8a77-df62389092f6",
+  "name": "東京フィギュア",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://tokyofigure.jp/?srsltid=AfmBOopy8SKV9HWb_i7H7ubL2DcyoC-kFlx8hd_Pz4QlA0B2r-EvjobT",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

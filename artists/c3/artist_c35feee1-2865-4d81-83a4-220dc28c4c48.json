@@ -1,0 +1,30 @@
+{
+  "id": "artist_c35feee1-2865-4d81-83a4-220dc28c4c48",
+  "name": "彩音",
+  "types": [
+    "other",
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "http://xion-music.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@xionmusic",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/xion_p",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

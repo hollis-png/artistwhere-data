@@ -1,0 +1,30 @@
+{
+  "id": "artist_938842b7-edef-42ca-a27c-ce69dd66dba4",
+  "name": "貓箱社",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/milkbox888/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/17223466",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/milkbox888",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

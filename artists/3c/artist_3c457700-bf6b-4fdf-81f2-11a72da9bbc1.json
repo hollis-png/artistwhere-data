@@ -1,0 +1,19 @@
+{
+  "id": "artist_3c457700-bf6b-4fdf-81f2-11a72da9bbc1",
+  "name": "若若食堂",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100065550877529",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

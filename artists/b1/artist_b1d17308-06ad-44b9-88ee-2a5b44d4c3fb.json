@@ -1,0 +1,27 @@
+{
+  "id": "artist_b1d17308-06ad-44b9-88ee-2a5b44d4c3fb",
+  "name": "Kiyo",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/kiyo.drawing/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kiyo_artwork/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5862646",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

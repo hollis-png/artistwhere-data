@@ -1,0 +1,35 @@
+{
+  "id": "artist_d6af2324-91d0-461e-be97-8b2e76055ede",
+  "name": "曉愛今天有擺攤",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/xuan87909?ltsid=4f95cfcc-1523-4bf5-aec1-74fb004880c2",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/xuan87909",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063504140027",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.furuke.com/xuan87909",
+      "platform": "Furuke",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/xuan87909/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

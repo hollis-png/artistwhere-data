@@ -1,0 +1,30 @@
+{
+  "id": "artist_36f6113a-c423-4682-be9d-430cf83160de",
+  "name": "風藝windart",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/304854",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/windart",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/windarteam",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

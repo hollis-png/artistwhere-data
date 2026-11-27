@@ -1,0 +1,24 @@
+{
+  "id": "artist_8a65c34f-f32e-4e13-ba2d-ad70216b43af",
+  "name": "優 Yuki Cosplay",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yukimeowcosplay",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yu_yukiyuki",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

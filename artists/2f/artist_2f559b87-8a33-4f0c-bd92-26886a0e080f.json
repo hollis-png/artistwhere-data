@@ -1,0 +1,29 @@
+{
+  "id": "artist_2f559b87-8a33-4f0c-bd92-26886a0e080f",
+  "name": "小希Akiii",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/akidesu0523/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/akidesu0523/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@akidesu0523",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

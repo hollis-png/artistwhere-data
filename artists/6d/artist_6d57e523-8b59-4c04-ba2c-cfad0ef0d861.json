@@ -1,0 +1,19 @@
+{
+  "id": "artist_6d57e523-8b59-4c04-ba2c-cfad0ef0d861",
+  "name": "HoR",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/LZRT24",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

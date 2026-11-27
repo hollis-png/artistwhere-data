@@ -1,0 +1,17 @@
+{
+  "id": "artist_a87b493d-7e7d-4f2a-9ff7-4b66590c83dd",
+  "name": "TeddyB",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/teddytz8593",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

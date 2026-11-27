@@ -1,0 +1,17 @@
+{
+  "id": "artist_e8668cfb-1aa3-47ea-a0c3-71f5aaf233e3",
+  "name": "wawa",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/ahmandawa",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

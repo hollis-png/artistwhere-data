@@ -1,0 +1,29 @@
+{
+  "id": "artist_0ee92a5f-f3f7-4ab3-911b-bd05f6abba07",
+  "name": "OTAKU JAZZ COLONY",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://otacolo.booth.pm",
+      "platform": "Booth",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@OTA_COLO",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ota_colo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

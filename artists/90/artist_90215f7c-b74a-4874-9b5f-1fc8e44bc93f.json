@@ -1,0 +1,19 @@
+{
+  "id": "artist_90215f7c-b74a-4874-9b5f-1fc8e44bc93f",
+  "name": "可可貓漫工坊",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063883872873",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

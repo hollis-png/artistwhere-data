@@ -1,0 +1,17 @@
+{
+  "id": "artist_a6db746e-c5fe-4344-9882-f77cfe182589",
+  "name": "神之熾火",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.plurk.com/shen880429",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

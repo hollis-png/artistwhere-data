@@ -1,0 +1,28 @@
+{
+  "id": "artist_3bf101c1-401b-405a-80fe-24e3308cec64",
+  "name": "Tohka",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://fanme.link/@Tohka_cos",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://instagram.com/tohka0101",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Tohka_cos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

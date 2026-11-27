@@ -1,0 +1,20 @@
+{
+  "id": "artist_6b494ed9-a7d1-4ca4-ae5f-dcbf992a5f59",
+  "name": "費氏鴨的池塘",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/FiboDuck",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kinzoku_duckkk",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

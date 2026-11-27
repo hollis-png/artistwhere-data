@@ -1,0 +1,48 @@
+{
+  "id": "artist_37c09512-373e-412c-ba5c-4fa90a0a49e5",
+  "name": "河狸BiBa",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45",
+    "武裝乙女同人即売会"
+  ],
+  "accounts": [
+    {
+      "url": "https://hungz202026.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/%E6%B2%B3%E7%8B%B8BiBa-61571925013933/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61571925013933",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/share/18RJBnhuy6/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/63376936",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/hungz36680396",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

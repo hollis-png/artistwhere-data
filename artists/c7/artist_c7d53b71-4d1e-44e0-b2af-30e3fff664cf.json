@@ -1,0 +1,37 @@
+{
+  "id": "artist_c7d53b71-4d1e-44e0-b2af-30e3fff664cf",
+  "name": "柚子節奏",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/lo.call.3",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/Ushiho4422/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/796033",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/TeYuka22",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Ushiho4422",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

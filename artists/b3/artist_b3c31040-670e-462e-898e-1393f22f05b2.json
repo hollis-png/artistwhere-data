@@ -1,0 +1,22 @@
+{
+  "id": "artist_b3c31040-670e-462e-898e-1393f22f05b2",
+  "name": "黑川小牛的家",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/cowcowddd",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/cowcow.ddd/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

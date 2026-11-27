@@ -1,0 +1,30 @@
+{
+  "id": "artist_78a13019-392c-444f-bc5e-e4bca94a4a45",
+  "name": "echo",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/echosdoodle",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/5842783",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/echo0621",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/echosdoodle",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

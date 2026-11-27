@@ -1,0 +1,34 @@
+{
+  "id": "artist_d914981d-c397-4852-8407-dfe1ee32e993",
+  "name": "AKA.鞠-Cosplay",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/AKAGUIK/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/Akaguik",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@akaguik",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/AkaGuik",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

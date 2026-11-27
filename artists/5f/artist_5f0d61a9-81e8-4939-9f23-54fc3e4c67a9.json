@@ -1,0 +1,33 @@
+{
+  "id": "artist_5f0d61a9-81e8-4939-9f23-54fc3e4c67a9",
+  "name": "pikaneko",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "武裝乙女同人即売会",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61555066996146",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/14749824",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Gznf1221",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

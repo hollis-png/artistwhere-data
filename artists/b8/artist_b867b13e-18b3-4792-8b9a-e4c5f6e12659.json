@@ -1,0 +1,31 @@
+{
+  "id": "artist_b867b13e-18b3-4792-8b9a-e4c5f6e12659",
+  "name": "Anifanshion",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/DrBossLee",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/Dr.BossLee/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/drboss",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

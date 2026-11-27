@@ -1,0 +1,39 @@
+{
+  "id": "artist_22630da9-25b7-413b-bba8-0f040eea2a4e",
+  "name": "熾鹿です",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/shika.daily?brid=-rHzs8aZx7pmtcvTD3EFyg",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/shika16321048",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/HereisShika/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/shika.daily",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/shikadaily",
+      "platform": "Patreon",
+      "status": "alive"
+    }
+  ]
+}

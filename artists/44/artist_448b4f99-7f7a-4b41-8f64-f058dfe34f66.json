@@ -1,0 +1,27 @@
+{
+  "id": "artist_448b4f99-7f7a-4b41-8f64-f058dfe34f66",
+  "name": "緣狐社",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/15786941",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/p/3hmrmhvf5t",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/en_kaien",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

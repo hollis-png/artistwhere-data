@@ -1,0 +1,20 @@
+{
+  "id": "artist_f6124676-7e8f-4a8f-9c9d-eb4eb9eb2bf4",
+  "name": "梅之小町",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/12873498",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/UMEDAYO_sekaume",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

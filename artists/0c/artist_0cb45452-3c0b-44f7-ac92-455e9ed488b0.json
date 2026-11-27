@@ -1,0 +1,22 @@
+{
+  "id": "artist_0cb45452-3c0b-44f7-ac92-455e9ed488b0",
+  "name": "紫乃沒有乃",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/cnos2016/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/CNO",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

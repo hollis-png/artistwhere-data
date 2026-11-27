@@ -1,0 +1,28 @@
+{
+  "id": "artist_95cbc228-6df3-468a-9414-1789ae0f7048",
+  "name": "猫耳少女",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/kurashinayuzuki",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3398728",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/KurashinaYuduki",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

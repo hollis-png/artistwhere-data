@@ -1,0 +1,28 @@
+{
+  "id": "artist_90cf648d-99e0-4264-bcd9-94875c2858d1",
+  "name": "箱貓效應",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=ashy5862",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/hank5862",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/chestcat",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

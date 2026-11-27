@@ -1,0 +1,27 @@
+{
+  "id": "artist_20c95952-8845-4637-adc0-9f59ce941338",
+  "name": "夜貓館咖啡屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yamyoukan/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/pupump",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

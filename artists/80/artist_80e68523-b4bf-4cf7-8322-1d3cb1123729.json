@@ -1,0 +1,33 @@
+{
+  "id": "artist_80e68523-b4bf-4cf7-8322-1d3cb1123729",
+  "name": "【DREAM.Project】➤ Sameki",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/samekilink",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/smkx_x",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/sameki69?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/sameki.ig",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "artist_17224021-cb3e-4cdb-92b3-26cf3f43dc99",
+  "name": "UAV實驗室",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://magana.pixnet.net/blog/post/122059316-%5b%e5%b7%a5%e5%95%86%5d%5bff41%5d%e5%90%8c%e4%ba%ba%e7%a4%be%e5%9c%98uav%e5%af%a6%e9%a9%97%e5%ae%a4%e5%8f%83%e5%8a%a0%e6%83%85%e5%a0%b1%28%e5%83%85%e9%80%b1%e5%85%ad",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/147943",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ccuav",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

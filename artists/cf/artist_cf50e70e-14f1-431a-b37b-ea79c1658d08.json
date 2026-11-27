@@ -1,0 +1,39 @@
+{
+  "id": "artist_cf50e70e-14f1-431a-b37b-ea79c1658d08",
+  "name": "Daidai是隻貓",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://youtube.com/@daidaiyoake",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://daidai-yoake.carrd.co/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/daidai_yoake",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/daidai_yoake",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Daidai_Yoake",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

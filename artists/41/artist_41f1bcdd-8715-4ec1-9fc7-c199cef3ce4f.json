@@ -1,0 +1,17 @@
+{
+  "id": "artist_41f1bcdd-8715-4ec1-9fc7-c199cef3ce4f",
+  "name": "莫莫無聞",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063798138359",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "artist_170aa140-cb42-4e46-ac2f-22ffe6f3d348",
+  "name": "MAIDOLL",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/maidoll",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/554800",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/maidoll_fei",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

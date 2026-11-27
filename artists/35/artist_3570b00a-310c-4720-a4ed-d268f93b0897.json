@@ -1,0 +1,18 @@
+{
+  "id": "artist_3570b00a-310c-4720-a4ed-d268f93b0897",
+  "name": "稻荷一家",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=100001802213806",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

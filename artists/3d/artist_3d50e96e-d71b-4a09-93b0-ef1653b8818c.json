@@ -1,0 +1,27 @@
+{
+  "id": "artist_3d50e96e-d71b-4a09-93b0-ef1653b8818c",
+  "name": "李婷婷",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/tinaaaaalee",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/lee.ting.ting.tina/?show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_review_changes=0&show_community_rollback=0&show_follower_visibility_disclosure=0",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/tinaaaaalee/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

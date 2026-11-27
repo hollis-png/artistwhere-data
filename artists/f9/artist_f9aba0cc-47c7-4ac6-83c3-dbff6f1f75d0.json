@@ -1,0 +1,63 @@
+{
+  "id": "artist_f9aba0cc-47c7-4ac6-83c3-dbff6f1f75d0",
+  "name": "SPICAT",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/houk1se1.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://fantia.jp/houkisei",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://houk1se1.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/houk1se1",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/houkisei",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/en/users/49759620",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/en/users/70050825",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/houk1se1",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/x_x36131422",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yorunikutabetai",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

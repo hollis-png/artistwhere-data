@@ -1,0 +1,19 @@
+{
+  "id": "artist_b00e185b-1f61-425c-ae76-103d490f2d7f",
+  "name": "Edge Three",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/edge_three/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

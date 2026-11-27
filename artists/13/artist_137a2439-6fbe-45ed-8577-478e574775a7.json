@@ -1,0 +1,28 @@
+{
+  "id": "artist_137a2439-6fbe-45ed-8577-478e574775a7",
+  "name": "Chochomi",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/87118889",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/_ONEDOO",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/chochomi00",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

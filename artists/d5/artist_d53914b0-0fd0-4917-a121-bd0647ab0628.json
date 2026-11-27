@@ -1,0 +1,23 @@
+{
+  "id": "artist_d53914b0-0fd0-4917-a121-bd0647ab0628",
+  "name": "Captain_beaver",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Beaver_666",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/43775897",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

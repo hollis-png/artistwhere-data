@@ -1,0 +1,30 @@
+{
+  "id": "artist_7a306675-e525-4a1f-aa96-bbda99501589",
+  "name": "猫毛猫",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://catmocat.weebly.com/about.html",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.doujin.com.tw/groups/info/6675",
+      "platform": "同人誌通販",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/TOHOorin",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

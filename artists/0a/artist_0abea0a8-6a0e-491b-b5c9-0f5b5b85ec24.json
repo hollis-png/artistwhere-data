@@ -1,0 +1,37 @@
+{
+  "id": "artist_0abea0a8-6a0e-491b-b5c9-0f5b5b85ec24",
+  "name": "CY Future",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://cyfuture.ccnl.cloud/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://portaly.cc/cyfuture-vtuber",
+      "platform": "Portaly",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61556090013189",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/cy._.future",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/CYFuture2024",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "artist_ac9c2a28-79a1-4176-b219-fc12eefd3398",
+  "name": "創力",
+  "types": [],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/tukurifigure/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

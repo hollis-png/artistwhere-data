@@ -1,0 +1,34 @@
+{
+  "id": "artist_df3b7f7d-79bc-469b-a80b-0f53f46e6c60",
+  "name": "龍魔女望夜",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/bluenight1022",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/bluenight1022",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@bluenight1022",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/bluenight1022",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

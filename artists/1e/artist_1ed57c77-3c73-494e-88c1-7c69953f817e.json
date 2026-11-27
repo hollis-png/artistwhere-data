@@ -1,0 +1,44 @@
+{
+  "id": "artist_1ed57c77-3c73-494e-88c1-7c69953f817e",
+  "name": "VCCC",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://pawoo.net/@shengkai167",
+      "platform": "Mastodon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/VCCC-100069550271408/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/vincents_ks",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/18406746",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/vccc_1",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/shengkai167",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

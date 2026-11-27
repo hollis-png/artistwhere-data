@@ -1,0 +1,47 @@
+{
+  "id": "artist_c5c1c7c6-2335-43b0-95a5-ef5d871e2b51",
+  "name": "戰鬥小楠",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/naaaaaaam",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=61550583453035",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.furuke.com/naaaaaaam__",
+      "platform": "Furuke",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/naaaaaaam_cos2023/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.net/@naaaaaaam_cos2023",
+      "platform": "Threads",
+      "status": "dead"
+    },
+    {
+      "url": "https://www.youtube.com/@naaaaaaam",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Naaamuumm",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

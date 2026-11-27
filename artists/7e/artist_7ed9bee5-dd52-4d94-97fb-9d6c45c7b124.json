@@ -1,0 +1,22 @@
+{
+  "id": "artist_7ed9bee5-dd52-4d94-97fb-9d6c45c7b124",
+  "name": "米鬚的攤",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/mi.xu.56064",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/27297552",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

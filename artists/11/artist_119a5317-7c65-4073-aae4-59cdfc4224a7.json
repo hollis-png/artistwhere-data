@@ -1,0 +1,17 @@
+{
+  "id": "artist_119a5317-7c65-4073-aae4-59cdfc4224a7",
+  "name": "黑市兔",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://hexbunnydoujin.tw/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

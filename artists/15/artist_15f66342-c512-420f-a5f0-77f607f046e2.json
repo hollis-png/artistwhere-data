@@ -1,0 +1,26 @@
+{
+  "id": "artist_15f66342-c512-420f-a5f0-77f607f046e2",
+  "name": "包子部屋&大磨界+GIOstudio",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://manju.cz-net.net/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/manju0619",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

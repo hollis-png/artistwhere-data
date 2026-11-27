@@ -1,0 +1,18 @@
+{
+  "id": "artist_69476daa-1da4-4782-9c3e-849e83a7ec97",
+  "name": "TwelveStudios",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/TwelveGeeks/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

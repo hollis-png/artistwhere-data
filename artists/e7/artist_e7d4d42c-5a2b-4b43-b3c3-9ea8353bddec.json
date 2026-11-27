@@ -1,0 +1,27 @@
+{
+  "id": "artist_e7d4d42c-5a2b-4b43-b3c3-9ea8353bddec",
+  "name": "深入研中心",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/people/%E6%88%91%E6%98%AF%E7%99%BD%E6%A2%85/100063940950752/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4449468",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/u/skywalker1994g",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

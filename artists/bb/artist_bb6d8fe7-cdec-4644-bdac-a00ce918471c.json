@@ -1,0 +1,49 @@
+{
+  "id": "artist_bb6d8fe7-cdec-4644-bdac-a00ce918471c",
+  "name": "鳥和え豆",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://fantia.jp/fanclubs/486719",
+      "platform": "Fantia",
+      "status": "alive"
+    },
+    {
+      "url": "https://otakucat.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/xianyumiaocat/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/otakucat1992",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/3041039",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@XYMcat",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/OtakuCat1992",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

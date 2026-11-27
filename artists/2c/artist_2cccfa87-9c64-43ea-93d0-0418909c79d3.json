@@ -1,0 +1,27 @@
+{
+  "id": "artist_2cccfa87-9c64-43ea-93d0-0418909c79d3",
+  "name": "星野ちゃん",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/karisutina2006",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/39758340",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yi_xin95298",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

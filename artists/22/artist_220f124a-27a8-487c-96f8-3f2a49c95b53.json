@@ -1,0 +1,17 @@
+{
+  "id": "artist_220f124a-27a8-487c-96f8-3f2a49c95b53",
+  "name": "DLsite",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.dlsite.com/index.html",
+      "platform": "DLsite",
+      "status": "alive"
+    }
+  ]
+}

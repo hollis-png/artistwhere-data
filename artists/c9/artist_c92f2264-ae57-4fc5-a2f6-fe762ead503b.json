@@ -1,0 +1,17 @@
+{
+  "id": "artist_c92f2264-ae57-4fc5-a2f6-fe762ead503b",
+  "name": "依琉iRu",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.threads.com/@iruiru_00",
+      "platform": "Threads",
+      "status": "alive"
+    }
+  ]
+}

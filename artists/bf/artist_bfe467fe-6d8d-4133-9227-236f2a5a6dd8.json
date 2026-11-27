@@ -1,0 +1,47 @@
+{
+  "id": "artist_bfe467fe-6d8d-4133-9227-236f2a5a6dd8",
+  "name": "亞姆的石洞廣場",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/RMzM38FATh",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/yumthedragon",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100075133440959&show_switched_toast=true",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/yumthedragon/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/yumthedragon",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCIMTxpt6zEqfU1OHYEL6wBg",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/yumthedragon",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

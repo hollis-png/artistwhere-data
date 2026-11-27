@@ -1,0 +1,41 @@
+{
+  "id": "artist_78bf7591-e017-43ac-a765-c7dea174d76f",
+  "name": "HattieCosplay",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/hattie_cos",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/hattie_cos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/hattiecos",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/hattie_cos/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/hattie_cos",
+      "platform": "Twitch",
+      "status": "alive"
+    }
+  ]
+}

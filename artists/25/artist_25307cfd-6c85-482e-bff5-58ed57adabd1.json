@@ -1,0 +1,20 @@
+{
+  "id": "artist_25307cfd-6c85-482e-bff5-58ed57adabd1",
+  "name": "大葉多媒體",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://mdc.dyu.edu.tw/rwd/index.html",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/mdc.dyu",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

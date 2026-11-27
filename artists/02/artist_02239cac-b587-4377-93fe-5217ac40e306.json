@@ -1,0 +1,28 @@
+{
+  "id": "artist_02239cac-b587-4377-93fe-5217ac40e306",
+  "name": "一隻盧魚",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/Luyu0708_art",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/cosfish0708/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11677192",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

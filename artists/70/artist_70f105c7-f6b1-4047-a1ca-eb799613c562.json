@@ -1,0 +1,23 @@
+{
+  "id": "artist_70f105c7-f6b1-4047-a1ca-eb799613c562",
+  "name": "滴式代工房",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://vocus.cc/user/6206676bfd897800014d2296",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100063650794739",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

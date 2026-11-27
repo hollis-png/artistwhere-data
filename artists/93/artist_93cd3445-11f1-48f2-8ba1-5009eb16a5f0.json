@@ -1,0 +1,28 @@
+{
+  "id": "artist_93cd3445-11f1-48f2-8ba1-5009eb16a5f0",
+  "name": "梅子不出門",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.pixiv.net/users/8490979",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.twitch.tv/kyotoume/about",
+      "platform": "Twitch",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/vipdadad",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

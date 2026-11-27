@@ -1,0 +1,17 @@
+{
+  "id": "artist_57849b81-698a-48ef-bb96-19611c66855e",
+  "name": "BigKuma_Tattoo",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/bigkuma_tattoo/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

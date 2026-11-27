@@ -1,0 +1,17 @@
+{
+  "id": "artist_3ec116d5-73d2-4343-90f9-04c02e78543c",
+  "name": "御兔丸屋",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/p/%E5%BE%A1%E5%85%94%E4%B8%B8%E5%B1%8B%E7%90%A4%E9%9C%8F-100095300723443/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

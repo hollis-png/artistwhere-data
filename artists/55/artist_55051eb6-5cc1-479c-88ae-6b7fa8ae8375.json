@@ -1,0 +1,25 @@
+{
+  "id": "artist_55051eb6-5cc1-479c-88ae-6b7fa8ae8375",
+  "name": "Yuzuki Lily",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/YuzukiLily",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/cw/yuzuki_Lily",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Yuzuki_Lily_cos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

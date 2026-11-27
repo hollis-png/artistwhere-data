@@ -1,0 +1,26 @@
+{
+  "id": "artist_aabb4e01-1785-458e-8d4e-7006de402ef2",
+  "name": "太空水龍頭恐慌",
+  "types": [
+    "artist",
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/SpaceFaucet/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Procambarusclarkii",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

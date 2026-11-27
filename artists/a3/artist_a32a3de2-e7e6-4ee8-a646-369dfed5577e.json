@@ -1,0 +1,25 @@
+{
+  "id": "artist_a32a3de2-e7e6-4ee8-a646-369dfed5577e",
+  "name": "柔軟的糯米糕",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?&owner=seong1027",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/ungung1027/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ungung_cos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

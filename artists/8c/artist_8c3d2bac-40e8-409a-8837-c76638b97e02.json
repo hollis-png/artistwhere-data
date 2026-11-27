@@ -1,0 +1,35 @@
+{
+  "id": "artist_8c3d2bac-40e8-409a-8837-c76638b97e02",
+  "name": "米型自動複製單元",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/setoharukano_12",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/xi.jun.779/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/14655223",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/Siawasenosekai",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

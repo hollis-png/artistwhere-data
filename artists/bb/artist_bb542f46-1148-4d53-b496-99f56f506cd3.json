@@ -1,0 +1,50 @@
+{
+  "id": "artist_bb542f46-1148-4d53-b496-99f56f506cd3",
+  "name": "比雕飛飛♪♪",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://bsky.app/profile/bee-diau.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://m.facebook.com/@diau.bee/?wtsid=rdr_0cNhQQDSAAmPGRUjO&hr=1",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/phoebediau",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7889005",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/phoebe_diau",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Bee_diau",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/phoebe_diau",
+      "platform": "Twitter (X)",
+      "status": "dead"
+    }
+  ]
+}

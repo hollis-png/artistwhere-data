@@ -1,0 +1,31 @@
+{
+  "id": "artist_e4193822-8871-4c46-98a7-7bb2bfd883e0",
+  "name": "みゆき·Miyuki",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/MiyukiTW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC4WqAL2TOuty3gZXFwu84Hg",
+      "platform": "YouTube",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/doremiyukiii",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

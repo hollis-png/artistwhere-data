@@ -1,0 +1,37 @@
+{
+  "id": "artist_520b1d5c-94bf-4c8d-bebf-f176aff1d722",
+  "name": "LSS的機械陣地",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/lssthymo",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/LSSTHYMO/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4407766",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/LSSTHYMO",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

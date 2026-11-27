@@ -1,0 +1,28 @@
+{
+  "id": "artist_f72236d7-aae7-4040-baa3-a6c3944066d7",
+  "name": "鈴鹿鹿的生徒会",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/SuzukaWu",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100000289753050",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/27840404",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

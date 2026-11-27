@@ -1,0 +1,25 @@
+{
+  "id": "artist_a05cb744-975a-4ffc-ad54-9298cdfc3044",
+  "name": "Glassturz",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/cang.shang",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/KuraShng",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

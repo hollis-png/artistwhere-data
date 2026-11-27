@@ -1,0 +1,27 @@
+{
+  "id": "artist_1f1cf10c-38c8-4df5-9d96-876b424272bc",
+  "name": "Peco_art",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/peco__art/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/27371915",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/pecoart1203",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

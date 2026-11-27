@@ -1,0 +1,15 @@
+{
+  "id": "artist_79e17bfa-cd1e-4ae0-8be2-a3158be0d3d5",
+  "name": "洗筆洗到咖啡杯",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.brushincfmug.com/",
+      "platform": "Link",
+      "status": "alive"
+    }
+  ]
+}

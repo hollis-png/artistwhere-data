@@ -1,0 +1,44 @@
+{
+  "id": "artist_4f5ad085-4c42-4280-95f1-4b1fd881845f",
+  "name": "臺師大VLSI虛擬偶像研究社",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://facebook.com/ntnuvlsi",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "http://instagram.com/vlsi_ntnu/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://l.instagram.com/?u=https%3A%2F%2Fdiscord.com%2Finvite%2FcP4m5bejn4%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAadC3z43bomx57-SZJMJ8Z4S5JxWHVIYYz_vsIKMC8addpxdsVhznX8hKUybCw_aem_IFeJSJXWs50CtOTWqXgoSg&e=AT2B2p7BhgO-Pqd_6Ej5nPXd52sPE4jQWgGCai3QdF_ypvw2XZFqrypAB7fsafDKKxjE3z7hYcrEWBjjNWhqpIz1qqcp-vSW_UubJS0",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.threads.com/@vlsi_ntnu",
+      "platform": "Threads",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ntnuvlsi",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://youtube.com/@ntnuvlsi",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "artist_58ed2cf7-c248-4d7c-8a16-9b56a88cb5dd",
+  "name": "新橋本屋",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/oshinof",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/shinbashihonya/",
+      "platform": "Facebook",
+      "status": "alive"
+    }
+  ]
+}

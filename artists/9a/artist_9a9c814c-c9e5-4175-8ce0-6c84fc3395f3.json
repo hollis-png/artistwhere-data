@@ -1,0 +1,28 @@
+{
+  "id": "artist_9a9c814c-c9e5-4175-8ce0-6c84fc3395f3",
+  "name": "木子的百合花園",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/MuziYuri/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/muziyuri",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/MuziYuri",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

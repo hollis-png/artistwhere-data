@@ -1,0 +1,30 @@
+{
+  "id": "artist_2d6e9f6a-283d-4738-9d29-1103bad2872d",
+  "name": "VSPOT",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/VSPOT.tw/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/vspot",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/vspot_2015",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

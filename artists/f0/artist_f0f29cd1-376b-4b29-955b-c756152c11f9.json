@@ -1,0 +1,32 @@
+{
+  "id": "artist_f0f29cd1-376b-4b29-955b-c756152c11f9",
+  "name": "奶茶Mirukuti",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/mirukuti2333",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/miruku.ti.205342/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/mir.ukuti111",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/mirukuti98",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artist_6755b350-cc82-47e0-bef7-4ee7903c6c59",
+  "name": "光之工具人",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/warrior_of_mogstation/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/warrior_of_mogstation",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

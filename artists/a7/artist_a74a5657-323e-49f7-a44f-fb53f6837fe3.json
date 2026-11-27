@@ -1,0 +1,29 @@
+{
+  "id": "artist_a74a5657-323e-49f7-a44f-fb53f6837fe3",
+  "name": "HOMURA",
+  "types": [
+    "artist",
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://ko-fi.com/homuracoser",
+      "platform": "Ko-fi",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/homura_twcos",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/Homura_TWcos",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

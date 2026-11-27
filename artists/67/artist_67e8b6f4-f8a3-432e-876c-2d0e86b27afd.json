@@ -1,0 +1,38 @@
+{
+  "id": "artist_67e8b6f4-f8a3-432e-876c-2d0e86b27afd",
+  "name": "寄夢",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/APbMmAZRSp",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/dreamboat0704",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.discord.gg/fR668UExpS",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/dreamboat.0704/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/DreamD323460",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

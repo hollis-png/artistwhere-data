@@ -1,0 +1,36 @@
+{
+  "id": "artist_7578ebab-b6b9-43b2-a59e-3ac3e22e9c4e",
+  "name": "紅葉 Momiko",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.com/invite/5Gwmctgs8G",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/momiko_124",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/p/Momiko-%E7%B4%85%E8%91%89-100089735366919/?paipv=0&eav=AfaXdSnDPy_bXKkN9rE5lz-QHbTeKAXqmfy3hB1DBDCFIFpFEdatR1ANpLhLnhIPTZ4&_rdr",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/momiko_124/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

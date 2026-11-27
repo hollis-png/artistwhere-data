@@ -1,0 +1,30 @@
+{
+  "id": "artist_d71c0aac-5f3d-4bdf-8135-36ec41714cd4",
+  "name": "小咩",
+  "types": [
+    "coser"
+  ],
+  "events": [
+    "FF43",
+    "FF44",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/Mei.0107/?ref=NONE_xav_ig_profile_page_web#",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/siumei_0107/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/siumei_0107",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

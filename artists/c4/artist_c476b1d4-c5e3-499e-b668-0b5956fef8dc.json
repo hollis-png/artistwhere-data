@@ -1,0 +1,17 @@
+{
+  "id": "artist_c476b1d4-c5e3-499e-b668-0b5956fef8dc",
+  "name": "Kawas Studio",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://x.com/kawas_studio",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "artist_2d061bcb-d934-4c67-b5f8-78b870ecb4a0",
+  "name": "蝶屋和猫",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61572457507996",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2278791",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/altheavin",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/adanobeni7720",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

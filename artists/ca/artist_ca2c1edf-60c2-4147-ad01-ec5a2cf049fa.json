@@ -1,0 +1,32 @@
+{
+  "id": "artist_ca2c1edf-60c2-4147-ad01-ec5a2cf049fa",
+  "name": "狐交粉心結地",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/KitsuneKamenCh",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100083185249544",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.kamenkitsune.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCJoykhYHR9Eka6n9sizN8pA",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

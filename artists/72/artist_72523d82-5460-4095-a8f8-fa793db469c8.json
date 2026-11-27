@@ -1,0 +1,23 @@
+{
+  "id": "artist_72523d82-5460-4095-a8f8-fa793db469c8",
+  "name": "終焉理想庭",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://lit.link/uutopia",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/ultimateutopia8",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

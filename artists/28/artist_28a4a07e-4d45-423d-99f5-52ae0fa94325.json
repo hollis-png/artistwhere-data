@@ -1,0 +1,32 @@
+{
+  "id": "artist_28a4a07e-4d45-423d-99f5-52ae0fa94325",
+  "name": "與史萊姆共生的惡魔公主",
+  "types": [
+    "vtuber"
+  ],
+  "events": [
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://discord.gg/fBJMByz3vg",
+      "platform": "Discord",
+      "status": "alive"
+    },
+    {
+      "url": "https://lit.link/haruyavtuber",
+      "platform": "Lit.link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@",
+      "platform": "YouTube",
+      "status": "dead"
+    },
+    {
+      "url": "https://x.com/Haruya_5320",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

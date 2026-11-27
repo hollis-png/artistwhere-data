@@ -1,0 +1,45 @@
+{
+  "id": "artist_4d5b5c31-d881-4eb7-b917-682f845b555e",
+  "name": "Torinosu",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://t.me/torinosu",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://torinosu.weebly.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/TRNS2015/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/7262570",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/jakelian",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/kazanefuune",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "artist_77bf0fbb-ed61-4f5c-88ea-89bc6ca27857",
+  "name": "GC Artwork",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/gc_art",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/GeoLim0106/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/gc_conceptart/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/gc_conceptart",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "artist_fdd14426-af7f-4f82-ac2e-aa6fc833dae7",
+  "name": "明燐",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF45",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/homeindex.php?owner=aasdff15882",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/symbol_world",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/WorldOfSymbol/",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "帕雷斯卡的象徵世界"
+    },
+    {
+      "url": "https://www.instagram.com/worldofsymbol",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/11489203",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

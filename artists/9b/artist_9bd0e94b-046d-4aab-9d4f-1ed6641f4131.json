@@ -1,0 +1,48 @@
+{
+  "id": "artist_9bd0e94b-046d-4aab-9d4f-1ed6641f4131",
+  "name": "浩浩的腳腳養身會館",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://home.gamer.com.tw/profile/index.php?&owner=funina224",
+      "platform": "巴哈姆特",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/funina224",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.fanbox.cc/@funina224",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.patreon.com/funina224",
+      "platform": "Patreon",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/4873514",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/funina224",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/funina224",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "artist_34c7f5cb-236c-4b91-a152-656aaba29e8d",
+  "name": "晚安丁豆子",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "http://ding--do.blogspot.com/",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://bsky.app/profile/dingdo.bsky.social",
+      "platform": "Bluesky",
+      "status": "alive"
+    },
+    {
+      "url": "https://dingdoo.tumblr.com/",
+      "platform": "Tumblr",
+      "status": "alive"
+    },
+    {
+      "url": "https://potofu.me/dingdo",
+      "platform": "Potofu",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/dingdo8059",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.buymeacoffee.com/dingdo",
+      "platform": "Buy Me a Coffee",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/dingdo0/",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2084615",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/ding8059",
+      "platform": "Plurk",
+      "status": "alive"
+    }
+  ]
+}

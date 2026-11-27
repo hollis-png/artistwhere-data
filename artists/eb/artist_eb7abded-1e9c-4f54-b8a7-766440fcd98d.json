@@ -1,0 +1,27 @@
+{
+  "id": "artist_eb7abded-1e9c-4f54-b8a7-766440fcd98d",
+  "name": "鮮蝦三貫",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/1515kmbk",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100049394267414",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/kmbk_080919/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "artist_f1727ca6-410e-4f84-a44e-4fec8ad4c2b0",
+  "name": "赤兔芽",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF43",
+    "FF47",
+    "FFK19"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/alma.lan.37",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/_rabbit_0723/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artist_c6203b55-9d82-4fdd-a720-7cfc54758f29",
+  "name": "珏兒｜冒出來的耳朵",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/yan.ci.jue/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/jue_no_mess/media",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "artist_c0e8a8ac-473f-4e4e-93d4-9557ccb63204",
+  "name": "【ZENTENG】",
+  "types": [],
+  "events": [
+    "FF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://linktr.ee/zaneteng?ltsid=8db9c5e4-fb3e-4726-92c5-c9eaa4f4512f",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://twitter.com/Zaneteng",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://vocus.cc/salon/65b4bd51fd89780001e017c8",
+      "platform": "Link",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/zaneteng/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/tailorzen",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/maryjklten",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/@tengzane3174/featured",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

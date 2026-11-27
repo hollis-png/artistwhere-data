@@ -1,0 +1,30 @@
+{
+  "id": "artist_41b4027d-03de-435d-a9a8-c76cc483f29d",
+  "name": "沒川狼雨",
+  "types": [],
+  "events": [
+    "PF45"
+  ],
+  "accounts": [
+    {
+      "url": "https://instagram.com/wolfs_king_quail",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://linktr.ee/River_Howler",
+      "platform": "Linktree",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/riverhowler/?locale=zh_TW",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/river_howler",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

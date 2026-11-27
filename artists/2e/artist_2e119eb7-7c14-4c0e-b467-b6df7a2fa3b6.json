@@ -1,0 +1,25 @@
+{
+  "id": "artist_2e119eb7-7c14-4c0e-b467-b6df7a2fa3b6",
+  "name": "A-One",
+  "types": [
+    "other"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/a_one_jp",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCrIrRpXL1F7B03ozb_VECiQ",
+      "platform": "YouTube",
+      "status": "alive"
+    }
+  ]
+}

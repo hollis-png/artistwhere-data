@@ -1,0 +1,17 @@
+{
+  "id": "artist_b5fe93d3-6216-43b8-9045-f5433d3ec481",
+  "name": "柚柊工坊",
+  "types": [
+    "craft"
+  ],
+  "events": [
+    "FF43"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/hiiragiyuzukoubou/",
+      "platform": "Instagram",
+      "status": "alive"
+    }
+  ]
+}

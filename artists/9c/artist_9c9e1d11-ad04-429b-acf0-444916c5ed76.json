@@ -1,0 +1,31 @@
+{
+  "id": "artist_9c9e1d11-ad04-429b-acf0-444916c5ed76",
+  "name": "蛞蝓.菠菜丼",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47",
+    "蔚藍檔案Only 6"
+  ],
+  "accounts": [
+    {
+      "url": "https://twitter.com/henny60225",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.facebook.com/SLUGTT666/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/14155307",
+      "platform": "Pixiv",
+      "status": "alive"
+    }
+  ]
+}

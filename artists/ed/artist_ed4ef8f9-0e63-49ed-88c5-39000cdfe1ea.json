@@ -1,0 +1,25 @@
+{
+  "id": "artist_ed4ef8f9-0e63-49ed-88c5-39000cdfe1ea",
+  "name": "ButterSpoon",
+  "types": [],
+  "events": [
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/butterspoonn",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.instagram.com/butterspoonn",
+      "platform": "Instagram",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/butterspoonn",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

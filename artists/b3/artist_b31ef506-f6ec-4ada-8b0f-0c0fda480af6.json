@@ -1,0 +1,30 @@
+{
+  "id": "artist_b31ef506-f6ec-4ada-8b0f-0c0fda480af6",
+  "name": "T.K.C",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF45",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/TKCArtwork/",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/2302941",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/colin_5683",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

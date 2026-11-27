@@ -1,0 +1,39 @@
+{
+  "id": "artist_efb47fcb-188f-4dc6-af3f-4bebb4ab8b76",
+  "name": "雌火竜非彼火竜",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46",
+    "FF47"
+  ],
+  "accounts": [
+    {
+      "url": "https://www.facebook.com/profile.php?id=61554449012714",
+      "platform": "Facebook",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.pixiv.net/users/10718509",
+      "platform": "Pixiv",
+      "status": "alive"
+    },
+    {
+      "url": "https://www.plurk.com/maf44",
+      "platform": "Plurk",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/meichime_1223",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/rioreia_1211",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}

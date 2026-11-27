@@ -1,0 +1,23 @@
+{
+  "id": "artist_f347e062-b082-4a9a-bf8d-e66f46b35de3",
+  "name": "JH科学",
+  "types": [
+    "artist"
+  ],
+  "events": [
+    "FF44",
+    "FF46"
+  ],
+  "accounts": [
+    {
+      "url": "https://johnhathway.fanbox.cc/",
+      "platform": "Fanbox",
+      "status": "alive"
+    },
+    {
+      "url": "https://x.com/JohnHathway",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}
