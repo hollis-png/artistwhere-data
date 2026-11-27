@@ -1,0 +1,38 @@
+{
+  "id": "artist_3086f8e5-eed2-4101-8613-c76cbe44b990",
+  "name": "WM Tea",
+  "types": [
+    "artist"
+  ],
+  "events": [],
+  "accounts": [
+    {
+      "url": "https://discord.gg/vnrbRrMgH",
+      "platform": "Discord",
+      "status": "alive",
+      "displayName": "加入 瓜茶ice社 Discord 伺服器！"
+    },
+    {
+      "url": "https://facebook.com/Winter%20Melontea",
+      "platform": "Facebook",
+      "status": "dead"
+    },
+    {
+      "url": "https://pixiv.net/users/15485840",
+      "platform": "Pixiv",
+      "status": "alive",
+      "displayName": "冬瓜冰茶"
+    },
+    {
+      "url": "https://www.facebook.com/wm.tea.2025",
+      "platform": "Facebook",
+      "status": "alive",
+      "displayName": "WM Tea"
+    },
+    {
+      "url": "https://x.com/WMiceTea00",
+      "platform": "Twitter (X)",
+      "status": "alive"
+    }
+  ]
+}
